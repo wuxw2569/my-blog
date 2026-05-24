@@ -34,6 +34,9 @@ jobs:
         run: pnpm install
 
       # ✅ 构建 VitePress
+      - name: Update AI daily report
+        run: python fetch_daily_report.py
+
       - name: Build VitePress site
         run: pnpm run build
 

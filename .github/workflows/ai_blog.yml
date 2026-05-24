@@ -31,7 +31,10 @@ jobs:
       - name: Generate Blog + XHS
         env:
           ZHIPUAI_API_KEY: ${{ secrets.ZHIPUAI_API_KEY }}
-        run: python ai_generate_blog.py
+        run: |
+          python ai_generate_blog.py
+          python fetch_daily_report.py
+          python generate_rss.py
 
       - name: Commit & Push
         run: |

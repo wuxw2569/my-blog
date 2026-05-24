@@ -4,7 +4,8 @@ import { version } from '../../package.json'
 
 export default defineConfig({
   base: '/ai-blog/',
-  description: '内置博客功能。基于VitePress和UnoCSS构建的AI博客。',
+  description: '记录10年Java工程经验、AI实践与每日技术资讯的个人博客。',
+  ignoreDeadLinks: true,
   markdown: {
     headers: {
       level: [0, 0],
@@ -12,8 +13,8 @@ export default defineConfig({
   },
   themeConfig: {
     footer: {
-      message: 'AI Blog',
-      copyright: 'Copyright © 2025 SFXCode',
+      message: '10年Java工程实践 · AI Blog',
+      copyright: 'Copyright © 2026 AI Blog',
     },
     search: {
       provider: 'local',
@@ -32,11 +33,11 @@ export default defineConfig({
     },
     blog: {
       title: 'AI Blog',
-      description: 'Some articles for sample Blog',
+      description: 'Java架构、网络、数据与工具实践笔记',
     },
 
   },
-  title: 'AI Blog',
+  title: 'Java AI Blog',
   vite: {
     plugins: [
       Unocss({
@@ -50,7 +51,8 @@ function nav() {
   return [
     { text: '指南', link: '/guide/', activeMatch: '/guide/' },
     { text: '配置', link: '/config/', activeMatch: '/config/' },
-    { text: '博客' , link: '/blog/', activeMatch: '/blog/' },
+    { text: '博客', link: '/blog/', activeMatch: '/blog/' },
+    { text: 'AI 日报', link: '/daily', activeMatch: '/daily' },
     {
       text: '外部文档',
       items: [

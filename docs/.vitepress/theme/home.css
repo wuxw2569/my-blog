@@ -1,0 +1,485 @@
+:root {
+  --home-ink: #111315;
+  --home-muted: #5e646b;
+  --home-line: rgba(17, 19, 21, 0.1);
+  --home-panel: rgba(255, 255, 255, 0.78);
+  --home-accent: #0a7d70;
+  --home-accent-soft: #dff7f2;
+}
+
+.VPHome {
+  padding-bottom: 0 !important;
+}
+
+.apple-home {
+  color: var(--home-ink);
+  margin: 0 auto;
+  max-width: 1180px;
+  padding: 88px 24px 96px;
+}
+
+.apple-hero {
+  margin: 0 auto;
+  max-width: 940px;
+  text-align: center;
+}
+
+.apple-kicker,
+.apple-section-heading p,
+.stack-card span,
+.panel-label {
+  color: var(--home-accent);
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.apple-hero h1 {
+  font-size: clamp(44px, 7vw, 82px);
+  font-weight: 750;
+  letter-spacing: 0;
+  line-height: 1.06;
+  margin: 18px 0 0;
+}
+
+.apple-hero h1 span {
+  display: block;
+}
+
+.apple-lead {
+  color: var(--home-muted);
+  font-size: clamp(19px, 2.4vw, 28px);
+  line-height: 1.45;
+  margin: 28px auto 0;
+  max-width: 780px;
+}
+
+.apple-actions {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  justify-content: center;
+  margin-top: 36px;
+}
+
+.apple-button {
+  align-items: center;
+  border: 1px solid var(--home-line);
+  border-radius: 999px;
+  color: var(--home-ink) !important;
+  display: inline-flex;
+  font-size: 16px;
+  font-weight: 650;
+  height: 46px;
+  justify-content: center;
+  padding: 0 24px;
+  text-decoration: none !important;
+  transition: border-color 0.2s ease, transform 0.2s ease, background 0.2s ease;
+}
+
+.apple-button:hover {
+  border-color: rgba(10, 125, 112, 0.4);
+  transform: translateY(-1px);
+}
+
+.apple-button-primary {
+  background: var(--home-accent);
+  border-color: var(--home-accent);
+  color: #fff !important;
+}
+
+.apple-showcase {
+  display: grid;
+  gap: 16px;
+  grid-template-columns: 1.55fr 0.72fr 0.72fr;
+  margin-top: 72px;
+}
+
+.showcase-panel {
+  background: var(--home-panel);
+  border: 1px solid var(--home-line);
+  border-radius: 28px;
+  box-shadow: 0 22px 70px rgba(17, 19, 21, 0.08);
+  min-height: 190px;
+  overflow: hidden;
+  padding: 28px;
+  position: relative;
+}
+
+.showcase-panel::after {
+  background:
+    radial-gradient(circle at 78% 22%, rgba(10, 125, 112, 0.14), transparent 30%),
+    linear-gradient(135deg, rgba(10, 125, 112, 0.13), rgba(17, 19, 21, 0.04));
+  bottom: 0;
+  content: "";
+  height: 100%;
+  left: 0;
+  opacity: 0.92;
+  position: absolute;
+  right: 0;
+}
+
+.panel-main {
+  min-height: 310px;
+}
+
+.panel-main strong {
+  display: block;
+  font-size: clamp(34px, 4.2vw, 54px);
+  letter-spacing: 0;
+  line-height: 1.05;
+  margin-top: 48px;
+  max-width: 620px;
+  position: relative;
+  z-index: 1;
+}
+
+.showcase-panel p {
+  color: var(--home-muted);
+  font-size: 17px;
+  line-height: 1.55;
+  margin: 14px 0 0;
+  position: relative;
+  z-index: 1;
+}
+
+.panel-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 34px;
+  position: relative;
+  z-index: 1;
+}
+
+.panel-tags span {
+  background: rgba(255, 255, 255, 0.72);
+  border: 1px solid rgba(17, 19, 21, 0.08);
+  border-radius: 999px;
+  color: var(--home-ink);
+  font-size: 13px;
+  font-weight: 650;
+  padding: 8px 12px;
+}
+
+.panel-metric,
+.panel-feed {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+}
+
+.panel-metric small,
+.panel-feed small {
+  color: var(--home-accent);
+  font-size: 12px;
+  font-weight: 750;
+  letter-spacing: 0;
+  position: relative;
+  text-transform: uppercase;
+  z-index: 1;
+}
+
+.panel-metric strong,
+.panel-feed strong {
+  align-self: center;
+  font-size: clamp(42px, 5vw, 62px);
+  font-weight: 760;
+  letter-spacing: 0;
+  line-height: 1;
+  position: relative;
+  z-index: 1;
+}
+
+.apple-section-heading {
+  margin: 94px 0 28px;
+  text-align: center;
+}
+
+.apple-section-heading h2,
+.apple-rhythm h2 {
+  font-size: clamp(34px, 5vw, 58px);
+  letter-spacing: 0;
+  line-height: 1.08;
+  margin: 8px 0 0;
+}
+
+.apple-stack-grid {
+  display: grid;
+  gap: 16px;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.stack-card {
+  background: #f5f7f8;
+  border: 1px solid rgba(17, 19, 21, 0.06);
+  border-radius: 28px;
+  color: var(--home-ink) !important;
+  min-height: 260px;
+  padding: 28px;
+  text-decoration: none !important;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.stack-card:hover {
+  border-color: rgba(10, 125, 112, 0.26);
+  box-shadow: 0 24px 70px rgba(17, 19, 21, 0.08);
+  transform: translateY(-3px);
+}
+
+.stack-card-large {
+  background: #eef8f5;
+  grid-column: span 2;
+}
+
+.stack-card-dark {
+  background: #eef8f5;
+  color: var(--home-ink) !important;
+  grid-column: span 2;
+}
+
+.stack-card-dark p {
+  color: var(--home-muted);
+}
+
+.stack-card h3 {
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 1.12;
+  margin: 22px 0 0;
+}
+
+.stack-card p {
+  color: var(--home-muted);
+  font-size: 16px;
+  line-height: 1.65;
+  margin: 16px 0 0;
+}
+
+.stack-card b {
+  display: block;
+  font-size: 15px;
+  margin-top: 34px;
+}
+
+.product-heading {
+  margin-top: 96px;
+}
+
+.product-grid {
+  display: grid;
+  gap: 16px;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.product-card {
+  background: #fff;
+  border: 1px solid var(--home-line);
+  border-radius: 28px;
+  color: var(--home-ink) !important;
+  min-height: 230px;
+  padding: 26px;
+  position: relative;
+  text-decoration: none !important;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.product-card::after {
+  background: linear-gradient(135deg, rgba(10, 125, 112, 0.12), rgba(255, 255, 255, 0));
+  border-radius: inherit;
+  bottom: 0;
+  content: "";
+  height: 54%;
+  left: 0;
+  pointer-events: none;
+  position: absolute;
+  right: 0;
+}
+
+.product-card:hover {
+  border-color: rgba(10, 125, 112, 0.28);
+  box-shadow: 0 24px 70px rgba(17, 19, 21, 0.08);
+  transform: translateY(-3px);
+}
+
+.product-card-featured {
+  background: #effaf7;
+  grid-column: span 2;
+  grid-row: span 2;
+  min-height: 476px;
+}
+
+.product-card span {
+  color: var(--home-accent);
+  display: block;
+  font-size: 13px;
+  font-weight: 750;
+  letter-spacing: 0;
+  position: relative;
+  text-transform: uppercase;
+  z-index: 1;
+}
+
+.product-card h3 {
+  font-size: 28px;
+  letter-spacing: 0;
+  line-height: 1.16;
+  margin: 22px 0 0;
+  max-width: 360px;
+  position: relative;
+  z-index: 1;
+}
+
+.product-card-featured h3 {
+  font-size: clamp(36px, 4vw, 56px);
+  line-height: 1.08;
+  margin-top: 92px;
+}
+
+.product-card p {
+  color: var(--home-muted);
+  font-size: 16px;
+  line-height: 1.62;
+  margin: 16px 0 0;
+  max-width: 420px;
+  position: relative;
+  z-index: 1;
+}
+
+.apple-rhythm {
+  align-items: start;
+  border-top: 1px solid var(--home-line);
+  display: grid;
+  gap: 48px;
+  grid-template-columns: 0.95fr 1.05fr;
+  margin-top: 96px;
+  padding-top: 56px;
+}
+
+.flow-list {
+  display: grid;
+  gap: 12px;
+}
+
+.flow-list div {
+  align-items: start;
+  background: #fff;
+  border: 1px solid var(--home-line);
+  border-radius: 22px;
+  display: grid;
+  gap: 18px;
+  grid-template-columns: 44px 1fr;
+  padding: 20px;
+}
+
+.flow-list span {
+  align-items: center;
+  background: var(--home-accent-soft);
+  border-radius: 999px;
+  color: var(--home-accent);
+  display: inline-flex;
+  font-size: 13px;
+  font-weight: 750;
+  height: 36px;
+  justify-content: center;
+  width: 36px;
+}
+
+.flow-list p {
+  color: var(--home-muted);
+  font-size: 16px;
+  line-height: 1.6;
+  margin: 4px 0 0;
+}
+
+@media (max-width: 900px) {
+  .apple-home {
+    padding-top: 56px;
+  }
+
+  .apple-showcase,
+  .apple-rhythm {
+    grid-template-columns: 1fr;
+  }
+
+  .apple-stack-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .product-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .stack-card-large,
+  .stack-card-dark,
+  .product-card-featured {
+    grid-column: span 2;
+  }
+
+  .product-card-featured {
+    grid-row: span 1;
+    min-height: 320px;
+  }
+}
+
+@media (max-width: 640px) {
+  .apple-home {
+    padding: 42px 18px 72px;
+  }
+
+  .apple-hero {
+    text-align: left;
+  }
+
+  .apple-actions {
+    justify-content: flex-start;
+  }
+
+  .apple-button {
+    width: 100%;
+  }
+
+  .apple-showcase {
+    margin-top: 44px;
+  }
+
+  .showcase-panel,
+  .stack-card {
+    border-radius: 22px;
+    min-height: auto;
+    padding: 22px;
+  }
+
+  .panel-main strong {
+    margin-top: 42px;
+  }
+
+  .apple-section-heading {
+    margin-top: 64px;
+    text-align: left;
+  }
+
+  .apple-stack-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .product-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .stack-card-large,
+  .stack-card-dark,
+  .product-card-featured {
+    grid-column: span 1;
+  }
+
+  .product-card,
+  .product-card-featured {
+    min-height: auto;
+  }
+
+  .product-card-featured h3 {
+    margin-top: 54px;
+  }
+}
