@@ -122,7 +122,7 @@ layout: home
   <div class="apple-rhythm">
     <div>
       <p class="apple-kicker">Publishing Flow</p>
-      <h2>博客自动生成，也要保持工程质量。</h2>
+      <h2>名不显时心不朽，在挑灯火看文章</h2>
     </div>
     <div class="flow-list">
       <div>
