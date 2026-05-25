@@ -8,7 +8,7 @@ from xml.etree import ElementTree
 from urllib.error import HTTPError, URLError
 
 
-FEED_URL = "https://aihot.virxact.com/feed/daily.xml"
+FEED_URL = "https://aihot.virxact.com/feed"
 OUTPUT_FILE = Path("docs/daily.md")
 
 
@@ -39,6 +39,7 @@ def parse_feed(xml_text, limit=12):
 
 
 def fetch_feed(url=FEED_URL, timeout=20):
+    """获取 RSS feed 内容，304 表示内容未变返回 None"""
     request = urllib.request.Request(
         url,
         headers={
@@ -48,8 +49,13 @@ def fetch_feed(url=FEED_URL, timeout=20):
             "User-Agent": "ai-blog-daily-report/1.0",
         },
     )
-    with urllib.request.urlopen(request, timeout=timeout) as response:
-        return response.read().decode("utf-8")
+    try:
+        with urllib.request.urlopen(request, timeout=timeout) as response:
+            return response.read().decode("utf-8")
+    except HTTPError as exc:
+        if exc.code == 304:
+            return None
+        raise
 
 
 def render_markdown(items, source_url=FEED_URL, error=None):
@@ -97,15 +103,19 @@ def render_markdown(items, source_url=FEED_URL, error=None):
 
 
 def build_daily_report(url=FEED_URL, output_file=OUTPUT_FILE, limit=12):
+    output_file = Path(output_file)
     error = None
     try:
         xml_text = fetch_feed(url)
+        if xml_text is None:
+            # 304 Not Modified，内容未变，保留现有文件
+            print(f"Feed not modified (304), keeping existing report: {output_file}")
+            return
         items = parse_feed(xml_text, limit=limit)
     except (HTTPError, URLError, TimeoutError, ElementTree.ParseError) as exc:
         items = []
         error = exc
 
-    output_file = Path(output_file)
     output_file.parent.mkdir(parents=True, exist_ok=True)
     output_file.write_text(render_markdown(items, url, error), encoding="utf-8")
     print(f"Daily report generated: {output_file}")
