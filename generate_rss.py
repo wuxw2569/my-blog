@@ -5,7 +5,7 @@ from glob import glob
 
 BLOG_DIR = "docs/blog/posts"
 RSS_FILE = f"docs/blog/feed.xml"
-SITE_URL = "https://wuxw2569.github.io/ai-blog"  # 改成你博客实际地址
+SITE_URL = "https://wuxw2569.github.io/my-blog"  # 改成你博客实际地址
 
 def extract_meta(md_path):
     """从 markdown 文件头部提取 title, date, summary"""
