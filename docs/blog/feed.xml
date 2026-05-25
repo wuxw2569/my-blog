@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <rss version="2.0">
+    <channel>
+        <title>AI Blog 自动博客</title>
+        <link>https://wuxw2569.github.io/my-blog</link>
+        <description>由 AI 自动生成的技术博客 + 小红书笔记</description>
+        <language>zh-cn</language>
+        <lastBuildDate>Mon, 25 May 2026 07:14:05 +0800</lastBuildDate>
+        
+        <item>
+            <title>5 Powerful Marketing Activities</title>
+            <link>https://wuxw2569.github.io/my-blog/post4.html</link>
+            <description><![CDATA[title: 5 Powerful Marketing Activitiesauthor: Louis Lanedate: 20160517category: TutorialHello<PostDe]]></description>
+            <pubDate>2016-05-17</pubDate>
+        </item>
+        
+        <item>
+            <title>Those HTML attributes you never use</title>
+            <link>https://wuxw2569.github.io/my-blog/post3.html</link>
+            <description><![CDATA[date: 20191007title: Those HTML attributes you never usecategory: DocumentStatic websites are now us]]></description>
+            <pubDate>2019-10-07</pubDate>
+        </item>
+        
+        <item>
+            <title>How to quickly deploy a static website</title>
+            <link>https://wuxw2569.github.io/my-blog/post2.html</link>
+            <description><![CDATA[title: How to quickly deploy a static websiteauthor: Peter Parkerdate: 20250515Static websites are n]]></description>
+            <pubDate>2025-05-15</pubDate>
+        </item>
+        
+        <item>
+            <title>Basic Markdown Formatting</title>
+            <link>https://wuxw2569.github.io/my-blog/post1.html</link>
+            <description><![CDATA[date: 20170227title: Basic Markdown Formattingcategory: Tutorialtags: vueThe Ultimate Guide to Markd]]></description>
+            <pubDate>2017-02-27</pubDate>
+        </item>
+        
+        <item>
+            <title>配置中心选型与Nacos实战</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-配置中心选型与Nacos实战.html</link>
+            <description><![CDATA[Apollo与Nacos配置中心的选型对比，配置热更新原理，多环境管理与灰度配置实战]]></description>
+            <pubDate>2018-01-02</pubDate>
+        </item>
+        
+        <item>
+            <title>跨域问题的完整解决方案</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-跨域问题的完整解决方案.html</link>
+            <description><![CDATA[从CORS原理讲起，覆盖Spring Boot配置、Nginx代理跨域、预检请求优化的完整实战方案]]></description>
+            <pubDate>2018-04-16</pubDate>
+        </item>
+        
+        <item>
+            <title>读写分离与主从延迟处理</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-读写分离与主从延迟处理.html</link>
+            <description><![CDATA[从MyCat到ShardingSphere的读写分离实践，重点分享主从延迟的业务层处理策略和强制走主库的方案设计。]]></description>
+            <pubDate>2021-07-08</pubDate>
+        </item>
+        
+        <item>
+            <title>线上网络问题排查工具箱</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-线上网络问题排查工具箱.html</link>
+            <description><![CDATA[汇总curl/tcpdump/wireshark/arthas等网络排查工具的实战用法，附带三个真实排查案例]]></description>
+            <pubDate>2022-03-26</pubDate>
+        </item>
+        
+        <item>
+            <title>线上数据库性能问题排查</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-线上数据库性能问题排查.html</link>
+            <description><![CDATA[从慢查询分析到锁等待排查，从CPU/IO瓶颈定位到pt-query-digest工具使用，总结中小厂DBA不在时后端开发自救的数据库排查方法论。]]></description>
+            <pubDate>2024-09-16</pubDate>
+        </item>
+        
+        <item>
+            <title>系统可观测性三板斧日志指标链路</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-系统可观测性三板斧日志指标链路.html</link>
+            <description><![CDATA[ELK日志体系、Prometheus+Grafana指标监控、链路追踪的统一接入方案，中小厂可观测性从0到1]]></description>
+            <pubDate>2025-05-08</pubDate>
+        </item>
+        
+        <item>
+            <title>用AI生成并部署个人网站</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-用AI生成并部署个人网站.html</link>
+            <description><![CDATA[本文将探讨如何利用AI技术生成个人网站，并从架构、网络、数据、工具等多个层面详细讲解实现步骤和代码示例。]]></description>
+            <pubDate>2023-04-01</pubDate>
+        </item>
+        
+        <item>
+            <title>消息队列选型与可靠性投递</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-消息队列选型与可靠性投递.html</link>
+            <description><![CDATA[中小厂消息队列选型实战：RabbitMQ、RocketMQ、Kafka的真实使用对比，以及消息丢失、重复、顺序问题的解决方案。]]></description>
+            <pubDate>2024-05-25</pubDate>
+        </item>
+        
+        <item>
+            <title>服务注册发现与健康检查机制</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-服务注册发现与健康检查机制.html</link>
+            <description><![CDATA[Nacos/Eureka注册原理深度解析，健康检查配置细节，实例下线的优雅处理方案]]></description>
+            <pubDate>2023-12-17</pubDate>
+        </item>
+        
+        <item>
+            <title>日志规范与ELK日志平台搭建</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-日志规范与ELK日志平台搭建.html</link>
+            <description><![CDATA[从日志级别规范到ELK Stack部署，分享MDC链路追踪、Filebeat采集配置和Kibana查询技巧的实战经验。]]></description>
+            <pubDate>2019-07-21</pubDate>
+        </item>
+        
+        <item>
+            <title>文件上传下载的网络层优化</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-文件上传下载的网络层优化.html</link>
+            <description><![CDATA[从生产环境大文件传输难题出发，详解分片上传、断点续传、CDN加速和流式下载的实现方案]]></description>
+            <pubDate>2025-11-08</pubDate>
+        </item>
+        
+        <item>
+            <title>数据脱敏与敏感信息存储</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-数据脱敏与敏感信息存储.html</link>
+            <description><![CDATA[手机号/身份证/银行卡的脱敏策略、AES加密存储方案、MyBatis拦截器自动脱敏的完整实现，以及中小厂在数据安全合规中的实战经验。]]></description>
+            <pubDate>2020-03-21</pubDate>
+        </item>
+        
+        <item>
+            <title>数据库连接池HikariCP调优</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-数据库连接池HikariCP调优.html</link>
+            <description><![CDATA[从HikariCP参数详解到连接泄漏排查，分享中小厂在数据库连接池调优中的实战经验，包括与Druid的对比选型。]]></description>
+            <pubDate>2017-05-08</pubDate>
+        </item>
+        
+        <item>
+            <title>接口超时重试与幂等设计</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-接口超时重试与幂等设计.html</link>
+            <description><![CDATA[从一次重试风暴事故出发，详解超时时间选择、指数退避策略、幂等键设计和重试风暴防范]]></description>
+            <pubDate>2024-08-15</pubDate>
+        </item>
+        
+        <item>
+            <title>开源 vs 闭源 AI 模型，开发者怎么选？</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-开源vs闭源AI模型开发者怎么选.html</link>
+            <description><![CDATA[对比开源和闭源 AI 模型的优劣，帮开发者根据实际需求做出技术选型决策]]></description>
+            <pubDate>2025-08-08</pubDate>
+        </item>
+        
+        <item>
+            <title>大语言模型（LLM）基础知识扫盲</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-大语言模型LLM基础知识扫盲.html</link>
+            <description><![CDATA[用通俗语言解释什么是LLM、Token、上下文窗口、Temperature等核心概念，帮你建立对大语言模型的基本认知]]></description>
+            <pubDate>2025-12-15</pubDate>
+        </item>
+        
+        <item>
+            <title>多环境部署与灰度发布策略</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-多环境部署与灰度发布策略.html</link>
+            <description><![CDATA[中小厂多环境配置隔离、蓝绿部署、金丝雀发布和Feature Flag的简化实现方案]]></description>
+            <pubDate>2022-02-15</pubDate>
+        </item>
+        
+        <item>
+            <title>多模态AI能力：图、文、音、视频的理解与生成</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-多模态AI能力图文音视频理解与生成.html</link>
+            <description><![CDATA[梳理当前多模态 AI 在图像、文本、语音、视频各模态的能力现状和应用场景]]></description>
+            <pubDate>2026-07-11</pubDate>
+        </item>
+        
+        <item>
+            <title>分库分表从方案设计到落地</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-分库分表从方案设计到落地.html</link>
+            <description><![CDATA[从单表3000万到分库分表的完整落地过程，包括ShardingSphere选型、分片键选择、数据迁移和跨库查询的解决方案。]]></description>
+            <pubDate>2020-07-08</pubDate>
+        </item>
+        
+        <item>
+            <title>分布式链路追踪从0到1</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-分布式链路追踪从0到1.html</link>
+            <description><![CDATA[从零搭建分布式链路追踪体系，涵盖SkyWalking/Zipkin/Jaeger选型、TraceId传递和生产环境实战经验]]></description>
+            <pubDate>2019-02-15</pubDate>
+        </item>
+        
+        <item>
+            <title>分布式事务在中小厂的落地方案</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-分布式事务在中小厂的落地方案.html</link>
+            <description><![CDATA[从Seata AT/TCC模式到事务消息，分享中小厂在分布式事务场景中的真实选型考量和落地取舍。]]></description>
+            <pubDate>2018-10-28</pubDate>
+        </item>
+        
+        <item>
+            <title>企业AI编程规范与团队落地策略：从试点到全面推广</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-企业AI编程规范与团队落地策略.html</link>
+            <description><![CDATA[企业引入AI编程工具的规范制定、代码归属与知识产权、团队培训方案]]></description>
+            <pubDate>2024-11-14</pubDate>
+        </item>
+        
+        <item>
+            <title>主流AI模型特长对比与选型指南</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-主流AI模型特长对比选型指南.html</link>
+            <description><![CDATA[从开发者视角对比 GPT-4o、Claude、Gemini、通义千问、DeepSeek 等主流模型的各自特长，帮你选到最适合的模型]]></description>
+            <pubDate>2024-08-08</pubDate>
+        </item>
+        
+        <item>
+            <title>中小厂微服务拆分的真实经验</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-中小厂微服务拆分的真实经验.html</link>
+            <description><![CDATA[什么时候该拆什么时候不该拆，中小厂微服务拆分过程中的真实踩坑与决策逻辑]]></description>
+            <pubDate>2021-12-17</pubDate>
+        </item>
+        
+        <item>
+            <title>WebSocket在实时通信中的应用</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-WebSocket在实时通信中的应用.html</link>
+            <description><![CDATA[从订单状态推送场景出发，详解Spring WebSocket/STOMP实战、心跳机制、断线重连和集群消息广播]]></description>
+            <pubDate>2023-08-20</pubDate>
+        </item>
+        
+        <item>
+            <title>TCP长连接与短连接的选择</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-TCP长连接与短连接的选择.html</link>
+            <description><![CDATA[结合真实项目经验，讲清楚TCP长连接和短连接的选型依据、Keep-Alive配置和连接复用的坑]]></description>
+            <pubDate>2022-10-11</pubDate>
+        </item>
+        
+        <item>
+            <title>Swagger与接口文档自动化</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-Swagger与接口文档自动化.html</link>
+            <description><![CDATA[从SpringDoc/Swagger3配置到Knife4j增强，分享接口文档自动化、与代码同步、Mock数据的落地经验。]]></description>
+            <pubDate>2023-07-27</pubDate>
+        </item>
+        
+        <item>
+            <title>Spring Cloud Gateway限流熔断落地</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-Spring-Cloud-Gateway限流熔断落地.html</link>
+            <description><![CDATA[Gateway结合Sentinel/Resilience4j在中小厂的落地实战，含配置细节与限流策略选型]]></description>
+            <pubDate>2020-07-16</pubDate>
+        </item>
+        
+        <item>
+            <title>Spring Boot Starter自定义封装实战</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-Spring-Boot-Starter自定义封装实战.html</link>
+            <description><![CDATA[从零封装一个统一异常处理+接口日志+参数校验的Spring Boot Starter，中小厂提升开发效率的必经之路]]></description>
+            <pubDate>2020-12-01</pubDate>
+        </item>
+        
+        <item>
+            <title>Spring AOP在业务中的实战技巧</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-Spring-AOP在业务中的实战技巧.html</link>
+            <description><![CDATA[AOP在日志切面、权限校验、数据脱敏、操作审计、分布式锁中的实战封装技巧]]></description>
+            <pubDate>2024-04-27</pubDate>
+        </item>
+        
+        <item>
+            <title>Spring AI流式输出SSE实现聊天界面</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-Spring-AI流式输出SSE实现聊天界面.html</link>
+            <description><![CDATA[用 Spring AI 的流式输出能力实现 SSE 推送，打造打字机效果的聊天体验，包含前端对接和 Token 统计。]]></description>
+            <pubDate>2025-02-19</pubDate>
+        </item>
+        
+        <item>
+            <title>Spring AI应用的监控与成本控制</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-Spring-AI应用的监控与成本控制.html</link>
+            <description><![CDATA[大模型应用的监控体系搭建，包括调用链路监控、Token 消耗统计、成本预警和日志规范。]]></description>
+            <pubDate>2025-03-03</pubDate>
+        </item>
+        
+        <item>
+            <title>Spring AI对话记忆与上下文管理</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-Spring-AI对话记忆与上下文管理.html</link>
+            <description><![CDATA[实现多轮对话的记忆管理，包括窗口记忆、摘要记忆、Token 限制处理和多会话状态管理。]]></description>
+            <pubDate>2026-10-17</pubDate>
+        </item>
+        
+        <item>
+            <title>Spring AI实现RAG知识库检索增强</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-Spring-AI实现RAG知识库检索增强.html</link>
+            <description><![CDATA[用 Spring AI 实现 RAG 检索增强生成，从文档加载到向量存储再到 Prompt 组装的完整落地方案。]]></description>
+            <pubDate>2026-06-14</pubDate>
+        </item>
+        
+        <item>
+            <title>Spring AI多模态能力图文识别实战</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-Spring-AI多模态能力图文识别实战.html</link>
+            <description><![CDATA[用 Spring AI 接入多模态大模型，实现商品图片识别、OCR 增强、图片描述生成等业务场景。]]></description>
+            <pubDate>2026-02-24</pubDate>
+        </item>
+        
+        <item>
+            <title>Spring AI多模型接入与动态切换</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-Spring-AI多模型接入与动态切换.html</link>
+            <description><![CDATA[同时接入多个大模型，实现按场景路由、配置化切换和自动降级，解决单一模型不够用的问题。]]></description>
+            <pubDate>2024-02-04</pubDate>
+        </item>
+        
+        <item>
+            <title>Spring AI企业级应用的安全与限流</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-Spring-AI企业级应用的安全与限流.html</link>
+            <description><![CDATA[大模型应用的企业级安全实践，包括 Prompt 注入防护、输出审核、Token 限流和敏感信息过滤。]]></description>
+            <pubDate>2026-03-26</pubDate>
+        </item>
+        
+        <item>
+            <title>Spring AI与向量数据库的集成实践</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-Spring-AI与向量数据库的集成实践.html</link>
+            <description><![CDATA[Spring AI 集成向量数据库的完整实践，涵盖 Embedding 生成、Milvus/Qdrant/Redis 选型对比和相似度搜索优化。]]></description>
+            <pubDate>2026-09-22</pubDate>
+        </item>
+        
+        <item>
+            <title>Spring AI Function Calling工具调用实战</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-Spring-AI-Function-Calling工具调用实战.html</link>
+            <description><![CDATA[用 Spring AI 实现 Function Calling，让大模型调用真实业务接口，查订单、查库存、发通知，完整实战经验。]]></description>
+            <pubDate>2025-11-21</pubDate>
+        </item>
+        
+        <item>
+            <title>Spring AI Alibaba快速入门与项目搭建</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-Spring-AI-Alibaba快速入门与项目搭建.html</link>
+            <description><![CDATA[从零搭建 Spring AI Alibaba 项目，接入通义千问大模型，跑通第一个聊天接口，记录真实踩坑过程。]]></description>
+            <pubDate>2025-01-11</pubDate>
+        </item>
+        
+        <item>
+            <title>Redis缓存一致性与穿透防护</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-Redis缓存一致性与穿透防护.html</link>
+            <description><![CDATA[从Cache Aside到布隆过滤器，分享中小厂在Redis缓存设计中遇到的一致性问题、穿透雪崩防御和热点Key处理的实战经验。]]></description>
+            <pubDate>2017-04-22</pubDate>
+        </item>
+        
+        <item>
+            <title>RAG 检索增强生成技术入门</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-RAG检索增强生成技术入门.html</link>
+            <description><![CDATA[从零理解 RAG 的原理、流程和技术选型，掌握当前最流行的 AI 应用架构模式]]></description>
+            <pubDate>2026-07-26</pubDate>
+        </item>
+        
+        <item>
+            <title>Python自动化脚本提升开发效率</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-Python自动化脚本提升开发效率.html</link>
+            <description><![CDATA[分享用Python实现数据库批量操作、日志分析、API批量测试、Excel数据处理和定时报告的自动化方案。]]></description>
+            <pubDate>2022-08-22</pubDate>
+        </item>
+        
+        <item>
+            <title>Prompt工程实战：开发者写好提示词的方法与模板</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-Prompt工程实战写好提示词的方法.html</link>
+            <description><![CDATA[角色设定、Few-shot、Chain of Thought等Prompt技巧在开发场景的实战应用]]></description>
+            <pubDate>2026-10-07</pubDate>
+        </item>
+        
+        <item>
+            <title>Nginx反向代理与负载均衡实战</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-Nginx反向代理与负载均衡实战.html</link>
+            <description><![CDATA[从upstream配置到健康检查、超时优化，分享Nginx反向代理与负载均衡的实战经验和踩坑案例]]></description>
+            <pubDate>2023-03-24</pubDate>
+        </item>
+        
+        <item>
+            <title>MySQL索引优化的实战经验</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-MySQL索引优化的实战经验.html</link>
+            <description><![CDATA[从联合索引顺序选择到EXPLAIN实战分析，分享中小厂Java后端团队在MySQL索引优化中踩过的坑和总结的方法论。]]></description>
+            <pubDate>2023-09-15</pubDate>
+        </item>
+        
+        <item>
+            <title>Maven依赖管理与构建优化</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-Maven依赖管理与构建优化.html</link>
+            <description><![CDATA[分享Maven依赖冲突解决、私服配置、多模块项目结构、构建速度优化和版本锁定策略的实战经验。]]></description>
+            <pubDate>2022-09-18</pubDate>
+        </item>
+        
+        <item>
+            <title>Linux服务器运维常用技能</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-Linux服务器运维常用技能.html</link>
+            <description><![CDATA[Java后端开发必备的Linux技能：日志分析三剑客、进程管理、磁盘CPU排查和crontab定时任务的实战经验。]]></description>
+            <pubDate>2024-11-09</pubDate>
+        </item>
+        
+        <item>
+            <title>IDEA高效开发技巧与调试实战</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-IDEA高效开发技巧与调试实战.html</link>
+            <description><![CDATA[分享IntelliJ IDEA远程调试、条件断点、热部署、常用插件和代码模板的实战技巧，提升Java开发效率。]]></description>
+            <pubDate>2016-10-11</pubDate>
+        </item>
+        
+        <item>
+            <title>HTTP连接池调优实战</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-HTTP连接池调优实战.html</link>
+            <description><![CDATA[从真实生产事故出发，详解RestTemplate/OkHttp/WebClient连接池配置、参数调优与连接泄漏排查]]></description>
+            <pubDate>2025-02-23</pubDate>
+        </item>
+        
+        <item>
+            <title>HTTPS证书管理与TLS握手优化</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-HTTPS证书管理与TLS握手优化.html</link>
+            <description><![CDATA[从证书过期事故讲起，涵盖Let's Encrypt自动续期、TLS版本选择、Session复用、证书链排查的完整实战]]></description>
+            <pubDate>2021-08-02</pubDate>
+        </item>
+        
+        <item>
+            <title>Git分支管理与代码审查流程</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-Git分支管理与代码审查流程.html</link>
+            <description><![CDATA[从实际团队协作经验出发，对比Git Flow和Trunk Based，分享PR规范、commit message约束和冲突解决策略。]]></description>
+            <pubDate>2018-04-05</pubDate>
+        </item>
+        
+        <item>
+            <title>Fine-tuning 微调 vs Prompt 工程，怎么选？</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-Fine-tuning微调vs-Prompt工程怎么选.html</link>
+            <description><![CDATA[帮开发者理清什么时候用 Prompt 工程就够了、什么时候才需要微调，以及微调的成本与流程]]></description>
+            <pubDate>2026-01-28</pubDate>
+        </item>
+        
+        <item>
+            <title>Embedding 向量嵌入技术通俗理解</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-Embedding向量嵌入技术通俗理解.html</link>
+            <description><![CDATA[用通俗的方式解释什么是向量嵌入、为什么要把文本变成向量、相似度搜索原理，以及在 RAG 中的核心作用]]></description>
+            <pubDate>2024-12-11</pubDate>
+        </item>
+        
+        <item>
+            <title>Elasticsearch在业务搜索中的实战</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-Elasticsearch在业务搜索中的实战.html</link>
+            <description><![CDATA[从索引设计到深翻页优化，分享中小厂在Elasticsearch业务搜索场景中的实战经验，包括分词器选择和MySQL数据同步方案。]]></description>
+            <pubDate>2016-11-21</pubDate>
+        </item>
+        
+        <item>
+            <title>Docker容器化部署Java应用实战</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-Docker容器化部署Java应用实战.html</link>
+            <description><![CDATA[从实际项目出发，分享Dockerfile编写最佳实践、多阶段构建、JVM容器化内存配置与日志管理的踩坑经验。]]></description>
+            <pubDate>2026-03-11</pubDate>
+        </item>
+        
+        <item>
+            <title>DNS解析问题排查与优化</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-DNS解析问题排查与优化.html</link>
+            <description><![CDATA[从一次诡异的接口偶发超时说起，详解DNS缓存、DNS劫持、Java DNS TTL设置等实战排查与优化]]></description>
+            <pubDate>2021-09-08</pubDate>
+        </item>
+        
+        <item>
+            <title>DDD领域驱动在业务系统中的简化落地</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-DDD领域驱动在业务系统中的简化落地.html</link>
+            <description><![CDATA[中小厂不需要完整的DDD，本文介绍聚合根、值对象、领域事件的简化用法和踩坑经验]]></description>
+            <pubDate>2021-03-26</pubDate>
+        </item>
+        
+        <item>
+            <title>Cursor vs GitHub Copilot：2026年AI编程助手深度对比</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-Cursor-vs-Copilot-AI编程助手对比.html</link>
+            <description><![CDATA[深度对比Cursor和GitHub Copilot在代码补全、对话、Agent能力等方面的实际使用体验]]></description>
+            <pubDate>2024-11-04</pubDate>
+        </item>
+        
+        <item>
+            <title>Claude Code命令行AI编程实战：从安装到最佳实践</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-Claude-Code命令行AI编程实战.html</link>
+            <description><![CDATA[Claude Code CLI的安装配置、实际使用场景与IDE插件配合的最佳实践]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        
+        <item>
+            <title>CICD流水线搭建与自动化部署</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-CICD流水线搭建与自动化部署.html</link>
+            <description><![CDATA[从中小厂实际需求出发，对比Jenkins、GitHub Actions和GitLab CI选型，分享构建优化、制品管理和自动回滚的落地经验。]]></description>
+            <pubDate>2019-12-23</pubDate>
+        </item>
+        
+        <item>
+            <title>Arthas线上诊断与性能分析</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-Arthas线上诊断与性能分析.html</link>
+            <description><![CDATA[分享Arthas常用命令、反编译热修复、火焰图生成和CPU占用排查的实战经验，解决线上疑难问题。]]></description>
+            <pubDate>2020-02-25</pubDate>
+        </item>
+        
+        <item>
+            <title>AI辅助重构遗留代码：从理解到改造的实战经验</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-AI辅助重构遗留代码的经验.html</link>
+            <description><![CDATA[用AI理解和重构遗留代码的真实案例、方法论与风险提示]]></description>
+            <pubDate>2025-02-23</pubDate>
+        </item>
+        
+        <item>
+            <title>AI辅助技术文档与API文档编写：质量把控策略</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-AI辅助技术文档与API文档编写.html</link>
+            <description><![CDATA[用AI生成Javadoc、Swagger文档、README的方法与质量把控策略]]></description>
+            <pubDate>2025-03-09</pubDate>
+        </item>
+        
+        <item>
+            <title>AI辅助写单测的效率与边界：哪些场景好用，哪些场景不行</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-AI辅助写单测的效率与边界.html</link>
+            <description><![CDATA[用AI生成单元测试的实际效率、适用场景与Mock策略]]></description>
+            <pubDate>2026-08-08</pubDate>
+        </item>
+        
+        <item>
+            <title>AI辅助SQL编写与数据库设计：实战经验与局限</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-AI辅助SQL编写与数据库设计.html</link>
+            <description><![CDATA[用AI生成SQL、优化慢查询、设计表结构的实际经验与AI在复杂场景上的局限]]></description>
+            <pubDate>2025-09-23</pubDate>
+        </item>
+        
+        <item>
+            <title>AI辅助Code Review的正确姿势：AI能发现什么，不能发现什么</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-AI辅助Code-Review的正确姿势.html</link>
+            <description><![CDATA[用AI做代码审查的方法论，明确AI能发现和不能发现的问题边界]]></description>
+            <pubDate>2026-11-03</pubDate>
+        </item>
+        
+        <item>
+            <title>AI生成代码的安全风险与防范：企业必须知道的事</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-AI生成代码的安全风险与防范.html</link>
+            <description><![CDATA[AI生成代码的常见安全隐患、企业合规风险与代码审查清单]]></description>
+            <pubDate>2025-11-04</pubDate>
+        </item>
+        
+        <item>
+            <title>AI 技术发展趋势与开发者能力升级</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-AI技术发展趋势与开发者能力升级.html</link>
+            <description><![CDATA[探讨 AI 对开发者工作方式的影响，哪些技能需要升级，哪些能力不会被替代]]></description>
+            <pubDate>2024-04-07</pubDate>
+        </item>
+        
+        <item>
+            <title>AI 应用开发的核心概念与术语速查手册</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-AI应用开发的核心概念与术语.html</link>
+            <description><![CDATA[开发者在 AI 应用开发中会遇到的核心概念和术语，一次讲清楚]]></description>
+            <pubDate>2026-12-14</pubDate>
+        </item>
+        
+        <item>
+            <title>AI Agent 智能体是什么？开发者视角解读</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-25-AI-Agent智能体是什么开发者视角.html</link>
+            <description><![CDATA[从开发者视角理解 AI Agent 的核心概念、工作原理和企业落地方式]]></description>
+            <pubDate>2024-12-02</pubDate>
+        </item>
+        
+        <item>
+            <title>AI生成项目周报：自动化报告生成工具的实践探索</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-03-15-AI生成项目周报.html</link>
+            <description><![CDATA[本文将介绍如何利用AI技术，特别是Python编程，来自动化项目周报的生成过程，包括问题场景、解决方案、实现步骤以及效果展示。]]></description>
+            <pubDate>2026-10-09</pubDate>
+        </item>
+        
+        <item>
+            <title>AI生成项目周报：技术实现与效果展示</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-01-19-AI生成项目周报.html</link>
+            <description><![CDATA[本文将探讨如何利用AI技术自动生成项目周报，包括问题场景、解决思路、实现步骤以及效果展示。]]></description>
+            <pubDate>2025-11-17</pubDate>
+        </item>
+        
+        <item>
+            <title>AI生成项目周报</title>
+            <link>https://wuxw2569.github.io/my-blog/2025-11-16-AI生成项目周报.html</link>
+            <description><![CDATA[本文将探讨如何利用AI技术自动化生成项目周报，提高项目管理效率。]]></description>
+            <pubDate>2025-03-22</pubDate>
+        </item>
+        
+        <item>
+            <title>AI生成自动化测试用例</title>
+            <link>https://wuxw2569.github.io/my-blog/2025-11-12-AI生成自动化测试用例.html</link>
+            <description><![CDATA[本文将探讨如何利用AI技术自动生成测试用例，提高测试效率和质量。]]></description>
+            <pubDate>2025-11-23</pubDate>
+        </item>
+        
+        <item>
+            <title>AI如何帮助程序员自动生成日报</title>
+            <link>https://wuxw2569.github.io/my-blog/2025-11-11-AI如何帮助程序员自动生成日报.html</link>
+            <description><![CDATA[本文将探讨如何利用AI技术帮助程序员自动生成日报，提高工作效率。]]></description>
+            <pubDate>2026-04-22</pubDate>
+        </item>
+        
+        <item>
+            <title>用AI自动生成代码注释</title>
+            <link>https://wuxw2569.github.io/my-blog/2025-11-10-用AI自动生成代码注释.html</link>
+            <description><![CDATA[本文将探讨如何利用AI技术来自动生成代码注释，提高开发效率，并分享实现步骤和代码示例。]]></description>
+            <pubDate>2026-10-19</pubDate>
+        </item>
+        
+        <item>
+            <title>AI监控网站运行状态</title>
+            <link>https://wuxw2569.github.io/my-blog/2025-11-08-AI监控网站运行状态.html</link>
+            <description><![CDATA[本文将探讨如何利用AI技术来监控网站运行状态，从问题场景到实现步骤，提供一种高效、智能的解决方案。]]></description>
+            <pubDate>2026-08-26</pubDate>
+        </item>
+        
+        <item>
+            <title>AI如何帮你写README文档</title>
+            <link>https://wuxw2569.github.io/my-blog/2025-11-06-AI如何帮你写README文档.html</link>
+            <description><![CDATA[本文将探讨如何利用AI技术来简化README文档的编写过程，提高开发效率。]]></description>
+            <pubDate>2025-11-14</pubDate>
+        </item>
+        
+        <item>
+            <title>AI自动总结会议纪要</title>
+            <link>https://wuxw2569.github.io/my-blog/2025-11-05-AI自动总结会议纪要.html</link>
+            <description><![CDATA[本文将探讨如何利用AI技术自动总结会议纪要，从问题场景到实现步骤，展示如何通过编程实现这一功能。]]></description>
+            <pubDate>2025-08-07</pubDate>
+        </item>
+        
+        <item>
+            <title>AI生成知识笔记并发布博客</title>
+            <link>https://wuxw2569.github.io/my-blog/2025-11-04-AI生成知识笔记并发布博客.html</link>
+            <description><![CDATA[本文将探讨如何利用AI技术自动生成知识笔记，并通过全栈开发技术实现笔记的自动化发布到博客上。]]></description>
+            <pubDate>2024-04-18</pubDate>
+        </item>
+        
+        <item>
+            <title>用AI生成并部署个人网站</title>
+            <link>https://wuxw2569.github.io/my-blog/2025-11-03-用AI生成并部署个人网站.html</link>
+            <description><![CDATA[本文将探讨如何利用AI技术生成个人网站，并详细描述从生成到部署的整个过程，包括代码示例和效果展示。]]></description>
+            <pubDate>2026-12-22</pubDate>
+        </item>
+        
+        <item>
+            <title>AI自动生成SQL报表并可视化</title>
+            <link>https://wuxw2569.github.io/my-blog/2025-11-03-AI自动生成SQL报表并可视化.html</link>
+            <description><![CDATA[本文将探讨如何利用AI技术自动生成SQL报表并进行可视化，通过实际操作展示整个流程，为开发者提供新的数据处理思路。]]></description>
+            <pubDate>2025-02-28</pubDate>
+        </item>
+        
+    </channel>
+    </rss>
+    

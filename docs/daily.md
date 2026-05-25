@@ -5,7 +5,7 @@ description: 自动订阅 AI Hot 每日日报 feed
 
 # AI 每日日报
 
-> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-05-25 14:25:19 +0800
+> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-05-25 07:14:05 +0000
 
 ## [华为何庭波"韬定律"论文发布，逻辑折叠技术提升芯片性能](https://www.ithome.com/0/954/778.htm)
 
