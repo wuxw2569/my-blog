@@ -91,6 +91,11 @@ layout: home
       <span>AI圆桌聊天室</span>
       <h3>多智能体灵感讨论。</h3>
       <p>用更自然的对话方式发散想法、比较方案、沉淀结论。</p>
+    </a>    
+    <a class="product-card" href="https://emoji.qsou.top/e/home" target="_blank" rel="noreferrer">
+      <span>AI 表情工坊</span>
+      <h3>生成生动的表情包。</h3>
+      <p>用 AI 快速尝试不同表情内容，一键生成多表情。</p>
     </a>
     <a class="product-card" href="https://ai.qsou.top/home" target="_blank" rel="noreferrer">
       <span>AI工具箱</span>
@@ -98,9 +103,9 @@ layout: home
       <p>把常用 AI 能力收进一个入口，减少切换成本。</p>
     </a>
     <a class="product-card" href="https://ai.qsou.top/watermark/" target="_blank" rel="noreferrer">
-      <span>水印处理</span>
-      <h3>干净快速的图片处理。</h3>
-      <p>面向内容创作和素材整理，流程简单，结果清爽。</p>
+      <span>AI水印处理</span>
+      <h3>干净快速的处理AI生成的logo水印。</h3>
+      <p>面向内容创作和素材整理生产的AI图片，快捷去成水印，结果清爽。</p>
     </a>
     <a class="product-card" href="https://ai.qsou.top/ai-image" target="_blank" rel="noreferrer">
       <span>AI 生图</span>
