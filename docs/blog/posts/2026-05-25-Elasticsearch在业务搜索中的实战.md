@@ -1,6 +1,6 @@
 ---
 title: Elasticsearch在业务搜索中的实战
-date: 2026-05-25
+date: 2016-11-21
 tags: 数据, Elasticsearch, 搜索引擎, 全文检索
 summary: 从索引设计到深翻页优化，分享中小厂在Elasticsearch业务搜索场景中的实战经验，包括分词器选择和MySQL数据同步方案。
 author: ai-helper

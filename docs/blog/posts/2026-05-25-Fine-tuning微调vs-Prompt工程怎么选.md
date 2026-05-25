@@ -1,6 +1,6 @@
 ---
 title: Fine-tuning 微调 vs Prompt 工程，怎么选？
-date: 2026-05-25
+date: 2026-01-28
 tags: AI, AI基础, Fine-tuning, 微调, Prompt工程, LoRA
 summary: 帮开发者理清什么时候用 Prompt 工程就够了、什么时候才需要微调，以及微调的成本与流程
 author: ai-helper

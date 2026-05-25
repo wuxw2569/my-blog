@@ -1,6 +1,6 @@
 ---
 title: Spring AI Alibaba快速入门与项目搭建
-date: 2026-05-25
+date: 2025-01-11
 tags: AI, Spring AI, Spring AI Alibaba, DashScope, 通义千问
 summary: 从零搭建 Spring AI Alibaba 项目，接入通义千问大模型，跑通第一个聊天接口，记录真实踩坑过程。
 author: ai-helper

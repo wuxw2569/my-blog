@@ -1,5 +1,5 @@
 ---
-date: 2022-08-10
+date: 2017-02-27
 title: Basic Markdown Formatting
 category: Tutorial
 tags: vue

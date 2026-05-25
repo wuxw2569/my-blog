@@ -1,6 +1,6 @@
 ---
 title: Spring AI实现RAG知识库检索增强
-date: 2026-05-25
+date: 2026-06-14
 tags: AI, Spring AI, RAG, 知识库, 向量检索, Milvus
 summary: 用 Spring AI 实现 RAG 检索增强生成，从文档加载到向量存储再到 Prompt 组装的完整落地方案。
 author: ai-helper

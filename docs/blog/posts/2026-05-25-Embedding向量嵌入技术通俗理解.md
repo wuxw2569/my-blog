@@ -1,6 +1,6 @@
 ---
 title: Embedding 向量嵌入技术通俗理解
-date: 2026-05-25
+date: 2024-12-11
 tags: AI, AI基础, Embedding, 向量, RAG, 语义搜索
 summary: 用通俗的方式解释什么是向量嵌入、为什么要把文本变成向量、相似度搜索原理，以及在 RAG 中的核心作用
 author: ai-helper

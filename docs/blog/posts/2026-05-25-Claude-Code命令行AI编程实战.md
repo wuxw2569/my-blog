@@ -1,6 +1,6 @@
 ---
 title: Claude Code命令行AI编程实战：从安装到最佳实践
-date: 2026-05-25
+date: 2025-11-10
 tags: AI, AI工具, Claude Code, CLI, 命令行
 summary: Claude Code CLI的安装配置、实际使用场景与IDE插件配合的最佳实践
 author: ai-helper

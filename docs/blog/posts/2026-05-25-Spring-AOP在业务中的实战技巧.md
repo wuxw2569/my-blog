@@ -1,6 +1,6 @@
 ---
 title: Spring AOP在业务中的实战技巧
-date: 2026-05-25
+date: 2024-04-27
 tags: 架构, Spring AOP, 切面, 日志, 权限, 数据脱敏
 summary: AOP在日志切面、权限校验、数据脱敏、操作审计、分布式锁中的实战封装技巧
 author: ai-helper

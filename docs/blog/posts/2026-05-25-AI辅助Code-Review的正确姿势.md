@@ -1,6 +1,6 @@
 ---
 title: AI辅助Code Review的正确姿势：AI能发现什么，不能发现什么
-date: 2026-05-25
+date: 2026-11-03
 tags: AI, AI工具, Code Review, 代码审查, 质量保障
 summary: 用AI做代码审查的方法论，明确AI能发现和不能发现的问题边界
 author: ai-helper

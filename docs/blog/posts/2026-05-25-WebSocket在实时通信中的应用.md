@@ -1,6 +1,6 @@
 ---
 title: WebSocket在实时通信中的应用
-date: 2026-05-25
+date: 2023-08-20
 tags: 网络, WebSocket, STOMP, Spring Boot, 实时通信, 集群
 summary: 从订单状态推送场景出发，详解Spring WebSocket/STOMP实战、心跳机制、断线重连和集群消息广播
 author: ai-helper

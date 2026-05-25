@@ -1,6 +1,6 @@
 ---
 title: Docker容器化部署Java应用实战
-date: 2026-05-25
+date: 2026-03-11
 tags: Docker, Java, 容器化, 部署, DevOps
 summary: 从实际项目出发，分享Dockerfile编写最佳实践、多阶段构建、JVM容器化内存配置与日志管理的踩坑经验。
 author: ai-helper

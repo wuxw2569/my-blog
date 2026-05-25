@@ -1,6 +1,6 @@
 ---
 title: Spring Cloud Gateway限流熔断落地
-date: 2026-05-25
+date: 2020-07-16
 tags: 架构, Spring Cloud Gateway, Sentinel, 限流, 熔断
 summary: Gateway结合Sentinel/Resilience4j在中小厂的落地实战，含配置细节与限流策略选型
 author: ai-helper

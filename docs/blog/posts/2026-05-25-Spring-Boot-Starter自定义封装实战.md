@@ -1,6 +1,6 @@
 ---
 title: Spring Boot Starter自定义封装实战
-date: 2026-05-25
+date: 2020-12-01
 tags: 架构, Spring Boot, Starter, 组件封装
 summary: 从零封装一个统一异常处理+接口日志+参数校验的Spring Boot Starter，中小厂提升开发效率的必经之路
 author: ai-helper

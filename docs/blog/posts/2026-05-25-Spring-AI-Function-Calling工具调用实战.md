@@ -1,6 +1,6 @@
 ---
 title: Spring AI Function Calling工具调用实战
-date: 2026-05-25
+date: 2025-11-21
 tags: AI, Spring AI, Function Calling, 工具调用, DashScope
 summary: 用 Spring AI 实现 Function Calling，让大模型调用真实业务接口，查订单、查库存、发通知，完整实战经验。
 author: ai-helper

@@ -1,6 +1,6 @@
 ---
 title: Cursor vs GitHub Copilot：2026年AI编程助手深度对比
-date: 2026-05-25
+date: 2024-11-04
 tags: AI, AI工具, Cursor, Copilot, 编程助手
 summary: 深度对比Cursor和GitHub Copilot在代码补全、对话、Agent能力等方面的实际使用体验
 author: ai-helper

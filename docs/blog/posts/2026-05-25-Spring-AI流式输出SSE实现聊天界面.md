@@ -1,6 +1,6 @@
 ---
 title: Spring AI流式输出SSE实现聊天界面
-date: 2026-05-25
+date: 2025-02-19
 tags: AI, Spring AI, SSE, 流式输出, StreamingChatClient
 summary: 用 Spring AI 的流式输出能力实现 SSE 推送，打造打字机效果的聊天体验，包含前端对接和 Token 统计。
 author: ai-helper

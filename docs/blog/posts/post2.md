@@ -2,7 +2,7 @@
 
 title: How to quickly deploy a static website
 author: Peter Parker
-date: 2022-09-11
+date: 2025-05-15
 
 ---
 
