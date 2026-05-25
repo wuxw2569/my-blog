@@ -5,7 +5,7 @@
 这是一个基于 VitePress 构建的博客启动器项目，集成了 UnoCSS、Vue 3 等现代前端技术，提供了完整的博客功能示例，包括文章发布、作者信息、分类标签等。
 
 ## 预览网址
-   https://wuxw2569.github.io/ai-blog/
+   https://wuxw2569.github.io/my-blog/
 
 ## 技术栈
 
@@ -31,7 +31,7 @@
 ## 项目结构
 
 ```
-ai-blog/
+my-blog/
 ├── .github/                  # GitHub 配置目录
 │   └── workflows/            # GitHub Actions 工作流
 │       └── deploy.yml        # 部署配置
@@ -72,7 +72,7 @@ pnpm install
 pnpm dev
 ```
 
-开发服务器默认运行在 `http://localhost:5173/ai-blog/`
+开发服务器默认运行在 `http://localhost:5173/my-blog/`
 
 ### 构建网站
 
