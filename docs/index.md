@@ -13,8 +13,8 @@ layout: home
       从架构层、网络层、数据层到工具层，记录后端工程里的取舍、排障、自动化和AI提效实践。
     </p>
     <div class="apple-actions">
-      <a class="apple-button apple-button-primary" href="/ai-blog/blog/">阅读博客</a>
-      <a class="apple-button" href="/ai-blog/daily">查看AI日报</a>
+      <a class="apple-button apple-button-primary" href="/my-blog/blog/">阅读博客</a>
+      <a class="apple-button" href="/my-blog/daily">查看AI日报</a>
     </div>
   </div>
 
@@ -48,28 +48,28 @@ layout: home
   </div>
 
   <div class="apple-stack-grid">
-    <a class="stack-card stack-card-large" href="/ai-blog/blog/">
+    <a class="stack-card stack-card-large" href="/my-blog/blog/">
       <span>Architecture</span>
       <h3>架构层</h3>
       <p>Spring Boot、Spring Cloud、DDD、网关、限流熔断、可观测性与系统演进。</p>
       <b>服务治理 · 稳定性 · 演进复盘</b>
     </a>
-    <a class="stack-card" href="/ai-blog/blog/">
+    <a class="stack-card" href="/my-blog/blog/">
       <span>Network</span>
       <h3>网络层</h3>
       <p>HTTP、TCP、TLS、Nginx、DNS、连接池、超时重试与线上排障。</p>
     </a>
-    <a class="stack-card" href="/ai-blog/blog/">
+    <a class="stack-card" href="/my-blog/blog/">
       <span>Data</span>
       <h3>数据层</h3>
       <p>MySQL、Redis、Elasticsearch、MQ、分库分表、缓存一致性与幂等。</p>
     </a>
-    <a class="stack-card" href="/ai-blog/blog/">
+    <a class="stack-card" href="/my-blog/blog/">
       <span>Tooling</span>
       <h3>工具层</h3>
       <p>Maven、Gradle、Docker、Linux、GitHub Actions、Python 自动化脚本。</p>
     </a>
-    <a class="stack-card stack-card-dark" href="/ai-blog/daily">
+    <a class="stack-card stack-card-dark" href="/my-blog/daily">
       <span>AI Radar</span>
       <h3>每日技术雷达</h3>
       <p>自动订阅 AI Hot 每日日报，持续追踪模型、工具、产品和行业实践。</p>

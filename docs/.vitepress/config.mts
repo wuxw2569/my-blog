@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 import { version } from '../../package.json'
 
 export default defineConfig({
-  base: '/ai-blog/',
+  base: '/my-blog/',
   description: '记录10年Java工程经验、AI实践与每日技术资讯的个人博客。',
   ignoreDeadLinks: true,
   markdown: {
@@ -20,7 +20,7 @@ export default defineConfig({
       provider: 'local',
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/wuxw2569/ai-blog' },
+      { icon: 'github', link: 'https://github.com/wuxw2569/my-blog' },
     ],
     editLink: {
       pattern: 'https://github.com/sfxcode/vitepress-blog-starter/edit/main/docs/:path',
@@ -32,7 +32,7 @@ export default defineConfig({
       '/config/': sidebarConfig(),
     },
     blog: {
-      title: 'AI Blog',
+      title: 'My Blog',
       description: 'Java架构、网络、数据与工具实践笔记',
     },
 
