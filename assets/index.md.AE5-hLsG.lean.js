@@ -1,0 +1,1 @@
+import{c as s,S as p,j as e,m as r}from"./chunks/framework.Bcm8lc2D.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"home"},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),t={name:"index.md"};function l(n,a,o,c,i,d){return p(),e("div",null,a[0]||(a[0]=[r("",1)]))}const v=s(t,[["render",l]]);export{g as __pageData,v as default};
