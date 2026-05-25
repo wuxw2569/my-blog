@@ -1,0 +1,1 @@
+import{c as t,S as e,j as n,m as l}from"./chunks/framework.Bcm8lc2D.js";const u=JSON.parse('{"title":"博客指南","description":"","frontmatter":{},"headers":[],"relativePath":"guide/index.md","filePath":"guide/index.md"}'),r={name:"guide/index.md"};function s(i,a,o,d,p,h){return e(),n("div",null,a[0]||(a[0]=[l("",37)]))}const g=t(r,[["render",s]]);export{u as __pageData,g as default};
