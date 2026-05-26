@@ -76,6 +76,63 @@ layout: home
     </a>
   </div>
 
+  <div class="apple-section-heading architecture-heading">
+    <p>Architecture Playbook</p>
+    <h2>把复杂业务画成可执行的系统蓝图。</h2>
+  </div>
+
+  <div class="architecture-gallery" aria-label="架构图展示">
+    <article class="architecture-feature">
+      <div class="architecture-copy">
+        <span>Featured Map</span>
+        <h3>复杂业务设计方法论</h3>
+        <p>围绕对象、动作、状态、规则、边界、一致性和事件，把经验沉淀成可复用的工程表达。</p>
+      </div>
+      <img
+        src="/images/architecture/complex-business-methodology.jpg"
+        alt="复杂业务设计方法论总览架构图"
+        loading="lazy"
+      >
+    </article>
+    <div class="architecture-strip">
+      <figure class="architecture-card">
+        <img src="/images/architecture/methodology-framework.jpg" alt="复杂业务设计方法论总览框架" loading="lazy">
+        <figcaption>
+          <span>01</span>
+          <strong>总览框架</strong>
+        </figcaption>
+      </figure>
+      <figure class="architecture-card">
+        <img src="/images/architecture/business-object-model.jpg" alt="业务对象抽象建模架构图" loading="lazy">
+        <figcaption>
+          <span>02</span>
+          <strong>对象建模</strong>
+        </figcaption>
+      </figure>
+      <figure class="architecture-card">
+        <img src="/images/architecture/workflow-state.jpg" alt="业务动作与状态流转架构图" loading="lazy">
+        <figcaption>
+          <span>03</span>
+          <strong>动作状态</strong>
+        </figcaption>
+      </figure>
+      <figure class="architecture-card">
+        <img src="/images/architecture/rules-boundary.jpg" alt="业务规则与系统边界架构图" loading="lazy">
+        <figcaption>
+          <span>04</span>
+          <strong>规则边界</strong>
+        </figcaption>
+      </figure>
+      <figure class="architecture-card">
+        <img src="/images/architecture/consistency-events.jpg" alt="事务一致性与事件扩展架构图" loading="lazy">
+        <figcaption>
+          <span>05</span>
+          <strong>一致性事件</strong>
+        </figcaption>
+      </figure>
+    </div>
+  </div>
+
   <div class="apple-section-heading product-heading">
     <p>Product Lab</p>
     <h2>我的 AI 产品矩阵。</h2>
