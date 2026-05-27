@@ -103,28 +103,28 @@ layout: home
         </figcaption>
       </figure>
       <figure class="architecture-card">
-        <img src="/images/architecture/business-object-model.jpg" alt="业务对象抽象建模架构图" loading="lazy">
+        <img src="/images/architecture/consistency-events.jpg" alt="业务对象抽象建模架构图" loading="lazy">
         <figcaption>
           <span>02</span>
           <strong>对象建模</strong>
         </figcaption>
       </figure>
       <figure class="architecture-card">
-        <img src="/images/architecture/workflow-state.jpg" alt="业务动作与状态流转架构图" loading="lazy">
+        <img src="/images/architecture/business-object-model.jpg" alt="业务动作与状态流转架构图" loading="lazy">
         <figcaption>
           <span>03</span>
           <strong>动作状态</strong>
         </figcaption>
       </figure>
       <figure class="architecture-card">
-        <img src="/images/architecture/rules-boundary.jpg" alt="业务规则与系统边界架构图" loading="lazy">
+        <img src="/images/architecture/workflow-state.jpg" alt="业务规则与系统边界架构图" loading="lazy">
         <figcaption>
           <span>04</span>
           <strong>规则边界</strong>
         </figcaption>
       </figure>
       <figure class="architecture-card">
-        <img src="/images/architecture/consistency-events.jpg" alt="事务一致性与事件扩展架构图" loading="lazy">
+        <img src="/images/architecture/rules-boundary.jpg" alt="事务一致性与事件扩展架构图" loading="lazy">
         <figcaption>
           <span>05</span>
           <strong>一致性事件</strong>
