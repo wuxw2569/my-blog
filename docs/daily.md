@@ -5,70 +5,72 @@ description: 自动订阅 AI Hot 每日日报 feed
 
 # AI 每日日报
 
-> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-05-26 06:45:56 +0000
+> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-05-27 07:03:45 +0000
 
-## ["龙虾之父"Peter 开源 skill-cleaner，为 AI 智能体技能"做体检"](https://www.ithome.com/0/955/269.htm)
+## [阿里云入选Omdia智能体AI市场雷达领导者](https://x.com/alibaba_cloud/status/2059509714854007181)
 
-`Tue, 26 May 2026 05:37:26 GMT`
+`Wed, 27 May 2026 05:39:14 GMT`
 
-"龙虾之父"Peter 开源了 skill-cleaner 工具，用于诊断和优化 AI 智能体的技能提示词。该工具包含5项核心功能，包括技能提示词预算审计、重复技能检测、未使用技能筛查、技能根目录审计和描述精简优化。其脚本采用标准 token 预算核算逻辑，旨在帮助减少冗长描述对 token 预算和上下文窗口的占用。已有用户实践显示，将技能描述从90多词精简至40词以内，能提升智能体选择技能的准确率。
+阿里云在Omdia的智能体AI市场雷达中被评为领导者。Omdia强调了阿里云在每一层的全栈能力，认可其是首个将整个平台围绕智能体范式进行构建的云服务商。
 
-## [面壁智能开源 MiniCPM5-1B：在 AA-Index 上超越所有 2B 参数以下模型，能跑在手机、浏览器上](https://www.ithome.com/0/955/267.htm)
+## [我国将加快研究推进人工智能健康发展综合性立法、低空经济立法等](https://www.ithome.com/0/955/758.htm)
 
-`Tue, 26 May 2026 05:13:08 GMT`
+`Wed, 27 May 2026 02:54:29 GMT`
 
-面壁智能开源其新一代端侧大语言模型MiniCPM5-1B。该模型仅1B参数，在AA-Index榜单上超越所有2B参数以下模型，相比3个月前的Qwen3.5-2B效果更优且参数量减半。经INT4量化后权重仅0.5GB，支持在手机和浏览器上运行。其Base Model版本由面壁智能自主研发的AI训练框架ForgeTrain预训练完成，现已全面开源模型权重、训练数据集与部署方案。
+## [阿里云成为PyTorch基金会白金会员](https://x.com/alibaba_cloud/status/2059453607075004835)
 
-## [谷歌 AI 框架 AlphaProof Nexus 攻克 2 道悬置 56 年数学难题](https://www.ithome.com/0/955/261.htm)
+`Wed, 27 May 2026 01:56:17 GMT`
 
-`Tue, 26 May 2026 04:54:06 GMT`
+阿里云宣布以白金会员身份加入PyTorch基金会。作为AI基础设施全球领导者，阿里云是开源模型家族Qwen的缔造方，已在多样化硬件上大规模运行PyTorch，将为社区带来生产级工程经验。
 
-## [Kling AI驱动《大卫之家》实现多项行业首创](https://x.com/Kling_ai/status/2059121691385622761)
+## [Claude Code v2.1.152 更新发布](https://github.com/anthropics/claude-code/releases/tag/v2.1.152)
 
-`Tue, 26 May 2026 03:57:22 GMT`
+`Wed, 27 May 2026 01:30:59 GMT`
 
-Jon Erwin - Wonder Project创始人兼首席创意官，Innovative Dreams首席执行官，亚马逊Prime热门剧集《大卫之家》创作者： "Kling AI是《大卫之家》第一季和第二季背后的核心力量。最让我兴奋的是它实现了多项行业首创：在完成的剧集中首次使用AI生成场景，首个原生4K模型。其运动控制功能也使我们能够在AI生成中保留演员真实的情感和感受。"
+Claude Code 发布 v2.1.152 版本更新。核心改进包括：`/code-review --fix` 现在会将审查建议直接应用于工作目录；技能与斜杠命令支持通过 frontmatter 的 `disallowed-tools` 移除模型工具；新增 `/reload-skills` 命令可不重启会话重新扫描技能目录；`SessionStart` 钩子现可返回 `reloadSkills： true` 重新扫描技能，并可通过 `hookSpecificOutput.sessionTitle` 设置会话标题；
 
-## [腾讯混元新翻译模型双榜亮眼，小程序发布](https://x.com/TencentHunyuan/status/2059104921778352626)
+## [消息称高通与字节跳动达成 AI ASIC 芯片合作，采购量在数百万颗级别](https://www.ithome.com/0/955/674.htm)
 
-`Tue, 26 May 2026 02:50:44 GMT`
+`Wed, 27 May 2026 01:12:31 GMT`
 
-腾讯混元发布翻译模型 Hy-MT2，在 Hugging Face 开源模型趋势排行榜上表现突出：1.8B 版本排名第一，30B-A3B（MoE）版本排名第四，下载量已超 7K。官方同步推出了基于该模型的"腾讯混译"微信小程序，支持语音输入与离线翻译，并可自定义翻译风格与指令。模型代码与权重已开源。
+## [Code w/ Claude 伦敦活动：重塑开发体验](https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build)
 
-## [Anthropic 新模型震动金融圈，欧洲央行紧急开会要求升级网络防御](https://www.ithome.com/0/955/090.htm)
+`Wed, 27 May 2026 01:04:42 GMT`
 
-`Mon, 25 May 2026 23:53:30 GMT`
+在Code w/ Claude 伦敦活动上，Anthropic 宣布了 Claude Managed Agents 的两项新能力：自托管沙箱（公开测试版）和 MCP 隧道（研究预览）。这两项功能使 AI 智能体的工具执行环境与企业私有网络内的 MCP 服务器连接均可运行在客户自有基础设施或指定托管服务商处。活动还介绍了如何通过 Claude Code、优化思维预算以及模型努力级别来提升开发体验。目前，包括 Spotify、Base44 和 Legora 在内的客户已在使用这些新功能。
 
-## [微软 Copilot Cowork 存在文件泄露问题](https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files)
+## [Anthropic任命KiYoung Choi为韩国代表董事](https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea)
 
-`Mon, 25 May 2026 23:25:48 GMT`
+`Tue, 26 May 2026 23:34:41 GMT`
 
-## [OpenAI GPT-5.6 模型曝下月发布：AI 上下文 150 万 tokens](https://www.ithome.com/0/955/078.htm)
+Anthropic宣布任命KiYoung Choi为韩国代表董事，以支持其即将在首尔开设的办公室。根据Anthropic的经济指数，韩国是Claude.ai全球最活跃的市场之一，其使用率超过人口规模预期的3.5倍，主要用于技术和创意领域。KiYoung Choi此前曾担任Snowflake韩国区总经理，在Google Cloud、Adobe等公司拥有超过30年的科技行业领导经验。他将在韩国领导市场战略，支持本地企业和初创公司应用Claude，例如法律科技公司Law&Company及韩国电信巨头SK Telecom均
 
-`Mon, 25 May 2026 22:59:12 GMT`
+## [Claude Code推出安全漏洞识别插件](https://x.com/ClaudeDevs/status/2059385239781384341)
 
-多名开发者在 OpenAI Codex 后端日志中发现未官宣的 GPT-5.6 模型，内部代号 iris-alpha。该模型将支持 150 万 token 的上下文窗口，较当前 GPT-5.5 的 105 万 token 提升约 43%，有望于今年 6 月发布。测试显示，在输入达到 90 万 token 时仍能流畅响应。同系列还发现了 ember-alpha 与 beacon-alpha 版本。此外，GPT-5.6 在前端界面生成能力上也有所提升。基于爆料信息，Anthropic Claude、Google Gem
+`Tue, 26 May 2026 21:24:37 GMT`
 
-## [苹果据称正使用定制版1.2T参数Google模型重塑下一代Siri](https://x.com/kimmonismus/status/2058997271803674991)
+我们为Claude Code发布了一个安全指导插件，可在编写代码时帮助识别和修复漏洞。 所有Claude Code用户均可使用。从插件市场（/plugins）安装。
 
-`Mon, 25 May 2026 19:42:58 GMT`
+## [Gemini Omni 视频提示词使用指南](https://x.com/GoogleAI/status/2059381218660270435)
 
-据报道，苹果为改造下一代Siri，正使用一个定制版、参数规模达1.2T的Google大模型作为其核心，这显著大于预估约300B参数的Gemini 3.5 Flash。该模型将驱动Siri的部分功能，其中简单查询预期会在本地设备运行。苹果面临的关键挑战是确保该大模型能够足够快速地响应日常问题。此外，下个月AI领域预计将有多项重要发布，包括WWDC上的Apple Intelligence与Gemini整合、GPT-5.6、可能的Sonnet 4.8/Opus 4.8，以及已确认的Gemini 3.5 Pro。
+`Tue, 26 May 2026 21:08:38 GMT`
 
-## [Anthropic联合创始人Chris Olah在教皇通谕发布会上的讲话](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical)
+Google 发布了其多模态模型 Gemini Omni 的视频生成功能使用指南。该模型可通过 Gemini 应用、Google Flow 等平台体验。指南包含五项提示词技巧：利用模型已有的现实世界知识进行简洁描述；精确控制文本在视频中的渲染与排版；使用专业镜头指令（如推拉摇移）像电影摄影师一样调度画面；通过迭代编辑高效修改视频；以及在生成中直接调整角色的动作节奏或情绪。其核心在于通过精准的提示词引导模型生成复杂且可控的视频内容。
 
-`Mon, 25 May 2026 18:58:16 GMT`
+## [人类与AI分工：教育咨询及文学奖争议](https://x.com/emollick/status/2059363865536668040)
 
-Anthropic联合创始人Chris Olah在梵蒂冈出席教皇Leo XIV关于AI的通谕发布会。他指出，所有前沿AI实验室都面临商业、研究及地缘政治等多重压力，这可能与做正确的事相冲突，因此外部监督至关重要。他强调，AI模型并非像飞机那样被工程化构建，而是基于人类语言和思想"生长"出来的，其内在性质可能复杂难解。他提出三个需审慎思考的问题：如何确保AI发展的全球收益公平分享、如何思考AI时代的人类繁荣，以及AI模型内在性质的本质。他呼吁社会各界，尤其是宗教与民间团体，严肃审视AI发展并引导其向善。
+`Tue, 26 May 2026 19:59:41 GMT`
 
-## [Grok Build Beta版向SuperGrok用户开放](https://x.com/xai/status/2058973760708091907)
+我写了一篇新文章，探讨我们需要保留哪些人类特质，以及哪些可以交给AI，其中涉及教育、咨询领域的实验，以及最近关于文学奖的争议。
 
-`Mon, 25 May 2026 18:09:33 GMT`
+## [选择保持人性](https://www.oneusefulthing.org/p/choosing-to-stay-human)
 
-Grok Build 现已面向所有 SuperGrok 和 X Premium+ 用户推出 Beta 版。 使用 Plan Mode，通过 Imagine 创建图像和视频，并使用 CLI 构建自动化或编排器。 访问 http：//x.ai/cli 开始使用。
+`Tue, 26 May 2026 19:56:01 GMT`
 
-## [Qwen3.7-Max隐式缓存功能上线](https://x.com/Alibaba_Qwen/status/2058932656797368619)
+社交媒体平台上的帖子内容正变得越来越相似。这种趋同现象可能意味着大量内容正在被AI生成或同质化处理，引发了人们对于内容原创性与人类独特视角的讨论。
 
-`Mon, 25 May 2026 15:26:13 GMT`
+## [MiMo 2.5 Pro大幅降价，与DeepSeek V4 Pro同价](https://x.com/kimmonismus/status/2059354372643975490)
 
-✅隐式缓存现已在Qwen3.7-Max上线--自动启用，无需设置。 ⚡️开箱即用，更快更便宜。 需要更高、更确定的命中率？请尝试显式缓存。🙌 🔗最佳实践🔗：https：//www.alibabacloud.com/help/en/model-studio/explicit-cache-best-practice
+`Tue, 26 May 2026 19:21:58 GMT`
+
+小米MiMo-V2.5系列API价格永久下调，最高降幅达99%，现与DeepSeek V4 Pro同价。Token套餐同步升级，同等价格下可用token量增加5-8倍，计费规则更简单透明。所有现有用户套餐额度将全额重置。此次降价源于MiMo全栈推理优化与服务效率提升，后续将发布技术博客详述细节。MiMo-V2.5-TTS限时免费，新定价于5月26日生效。
