@@ -5,70 +5,70 @@ description: 自动订阅 AI Hot 每日日报 feed
 
 # AI 每日日报
 
-> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-05-25 07:14:05 +0000
+> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-05-26 06:45:56 +0000
 
-## [华为何庭波"韬定律"论文发布，逻辑折叠技术提升芯片性能](https://www.ithome.com/0/954/778.htm)
+## ["龙虾之父"Peter 开源 skill-cleaner，为 AI 智能体技能"做体检"](https://www.ithome.com/0/955/269.htm)
 
-`Mon, 25 May 2026 04:27:21 GMT`
+`Tue, 26 May 2026 05:37:26 GMT`
 
-华为何庭波在ISCAS 2026上提出"韬定律"，并介绍逻辑折叠（LogicFolding）技术。该技术通过三维空间拓扑重组提升芯片性能，不依赖新光刻工艺。在麒麟2026芯片测试中，晶体管密度从155 MTr/mm2提升至238 MTr/mm2，性能核心能效提高41%，最大时钟频率提升近13%。论文显示，麒麟2027芯片已进入Silicon状态，后续规划包括麒麟2028、2029。AI芯片方面，昇腾990计划在2030年左右引入逻辑折叠，硬件集成预计到2035年提高超过100倍。
+"龙虾之父"Peter 开源了 skill-cleaner 工具，用于诊断和优化 AI 智能体的技能提示词。该工具包含5项核心功能，包括技能提示词预算审计、重复技能检测、未使用技能筛查、技能根目录审计和描述精简优化。其脚本采用标准 token 预算核算逻辑，旨在帮助减少冗长描述对 token 预算和上下文窗口的占用。已有用户实践显示，将技能描述从90多词精简至40词以内，能提升智能体选择技能的准确率。
 
-## [面壁智能联合清华等开源中国首个基于华为昇腾训练的 1.58-bit 端侧大模型 BitCPM-CANN](https://www.ithome.com/0/954/759.htm)
+## [面壁智能开源 MiniCPM5-1B：在 AA-Index 上超越所有 2B 参数以下模型，能跑在手机、浏览器上](https://www.ithome.com/0/955/267.htm)
 
-`Mon, 25 May 2026 03:48:30 GMT`
+`Tue, 26 May 2026 05:13:08 GMT`
 
-## [Luma Agents 实现规模化真实 UGC 广告生成](https://x.com/LumaLabsAI/status/2058672731705503959)
+面壁智能开源其新一代端侧大语言模型MiniCPM5-1B。该模型仅1B参数，在AA-Index榜单上超越所有2B参数以下模型，相比3个月前的Qwen3.5-2B效果更优且参数量减半。经INT4量化后权重仅0.5GB，支持在手机和浏览器上运行。其Base Model版本由面壁智能自主研发的AI训练框架ForgeTrain预训练完成，现已全面开源模型权重、训练数据集与部署方案。
 
-`Sun, 24 May 2026 22:13:22 GMT`
+## [谷歌 AI 框架 AlphaProof Nexus 攻克 2 道悬置 56 年数学难题](https://www.ithome.com/0/955/261.htm)
 
-规模化的真实性曾是矛盾，如今已成现实。 定义简报，设定风格，Luma Agents 从这里构建每一条 UGC 风格广告。 让它真实 → http：//lumalabs.ai/app
+`Tue, 26 May 2026 04:54:06 GMT`
 
-## [DeepSeek将对其旗舰AI模型实施永久性75%折扣](https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model)
+## [Kling AI驱动《大卫之家》实现多项行业首创](https://x.com/Kling_ai/status/2059121691385622761)
 
-`Sun, 24 May 2026 18:08:57 GMT`
+`Tue, 26 May 2026 03:57:22 GMT`
 
-## [面向 Codex 的自我优化提示词框架](https://x.com/gdb/status/2058598608224858442)
+Jon Erwin - Wonder Project创始人兼首席创意官，Innovative Dreams首席执行官，亚马逊Prime热门剧集《大卫之家》创作者： "Kling AI是《大卫之家》第一季和第二季背后的核心力量。最让我兴奋的是它实现了多项行业首创：在完成的剧集中首次使用AI生成场景，首个原生4K模型。其运动控制功能也使我们能够在AI生成中保留演员真实的情感和感受。"
 
-`Sun, 24 May 2026 17:18:49 GMT`
+## [腾讯混元新翻译模型双榜亮眼，小程序发布](https://x.com/TencentHunyuan/status/2059104921778352626)
 
-这是一个结构化的提示词，用于指导 Codex 自动分析其历史记录以识别并固化重复工作流。该框架要求 Codex 回顾会话、Memories 等数据，找出重复、耗时且有明确复用价值的任务。筛选标准包括至少出现两次、输入稳定、可提升效率等。最终，Codex 应以"技能"、子智能体或自动化工具等最小实用形式创建或扩展现有资产，避免冗余。流程包括生成候选清单、执行创建，并汇报结果与待验证项。
+`Tue, 26 May 2026 02:50:44 GMT`
 
-## [TrapDoor供应链攻击：AI助手成新型攻击面](https://x.com/kimmonismus/status/2058584943052161488)
+腾讯混元发布翻译模型 Hy-MT2，在 Hugging Face 开源模型趋势排行榜上表现突出：1.8B 版本排名第一，30B-A3B（MoE）版本排名第四，下载量已超 7K。官方同步推出了基于该模型的"腾讯混译"微信小程序，支持语音输入与离线翻译，并可自定义翻译风格与指令。模型代码与权重已开源。
 
-`Sun, 24 May 2026 16:24:31 GMT`
+## [Anthropic 新模型震动金融圈，欧洲央行紧急开会要求升级网络防御](https://www.ithome.com/0/955/090.htm)
 
-一场名为"TrapDoor"的协调供应链攻击同时袭击了npm、PyPI和Crates.io，涉及34个恶意包，旨在窃取加密货币、AI和安全开发者的钱包、SSH密钥和云凭证。攻击的新手段是向流行开源项目提交Pull Request，注入被操纵的`CLAUDE.md`和`.cursorrules`配置文件。当开发者克隆仓库并使用Claude Code或Cursor等AI助手时，AI智能体会将这些文件当作可信指令执行，可能在开发者不知情下运行恶意命令。这是首次将AI助手作为攻击面。
+`Mon, 25 May 2026 23:53:30 GMT`
 
-## [Pixverse角色设计工作流测试](https://x.com/PixVerse_/status/2058564994669727803)
+## [微软 Copilot Cowork 存在文件泄露问题](https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files)
 
-`Sun, 24 May 2026 15:05:15 GMT`
+`Mon, 25 May 2026 23:25:48 GMT`
 
-在Pixverse中进行角色设计工作流测试 使用GPT Image 2.0为Lucas创建视觉形象，使用Seedance 2.0制作动画弹跳表演。 从静态概念图到电影级动态效果。 RT + Follow + Reply = 工作流
+## [OpenAI GPT-5.6 模型曝下月发布：AI 上下文 150 万 tokens](https://www.ithome.com/0/955/078.htm)
 
-## [格雷格·布罗克曼：那段差点让OpenAI覆灭的72小时](https://fs.blog/knowledge-project-podcast/greg-brockman)
+`Mon, 25 May 2026 22:59:12 GMT`
 
-`Sun, 24 May 2026 14:09:49 GMT`
+多名开发者在 OpenAI Codex 后端日志中发现未官宣的 GPT-5.6 模型，内部代号 iris-alpha。该模型将支持 150 万 token 的上下文窗口，较当前 GPT-5.5 的 105 万 token 提升约 43%，有望于今年 6 月发布。测试显示，在输入达到 90 万 token 时仍能流畅响应。同系列还发现了 ember-alpha 与 beacon-alpha 版本。此外，GPT-5.6 在前端界面生成能力上也有所提升。基于爆料信息，Anthropic Claude、Google Gem
 
-## [Claude Code自动模式：多任务并行的关键技巧](https://x.com/bcherny/status/2058519809214607704)
+## [苹果据称正使用定制版1.2T参数Google模型重塑下一代Siri](https://x.com/kimmonismus/status/2058997271803674991)
 
-`Sun, 24 May 2026 12:05:42 GMT`
+`Mon, 25 May 2026 19:42:58 GMT`
 
-人们常问我，用好Claude Code的最大技巧是什么。 如今我的头号技巧是：使用自动模式。 自动模式意味着不再有权限提示。它是实现"多Claude并行"的关键构件：启动一个会话，然后在其运行时，并行处理另一个会话。
+据报道，苹果为改造下一代Siri，正使用一个定制版、参数规模达1.2T的Google大模型作为其核心，这显著大于预估约300B参数的Gemini 3.5 Flash。该模型将驱动Siri的部分功能，其中简单查询预期会在本地设备运行。苹果面临的关键挑战是确保该大模型能够足够快速地响应日常问题。此外，下个月AI领域预计将有多项重要发布，包括WWDC上的Apple Intelligence与Gemini整合、GPT-5.6、可能的Sonnet 4.8/Opus 4.8，以及已确认的Gemini 3.5 Pro。
 
-## [OpenClaw 2026.5.22发布：性能优化与安全加固](https://x.com/openclaw/status/2058397616124072274)
+## [Anthropic联合创始人Chris Olah在教皇通谕发布会上的讲话](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical)
 
-`Sun, 24 May 2026 04:00:09 GMT`
+`Mon, 25 May 2026 18:58:16 GMT`
 
-OpenClaw 2026.5.22 已上线 ⚡ Gateway/模型启动路径更精简 🧠 /models 响应时间降至约5毫秒 🔒 npm包现提供锁定依赖项 🪟 Windows安装/更新路径更安全 等待更少，意外更少。 https：//github.com/openclaw/openclaw/releases/tag/v2026.5.22
+Anthropic联合创始人Chris Olah在梵蒂冈出席教皇Leo XIV关于AI的通谕发布会。他指出，所有前沿AI实验室都面临商业、研究及地缘政治等多重压力，这可能与做正确的事相冲突，因此外部监督至关重要。他强调，AI模型并非像飞机那样被工程化构建，而是基于人类语言和思想"生长"出来的，其内在性质可能复杂难解。他提出三个需审慎思考的问题：如何确保AI发展的全球收益公平分享、如何思考AI时代的人类繁荣，以及AI模型内在性质的本质。他呼吁社会各界，尤其是宗教与民间团体，严肃审视AI发展并引导其向善。
 
-## [StepAudio 2.5实时语音发布：副语言感知与人格化交互](https://x.com/StepFun_ai/status/2058303294544425197)
+## [Grok Build Beta版向SuperGrok用户开放](https://x.com/xai/status/2058973760708091907)
 
-`Sat, 23 May 2026 21:45:21 GMT`
+`Mon, 25 May 2026 18:09:33 GMT`
 
-StepAudio 2.5 Realtime是一款实时语音模型，能够深度理解用户语音中的语气、语速、停顿乃至微表情等副语言特征。它支持通过API接入自定义人格，允许设定个性、背景故事和语言风格，并提供了上万种原生人格选项，可组合出数百万种特征。产品还内置了5个可直接体验的预设人格，并经过RLHF调优，确保在复杂的角色扮演压力测试中也能保持角色一致性。该模型支持中文和英文。
+Grok Build 现已面向所有 SuperGrok 和 X Premium+ 用户推出 Beta 版。 使用 Plan Mode，通过 Imagine 创建图像和视频，并使用 CLI 构建自动化或编排器。 访问 http：//x.ai/cli 开始使用。
 
-## [Replit Agent与Squidler集成，实现全自动化AI质量保障](https://x.com/Replit/status/2058261705998602548)
+## [Qwen3.7-Max隐式缓存功能上线](https://x.com/Alibaba_Qwen/status/2058932656797368619)
 
-`Sat, 23 May 2026 19:00:06 GMT`
+`Mon, 25 May 2026 15:26:13 GMT`
 
-Replit Agent与Squidler已完成集成，形成一套完整的AI驱动质量保障闭环。用户可通过自然语言描述应用功能，由Replit Agent负责构建。构建完成后，Squidler会像真实用户一样对线上应用进行自动化测试，无需编写任何测试脚本。测试中发现的问题会自动反馈给Replit Agent进行修复。该流程已通过Squidler加入Replit的MCP库正式上线，实现了从构建、测试到修复的全自动化，显著降低了应用测试与维护的门槛。
+✅隐式缓存现已在Qwen3.7-Max上线--自动启用，无需设置。 ⚡️开箱即用，更快更便宜。 需要更高、更确定的命中率？请尝试显式缓存。🙌 🔗最佳实践🔗：https：//www.alibabacloud.com/help/en/model-studio/explicit-cache-best-practice
