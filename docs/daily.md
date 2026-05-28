@@ -5,72 +5,76 @@ description: 自动订阅 AI Hot 每日日报 feed
 
 # AI 每日日报
 
-> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-05-27 07:03:45 +0000
+> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-05-28 06:55:33 +0000
 
-## [阿里云入选Omdia智能体AI市场雷达领导者](https://x.com/alibaba_cloud/status/2059509714854007181)
+## [OpenRouter 获得1.13亿美元B轮融资](https://openrouter.ai/announcements/series-b)
 
-`Wed, 27 May 2026 05:39:14 GMT`
+`Thu, 28 May 2026 14:00:00 GMT`
 
-阿里云在Omdia的智能体AI市场雷达中被评为领导者。Omdia强调了阿里云在每一层的全栈能力，认可其是首个将整个平台围绕智能体范式进行构建的云服务商。
+AI模型聚合平台OpenRouter宣布完成1.13亿美元B轮融资。本轮融资由CapitalG领投，NVentures、ServiceNow Ventures等多家机构参投，现有投资者Andreessen Horowitz与Menlo Ventures也参与了本轮融资。
 
-## [我国将加快研究推进人工智能健康发展综合性立法、低空经济立法等](https://www.ithome.com/0/955/758.htm)
+## [阿里云DataWorks推出AI数据智能体](https://x.com/alibaba_cloud/status/2059840407618396391)
 
-`Wed, 27 May 2026 02:54:29 GMT`
+`Thu, 28 May 2026 03:33:17 GMT`
 
-## [阿里云成为PyTorch基金会白金会员](https://x.com/alibaba_cloud/status/2059453607075004835)
+🚀 认识 DataWorks Data Agent--阿里云的AI数据智能体！ 借助AI简化数据工作流，加速洞察，让数据管理更智能。 了解更多：https：//int.alibabacloud.com/m/1000413560/ #AlibabaCloud #DataWorks #AI #DataAgent #BigData #DataAnalytics
 
-`Wed, 27 May 2026 01:56:17 GMT`
+## [MuleRun登陆阿里云市场，提供全天候AI劳动力](https://x.com/alibaba_cloud/status/2059821825140367565)
 
-阿里云宣布以白金会员身份加入PyTorch基金会。作为AI基础设施全球领导者，阿里云是开源模型家族Qwen的缔造方，已在多样化硬件上大规模运行PyTorch，将为社区带来生产级工程经验。
+`Thu, 28 May 2026 02:19:27 GMT`
 
-## [Claude Code v2.1.152 更新发布](https://github.com/anthropics/claude-code/releases/tag/v2.1.152)
+在阿里云市场遇见 MuleRun--一个全天候的AI劳动力，用于研究、报告、代码、设计等。功能强大，适合个人使用；企业就绪，适合团队协作--支持SSO、RBAC、私有网络、团队知识管理和无缝集成。 想得更大。让 MuleRun 处理其余事务。 方案起价 $20/月 → https：//int.alibabacloud.com/m/1000413520/ #AlibabaCloud #AIAgents #AIWorkforce #FutureOfWork #EnterpriseAI
 
-`Wed, 27 May 2026 01:30:59 GMT`
+## [英伟达推出 AI 框架 Polar，让 Codex 跑分暴涨 594.74%](https://www.ithome.com/0/956/293.htm)
 
-Claude Code 发布 v2.1.152 版本更新。核心改进包括：`/code-review --fix` 现在会将审查建议直接应用于工作目录；技能与斜杠命令支持通过 frontmatter 的 `disallowed-tools` 移除模型工具；新增 `/reload-skills` 命令可不重启会话重新扫描技能目录；`SessionStart` 钩子现可返回 `reloadSkills： true` 重新扫描技能，并可通过 `hookSpecificOutput.sessionTitle` 设置会话标题；
+`Thu, 28 May 2026 02:14:52 GMT`
 
-## [消息称高通与字节跳动达成 AI ASIC 芯片合作，采购量在数百万颗级别](https://www.ithome.com/0/955/674.htm)
+英伟达研究团队开源了智能体强化学习框架 Polar。该框架无需重写现有智能体执行框架（如 Codex CLI、Claude Code、Qwen Code、Pi），通过在模型 API 边界放置智能体来接入 GRPO 训练。实验显示，基于 Qwen3.5-4B 模型，Polar 将 Codex 在 SWE-Bench Verified 上的 pass@1 分数从 3.8% 提升至 26.4%（增涨 594.74%）。效率上，其 prefix_merging 技术将训练步骤从 1185 次降至 218 次，速度提升约 5
 
-`Wed, 27 May 2026 01:12:31 GMT`
+## [人民日报专访华为何庭波：今年秋季的新麒麟手机芯片，性能等相比去年是"跳跃性"提升](https://www.ithome.com/0/956/274.htm)
 
-## [Code w/ Claude 伦敦活动：重塑开发体验](https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build)
+`Thu, 28 May 2026 01:24:27 GMT`
 
-`Wed, 27 May 2026 01:04:42 GMT`
+华为何庭波提出半导体新演进路径"韬（τ）定律"，以"时间缩微"（如逻辑折叠）替代"几何缩微"作为新指导原则。她表示，过去6年华为已基于此自主研发381款芯片。今年秋季将发布新的麒麟手机芯片，这是首个完整的"韬芯片"，其性能、集成度相比去年是"跳跃性"提升。
 
-在Code w/ Claude 伦敦活动上，Anthropic 宣布了 Claude Managed Agents 的两项新能力：自托管沙箱（公开测试版）和 MCP 隧道（研究预览）。这两项功能使 AI 智能体的工具执行环境与企业私有网络内的 MCP 服务器连接均可运行在客户自有基础设施或指定托管服务商处。活动还介绍了如何通过 Claude Code、优化思维预算以及模型努力级别来提升开发体验。目前，包括 Spotify、Base44 和 Legora 在内的客户已在使用这些新功能。
+## [用好 Coding Agent，重点是两头，尤其是开头的部分，如果一开始就走偏了后面怎么改都改不好。](https://x.com/dotey/status/2059773942500298934)
 
-## [Anthropic任命KiYoung Choi为韩国代表董事](https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea)
+`Wed, 27 May 2026 23:09:11 GMT`
 
-`Tue, 26 May 2026 23:34:41 GMT`
+用好 Coding Agent 的关键在于初始规划。方法是先将需求整理后，用最强模型（如 GPT-5.5、Claude Opus 4.7）分别在 Codex、Claude Code、Cursor 的 Plan 模式下生成设计方案，选择最优方案并借鉴其他版本。对于复杂计划，可将其拆分为多个 Phases 并明确要求与验证标准，形成 Markdown 文档。执行时按 Phases 进行，并辅以人工审核纠偏。最后的代码审核（Code Review）用 GPT-5.5 审核代码质量与设计符合度即可。应避免让多个智能体交叉 
 
-Anthropic宣布任命KiYoung Choi为韩国代表董事，以支持其即将在首尔开设的办公室。根据Anthropic的经济指数，韩国是Claude.ai全球最活跃的市场之一，其使用率超过人口规模预期的3.5倍，主要用于技术和创意领域。KiYoung Choi此前曾担任Snowflake韩国区总经理，在Google Cloud、Adobe等公司拥有超过30年的科技行业领导经验。他将在韩国领导市场战略，支持本地企业和初创公司应用Claude，例如法律科技公司Law&Company及韩国电信巨头SK Telecom均
+## [社会科学中的编码智能体](https://www.anthropic.com/research/coding-agents-social-sciences)
 
-## [Claude Code推出安全漏洞识别插件](https://x.com/ClaudeDevs/status/2059385239781384341)
+`Wed, 27 May 2026 23:07:32 GMT`
 
-`Tue, 26 May 2026 21:24:37 GMT`
+一项针对1260名定量社会科学家的调查显示，虽然81%的受访者用过AI聊天机器人，但仅有20%将Claude Code、Codex等编码智能体常规应用于工作。采用率存在显著差异：以男性名字命名的研究者使用率是女性研究者的两倍；顶尖大学研究者可能性高出40%。用户产出更多工作论文和基金申请，但这可能反映早期采用者自身差异。研究者对AI助力撰写可发表论文更乐观，但对重塑整个社会科学领域持保留态度。这是一项初步调查，更深入研究仍在进行中。
 
-我们为Claude Code发布了一个安全指导插件，可在编写代码时帮助识别和修复漏洞。 所有Claude Code用户均可使用。从插件市场（/plugins）安装。
+## [使用大语言模型保障源代码安全](https://claude.com/blog/using-llms-to-secure-source-code)
 
-## [Gemini Omni 视频提示词使用指南](https://x.com/GoogleAI/status/2059381218660270435)
+`Wed, 27 May 2026 22:07:31 GMT`
 
-`Tue, 26 May 2026 21:08:38 GMT`
+本文分享了使用 Claude Opus 构建威胁模型、发现代码漏洞并进行验证、分类和修复的最佳实践。其核心流程是一个六步循环：威胁建模、沙箱隔离、漏洞发现、验证、分类和修复。作者指出，漏洞发现现在易于并行化，瓶颈已转移到后续的验证与处理阶段。以他们对开源软件的扫描为例，截至2026年5月22日已披露1，596个漏洞，其中97个已修补。指南建议结合代码库文档和专家访谈来构建准确的威胁模型，以降低误报，提升发现的可利用性。
 
-Google 发布了其多模态模型 Gemini Omni 的视频生成功能使用指南。该模型可通过 Gemini 应用、Google Flow 等平台体验。指南包含五项提示词技巧：利用模型已有的现实世界知识进行简洁描述；精确控制文本在视频中的渲染与排版；使用专业镜头指令（如推拉摇移）像电影摄影师一样调度画面；通过迭代编辑高效修改视频；以及在生成中直接调整角色的动作节奏或情绪。其核心在于通过精准的提示词引导模型生成复杂且可控的视频内容。
+## [Cognition成为全球最大独立智能体实验室](https://x.com/swyx/status/2059717021944926238)
 
-## [人类与AI分工：教育咨询及文学奖争议](https://x.com/emollick/status/2059363865536668040)
+`Wed, 27 May 2026 19:23:00 GMT`
 
-`Tue, 26 May 2026 19:59:41 GMT`
+Cognition宣布已成为全球最大的独立智能体实验室。公司完成超10亿美元融资，估值达260亿美元，由Lux Capital、General Catalyst等领投。其企业使用量自年初增长超10倍，年化收入增至4.92亿美元。Cognition于两年前推出Devin，定位为首个AI软件工程师。公司强调其拥有多项领先优势，包括首个编码智能体、顶级代码审查能力等，并得到了Peter Thiel的重大投资。
 
-我写了一篇新文章，探讨我们需要保留哪些人类特质，以及哪些可以交给AI，其中涉及教育、咨询领域的实验，以及最近关于文学奖的争议。
+## [Web 更新](https://updates.midjourney.com/web-updates-5)
 
-## [选择保持人性](https://www.oneusefulthing.org/p/choosing-to-stay-human)
+`Wed, 27 May 2026 18:44:53 GMT`
 
-`Tue, 26 May 2026 19:56:01 GMT`
+对话模式在文本和语音输入方面进行了改进。语音会话开始时，可访问用户的图像提示、风格参考、侧边栏设置和最近任务。图像提示功能现可从托盘和侧边栏直接使用。在语音提交过程中，托盘中的图像将保持不变，直至用户手动移除。
 
-社交媒体平台上的帖子内容正变得越来越相似。这种趋同现象可能意味着大量内容正在被AI生成或同质化处理，引发了人们对于内容原创性与人类独特视角的讨论。
+## [OpenAI产品支持私有MCP服务器安全连接](https://x.com/OpenAIDevs/status/2059703536825565499)
 
-## [MiMo 2.5 Pro大幅降价，与DeepSeek V4 Pro同价](https://x.com/kimmonismus/status/2059354372643975490)
+`Wed, 27 May 2026 18:29:25 GMT`
 
-`Tue, 26 May 2026 19:21:58 GMT`
+您的团队可以在内部网络中保留MCP服务器，同时ChatGPT、Codex和Responses API通过仅出站HTTPS进行连接。
 
-小米MiMo-V2.5系列API价格永久下调，最高降幅达99%，现与DeepSeek V4 Pro同价。Token套餐同步升级，同等价格下可用token量增加5-8倍，计费规则更简单透明。所有现有用户套餐额度将全额重置。此次降价源于MiMo全栈推理优化与服务效率提升，后续将发布技术博客详述细节。MiMo-V2.5-TTS限时免费，新定价于5月26日生效。
+## [AI智能体的零信任安全框架](https://claude.com/blog/zero-trust-for-ai-agents)
+
+`Wed, 27 May 2026 18:06:27 GMT`
+
+Anthropic 发布了针对企业部署自主 AI 智能体的安全框架，指出前沿大语言模型正将漏洞利用周期从数月压缩至数小时。部署智能体面临双重风险：基础设施易受 AI 加速攻击，且智能体自身具备自主决策与执行能力。文章提出一个三层零信任架构（基础、高级、优化级）及八阶段实施流程，并概述了提示注入、工具投毒、记忆投毒等特有威胁。
