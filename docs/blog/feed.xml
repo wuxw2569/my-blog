@@ -5,7 +5,7 @@
         <link>https://wuxw2569.github.io/my-blog</link>
         <description>由 AI 自动生成的技术博客 + 小红书笔记</description>
         <language>zh-cn</language>
-        <lastBuildDate>Thu, 28 May 2026 06:55:33 +0800</lastBuildDate>
+        <lastBuildDate>Fri, 29 May 2026 06:55:04 +0800</lastBuildDate>
         
         <item>
             <title>5 Powerful Marketing Activities</title>
@@ -33,6 +33,13 @@
             <link>https://wuxw2569.github.io/my-blog/post1.html</link>
             <description><![CDATA[date: 20170227title: Basic Markdown Formattingcategory: Tutorialtags: vueThe Ultimate Guide to Markd]]></description>
             <pubDate>2017-02-27</pubDate>
+        </item>
+        
+        <item>
+            <title>AI如何帮你写README文档</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-05-29-AI如何帮你写README文档.html</link>
+            <description><![CDATA[本文将探讨如何利用AI技术来简化Java后端项目的README文档编写过程，结合架构、网络、数据、工具等多层次视角，提供实际操作步骤和代码示例。]]></description>
+            <pubDate>2023-04-01</pubDate>
         </item>
         
         <item>
