@@ -5,72 +5,76 @@ description: 自动订阅 AI Hot 每日日报 feed
 
 # AI 每日日报
 
-> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-05-29 06:55:04 +0000
+> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-05-30 06:23:25 +0000
 
-## [Adam's Law：用高频词写Prompt效果更好](https://x.com/berryxia/status/2060212428584202428)
+## [xAI放弃JAX GPU转向自研训练框架](https://x.com/SemiAnalysis_/status/2060571944575963482)
 
-`Fri, 29 May 2026 04:11:34 GMT`
+`Sat, 30 May 2026 04:00:09 GMT`
 
-FaceMind团队用100种语言和四大核心任务实验发现，在语义不变的前提下，使用预训练语料中出现频率更高的词汇（高频表达）来撰写提示词或进行微调，可以显著提升大语言模型的表现。这被总结为Adam's Law（文本频率定律），它为数据工程补上了"频率"这一新维度。原理在于高频表达能让模型在它最熟悉的概率空间内工作，从而优化输出质量。
+突发新闻：JAX NVIDIA GPU & XLA：GPU最大客户刚刚宣布已放弃JAX GPU，宁愿用Grok Build"氛围编程"一个C训练框架。据报道xAI的JAX堆栈MFU低于10%。NVIDIA JAX团队过去两年全部主力996专注于支持xAI却失败了，我想他们现在可以休息并兑现期权了。
 
-## [15秒动画IP预告片制作全流程分享](https://x.com/PixVerse_/status/2060184048920826340)
+## [Show HN： Tiny-vLLM--基于 C 和 CUDA 的高性能大型语言模型推理引擎](https://github.com/jmaczan/tiny-vllm)
 
-`Fri, 29 May 2026 02:18:48 GMT`
+`Sat, 30 May 2026 03:25:01 GMT`
 
-我们制作了一个15秒的动画IP预告片--从角色设定到最终视频。认识一下MILO和BUMBLE：地下邮政骑手 转发+关注+回复=我们会私信发送工作流程和提示词
+Tiny-vLLM 是一个用 C 和 CUDA 编写的高性能大语言模型推理引擎，项目代码已开源至 GitHub。
 
-## [Cursor 团队发布《开发者习惯报告》](https://x.com/shao__meng/status/2060167182777249886)
+## [阿里云与Qwen成为UEFA多年全球AI合作伙伴](https://x.com/alibaba_cloud/status/2060520586489770167)
 
-`Fri, 29 May 2026 01:11:47 GMT`
+`Sat, 30 May 2026 00:36:05 GMT`
 
-报告显示，AI正深刻改变开发工作形态。开发者周均代码产出从约3.6K行增至8.6K行，更大规模的PR（千行以上）占比上升。AI智能体在单次会话中的工具调用数增加约30%，正在处理更复杂的任务。同时，被接受的AI代码在60分钟后的留存率从约76%提升至约81%，表明更多AI生成内容进入了实际代码库。这些趋势共同指向AI已从个人辅助工具，演进为推动开发向更大规模任务与自动化基础设施发展的核心力量。
+阿里云和Qwen成为UEFA官方独家AI、云计算与电子商务合作伙伴，合作期覆盖2027/2028赛季至2032/2033赛季的UEFA男子俱乐部赛事，以及UEFA EURO 2028。阿里巴巴集团主席蔡崇信表示，将投入云计算、全栈AI及全球电商平台能力，支持赛事运营。合作将利用Qwen大语言模型部署先进AI技术，增强球迷互动与媒体内容体验，并依托阿里云基础设施打造全球沉浸式观赛体验。
 
-## [特斯拉 FSD 安全性宣称遭质疑](https://www.ithome.com/0/956/864.htm)
+## [ComfyUI现已支持OpenRouter模型直接调用](https://x.com/OpenRouter/status/2060511136932315259)
 
-`Fri, 29 May 2026 01:07:40 GMT`
+`Fri, 29 May 2026 23:58:32 GMT`
 
-特斯拉声称其全自动驾驶软件（FSD）安全性最高可达人类的10倍，但路透社调查发现此数据经不起推敲。参与训练FSD的员工表示该技术远未成熟，其安全演示高度依赖人工。统计方法被11位交通安全研究人员指出存在缺陷，例如与更广泛的联邦事故数据进行不恰当比较。相比之下，竞争对手Waymo采用了更严谨的统计方法。目前，特斯拉FSD仍需驾驶员主动监督，安全部署可能还需数年。
+现在你可以直接在ComfyUI工作流中使用你的OpenRouter模型了！ 【引用 @ComfyUI】：ComfyUI刚刚添加了@OpenRouter支持。 你不再局限于单一的大语言模型，现在可以直接在Comfy中访问20多个模型。 更多灵活性，更少摩擦，同样的工作流。 工作流链接在下方👇
 
-## [三星电子业内率先出样 HBM4E 内存](https://www.ithome.com/0/956/851.htm)
+## [这个 skill 看着不错，可将文字、URL 或文章直接生成公众号首图、小红书图文卡、教程步骤卡等视觉物料，支持 28 种布局和 10 种主题。](https://x.com/hongming731/status/2060487110906527820)
 
-`Fri, 29 May 2026 00:45:13 GMT`
+`Fri, 29 May 2026 22:23:03 GMT`
 
-## [阶跃星辰 Step 3.7 Flash 发布，聚焦智能体效率](https://x.com/StepFun_ai/status/2060149124117475791)
+claude-design-card 是一款专为中文内容创作者设计的 Skill。它能将文字、URL 或文章直接转化为可发布的视觉卡片，如公众号首图、小红书图文卡、教程步骤卡等，支持 28 种布局与 10 种主题。其核心价值在于自动化了"写完文章"后最繁琐的流程：自动提炼重点、选择版式、生成 HTML 并截图成 PNG，替代了以往手动使用 Figma 或 Canva 等工具的步骤。该工具开源，适合经常撰写相关内容的创作者尝试。
 
-`Fri, 29 May 2026 00:00:01 GMT`
+## [Codex可自主管理对话线程与并行任务](https://x.com/gdb/status/2060486309886443787)
 
-阶跃星辰（Step）发布了开源大模型 Step 3.7 Flash，主打智能体（Agent）工作流的效率。该模型在 ClawEval-1.1（67.1分）和 SimpleVQA Search（79.2分）评测中排名第一。其架构为 198B 参数的 MoE，约 11B 为活跃参数，支持 256K 上下文。模型具备多模态理解能力，能处理图像、文档并生成代码或调用工具执行任务。在工具使用方面，它致力于高可靠性，τ2-bench 得分超过 98%。Step 3.7 Flash 兼容 Claude Code、MCP 协议等工
+`Fri, 29 May 2026 22:19:52 GMT`
 
-## [llm-anthropic 0.25.1](https://simonwillison.net/2026/May/28/llm-anthropic)
+Codex用于管理Codex界面： 【引用 @guinnesschen】：如果你厌倦了管理Codex对话线程，就让Codex自己管理自己吧！Codex现在可以创建对话线程、搜索它们、整理它们、固定重要的线程，并为并行任务启动工作树。
 
-`Thu, 28 May 2026 23:54:56 GMT`
+## [ChatGPT对话目录功能现已上线](https://x.com/ChatGPTapp/status/2060467129066070182)
 
-llm-anthropic 发布 0.25.1 版本。主要更新包括：新增 Claude Opus 4.8 （`claude-opus-4.8`） 模型；为账户启用了该功能的组织新增了 `-o fast 1` 选项以使用快速模式；调整了各模型的默认 `max_tokens` 值，使其直接使用模型的最大输出长度，而非固定的 8，192。
+`Fri, 29 May 2026 21:03:39 GMT`
 
-## [别只看基准测试，要看全面表现](https://x.com/OpenRouter/status/2060142412408717518)
+对于每个始于"就问一件事"却演变成完整长篇的ChatGPT对话：目录功能现已推出。 适用于包含5条以上回复的对话。
 
-`Thu, 28 May 2026 23:33:21 GMT`
+## [Luma Agents 自动生成宣传图，输入内容即可](https://x.com/LumaLabsAI/status/2060461313713909783)
 
-不要只依赖基准测试；要看全面情况！ 试试我们的新比较页面，它还能让你可视化模型性能：https：//openrouter.ai/compare/openai/gpt-5.5/anthropic/claude-opus-4.7/anthropic/claude-opus-4.8
+`Fri, 29 May 2026 20:40:33 GMT`
 
-## [萨姆·阿尔特曼和达里奥·阿莫代伊都纷纷收回了关于AI将引发就业危机的预测](https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo)
+博客文章完成了思考。现在让宣传来发挥作用。 输入内容。定义钩子。Luma Agents 从那里构建每一张宣传图。 投入使用 → http：//lumalabs.ai/app
 
-`Thu, 28 May 2026 21:49:31 GMT`
+## [Runway API持续扩展模型与端点支持](https://x.com/runwayml/status/2060453805519765548)
 
-## [Grok Build 0.2.7 发布，新增多项功能](https://x.com/xai/status/2060102590122385460)
+`Fri, 29 May 2026 20:10:43 GMT`
 
-`Thu, 28 May 2026 20:55:06 GMT`
+我们持续为 Runway API 添加新模型和端点，以便您能将最佳生成能力直接集成到应用、产品和平台中。通过 Runway API，您可以在一个地方获得所需的所有模型，包括 Seedance 2.0、GPT Image 2、HappyHorse 1.0、Nano Banana Pro、Magnific Precision Upscaler V2 等更多内容。请通过下方链接开始使用。
 
-Grok Build 0.2.7 现已发布，包含 /usage、/login、跨子智能体共享终端，以及改进的图像理解功能。 所有更新请查看 https：//x.ai/build/changelog
+## [OpenAI推出实时翻译模型，支持70+语言输入](https://x.com/gdb/status/2060452095279415725)
 
-## [Replit Canvas：智能体设计工具发布](https://x.com/Replit/status/2060097656207413613)
+`Fri, 29 May 2026 20:03:55 GMT`
 
-`Thu, 28 May 2026 20:35:30 GMT`
+OpenAI 实时翻译功能--使用70多种输入语言说话，翻译成13种输出语言： gpt-realtime-translate 接收任意语言的语音输入，并输出目标语言的语音。 大语言模型很棒，但特定用例需要专用模型。 我们正在智能眼镜上运行此功能。
 
-最好的设计工作不会在聊天框里发生。你需要空间来探索想法、创建变体并进行迭代。 认识新的 Replit Canvas。 你的智能体设计工具，用于构建精美的网站、应用、营销资产等。
+## [LlamaIndex 团队基于 Google Agents API 构建 LlamaParse/LiteParse 智能体模板](https://x.com/googleaidevs/status/2060439904929382700)
 
-## [Gemini Omni向印度用户开放视频编辑功能](https://x.com/GeminiApp/status/2060074415304610168)
+`Fri, 29 May 2026 19:15:29 GMT`
 
-`Thu, 28 May 2026 19:03:09 GMT`
+LlamaIndex 团队基于 Google 新发布的 Agents API 构建了一个模板，使智能体能够访问 LlamaParse 和 LiteParse，从而自动处理非结构化文档。其工作流程为：配置数据与输出的 Git 仓库，将仓库克隆至智能体沙箱，安装 LiteParse CLI 与 LlamaParse SDK 及相关技能，最后通过提示词驱动智能体自主执行任务。该模板最终形成一个可直接使用 LlamaParse 和 LiteParse 处理真实世界文档的智能体。
 
-好消息！印度用户现在可以上传视频（来自相册或已保存文件），并使用Gemini Omni进行编辑和转换。快来试试，并告诉我们你的想法。
+## [参与我们的 I/O 2026 测验：该测验由 Google AI Studio 氛围编程生成](https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz)
+
+`Fri, 29 May 2026 19:00:00 GMT`
+
+Google 使用其开发工具 Google AI Studio，通过氛围编程（vibe coding）方式，创建了一个关于 Google I/O 2026 主要公告的在线测验。
