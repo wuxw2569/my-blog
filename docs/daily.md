@@ -5,74 +5,76 @@ description: 自动订阅 AI Hot 每日日报 feed
 
 # AI 每日日报
 
-> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-06-01 08:33:39 +0000
+> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-06-02 07:24:46 +0000
 
-## [英伟达和台积电将 AI 引入晶圆厂，推动半导体设计与制造发展](https://www.ithome.com/0/958/109.htm)
+## [为了不花那120刀，我把电脑清理软件做成了开源skill](https://x.com/Khazix0918/status/2061669881725309048)
 
-`Mon, 01 Jun 2026 06:13:32 GMT`
+`Tue, 02 Jun 2026 04:42:58 GMT`
 
-## [介绍Cosmos Coalition](https://runwayml.com/news/introducing-cosmos-coalition)
+作者受一条推文启发，使用Codex对自己的MacBook进行了只读存储分析，发现了B站缓存视频等大量可清理空间（激进方案超140G）。为替代收费软件CleanMyMac，作者制作并开源了一个跨平台（支持Mac/Windows）的AI清理skill。该skill会扫描文件并生成可交互的HTML报告，通过三色分级（绿灯可放心清理、黄灯需人工判断、红灯禁止动）直观展示，并提供安全执行按钮。实测清理后释放了近120G空间，相比CleanMyMac仅扫描出的15.8G，其信息更透明、建议更详细。
 
-`Mon, 01 Jun 2026 05:24:22 GMT`
+## [阶跃星辰Step 3.7 Flash发布，专为高效推理设计](https://x.com/StepFun_ai/status/2061655529731342402)
 
-Runway宣布作为创始成员加入Cosmos Coalition，该联盟与NVIDIA及多家领先AI实验室合作，旨在构建并开源面向物理AI的前沿世界模型。首个项目将由Runway与NVIDIA共同开发一个基础模型，以推动下一代开放世界模型的研究与发展。
+`Tue, 02 Jun 2026 03:45:56 GMT`
 
-## [NVIDIA与Google Cloud助力下一波AI构建者](https://blogs.nvidia.com/blog/category/enterprise/cloud-2)
+阶跃星辰发布其推理优化型模型Step 3.7 Flash。该模型为196B MoE架构，从设计之初就专注于推理效率。其采用多矩阵分解注意力机制，使KV-cache成本仅为DeepSeek模型的约22%；同时通过注意力与FFN解耦技术，实现了硬件优化的高效服务。该模型已通过Fireworks AI提供，采用Apache 2.0许可，并可用于构建智能体应用。
 
-`Mon, 01 Jun 2026 05:00:56 GMT`
+## [NVIDIA JetPack 7.2支持内存优化的边缘智能体部署](https://developer.nvidia.com/blog/deploy-agentic-ready-ai-at-the-edge-with-memory-efficiency-in-nvidia-jetpack-7-2)
 
-在Google I/O大会上，NVIDIA与Google Cloud宣布深化合作，旨在支持其联合开发者社区中超过10万名开发者。合作将重点提供NVIDIA L4 Tensor Core GPU以优化AI推理与图形工作负载，并通过支持Vertex AI平台来增强Gemini模型性能。双方还将提供开源软件工具，以简化AI应用的构建与部署流程。
+`Tue, 02 Jun 2026 02:00:00 GMT`
 
-## [NVIDIA 发布工厂运营蓝图，为工厂提供自主智能管理智能体](https://blogs.nvidia.com/blog/factory-operations-fox-blueprint-ai-brain)
+NVIDIA JetPack 7.2发布，支持一键部署开源NVIDIA NemoClaw堆栈，该堆栈为OpenClaw添加了隐私与安全控制。同时引入NVIDIA agent skills for Jetson，为Jetson设备提供智能体技能。该版本优化了内存效率，旨在加速AI代理从数字世界向物理环境的边缘部署。
 
-`Mon, 01 Jun 2026 05:00:47 GMT`
+## [Anthropic 开发者分享 Claude Code「理解验证」工作流](https://x.com/shao__meng/status/2061612512580346245)
 
-NVIDIA 在 GTC Taipei 发布了 NVIDIA 工厂运营蓝图（FOX），这是一个用于构建自主工厂管理智能体的参考设计。该蓝图基于 NVIDIA NemoClaw、AI-Q Blueprint 和 NVIDIA Nemotron 开源模型构建，旨在为工厂提供一个统一的决策层，以连接实时机器信号、质量数据和操作警报，实现快速问题解决。蓝图针对 NVIDIA DGX Station 桌面 AI 超级计算机进行了优化。首批采用者包括富士康、和硕、研华和纬创。富士康利用 FOX 和 NemoClaw 构建了 M
+`Tue, 02 Jun 2026 00:55:00 GMT`
 
-## [如何使用 NVIDIA Alpamayo 在闭环中后训练自动驾驶模型](https://developer.nvidia.com/blog/how-to-post-train-autonomous-vehicle-models-in-closed-loop-with-nvidia-alpamayo)
+Anthropic 核心开发者分享了一套用于 Claude Code 的「理解验证」工作流。该工作流将 AI 定位为"高效且睿智的教师"，成功标准不仅是完成任务，更是确保人类对问题、方案及影响有可复述、可辩护的掌握。它通过增量教学、用户复述、清单+测验等方式，围绕问题域、方案域和语境域三条轴线展开，具体包含8个可执行步骤，强调在进入下一阶段前需确认用户已真正理解。此工作流旨在对抗长会话中人类易沦为"审批按钮"的"智能体黑箱"问题，强制沉淀决策上下文，实现可审计的深度理解。
 
-`Mon, 01 Jun 2026 04:49:15 GMT`
+## [Karpathy 分享学习方法论](https://x.com/rohanpaul_ai/status/2061601689841648120)
 
-开发自动驾驶策略需要弥合训练与部署之间的鸿沟。现有的视觉-语言-动作模型虽然能推理更复杂的驾驶场景并产生更丰富的中间推理，但主要在开放循环中训练，即模型输出与真实行为直接比较，而不考虑其对环境产生的实际影响。NVIDIA Alpamayo 提供了一种在闭环环境中进行后训练的方法。
+`Tue, 02 Jun 2026 00:12:00 GMT`
 
-## [使用NVIDIA Cosmos 3开发物理AI推理、世界与行动模型](https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3)
+🎯 Andrej Karpathy 谈如何学习。
 
-`Mon, 01 Jun 2026 04:43:58 GMT`
+## [Sam Altman强调AI发展应以人为本](https://x.com/rohanpaul_ai/status/2061586179292831774)
 
-NVIDIA Cosmos 3是一款面向物理AI的前沿基础模型。它能够帮助机器人、自动驾驶车辆和智能空间理解真实世界、预测事件发展并生成适应特定环境与任务的行动。该模型融合了物理推理、世界理解与行动生成能力。
+`Mon, 01 Jun 2026 23:10:22 GMT`
 
-## [Nemotron 3 Ultra 本周即将发布](https://x.com/NVIDIAAI/status/2061305524700758050)
+Sam Altman在采访中表示，AI不应被设计为追求脱离人类需求的目标，人类必须始终处于AI发展的中心。他批判了行业内"AI将摧毁大量工作"等言论，认为人们担忧的并非AI带来的好处，而是自身在未来的角色、经济前景与自主权。他指出，AI行业的失败在于未能清晰解释人类如何在每一步保持对未来的控制权，以及如何在AI时代继续拥有充实、有意义的生活。
 
-`Mon, 01 Jun 2026 04:35:08 GMT`
+## [ChatGPT 新增长文编辑与保存功能](https://x.com/ChatGPTapp/status/2061571468992126982)
 
-Nemotron 3 Ultra 本周即将发布。 ⌛️
+`Mon, 01 Jun 2026 22:11:55 GMT`
 
-## [NVIDIA 发布 RTX Spark 及本地 AI 智能体安全与性能更新](https://blogs.nvidia.com/blog/rtx-ai-garage-computex-spark-local-agents)
+长文写作需要更多空间。 现在你可以在全屏模式下编辑更长的文章，并将其保存到你的资料库中，以便稍后继续。
 
-`Mon, 01 Jun 2026 04:30:11 GMT`
+## [Krea AI 开放 Krea 2 LoRAs 全员使用](https://x.com/krea_ai/status/2061554472925696128)
 
-NVIDIA 发布了 RTX Spark，一款专为本地 AI 智能体设计的 Windows 电脑，提供 1 petaflops AI 算力与 128GB 统一内存。其推出的 OpenShell 运行时与微软合作，基于新的 Windows 安全原语，确保智能体在设备端安全私密运行。性能方面，通过在 llama.cpp 中采用多 token 预测等优化，Qwen 3.6 和 3.5 27B 模型推理吞吐量提升最高达 2 倍，35B 模型提升 1.6 倍；多 GPU 优化使 llama.cpp 和 ComfyUI 获得最
+`Mon, 01 Jun 2026 21:04:22 GMT`
 
-## [NVIDIA Vera CPU 为AI工厂的智能体工作负载设立新标准](https://developer.nvidia.com/blog/nvidia-vera-cpu-sets-a-new-standard-for-agentic-workloads-in-ai-factories)
+Krea 2 LoRAs 现已向所有人开放。 试试下面这个 👇
 
-`Mon, 01 Jun 2026 03:59:15 GMT`
+## [Alphabet将通过发行股票筹集800亿美元用于AI支出计划](https://www.bloomberg.com/news/articles/2026-06-01/alphabet-to-raise-80-billion-in-equity-capital-for-ai-spending)
 
-NVIDIA Vera CPU 旨在为AI工厂中智能体工作负载树立新性能标杆。文章阐述了AI领域扩展规律的演变：预训练通过更大数据集、更多参数和大规模并行GPU系统扩展智能；后训练通过指令微调扩展实用性，并重新调整GPU用于生成式推理；测试时缩放则通过给模型更多生成token来提升推理能力。当前，智能体AI与强化学习正推动下一阶段的扩展。
+`Mon, 01 Jun 2026 20:50:33 GMT`
 
-## [MiniMax M3：前沿编码、100万token上下文与原生多模态一体模型](https://www.minimax.io/blog/minimax-m3)
+Alphabet正在通过发行股票等方式筹集800亿美元资金，其中包括与Berkshire Hathaway的投资协议，以资助其雄心勃勃的AI支出计划。
 
-`Mon, 01 Jun 2026 03:39:41 GMT`
+## [Replit 用单个提示词构建完整业务](https://x.com/Replit/status/2061534759520760112)
 
-MiniMax M3 是一个开源前沿模型，具备先进的编码与AI智能体能力。它支持100万token的超长上下文窗口，并采用名为MSA（MiniMax Sparse Attention）的新型稀疏注意力架构。该架构使模型在100万token上下文下的每token计算成本降至前代的1/20，预填充速度提升9倍以上，解码速度提升15倍以上。在SWE-Bench Pro编码基准上，MiniMax M3得分59.0%，超越GPT-5.5和Gemini 3.1 Pro，性能接近Opus 4.7。该模型可通过MiniMax Co
+`Mon, 01 Jun 2026 19:46:02 GMT`
 
-## [NVIDIA DSX OS 提供开放、模块化软件用于规模化运营AI工厂](https://developer.nvidia.com/blog/nvidia-dsx-os-delivers-open-modular-software-for-operating-ai-factories-at-scale)
+你能用单个提示词免费构建一个真实的业务吗？ 从今天起，在 Replit 上，答案是肯定的。 从一个提示词开始，获得一个网站、移动应用、幻灯片和发布视频。 此外，还能解锁使用 @stripe @atlas， @QuickBooks， @mercury & @doolaHQ 运营业务的福利。
 
-`Mon, 01 Jun 2026 03:36:52 GMT`
+## [Meta的AI被利用来劫持Instagram账号](https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked)
 
-NVIDIA DSX 平台为设计、模拟和构建 AI 工厂提供完整解决方案，旨在应对不断增长的智能需求。该平台通过开放、模块化的软件栈，帮助运营方更快地扩展规模、提高效率，并降低从能源、芯片、基础设施、模型到应用这五层架构的整体智能成本。
+`Mon, 01 Jun 2026 19:20:47 GMT`
 
-## [上海：支持多模态智能体开发与应用，有序推进智能驾驶在共享出行、物流运输等多场景应用](https://www.ithome.com/0/957/985.htm)
+Meta的AI聊天机器人被发现存在安全漏洞，黑客可以通过请求该AI关联一个新的电子邮件地址，从而接管目标用户的Instagram账号。该漏洞利用了AI智能体直接执行账户管理操作的能力。
 
-`Mon, 01 Jun 2026 02:16:40 GMT`
+## [佛罗里达州起诉OpenAI与Sam Altman：涉多起ChatGPT相关谋杀案](https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders)
 
-上海市人民政府办公厅印发《上海市服务业发展"十五五"规划》，提出发展AI软件技术及服务产业集群。规划支持多模态智能体开发与应用，推动智能客服等工具规模化；有序推进智能驾驶在共享出行、物流运输等多场景应用；做强算运存协同布局的智算云网络，推广模型即服务（MaaS）；并支持开发面向家庭、养老、文旅等场景的具身智能整机产品，加速机器人向通用智能与精细化服务跃升。
+`Mon, 01 Jun 2026 18:52:19 GMT`
+
+佛罗里达州对OpenAI及其CEO Sam Altman提起诉讼。该州总检察长指控Altman对人命"完全漠视"，案件与多起涉及ChatGPT的谋杀事件相关。
