@@ -5,7 +5,7 @@
         <link>https://wuxw2569.github.io/my-blog</link>
         <description>由 AI 自动生成的技术博客 + 小红书笔记</description>
         <language>zh-cn</language>
-        <lastBuildDate>Wed, 03 Jun 2026 08:15:59 +0800</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jun 2026 07:23:49 +0800</lastBuildDate>
         
         <item>
             <title>5 Powerful Marketing Activities</title>
@@ -33,6 +33,13 @@
             <link>https://wuxw2569.github.io/my-blog/post1.html</link>
             <description><![CDATA[date: 20170227title: Basic Markdown Formattingcategory: Tutorialtags: vueThe Ultimate Guide to Markd]]></description>
             <pubDate>2017-02-27</pubDate>
+        </item>
+        
+        <item>
+            <title>用AI生成并部署个人网站</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-06-04-用AI生成并部署个人网站.html</link>
+            <description><![CDATA[本文将介绍如何利用AI技术生成个人网站，并从架构、网络、数据、工具等多个层面进行部署。]]></description>
+            <pubDate>2023-04-01</pubDate>
         </item>
         
         <item>

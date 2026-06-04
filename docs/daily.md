@@ -5,76 +5,76 @@ description: 自动订阅 AI Hot 每日日报 feed
 
 # AI 每日日报
 
-> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-06-03 08:15:59 +0000
+> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-06-04 07:23:49 +0000
 
-## [Karpathy 的 llm-wiki 项目获超五千星](https://x.com/SiliconFlowAI/status/2062054848762450324)
+## [Meet OpenJarvis：一个本地优先的设备端个人AI智能体框架，支持工具、记忆与学习](https://www.marktechpost.com/2026/06/03/meet-openjarvis-a-local-first-framework-for-on-device-personal-ai-agents-with-tools-memory-and-learning)
 
-`Wed, 03 Jun 2026 06:12:41 GMT`
+`Thu, 04 Jun 2026 06:23:10 GMT`
 
-@karpathy 的 llm-wiki 在几周内获得了 5，000+ 颗星。 其理念是：停止在每个会话中重新发现知识。让一个大语言模型构建并维护一个维基，每次使用时它都会变得更智能。 以下是如何使用 @opencode + @justsisyphus OMO + SiliconFlow 构建你自己的版本 🧵
+Stanford 研究人员发布 OpenJarvis，一个完全在设备端运行推理、智能体、记忆与学习的开源框架。它将个人 AI 系统分解为五个可组合原语：Intelligence、Engine、Agents、Tools & Memory 和 Learning。该框架与最佳云端模型的性能差距在 3.2 points 以内，边际 API 成本降低约 800 倍。
 
-## [NousResearch 发布 Hermes Agent 桌面应用公测版](https://x.com/SiliconFlowAI/status/2062042813852995899)
+## [Cloudflare Radar：机器人流量首次超过人类占比57.5%](https://x.com/xiaohu/status/2062367357868355622)
 
-`Wed, 03 Jun 2026 05:24:52 GMT`
+`Thu, 04 Jun 2026 02:54:29 GMT`
 
-官方 Hermes Agent 桌面应用现已推出！
+Cloudflare Radar 实时统计显示，过去一周（5月28日至6月4日）全球所有 HTML 网页请求流量中，57.5% 来自机器人（爬虫、AI 抓取、自动化脚本），仅42.5%来自真人浏览器，机器人流量首次超过人类。按所有 HTTP 流量返回内容分类，JSON（API 机器通信）占33.1%居首，HTML 仅12%。互联网流量主体已从人类浏览网页转向机器间通信和机器人抓取。
 
-## [消息称 DeepSeek 首轮融资拟筹集 500 亿元，腾讯、宁德时代等参投](https://www.ithome.com/0/959/249.htm)
+## [NVIDIA PPISP：补偿光度变化提升3D重建](https://x.com/NVIDIAAI/status/2062358080222876041)
 
-`Wed, 03 Jun 2026 04:36:30 GMT`
+`Thu, 04 Jun 2026 02:17:37 GMT`
 
-DeepSeek 计划在首轮融资中从腾讯、宁德时代等投资方处筹集约 500 亿元人民币。融资落地后，其投后估值预计在 3500 亿至 4000 亿元。创始人梁文峰将出资 200 亿元，腾讯和宁德时代分别拟投资 100 亿元和 50 亿元，成为最大外部投资者。DeepSeek 去年凭借 V3 大模型与 R1 推理模型获得广泛认可。此次融资凸显了中国正打造从大模型到算力能源基建的全链条 AI 产业。
+辐射场的质量取决于其背后的图像。 PPISP 可帮助补偿不同拍摄之间的光度变化，使 3D 重建在光照和相机设置不完全一致时更加鲁棒。 🔗 项目：https：//nvda.ws/43JeJpk
 
-## [Satya Nadella 谈微软 Build 大会主旨演讲](https://x.com/satyanadella/status/2062022060176801826)
+## [联合国报告：2030年AI数据中心水电消耗将翻倍](https://www.ithome.com/0/959/607.htm)
 
-`Wed, 03 Jun 2026 04:02:24 GMT`
+`Thu, 04 Jun 2026 00:50:46 GMT`
 
-与我们共同构建前沿智能生态系统。 今早我在 Microsoft Build 上的主旨演讲亮点。
+联合国大学水、环境与健康研究所报告指出，受AI需求驱动，去年全球数据中心耗电448太瓦时（AI占五分之一），耗水4.5万亿升，碳排放1.89亿吨。预计到2030年，年耗电量将翻倍至945太瓦时（AI占40%），耗水增至9.3万亿升，碳排放升至3.99亿吨，占地面积从6900平方公里扩展至14500平方公里。报告警告若忽视环境成本，AI落地还将加剧土地紧张与电子废弃物问题。
 
-## [宏利香港与阿里云达成AI战略合作](https://x.com/alibaba_cloud/status/2062006591377829922)
+## [Grok模型登陆Cloudflare AI Gateway](https://x.com/xai/status/2062294202625696081)
 
-`Wed, 03 Jun 2026 03:00:56 GMT`
+`Wed, 03 Jun 2026 22:03:48 GMT`
 
-宏利香港宣布与阿里云建立战略合作伙伴关系，旨在构建一个专注于推进负责任的AI创新，并加速AI技术在业务中部署的合作框架。
+在 @Cloudflare 的 AI Gateway 上尝试 Grok 模型！
 
-## [斯坦福大学法学院研究：人工智能的表现优于法学教授](https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study)
+## [OpenClaw 2026.6.1发布：新增Windows节点与技能工坊](https://x.com/openclaw/status/2062288421406785710)
 
-`Wed, 03 Jun 2026 02:33:56 GMT`
+`Wed, 03 Jun 2026 21:40:49 GMT`
 
-斯坦福大学法学院的一项研究表明，人工智能的表现优于法学教授。该发现引发了广泛关注，在Hacker News平台获得了104个Points。
+OpenClaw 2026.6.1 已上线 🦞 🪟 原生 Windows 节点主机 🛠️ 用于自主学习型智能体的技能工坊（Skill Workshop） 📋 工作板（Workboard）编排 🧠 支持 MiniMax M3 Windows 加入集群。无需企鹅服。 https：//github.com/openclaw/openclaw/releases/tag/v2026.6.1
 
-## [Sensor Tower：OpenAI 旗下 ChatGPT 月活已破 10 亿，史上最快](https://www.ithome.com/0/959/083.htm)
+## [优步每月 1，500 美元的 AI 使用上限为 AI 工具定价提供参考](https://simonwillison.net/2026/Jun/3/uber-caps-usage)
 
-`Wed, 03 Jun 2026 01:31:15 GMT`
+`Wed, 03 Jun 2026 19:00:08 GMT`
 
-据市场情报机构 Sensor Tower 估计，OpenAI 旗下 ChatGPT 全球月活跃用户在 2025 年 5 月突破 10 亿，成为达成此里程碑最快的应用，增速超过 Google Maps、TikTok 等。同期，其竞争对手 Anthropic 的 Claude 月活达 5600 万，同比增幅约 640%，增长势头迅猛。数据显示，部分用户已开始在 Claude 与 ChatGPT 间切换使用。在达成用户里程碑之际，Anthropic 已秘密递交 IPO 申请，OpenAI 也计划筹备上市。
+优步将 AI 工具每月使用上限定为 1500 美元，这一做法为行业 AI 工具定价提供了有价值的参考信号。
 
-## [智能体工程实战窍门全录](https://x.com/shao__meng/status/2061974983094755575)
+## [世界模型的功能分类](https://x.com/drfeifei/status/2062247238143996275)
 
-`Wed, 03 Jun 2026 00:55:20 GMT`
+`Wed, 03 Jun 2026 18:57:10 GMT`
 
-该内容源自@mvanhorn的分享，介绍了"智能体工程"如何重塑软件开发。其核心是从"人主导编码"转向"人主导方向、智能体执行"，中心从IDE变为终端与计划文件。方法论遵循Research → Plan → Work循环，核心是让plan.md约束智能体行为。分享者总结了22条实战技巧，涵盖规划、并行执行、输入方式、远程控制等方面，并列出了完整的工具栈。
+World Labs团队与李飞飞发文，梳理"世界模型"这一被滥用的术语。对比语言模型学习文本统计，世界模型学习空间与时间统计（如光照、物理规律）。基于部分可观马尔可夫决策过程（POMDP）框架，智能体通过动作影响世界状态，观测是部分视图。当前被称为"世界模型"的不同系统本质上是同一循环的不同投影：第一类为渲染器，输出给人眼看的像素，以视觉保真度为核心。文章着重于概念分层，未给出具体模型名、参数或基准分数。
 
-## [NVIDIA 推出 NemoClaw 平台，助力工业软件厂商构建自主 AI 工程师](https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw)
+## [洪水韧性新篇章：Google 开源水文建模框架](https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework)
 
-`Tue, 02 Jun 2026 22:00:58 GMT`
+`Wed, 03 Jun 2026 18:49:39 GMT`
 
-在 COMPUTEX 上，NVIDIA 发布了 NemoClaw 平台，这是一个用于构建专业、长时间运行 AI 智能体的开放蓝图。该平台提供安全运行时、前沿模型支持以及多种编排框架集成选项，可通过 DGX Spark、数据中心或云端部署。其核心开源运行时 OpenShell 实施基于策略的安全管控，规范智能体对文件、网络和工具的访问。Cadence、达索系统、西门子、Synopsys 等十多家工业软件厂商正基于 NemoClaw 构建用于 CAE 和 EDA 工作流的自主 AI 工程师，旨在将原本需数周的仿真与设计
+Google Research 在 GitHub 开源了其水文建模框架，这是一个基于 PyTorch 的 Python 包，采用与 Flood Hub 河段洪水预报相同的模型架构和训练数据。该框架允许研究者和预报员训练 AI 洪水预报模型、添加新模型与数据，并已与捷克水文气象研究所（CHMI）等合作测试。开放模型架构和训练管线旨在让各国气象水文部门在保留数据完全控制权的同时，整合基于 AI 的洪水预报。
 
-## [微软研究：Aurora天气预报速度超传统超算数千倍](https://x.com/MSFTResearch/status/2061927189977727450)
+## [黄仁勋与纳德拉共议智能体AI时代](https://x.com/nvidia/status/2062228974273716457)
 
-`Tue, 02 Jun 2026 21:45:25 GMT`
+`Wed, 03 Jun 2026 17:44:36 GMT`
 
-天气预报速度比传统超级计算机快数千倍。听听Kenji Takeda在#MSBuild微软研究实验室关于Aurora的分享。了解更多：https：//msft.it/6018vjGUA
+智能体AI时代来了。 从台北，黄仁勋与@satyanadella共同出席#MSBuild，展示NVIDIA与@Microsoft如何携手构建，从Windows设备到规模化AI工厂。 ▶️ 观看对话：https：//nvda.ws/4uefQbs
 
-## [Anthropic支持美国AI行政令实施](https://x.com/AnthropicAI/status/2061924580222968183)
+## [Ideogram v4.0 发布：2K 分辨率和 JSON 提示支持](https://x.com/krea_ai/status/2062227837130887567)
 
-`Tue, 02 Jun 2026 21:35:03 GMT`
+`Wed, 03 Jun 2026 17:40:05 GMT`
 
-这项行政令是加强美国AI领导地位的重要一步。 我们期待与白宫合作，支持其实施。 https：//www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+介绍 Ideogram v4.0。 原生 2K 分辨率，出色的文字渲染，支持 JSON 提示词。 立即在 Krea 中体验。
 
-## [Google DeepMind 开源科学智能体工具包](https://x.com/googleaidevs/status/2061924472245153863)
+## [Anthropic 用 Claude 赋能自助数据分析](https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude)
 
-`Tue, 02 Jun 2026 21:34:37 GMT`
+`Wed, 03 Jun 2026 17:23:16 GMT`
 
-构建用于科学发现的自主智能体？🧬🤖 @GoogleDeepMind Science Skills 现已在 GitHub 上发布。我们已开源这个专用工具包，以科学基础和更高的 token 效率加速您的智能体工作流。 立即下载 ↓ https：//github.com/google-deepmind/science-skills
+Anthropic 使用 Claude 自动化了 95% 的业务分析查询，整体准确率约 95%。其关键在于构建智能体分析栈（agentic analytics stack），通过数据基础层、维护验证流程和技能（skills）分别解决概念-实体歧义、数据过时和检索失败三大错误来源。相比编码场景，数据分析的难点在于将用户问题映射到正确的数据实体，而执行 SQL 反而是简单的。Anthropic 的数据科学团队因此得以专注于因果建模、预测和机器学习等战略工作。
