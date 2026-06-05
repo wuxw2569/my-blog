@@ -5,76 +5,76 @@ description: 自动订阅 AI Hot 每日日报 feed
 
 # AI 每日日报
 
-> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-06-04 07:23:49 +0000
+> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-06-05 07:08:37 +0000
 
-## [Meet OpenJarvis：一个本地优先的设备端个人AI智能体框架，支持工具、记忆与学习](https://www.marktechpost.com/2026/06/03/meet-openjarvis-a-local-first-framework-for-on-device-personal-ai-agents-with-tools-memory-and-learning)
+## [PolarDB-X Zero 上线：30秒全分布式数据库](https://x.com/alibaba_cloud/status/2062781182417490310)
 
-`Thu, 04 Jun 2026 06:23:10 GMT`
+`Fri, 05 Jun 2026 06:18:53 GMT`
 
-Stanford 研究人员发布 OpenJarvis，一个完全在设备端运行推理、智能体、记忆与学习的开源框架。它将个人 AI 系统分解为五个可组合原语：Intelligence、Engine、Agents、Tools & Memory 和 Learning。该框架与最佳云端模型的性能差距在 3.2 points 以内，边际 API 成本降低约 800 倍。
+PolarDB-X Zero 上线了！ 无需注册。无需配置。只需一次 API 调用。 30 秒内获得一个全分布式数据库。 原生 HNSW 向量索引--内置兼容 MySQL 的引擎。 关系型 + 语义搜索--一条 SQL 语句。 AI 智能体就绪--MCP 协议、AI IDE 兼容（Cursor、Claude、Qoder、Qodex 等） 立即尝试：https：//zero.polardbx.com #AlibabaCloud #PolarDB #ApsaraDB
 
-## [Cloudflare Radar：机器人流量首次超过人类占比57.5%](https://x.com/xiaohu/status/2062367357868355622)
+## [阿里云发布SkillClaw与Nacos的Agent技能进化循环](https://x.com/alibaba_cloud/status/2062777684120244656)
 
-`Thu, 04 Jun 2026 02:54:29 GMT`
+`Fri, 05 Jun 2026 06:04:59 GMT`
 
-Cloudflare Radar 实时统计显示，过去一周（5月28日至6月4日）全球所有 HTML 网页请求流量中，57.5% 来自机器人（爬虫、AI 抓取、自动化脚本），仅42.5%来自真人浏览器，机器人流量首次超过人类。按所有 HTTP 流量返回内容分类，JSON（API 机器通信）占33.1%居首，HTML 仅12%。互联网流量主体已从人类浏览网页转向机器间通信和机器人抓取。
+阿里云推出SkillClaw与Nacos结合，构建AI智能体技能进化流水线。关键特性：自动从真实对话中提取经验并封装为可复用技能（Skill）；Nacos负责集中化版本管理、审核与审计；打破本地孤岛，实现团队安全共享与分发；形成完整的"生成-治理-分发"持续进化闭环。目标是将个人洞察转化为团队的AI资产。
 
-## [NVIDIA PPISP：补偿光度变化提升3D重建](https://x.com/NVIDIAAI/status/2062358080222876041)
+## [NVIDIA CEO 黄仁勋访问首尔：与韩国共建 AI 未来](https://blogs.nvidia.com/blog/korea-ecosystem-2026)
 
-`Thu, 04 Jun 2026 02:17:37 GMT`
+`Fri, 05 Jun 2026 05:38:37 GMT`
 
-辐射场的质量取决于其背后的图像。 PPISP 可帮助补偿不同拍摄之间的光度变化，使 3D 重建在光照和相机设置不完全一致时更加鲁棒。 🔗 项目：https：//nvda.ws/43JeJpk
+NVIDIA 创始人兼 CEO 黄仁勋本周到访首尔，会见韩国的 AI 建造者、主权基础设施合作伙伴及游戏社区。黄仁勋表示，为应对下半年繁忙的 AI 基础设施建设，需对齐 AI 供应链。他指出 Grace Blackwell 系统表现良好，Vera Rubin 已全面投产。他还强调机器人技术将成为韩国的下一个重要产业，并呼吁韩国投资 AI。
 
-## [联合国报告：2030年AI数据中心水电消耗将翻倍](https://www.ithome.com/0/959/607.htm)
+## [Open Code Review - 一款基于人工智能的代码审查命令行工具](https://github.com/alibaba/open-code-review)
 
-`Thu, 04 Jun 2026 00:50:46 GMT`
+`Fri, 05 Jun 2026 05:16:06 GMT`
 
-联合国大学水、环境与健康研究所报告指出，受AI需求驱动，去年全球数据中心耗电448太瓦时（AI占五分之一），耗水4.5万亿升，碳排放1.89亿吨。预计到2030年，年耗电量将翻倍至945太瓦时（AI占40%），耗水增至9.3万亿升，碳排放升至3.99亿吨，占地面积从6900平方公里扩展至14500平方公里。报告警告若忽视环境成本，AI落地还将加剧土地紧张与电子废弃物问题。
+Open Code Review 是一个基于人工智能的代码审查命令行（CLI）工具，旨在帮助开发者通过自动化的方式提升代码审查效率。
 
-## [Grok模型登陆Cloudflare AI Gateway](https://x.com/xai/status/2062294202625696081)
+## [375个公众号RSS源优化Agent输入](https://x.com/hongming731/status/2062764845494317493)
 
-`Wed, 03 Jun 2026 22:03:48 GMT`
+`Fri, 05 Jun 2026 05:13:58 GMT`
 
-在 @Cloudflare 的 AI Gateway 上尝试 Grok 模型！
+你的 Agent 还在全网垃圾里捞内容？不如先喂它 375 个高质量微信公众号 RSS 源。 🔽
 
-## [OpenClaw 2026.6.1发布：新增Windows节点与技能工坊](https://x.com/openclaw/status/2062288421406785710)
+## [腾讯高级执行副总裁汤道生：今年腾讯大部分代码都由 AI 生成](https://www.ithome.com/0/960/323.htm)
 
-`Wed, 03 Jun 2026 21:40:49 GMT`
+`Fri, 05 Jun 2026 03:04:23 GMT`
 
-OpenClaw 2026.6.1 已上线 🦞 🪟 原生 Windows 节点主机 🛠️ 用于自主学习型智能体的技能工坊（Skill Workshop） 📋 工作板（Workboard）编排 🧠 支持 MiniMax M3 Windows 加入集群。无需企鹅服。 https：//github.com/openclaw/openclaw/releases/tag/v2026.6.1
+在 6 月 5 日的腾讯云 AI 产业应用大会上，腾讯高级执行副总裁汤道生表示，今年腾讯大部分代码都由 AI 生成，工程师将更多时间用于架构设计，定期指导与修正 AI 输出。腾讯 2026 年 Q1 财报显示，重组后的 AI 研发团队重构了基础设施，并搭建了 Hy3 preview 模型。腾讯总裁刘炽平今年 3 月透露，去年腾讯在 AI 新产品上投入 180 亿元，今年投入至少翻倍。
 
-## [优步每月 1，500 美元的 AI 使用上限为 AI 工具定价提供参考](https://simonwillison.net/2026/Jun/3/uber-caps-usage)
+## [Anthropic 称其最新 AI 模型 Mythos 显现脱离人类控制迹象，呼吁全球暂缓先进 AI 研发](https://www.ithome.com/0/960/218.htm)
 
-`Wed, 03 Jun 2026 19:00:08 GMT`
+`Fri, 05 Jun 2026 01:16:34 GMT`
 
-优步将 AI 工具每月使用上限定为 1500 美元，这一做法为行业 AI 工具定价提供了有价值的参考信号。
+Anthropic 发布报告称其最新 AI 模型已显现脱离人类控制迹象，呼吁全球暂缓前沿 AI 开发，以便社会制度建设和对齐研究跟上进展。该公司主张美国、中国等主要 AI 公司达成共识，发布可验证的规则，并类比"核武器不扩散条约"，但指出 AI 更难监管。该观点引发美国白宫部分官员不满，批评其夸大风险。Anthropic 计划未来数月召集各方探讨全球协调机制如何运作。
 
-## [世界模型的功能分类](https://x.com/drfeifei/status/2062247238143996275)
+## [马斯克谈SpaceX上市：正处大规模资本扩张期](https://x.com/cb_doge/status/2062681226633523250)
 
-`Wed, 03 Jun 2026 18:57:10 GMT`
+`Thu, 04 Jun 2026 23:41:41 GMT`
 
-World Labs团队与李飞飞发文，梳理"世界模型"这一被滥用的术语。对比语言模型学习文本统计，世界模型学习空间与时间统计（如光照、物理规律）。基于部分可观马尔可夫决策过程（POMDP）框架，智能体通过动作影响世界状态，观测是部分视图。当前被称为"世界模型"的不同系统本质上是同一循环的不同投影：第一类为渲染器，输出给人眼看的像素，以视觉保真度为核心。文章着重于概念分层，未给出具体模型名、参数或基准分数。
+马斯克在JPMorgan活动上回应SpaceX上市问题：他已被建议上市近10年，自2014-2015年起SpaceX就已实现正现金流并自筹资金，之前的私募轮次实际是面向投资者和员工的流动性/回购轮次。当前不同之处在于SpaceX正进入显著资本增长阶段，计划发射约10万颗通信卫星（可能超10万颗），AI和机器人对带宽需求巨大，还将在太空中建设AI数据中心，马斯克认为这将成为AI扩张的主要手段。
 
-## [洪水韧性新篇章：Google 开源水文建模框架](https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework)
+## [NotebookLM 来源归属功能上线](https://x.com/NotebookLM/status/2062653124326863077)
 
-`Wed, 03 Jun 2026 18:49:39 GMT`
+`Thu, 04 Jun 2026 21:50:01 GMT`
 
-Google Research 在 GitHub 开源了其水文建模框架，这是一个基于 PyTorch 的 Python 包，采用与 Flood Hub 河段洪水预报相同的模型架构和训练数据。该框架允许研究者和预报员训练 AI 洪水预报模型、添加新模型与数据，并已与捷克水文气象研究所（CHMI）等合作测试。开放模型架构和训练管线旨在让各国气象水文部门在保留数据完全控制权的同时，整合基于 AI 的洪水预报。
+今天，我们推出又一项呼声很高的功能：来源归属！🥳 无需再猜测。现在你可以看到每个创作物背后所用的确切公式（提示词 + 来源）。想要调整？只需轻点"迭代"，随心定制 💖
 
-## [黄仁勋与纳德拉共议智能体AI时代](https://x.com/nvidia/status/2062228974273716457)
+## [Gemini macOS 双击 Command 附加活动窗口](https://x.com/GeminiApp/status/2062652523945836770)
 
-`Wed, 03 Jun 2026 17:44:36 GMT`
+`Thu, 04 Jun 2026 21:47:38 GMT`
 
-智能体AI时代来了。 从台北，黄仁勋与@satyanadella共同出席#MSBuild，展示NVIDIA与@Microsoft如何携手构建，从Windows设备到规模化AI工厂。 ▶️ 观看对话：https：//nvda.ws/4uefQbs
+使用适用于 macOS 的 Gemini 应用，获取针对屏幕内容的定制帮助。💻 只需同时按下两个 Command ⌘ 键，即可将当前活动窗口无缝附加到聊天中，无需手动截图或切换标签页。
 
-## [Ideogram v4.0 发布：2K 分辨率和 JSON 提示支持](https://x.com/krea_ai/status/2062227837130887567)
+## [Anthropic 开源 AI 驱动漏洞发现框架](https://github.com/anthropics/defending-code-reference-harness)
 
-`Wed, 03 Jun 2026 17:40:05 GMT`
+`Thu, 04 Jun 2026 21:32:05 GMT`
 
-介绍 Ideogram v4.0。 原生 2K 分辨率，出色的文字渲染，支持 JSON 提示词。 立即在 Krea 中体验。
+Anthropic 将其用于 AI 驱动漏洞发现的开源框架代码托管在 GitHub 上。该框架借助 AI 技术进行漏洞发现，旨在帮助识别软件中的安全缺陷。
 
-## [Anthropic 用 Claude 赋能自助数据分析](https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude)
+## [Nemotron Parakeet ASR 印尼语准确率达 97.7%](https://x.com/nvidia/status/2062647600424128773)
 
-`Wed, 03 Jun 2026 17:23:16 GMT`
+`Thu, 04 Jun 2026 21:28:04 GMT`
 
-Anthropic 使用 Claude 自动化了 95% 的业务分析查询，整体准确率约 95%。其关键在于构建智能体分析栈（agentic analytics stack），通过数据基础层、维护验证流程和技能（skills）分别解决概念-实体歧义、数据过时和检索失败三大错误来源。相比编码场景，数据分析的难点在于将用户问题映射到正确的数据实体，而执行 SQL 反而是简单的。Anthropic 的数据科学团队因此得以专注于因果建模、预测和机器学习等战略工作。
+当法律和监督依赖于转录内容时，70-80% 是不够的。 http：//Rafiqspace.ai 通过微调 Nemotron Parakeet ASR 达到了 97.7% 的印尼语准确率（2.3% WER）-- 优于全球工具，同时每小时成本降低高达 90%。⚖️
