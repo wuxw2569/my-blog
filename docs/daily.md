@@ -5,76 +5,76 @@ description: 自动订阅 AI Hot 每日日报 feed
 
 # AI 每日日报
 
-> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-06-05 07:08:37 +0000
+> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-06-06 06:30:47 +0000
 
-## [PolarDB-X Zero 上线：30秒全分布式数据库](https://x.com/alibaba_cloud/status/2062781182417490310)
+## [PixelDiT入选CVPR2026最佳论文决赛](https://x.com/NVIDIAAI/status/2063034422698389625)
 
-`Fri, 05 Jun 2026 06:18:53 GMT`
+`Fri, 05 Jun 2026 23:05:10 GMT`
 
-PolarDB-X Zero 上线了！ 无需注册。无需配置。只需一次 API 调用。 30 秒内获得一个全分布式数据库。 原生 HNSW 向量索引--内置兼容 MySQL 的引擎。 关系型 + 语义搜索--一条 SQL 语句。 AI 智能体就绪--MCP 协议、AI IDE 兼容（Cursor、Claude、Qoder、Qodex 等） 立即尝试：https：//zero.polardbx.com #AlibabaCloud #PolarDB #ApsaraDB
+被选为 #CVPR2026 最佳论文决赛作品：来自 NVIDIA Research 的 PixelDiT 在大多数图像生成模型中，预训练的自编码器会在任何扩散发生前压缩图像，导致质量损失在整个流程中累积。 PixelDiT，即像素扩散变换器，完全去掉了这一步骤。它是一个单阶段模型，直接在像素空间中端到端地学习扩散过程。
 
-## [阿里云发布SkillClaw与Nacos的Agent技能进化循环](https://x.com/alibaba_cloud/status/2062777684120244656)
+## [用Qwen2.5-3B构建多智能体经济体：工程报告](https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim)
 
-`Fri, 05 Jun 2026 06:04:59 GMT`
+`Fri, 05 Jun 2026 22:18:46 GMT`
 
-阿里云推出SkillClaw与Nacos结合，构建AI智能体技能进化流水线。关键特性：自动从真实对话中提取经验并封装为可复用技能（Skill）；Nacos负责集中化版本管理、审核与审计；打破本地孤岛，实现团队安全共享与分发；形成完整的"生成-治理-分发"持续进化闭环。目标是将个人洞察转化为团队的AI资产。
+开发者用Qwen2.5-3B构建了五人森林生物多智能体经济体，每个智能体独立运行，通过vLLM部署在Modal，以Gradio为交互窗口。3B模型在100%调用中输出有效JSON，但经济判断能力弱。通过设计稀缺性（食物品种限制、易腐坏、冬季燃料危机）和优化提示词（禁止买入自产物品、给出示例）提升决策质量。15轮模拟中，蜜价从10跌至3、柴价从4涨至7、财富基尼系数从0.14扩至0.38。项目展示了小模型可靠格式化与不可靠推理之间的工程填补。
 
-## [NVIDIA CEO 黄仁勋访问首尔：与韩国共建 AI 未来](https://blogs.nvidia.com/blog/korea-ecosystem-2026)
+## [Arena 发布真实世界 AI 智能体排行榜 Agent Arena](https://x.com/rohanpaul_ai/status/2063018358795300982)
 
-`Fri, 05 Jun 2026 05:38:37 GMT`
+`Fri, 05 Jun 2026 22:01:20 GMT`
 
-NVIDIA 创始人兼 CEO 黄仁勋本周到访首尔，会见韩国的 AI 建造者、主权基础设施合作伙伴及游戏社区。黄仁勋表示，为应对下半年繁忙的 AI 基础设施建设，需对齐 AI 供应链。他指出 Grace Blackwell 系统表现良好，Vera Rubin 已全面投产。他还强调机器人技术将成为韩国的下一个重要产业，并呼吁韩国投资 AI。
+Arena 推出基于真实用户任务的智能体排行榜，评估模型在代码编写、应用构建、文档分析等工作中的表现，而非孤立基准。排行榜基于30万+任务、200万+工具调用和4000万行代码，综合任务成功、纠正遵从性、错误恢复、用户表扬与抱怨、工具幻觉等信号。前三名：GPT-5.5 High（+10.7%）、Claude Opus 4.7 Thinking（+9.5%）、GPT-5.4 High（+8.9%）。
 
-## [Open Code Review - 一款基于人工智能的代码审查命令行工具](https://github.com/alibaba/open-code-review)
+## [Apollo 敲定 350 亿美元债务融资，为 Anthropic 采购 AI 芯片](https://www.bloomberg.com/news/articles/2026-06-05/apollo-wraps-up-35-billion-debt-to-buy-ai-chips-for-anthropic)
 
-`Fri, 05 Jun 2026 05:16:06 GMT`
+`Fri, 05 Jun 2026 21:02:29 GMT`
 
-Open Code Review 是一个基于人工智能的代码审查命令行（CLI）工具，旨在帮助开发者通过自动化的方式提升代码审查效率。
+Apollo Global Management 和 Blackstone 已为 Anthropic 敲定 350 亿美元融资方案，用于扩充其 AI 基础设施。这是人工智能竞赛中最新的一笔巨额交易。
 
-## [375个公众号RSS源优化Agent输入](https://x.com/hongming731/status/2062764845494317493)
+## [SpaceX与Google达成云计算新协议](https://x.com/rohanpaul_ai/status/2063000834045313314)
 
-`Fri, 05 Jun 2026 05:13:58 GMT`
+`Fri, 05 Jun 2026 20:51:42 GMT`
 
-你的 Agent 还在全网垃圾里捞内容？不如先喂它 375 个高质量微信公众号 RSS 源。 🔽
+SpaceX 刚刚披露了一份与 Google 的新云服务协议。 Google 将每月向 SpaceX 支付 9.2 亿美元（约合每年 110 亿美元），用于 xAI 数据中心的计算能力。 这再次表明，AI 算力正成为一种战略性商品，就像发射能力或能源一样，而那些能够为庞大的 GPU 集群提供资金、电力、冷却和运营的公司，可能会在其原有业务之外获得巨大的杠杆优势。
 
-## [腾讯高级执行副总裁汤道生：今年腾讯大部分代码都由 AI 生成](https://www.ithome.com/0/960/323.htm)
+## [谷歌推出基于 Gemini Enterprise Agent Platform 的 Agentic RAG 框架](https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag)
 
-`Fri, 05 Jun 2026 03:04:23 GMT`
+`Fri, 05 Jun 2026 20:30:02 GMT`
 
-在 6 月 5 日的腾讯云 AI 产业应用大会上，腾讯高级执行副总裁汤道生表示，今年腾讯大部分代码都由 AI 生成，工程师将更多时间用于架构设计，定期指导与修正 AI 输出。腾讯 2026 年 Q1 财报显示，重组后的 AI 研发团队重构了基础设施，并搭建了 Hy3 preview 模型。腾讯总裁刘炽平今年 3 月透露，去年腾讯在 AI 新产品上投入 180 亿元，今年投入至少翻倍。
+Google Research 与 Google Cloud 合作推出跨语料库检索（Cross-Corpus Retrieval）框架，作为 Gemini Enterprise Agent Platform 的 Agentic RAG。该多智能体工作流将复杂企业查询分解为子任务，通过规划、重写和路由，迭代搜索多个数据源直至获得充分上下文，再生成可靠回答。与标准 RAG 相比，在事实性数据集上准确率最高提升 34%；在多个领域特定内部数据集上也实现了更好的接地与推理准确性。
 
-## [Anthropic 称其最新 AI 模型 Mythos 显现脱离人类控制迹象，呼吁全球暂缓先进 AI 研发](https://www.ithome.com/0/960/218.htm)
+## [微软Project Mosaic：micro-LED光学互连技术](https://x.com/MSFTResearch/status/2062983588606320714)
 
-`Fri, 05 Jun 2026 01:16:34 GMT`
+`Fri, 05 Jun 2026 19:43:10 GMT`
 
-Anthropic 发布报告称其最新 AI 模型已显现脱离人类控制迹象，呼吁全球暂缓前沿 AI 开发，以便社会制度建设和对齐研究跟上进展。该公司主张美国、中国等主要 AI 公司达成共识，发布可验证的规则，并类比"核武器不扩散条约"，但指出 AI 更难监管。该观点引发美国白宫部分官员不满，批评其夸大风险。Anthropic 计划未来数月召集各方探讨全球协调机制如何运作。
+微软Azure CTO Mark Russinovich在Build 2026上介绍Project Mosaic，这是微软剑桥研究院的实验性光学互连技术，采用micro-LED实现低功耗、高速数据传输。高级研究员Kaoutar Benyahya现场演示单个LED调制形成字母，证明概念具备实时响应能力。
 
-## [马斯克谈SpaceX上市：正处大规模资本扩张期](https://x.com/cb_doge/status/2062681226633523250)
+## [Anthropic：让Claude成为化学家](https://www.anthropic.com/research/making-claude-a-chemist)
 
-`Thu, 04 Jun 2026 23:41:41 GMT`
+`Fri, 05 Jun 2026 19:33:26 GMT`
 
-马斯克在JPMorgan活动上回应SpaceX上市问题：他已被建议上市近10年，自2014-2015年起SpaceX就已实现正现金流并自筹资金，之前的私募轮次实际是面向投资者和员工的流动性/回购轮次。当前不同之处在于SpaceX正进入显著资本增长阶段，计划发射约10万颗通信卫星（可能超10万颗），AI和机器人对带宽需求巨大，还将在太空中建设AI数据中心，马斯克认为这将成为AI扩张的主要手段。
+Anthropic与顶尖化学家合作，提升Claude在化学领域的实用性。首个白皮书测试Claude在NMR谱图分析上的表现：在20个化合物上，对比Claude Opus 4.7、Opus 4.6、Sonnet 4.6与ChemDraw、MestReNova的正向预测（从结构预测谱图）和反向结构解析（从实验谱图推断结构）能力。所有化合物选自模型训练截止日期后发布的ChemRxiv预印本，以避免选择偏差。
 
-## [NotebookLM 来源归属功能上线](https://x.com/NotebookLM/status/2062653124326863077)
+## [五角大楼正运营着一个针对拉丁美洲的人工智能宣传机器](https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon)
 
-`Thu, 04 Jun 2026 21:50:01 GMT`
+`Fri, 05 Jun 2026 19:23:20 GMT`
 
-今天，我们推出又一项呼声很高的功能：来源归属！🥳 无需再猜测。现在你可以看到每个创作物背后所用的确切公式（提示词 + 来源）。想要调整？只需轻点"迭代"，随心定制 💖
+据 The Intercept 6月5日报道，美国五角大楼正在运营一个针对拉丁美洲的人工智能宣传机器（AI propaganda mill）。报道指出，该机器利用 AI 技术生成并传播宣传内容，目标为拉丁美洲地区。该消息在 Hacker News 上获得 100 点热度。
 
-## [Gemini macOS 双击 Command 附加活动窗口](https://x.com/GeminiApp/status/2062652523945836770)
+## [Claude 是否增加了 rsync 中的错误？](https://alexispurslane.github.io/rsync-analysis)
 
-`Thu, 04 Jun 2026 21:47:38 GMT`
+`Fri, 05 Jun 2026 19:07:35 GMT`
 
-使用适用于 macOS 的 Gemini 应用，获取针对屏幕内容的定制帮助。💻 只需同时按下两个 Command ⌘ 键，即可将当前活动窗口无缝附加到聊天中，无需手动截图或切换标签页。
+一篇 Hacker News 热门帖子（105 分）提出了 Claude 是否导致 rsync 工具中 bug 增加的问题，并附有分析链接。
 
-## [Anthropic 开源 AI 驱动漏洞发现框架](https://github.com/anthropics/defending-code-reference-harness)
+## [智能体协作应如同事般对话和手势](https://x.com/mntruell/status/2062955210897801520)
 
-`Thu, 04 Jun 2026 21:32:05 GMT`
+`Fri, 05 Jun 2026 17:50:24 GMT`
 
-Anthropic 将其用于 AI 驱动漏洞发现的开源框架代码托管在 GitHub 上。该框架借助 AI 技术进行漏洞发现，旨在帮助识别软件中的安全缺陷。
+与 AI 智能体协作应感觉像与同事协作一样。你应能"与它们交谈"--不仅通过文本聊天，还能一起对着屏幕做手势、实时对话等。
 
-## [Nemotron Parakeet ASR 印尼语准确率达 97.7%](https://x.com/nvidia/status/2062647600424128773)
+## [Google Colab CLI 发布](https://developers.googleblog.com/introducing-the-google-colab-cli)
 
-`Thu, 04 Jun 2026 21:28:04 GMT`
+`Fri, 05 Jun 2026 17:12:11 GMT`
 
-当法律和监督依赖于转录内容时，70-80% 是不够的。 http：//Rafiqspace.ai 通过微调 Nemotron Parakeet ASR 达到了 97.7% 的印尼语准确率（2.3% WER）-- 优于全球工具，同时每小时成本降低高达 90%。⚖️
+Google 推出 Colab 命令行界面（CLI），允许开发者和 AI 智能体将本地终端连接到远程 Colab 运行时，实现无摩擦执行。该轻量级 CLI 支持请求高性能 GPU、远程运行本地 Python 脚本，并检索工件日志或模型（如微调后的 Gemma 3 适配器）。工具可直接集成到标准终端环境，可被 Antigravity、Claude Code 等 AI 智能体调用以管理复杂机器学习流水线。
