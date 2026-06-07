@@ -5,76 +5,76 @@ description: 自动订阅 AI Hot 每日日报 feed
 
 # AI 每日日报
 
-> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-06-06 06:30:47 +0000
+> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-06-07 07:05:10 +0000
 
-## [PixelDiT入选CVPR2026最佳论文决赛](https://x.com/NVIDIAAI/status/2063034422698389625)
+## [Harness-1：基于强化学习训练的有状态搜索20B检索子智能体](https://www.marktechpost.com/2026/06/06/meet-harness-1-a-20b-retrieval-subagent-trained-with-reinforcement-learning-inside-a-stateful-search-harness-on-gpt-oss-20b)
 
-`Fri, 05 Jun 2026 23:05:10 GMT`
+`Sun, 07 Jun 2026 06:25:18 GMT`
 
-被选为 #CVPR2026 最佳论文决赛作品：来自 NVIDIA Research 的 PixelDiT 在大多数图像生成模型中，预训练的自编码器会在任何扩散发生前压缩图像，导致质量损失在整个流程中累积。 PixelDiT，即像素扩散变换器，完全去掉了这一步骤。它是一个单阶段模型，直接在像素空间中端到端地学习扩散过程。
+UIUC与Chroma联合推出Harness-1，一个20B参数的检索子智能体。它通过强化学习在一个有状态搜索框架中训练，该框架维护候选池、重要性标注集、证据图和验证记录，由策略决定搜索、筛选、验证及停止的时机。Harness-1在8个基准测试上达到0.730平均curated recall，比下一个最佳开源子智能体高出11.4个百分点，仅落后于Opus-4.6。模型权重和框架代码均已公开。
 
-## [用Qwen2.5-3B构建多智能体经济体：工程报告](https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim)
+## [Opus 4.8 缓存命中率与有效价格可实时查看](https://x.com/OpenRouter/status/2063504950429147376)
 
-`Fri, 05 Jun 2026 22:18:46 GMT`
+`Sun, 07 Jun 2026 06:14:52 GMT`
 
-开发者用Qwen2.5-3B构建了五人森林生物多智能体经济体，每个智能体独立运行，通过vLLM部署在Modal，以Gradio为交互窗口。3B模型在100%调用中输出有效JSON，但经济判断能力弱。通过设计稀缺性（食物品种限制、易腐坏、冬季燃料危机）和优化提示词（禁止买入自产物品、给出示例）提升决策质量。15轮模拟中，蜜价从10跌至3、柴价从4涨至7、财富基尼系数从0.14扩至0.38。项目展示了小模型可靠格式化与不可靠推理之间的工程填补。
+不同模型提供商在缓存命中率和有效价格上有什么差异？ 现在你可以从 Pricing 标签查看实时缓存命中率和历史流量。这里是 Opus 4.8：https：//openrouter.ai/anthropic/claude-opus-4.8/pricing
 
-## [Arena 发布真实世界 AI 智能体排行榜 Agent Arena](https://x.com/rohanpaul_ai/status/2063018358795300982)
+## [Harness 工程：在智能体优先的世界中运用 Codex](https://openai.com/index/harness-engineering)
 
-`Fri, 05 Jun 2026 22:01:20 GMT`
+`Sun, 07 Jun 2026 03:39:37 GMT`
 
-Arena 推出基于真实用户任务的智能体排行榜，评估模型在代码编写、应用构建、文档分析等工作中的表现，而非孤立基准。排行榜基于30万+任务、200万+工具调用和4000万行代码，综合任务成功、纠正遵从性、错误恢复、用户表扬与抱怨、工具幻觉等信号。前三名：GPT-5.5 High（+10.7%）、Claude Opus 4.7 Thinking（+9.5%）、GPT-5.4 High（+8.9%）。
+Harness 工程在智能体优先的世界中利用 OpenAI Codex 的实践文章，6月6日发布于 openai.com，在 Hacker News 上获得 102 点热度。
 
-## [Apollo 敲定 350 亿美元债务融资，为 Anthropic 采购 AI 芯片](https://www.bloomberg.com/news/articles/2026-06-05/apollo-wraps-up-35-billion-debt-to-buy-ai-chips-for-anthropic)
+## [对比一下 GPT-5.5 的设计效果和 Opus 4.8 的设计效果](https://x.com/dotey/status/2063464057647075379)
 
-`Fri, 05 Jun 2026 21:02:29 GMT`
+`Sun, 07 Jun 2026 03:32:23 GMT`
 
-Apollo Global Management 和 Blackstone 已为 Anthropic 敲定 350 亿美元融资方案，用于扩充其 AI 基础设施。这是人工智能竞赛中最新的一笔巨额交易。
+宝玉对比了GPT-5.5与Opus 4.8的设计能力，认为Opus 4.8效果远优于GPT-5.5。他使用了基于Cursor浏览器和元素标注的baoyu-design Skill，该Skill通过npx skills add JimLiu/baoyu-design安装，可在本地运行：描述屏幕需求即可生成精良HTML，点击预览中任意元素即可发出修改指令。官方推荐搭配Opus 4.8以获得最佳效果。工具GitHub仓库：https：//github.com/JimLiu/baoyu-design。
 
-## [SpaceX与Google达成云计算新协议](https://x.com/rohanpaul_ai/status/2063000834045313314)
+## [M3与Opus代码审计13个bug：$0.07 vs $1.30](https://x.com/MiniMax_AI/status/2063397618034844135)
 
-`Fri, 05 Jun 2026 20:51:42 GMT`
+`Sat, 06 Jun 2026 23:08:22 GMT`
 
-SpaceX 刚刚披露了一份与 Google 的新云服务协议。 Google 将每月向 SpaceX 支付 9.2 亿美元（约合每年 110 亿美元），用于 xAI 数据中心的计算能力。 这再次表明，AI 算力正成为一种战略性商品，就像发射能力或能源一样，而那些能够为庞大的 GPU 集群提供资金、电力、冷却和运营的公司，可能会在其原有业务之外获得巨大的杠杆优势。
+对 Claude Opus 4.8 和 MiniMax M3 进行相同的代码审计：同一代码库、同一提示词，预先植入 17 个已知 bug。MiniMax M3 以 $0.07 抓到 13 个；最便宜的 Claude 运行同样抓到 13 个，花费 $1.30。MiniMax 表示这一对比非常有趣，绝对值得一读。
 
-## [谷歌推出基于 Gemini Enterprise Agent Platform 的 Agentic RAG 框架](https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag)
+## [美国众议院议员发布法案草案，旨在禁止各州制定人工智能相关法规](https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04)
 
-`Fri, 05 Jun 2026 20:30:02 GMT`
+`Sat, 06 Jun 2026 21:47:39 GMT`
 
-Google Research 与 Google Cloud 合作推出跨语料库检索（Cross-Corpus Retrieval）框架，作为 Gemini Enterprise Agent Platform 的 Agentic RAG。该多智能体工作流将复杂企业查询分解为子任务，通过规划、重写和路由，迭代搜索多个数据源直至获得充分上下文，再生成可靠回答。与标准 RAG 相比，在事实性数据集上准确率最高提升 34%；在多个领域特定内部数据集上也实现了更好的接地与推理准确性。
+美国众议院议员发布一项法案草案，旨在禁止各州自行制定人工智能相关法规，将AI监管权力集中到联邦层面。
 
-## [微软Project Mosaic：micro-LED光学互连技术](https://x.com/MSFTResearch/status/2062983588606320714)
+## [五个实验室，五个心智：用小模型构建多模型金融剧情游戏](https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2)
 
-`Fri, 05 Jun 2026 19:43:10 GMT`
+`Sat, 06 Jun 2026 19:02:33 GMT`
 
-微软Azure CTO Mark Russinovich在Build 2026上介绍Project Mosaic，这是微软剑桥研究院的实验性光学互连技术，采用micro-LED实现低功耗、高速数据传输。高级研究员Kaoutar Benyahya现场演示单个LED调制形成字母，证明概念具备实时响应能力。
+Thousand Token Wood v2使用四个不同实验室的小模型（gpt-oss-20b、MiniCPM3-4B、Nemotron-Mini-4B及微调Qwen 0.5B）驱动金融模拟游戏的智能体。核心发现是异构服务层摩擦在于vLLM 0.22.1需CUDA工具包，而非模型本身。通过容忍性JSON解析层，添加模型只需一条配置。信息隔离确保内幕标志不在提示词中，扫描测试验证无泄露。记忆用情绪摘要截断避免淹没。微调0.5B模型实现0%自成交、100%有效报价，真相防火墙零泄露。小模型是可靠格式生成器但不可靠推理器
 
-## [Anthropic：让Claude成为化学家](https://www.anthropic.com/research/making-claude-a-chemist)
+## [AI 的黑色星期五](https://garymarcus.substack.com/p/ais-black-friday)
 
-`Fri, 05 Jun 2026 19:33:26 GMT`
+`Sat, 06 Jun 2026 16:24:04 GMT`
 
-Anthropic与顶尖化学家合作，提升Claude在化学领域的实用性。首个白皮书测试Claude在NMR谱图分析上的表现：在20个化合物上，对比Claude Opus 4.7、Opus 4.6、Sonnet 4.6与ChemDraw、MestReNova的正向预测（从结构预测谱图）和反向结构解析（从实验谱图推断结构）能力。所有化合物选自模型训练截止日期后发布的ChemRxiv预印本，以避免选择偏差。
+Gary Marcus 在文章中分享了对 AI 领域刚刚发生事件的看法，表达了对当前 AI 发展方向的思考。
 
-## [五角大楼正运营着一个针对拉丁美洲的人工智能宣传机器](https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon)
+## [Job Searcher](https://huggingface.co/blog/build-small-hackathon/job-search-blog)
 
-`Fri, 05 Jun 2026 19:23:20 GMT`
+`Sat, 06 Jun 2026 15:36:51 GMT`
 
-据 The Intercept 6月5日报道，美国五角大楼正在运营一个针对拉丁美洲的人工智能宣传机器（AI propaganda mill）。报道指出，该机器利用 AI 技术生成并传播宣传内容，目标为拉丁美洲地区。该消息在 Hacker News 上获得 100 点热度。
+Hugging Face 发布 Job Searcher，一个基于 AI 的求职搜索工具。用户上传简历并设定偏好后，系统使用教师模型 DeepSeek V4 Pro 生成 LinkedIn 搜索查询，通过 JobSpy 抓取职位，再对学生模型 Qwen3-8B（8B 参数）进行 LoRA 微调，对每个职位从技能匹配、经验相关性、教育背景、行业领域契合度和资历对齐五个维度给出评分和推理。训练在 Modal 平台单张 A100 上完成。推理部署于 Hugging Face ZeroGPU Space，使用 llama.
 
-## [Claude 是否增加了 rsync 中的错误？](https://alexispurslane.github.io/rsync-analysis)
+## [GitHub 开源 Spec Kit 工具包，用产品规范引导 AI 编码](https://x.com/rohanpaul_ai/status/2063246343842501091)
 
-`Fri, 05 Jun 2026 19:07:35 GMT`
+`Sat, 06 Jun 2026 13:07:16 GMT`
 
-一篇 Hacker News 热门帖子（105 分）提出了 Claude 是否导致 rsync 工具中 bug 增加的问题，并附有分析链接。
+GitHub 发布开源工具包 Spec Kit，旨在解决 "vibe coding" 的最大弱点--AI 常在规则未明确时就开始编码。它把流程从 "让 AI 直接构建" 改为 "先写产品规范，再让 AI 根据规范实现"。当前 AI 编码模式常因松散提示直接跳入代码，导致需求薄弱、边界遗漏和反复返工。Spec Kit 推动反向流程：先定义产品功能，再澄清差距、制订技术计划、分解任务，最后让 agent 执行。规范成为可执行的开发合约，支持 Copilot、Claude Code、Codex、Gemini、Cursor
 
-## [智能体协作应如同事般对话和手势](https://x.com/mntruell/status/2062955210897801520)
+## [OpenCV 5 发布：升级全新 DNN 引擎、原生支持大模型](https://www.ithome.com/0/960/969.htm)
 
-`Fri, 05 Jun 2026 17:50:24 GMT`
+`Sat, 06 Jun 2026 12:48:12 GMT`
 
-与 AI 智能体协作应感觉像与同事协作一样。你应能"与它们交谈"--不仅通过文本聊天，还能一起对着屏幕做手势、实时对话等。
+OpenCV 5 正式发布，采用基于图的 DNN 引擎，ONNX 算子覆盖率从 4.x 的不到 23% 提升至超 80%，原生支持 Transformer、视觉语言模型（VLM）和大语言模型（LLM）。其他更新包括：更好的 Python 集成与命名参数、更紧凑核心代码、清晰硬件加速层、原生 FP16/BF16、规范化 0D/1D 张量、扩展 3D 视觉及现代化文档。该库 GitHub 拥有超 86，000 stars，每日安装量超一百万次。
 
-## [Google Colab CLI 发布](https://developers.googleblog.com/introducing-the-google-colab-cli)
+## [Persona Atlas：Hugging Face 上的开源人物思维映射工具](https://huggingface.co/blog/build-small-hackathon/persona-atlas)
 
-`Fri, 05 Jun 2026 17:12:11 GMT`
+`Sat, 06 Jun 2026 11:42:01 GMT`
 
-Google 推出 Colab 命令行界面（CLI），允许开发者和 AI 智能体将本地终端连接到远程 Colab 运行时，实现无摩擦执行。该轻量级 CLI 支持请求高性能 GPU、远程运行本地 Python 脚本，并检索工件日志或模型（如微调后的 Gemma 3 适配器）。工具可直接集成到标准终端环境，可被 Antigravity、Claude Code 等 AI 智能体调用以管理复杂机器学习流水线。
+Persona Atlas 是一个运行在 Hugging Face Inference Providers 上的开源项目。它通过工具调用代理执行真实网络搜索，生成公众人物的资料、事实清单和风格假设，然后让该人物回答十个关于身份、伦理等开放式问题。每个回答被转化为嵌入向量，从而在向量空间中对不同人物进行距离比较，并基于十个特质锚点绘制热力图。前端采用 Gradio，提供研究、比较和检查代理完整追溯三个标签页，预设多个人物角色，无需 token 即可直接体验。
