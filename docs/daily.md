@@ -5,76 +5,76 @@ description: 自动订阅 AI Hot 每日日报 feed
 
 # AI 每日日报
 
-> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-06-07 07:05:10 +0000
+> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-06-08 08:09:22 +0000
 
-## [Harness-1：基于强化学习训练的有状态搜索20B检索子智能体](https://www.marktechpost.com/2026/06/06/meet-harness-1-a-20b-retrieval-subagent-trained-with-reinforcement-learning-inside-a-stateful-search-harness-on-gpt-oss-20b)
+## [英国借助 NVIDIA 技术将主权 AI 雄心转化为行动](https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements)
 
-`Sun, 07 Jun 2026 06:25:18 GMT`
+`Mon, 08 Jun 2026 06:00:57 GMT`
 
-UIUC与Chroma联合推出Harness-1，一个20B参数的检索子智能体。它通过强化学习在一个有状态搜索框架中训练，该框架维护候选池、重要性标注集、证据图和验证记录，由策略决定搜索、筛选、验证及停止的时机。Harness-1在8个基准测试上达到0.730平均curated recall，比下一个最佳开源子智能体高出11.4个百分点，仅落后于Opus-4.6。模型权重和框架代码均已公开。
+一年前英国宣布做"AI 制造者"，如今主权 AI 计划取得实质进展：AI 云提供商数量翻倍，Nebius 部署三套 NVIDIA AI 基础设施，预计 2027 年满负荷达 65 兆瓦；基于 5，400 个 NVIDIA GH200 的 Isambard-AI 超级计算机全由零碳电力驱动。主权 AI 基金资助四家 NVIDIA Inception 初创公司：Cosine 训练多模态 MoE 编码模型；Cursive 使用 Megatron-LM 开发自改进 AI 系统；Doubleword 基于 Dynamo 和 
 
-## [Opus 4.8 缓存命中率与有效价格可实时查看](https://x.com/OpenRouter/status/2063504950429147376)
+## [腾讯混元联合多家机构发布首个音频编辑基准MMAE](https://x.com/TencentHunyuan/status/2063862263434613237)
 
-`Sun, 07 Jun 2026 06:14:52 GMT`
+`Mon, 08 Jun 2026 05:54:42 GMT`
 
-不同模型提供商在缓存命中率和有效价格上有什么差异？ 现在你可以从 Pricing 标签查看实时缓存命中率和历史流量。这里是 Opus 4.8：https：//openrouter.ai/anthropic/claude-opus-4.8/pricing
+腾讯混元联合上海交大、南洋理工等机构推出MMAE（Massive Multitask Audio Editing Benchmark），这是首个全面评估AI语音/音频编辑能力的基准。MMAE要求模型理解现有音频并按自然语言指令精确修改，而非简单生成。当前模型在该基准上的精确匹配率（EMR）低于5%，暴露了可靠音频编辑的短板。MMAE包含2000个真实场景高保真样本、17741条细粒度评估项，覆盖声音/音乐/语音及混合共7种模态、6种任务复杂度（基础修改到多跳推理及多轮编辑）、8种操作类型（局部到全局）。论文、代码、
 
-## [Harness 工程：在智能体优先的世界中运用 Codex](https://openai.com/index/harness-engineering)
+## [全球首个：高德发布3D原生城市世界模型ABot-Earth0.5](https://www.ithome.com/0/961/378.htm)
 
-`Sun, 07 Jun 2026 03:39:37 GMT`
+`Mon, 08 Jun 2026 05:53:46 GMT`
 
-Harness 工程在智能体优先的世界中利用 OpenAI Codex 的实践文章，6月6日发布于 openai.com，在 Hacker News 上获得 102 点热度。
+阿里巴巴旗下高德发布全球首个3D原生城市世界模型ABot-Earth0.5，已建成覆盖190多个国家和地区的3D地图。用户输入卫星图或文字描述，10分钟即可在消费级GPU上生成公里级3D城市，输出可编辑3DGS格式，可直接导入Unity等引擎。制图成本为传统百分之一，效率提升约千倍，可为具身智能、低空经济、应急救援等提供支撑。目前已开放内测，可前往abot-earth.amap.com提交申请。
 
-## [对比一下 GPT-5.5 的设计效果和 Opus 4.8 的设计效果](https://x.com/dotey/status/2063464057647075379)
+## [NVIDIA与LG集团合作建设AI工厂，加速物理AI与自动驾驶](https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory)
 
-`Sun, 07 Jun 2026 03:32:23 GMT`
+`Mon, 08 Jun 2026 03:00:50 GMT`
 
-宝玉对比了GPT-5.5与Opus 4.8的设计能力，认为Opus 4.8效果远优于GPT-5.5。他使用了基于Cursor浏览器和元素标注的baoyu-design Skill，该Skill通过npx skills add JimLiu/baoyu-design安装，可在本地运行：描述屏幕需求即可生成精良HTML，点击预览中任意元素即可发出修改指令。官方推荐搭配Opus 4.8以获得最佳效果。工具GitHub仓库：https：//github.com/JimLiu/baoyu-design。
+NVIDIA与LG集团合作建设AI工厂，为LG的机器人、自动驾驶、数据中心和GPU云服务提供加速计算基础设施。双方整合NVIDIA AI工厂平台与LG的消费电子、机器人技术，连接AI模型开发、物理AI数据生成、机器人仿真训练、边缘部署和工厂数字孪生。LG电子将利用NVIDIA Isaac Sim和Isaac Lab仿真训练CLOiD家用机器人，探索采用Isaac GR00T模型，并开发物理AI数据工厂。LG Innotek提供针对NVIDIA GPU优化的机器人传感组件，LG CNS集成NVIDIA机器人技术。双方
 
-## [M3与Opus代码审计13个bug：$0.07 vs $1.30](https://x.com/MiniMax_AI/status/2063397618034844135)
+## [Nvidia 与 SK Hynix 签署多年协议，共同开发下一代 AI 存储芯片](https://www.bloomberg.com/news/articles/2026-06-07/nvidia-sk-hynix-sign-multi-year-pact-to-develop-next-gen-chips)
 
-`Sat, 06 Jun 2026 23:08:22 GMT`
+`Sun, 07 Jun 2026 23:26:02 GMT`
 
-对 Claude Opus 4.8 和 MiniMax M3 进行相同的代码审计：同一代码库、同一提示词，预先植入 17 个已知 bug。MiniMax M3 以 $0.07 抓到 13 个；最便宜的 Claude 运行同样抓到 13 个，花费 $1.30。MiniMax 表示这一对比非常有趣，绝对值得一读。
+Nvidia 与 SK Hynix 达成合作，将共同设计面向 AI 应用的未来几代存储芯片。此举巩固了 SK Hynix 在高端半导体领域的领先地位。
 
-## [美国众议院议员发布法案草案，旨在禁止各州制定人工智能相关法规](https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04)
+## [英伟达与斗山集团合作推进物理AI及AI工厂基础设施](https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai)
 
-`Sat, 06 Jun 2026 21:47:39 GMT`
+`Sun, 07 Jun 2026 23:00:36 GMT`
 
-美国众议院议员发布一项法案草案，旨在禁止各州自行制定人工智能相关法规，将AI监管权力集中到联邦层面。
+英伟达与斗山集团扩大合作，覆盖斗山机器人、斗山山猫、斗山能源及斗山电子材料四大板块。斗山机器人将集成英伟达Isaac Sim、Isaac Lab、Cosmos世界基础模型、Newton物理引擎及Jetson Thor，推进Agentic Robot OS，探索卸垛、打磨等参考用例及双臂/人形机器人。斗山山猫计划将物理AI技术用于建筑、园林、农业设备，加速开发专用世界模型。斗山能源评估通过燃气轮机、汽轮机、小型模块化反应堆及氢燃料电池为AI工厂供电。斗山电子材料为英伟达MGX生态系统供应高性能铜箔基板（CCL），用于
 
-## [五个实验室，五个心智：用小模型构建多模型金融剧情游戏](https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2)
+## [ChatGPT 要变 AgentGPT 了](https://x.com/dotey/status/2063686036895478162)
 
-`Sat, 06 Jun 2026 19:02:33 GMT`
+`Sun, 07 Jun 2026 18:14:27 GMT`
 
-Thousand Token Wood v2使用四个不同实验室的小模型（gpt-oss-20b、MiniCPM3-4B、Nemotron-Mini-4B及微调Qwen 0.5B）驱动金融模拟游戏的智能体。核心发现是异构服务层摩擦在于vLLM 0.22.1需CUDA工具包，而非模型本身。通过容忍性JSON解析层，添加模型只需一条配置。信息隔离确保内幕标志不在提示词中，扫描测试验证无泄露。记忆用情绪摘要截断避免淹没。微调0.5B模型实现0%自成交、100%有效报价，真相防火墙零泄露。小模型是可靠格式生成器但不可靠推理器
+OpenAI 正筹备 ChatGPT 自 2022 年上线以来最大规模改版，从聊天机器人转向超级应用/Agent 平台，整合编程工具 Codex、图像生成及第三方应用（Canva、Booking）。高管称"聊天已死"，目标成为跨平台个人 AI 助手，未来甚至省去用户输入提示词。改版预计未来几周在网页和手机端上线。商业压力：ChatGPT 有 9 亿周活用户、5000 万付费用户、月收入 20 亿美元但未盈利；企业客户贡献约 40% 收入，目标年底达 50%；Codex 桌面版周活超 500 万。竞争对手 Anthr
 
-## [AI 的黑色星期五](https://garymarcus.substack.com/p/ais-black-friday)
+## [特朗普政府与OpenAI讨论通过公共财富基金入股AI初创公司](https://x.com/rohanpaul_ai/status/2063662672835703126)
 
-`Sat, 06 Jun 2026 16:24:04 GMT`
+`Sun, 07 Jun 2026 16:41:36 GMT`
 
-Gary Marcus 在文章中分享了对 AI 领域刚刚发生事件的看法，表达了对当前 AI 发展方向的思考。
+据FT报道，特朗普政府正与OpenAI探讨通过公共财富基金机制让政府入股AI初创公司。方案是AI企业捐赠小部分股权至该基金，基金通过账户或分红将收益返还美国公民，而非政府直接运营公司。这不同于特朗普去年对Intel的90亿美元直接持股。OpenAI此前已提出公共财富基金概念，持有长期资产，让公民分享AI增长红利。政治背景方面，选民担忧失业、数据中心成本与企业控制，而AI公司需要华盛顿在基建、采购和监管上的支持。
 
-## [Job Searcher](https://huggingface.co/blog/build-small-hackathon/job-search-blog)
+## [OpenAI 仍推进超级应用计划](https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app)
 
-`Sat, 06 Jun 2026 15:36:51 GMT`
+`Sun, 07 Jun 2026 16:23:22 GMT`
 
-Hugging Face 发布 Job Searcher，一个基于 AI 的求职搜索工具。用户上传简历并设定偏好后，系统使用教师模型 DeepSeek V4 Pro 生成 LinkedIn 搜索查询，通过 JobSpy 抓取职位，再对学生模型 Qwen3-8B（8B 参数）进行 LoRA 微调，对每个职位从技能匹配、经验相关性、教育背景、行业领域契合度和资历对齐五个维度给出评分和推理。训练在 Modal 平台单张 A100 上完成。推理部署于 Hugging Face ZeroGPU Space，使用 llama.
+OpenAI 一位高级员工表示"聊天已死"，同时公司仍在继续推进超级应用计划。
 
-## [GitHub 开源 Spec Kit 工具包，用产品规范引导 AI 编码](https://x.com/rohanpaul_ai/status/2063246343842501091)
+## [Slop、生产力，以及为何AI驱动的世界进展甚微](https://garymarcus.substack.com/p/slop-productivity-and-why-the-ai)
 
-`Sat, 06 Jun 2026 13:07:16 GMT`
+`Sun, 07 Jun 2026 15:31:43 GMT`
 
-GitHub 发布开源工具包 Spec Kit，旨在解决 "vibe coding" 的最大弱点--AI 常在规则未明确时就开始编码。它把流程从 "让 AI 直接构建" 改为 "先写产品规范，再让 AI 根据规范实现"。当前 AI 编码模式常因松散提示直接跳入代码，导致需求薄弱、边界遗漏和反复返工。Spec Kit 推动反向流程：先定义产品功能，再澄清差距、制订技术计划、分解任务，最后让 agent 执行。规范成为可执行的开发合约，支持 Copilot、Claude Code、Codex、Gemini、Cursor
+Gary Marcus在金融时报上看到John Burn-Murdoch的一张图表，认为它精准提炼了自己一直试图表达的观点。
 
-## [OpenCV 5 发布：升级全新 DNN 引擎、原生支持大模型](https://www.ithome.com/0/960/969.htm)
+## [苹果秘密会议内幕：它终于认真对待AI](https://www.bloomberg.com/news/newsletters/2026-06-07/wwdc-2026-apple-s-secret-meeting-that-led-it-to-take-ai-seriously-ios-27)
 
-`Sat, 06 Jun 2026 12:48:12 GMT`
+`Sun, 07 Jun 2026 14:00:01 GMT`
 
-OpenCV 5 正式发布，采用基于图的 DNN 引擎，ONNX 算子覆盖率从 4.x 的不到 23% 提升至超 80%，原生支持 Transformer、视觉语言模型（VLM）和大语言模型（LLM）。其他更新包括：更好的 Python 集成与命名参数、更紧凑核心代码、清晰硬件加速层、原生 FP16/BF16、规范化 0D/1D 张量、扩展 3D 视觉及现代化文档。该库 GitHub 拥有超 86，000 stars，每日安装量超一百万次。
+苹果在一次内部秘密会议后，终于决定将AI作为核心战略。这场会议促使公司全面转向AI领域，相关进展预计将在WWDC 2026上公布。
 
-## [Persona Atlas：Hugging Face 上的开源人物思维映射工具](https://huggingface.co/blog/build-small-hackathon/persona-atlas)
+## [Symbolica 2.0：适用于 Python 和 Rust 的可编程符号系统](https://symbolica.io/posts/symbolica_2_0_release)
 
-`Sat, 06 Jun 2026 11:42:01 GMT`
+`Sun, 07 Jun 2026 12:59:12 GMT`
 
-Persona Atlas 是一个运行在 Hugging Face Inference Providers 上的开源项目。它通过工具调用代理执行真实网络搜索，生成公众人物的资料、事实清单和风格假设，然后让该人物回答十个关于身份、伦理等开放式问题。每个回答被转化为嵌入向量，从而在向量空间中对不同人物进行距离比较，并基于十个特质锚点绘制热力图。前端采用 Gradio，提供研究、比较和检查代理完整追溯三个标签页，预设多个人物角色，无需 token 即可直接体验。
+Symbolica 2.0 发布，这是一款可编程符号系统，支持 Python 和 Rust 语言。该版本在 Hacker News 上获得 100 点热度。
