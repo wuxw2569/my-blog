@@ -5,7 +5,7 @@
         <link>https://wuxw2569.github.io/my-blog</link>
         <description>由 AI 自动生成的技术博客 + 小红书笔记</description>
         <language>zh-cn</language>
-        <lastBuildDate>Tue, 09 Jun 2026 06:50:42 +0800</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jun 2026 07:08:54 +0800</lastBuildDate>
         
         <item>
             <title>5 Powerful Marketing Activities</title>
@@ -33,6 +33,13 @@
             <link>https://wuxw2569.github.io/my-blog/post1.html</link>
             <description><![CDATA[date: 20170227title: Basic Markdown Formattingcategory: Tutorialtags: vueThe Ultimate Guide to Markd]]></description>
             <pubDate>2017-02-27</pubDate>
+        </item>
+        
+        <item>
+            <title>用AI自动生成代码注释</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-06-10-用AI自动生成代码注释.html</link>
+            <description><![CDATA[本文将探讨如何利用AI技术自动生成代码注释，提高开发效率，并结合架构层、网络层、数据层、工具层的工程视角进行分析。]]></description>
+            <pubDate>2023-04-01</pubDate>
         </item>
         
         <item>
