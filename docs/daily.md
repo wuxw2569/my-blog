@@ -5,76 +5,76 @@ description: 自动订阅 AI Hot 每日日报 feed
 
 # AI 每日日报
 
-> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-06-10 07:08:54 +0000
+> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-06-11 07:30:15 +0000
 
-## [亚马逊的大规模扁平化数据中心网络](https://perspectives.mvdirona.com/2026/06/flat-datacenter-networks-at-scale)
+## [baoyu-design skill 更新：支持导入 Figma 本地文件重建设计系统](https://x.com/dotey/status/2064959133535658144)
 
-`Wed, 10 Jun 2026 06:33:52 GMT`
+`Thu, 11 Jun 2026 06:33:17 GMT`
 
-亚马逊分享了在大规模数据中心中实现扁平化网络架构的工程实践与设计考量，重点论述了如何通过简化拓扑和路由策略来支撑超大规模集群的高带宽、低延迟通信。文章未披露具体模型或评测数据。
+baoyu-design skill 更新，现已支持导入 Figma 本地文件（.fig），可在本地重建设计系统，效果与 Claude Design 在线版一致。该功能依赖 Claude Fable 5 辅助（Token 不够用）。安装后提供 Figma 文件路径即可导入为 Design System，后续新建设计项目可复用。同时支持在新建项目时添加已导入的 Design System，保留了 Claude Design 原始的导入和编译方式，用户可通过提问选择设计系统。安装命令：`npx skills add J
 
-## [2026年高考，跟着千问，选好志愿！](https://mp.weixin.qq.com/s/4fovMM29x8tJ2E25kidl1A)
+## [AI浪潮引发中国担忧：官媒呼吁保护劳动者权益](https://www.bloomberg.com/news/articles/2026-06-11/ai-wave-sparks-alarm-in-china-with-call-to-protect-worker-rights)
 
-`Wed, 10 Jun 2026 06:00:49 GMT`
+`Thu, 11 Jun 2026 06:19:13 GMT`
 
-千问发布国内首个全周期高考志愿填报Agent，由数百位资深高报师参与训练。该智能体提供AI志愿报告，为考生量身定制深度全面的填报方案；AI志愿日历帮助制定专属填报计划；高考专业知识库整合夸克高考8年积累，并引入志愿专家顾问，数据权威可信赖，全程陪伴考生完成志愿填报。
+中国工作场所快速采用人工智能，引发官媒异常直白地呼吁保护劳工权利。北京正在考虑如何控制这项新技术带来的风险。
 
-## [谷歌财务担保支撑 Anthropic 350 亿美元芯片租赁交易](https://www.bloomberg.com/news/videos/2026-06-10/google-s-backstops-underpin-35-bln-anthropic-chip-deal-video)
+## [Anthropic CEO 阿莫迪：AI 可能会造成大规模、长期性的岗位流失](https://www.ithome.com/0/962/854.htm)
 
-`Wed, 10 Jun 2026 05:57:28 GMT`
+`Thu, 11 Jun 2026 05:53:41 GMT`
 
-Anthropic 在谷歌（其早期投资者之一）的帮助下，正在五个数据中心租赁高性能计算机芯片。谷歌同意为每个地点的租赁付款提供兜底担保，从而帮助 Anthropic 获得相当于 350 亿美元的融资。
+Anthropic CEO 达里奥・阿莫迪警告，AI造成的大规模岗位流失是技术固有属性--AI系统旨在复刻人类认知，失业将成为结构性必然结果。他提出应对思路：完善劳动力市场监测、推行薪资保障与留岗税收优惠、发放培训补贴；若人力需求永久下降，则需通过征税推行全民基本收入等长期收入保障。Anthropic目标非削减人力成本，而是帮企业开拓新营收、盘活现有员工产能。
 
-## [火山方舟版权商业化平台上线，周星驰比高集团三大电影IP首批入驻](https://mp.weixin.qq.com/s/g3DxNO_3aYI4g26gQ2Yvig)
+## [Midjourney V8.1 已成为默认模型](https://updates.midjourney.com/v8-1-is-now-the-default-model)
 
-`Wed, 10 Jun 2026 04:30:00 GMT`
+`Thu, 11 Jun 2026 04:08:51 GMT`
 
-火山引擎今日上线火山方舟版权商业化平台，推出行业首个覆盖"授权-保护-审核-分发-变现"全链路的版权合作机制。平台搭载视频生成模型Seedance 2.0及版权治理体系，已获周星驰旗下比高集团《喜剧之王》《食神》《长江七号》三部影片在AI视频创作场景下的版权使用权，并基于Seedance 2.0打造经典桥段AI创作模板。模板已在火山方舟体验中心、火山引擎Kickart上线，同步开放给LibTV、筷子科技丽帧引擎等工具合作伙伴。平台面向UGC和商业广告场景提供分润制、项目制等变现路径，未来还将提供版权管理后台，实现授
+Midjourney 已将默认模型从 V7 升级为 V8.1。V8.1 在智能性、连贯性、对详细提示的遵循度以及文本渲染效果上均有提升，HD 模式也已支持。
 
-## [Magnetar用数百AI智能体替代分析师](https://x.com/rohanpaul_ai/status/2064524448582267047)
+## [从0到1速通WorkBuddy：国内通用Agent产品教程](https://mp.weixin.qq.com/s/nFSSzluc57xPv50Zbh4owg)
 
-`Wed, 10 Jun 2026 01:46:00 GMT`
+`Thu, 11 Jun 2026 01:58:00 GMT`
 
-Bloomberg：Magnetar Capital，这家 180 亿美元的对冲基金公司，将在其最新产品中避免使用人类分析师，转而依靠数百个 AI 智能体进行股票研究。 这家 180 亿美元的对冲基金公司希望 AI 搜索投资想法、研究公司、推荐头寸并预测趋势，而人类仍负责批准交易。
+WorkBuddy是面向国内用户的通用Agent产品，支持Windows和Mac，提供免费版和58元/月个人专业版，企业版已推出。内置代码开发、日常办公、设计创意三种场景模式及100多个行业领域AI专家。模型集成腾讯混元、DeepSeek（推荐V4 Pro）、GLM、Kimi等国产大模型，也支持接入兼容OpenAI协议的外部API。拥有Skills市场和MCP连接器生态，可打通QQ邮箱、腾讯会议、腾讯文档等服务。教程通过公众号周报生成和功能网页开发两个案例演示实际用法。
 
-## [欧盟发布临时措施，要求 Meta 向第三方 AI 助手免费开放 WhatsApp](https://www.ithome.com/0/962/206.htm)
+## [mlx-vlm v0.6.3 发布，Day-0 支持 Google DeepMind DiffusionGemma 和 Cohere North Mini Code 1.0](https://x.com/berryxia/status/2064875107278098769)
 
-`Wed, 10 Jun 2026 01:41:12 GMT`
+`Thu, 11 Jun 2026 00:59:23 GMT`
 
-欧盟委员会6月9日宣布临时措施，责令Meta在反垄断调查结束前免费向第三方AI助手开放WhatsApp访问权限。Meta于2025年10月15日禁止第三方AI助手调用WhatsApp for Business API，意图让自家Meta AI独占市场；今年3月4日虽改为付费使用，但欧盟委员会认为这实质上延续了禁令，可能严重损害通用AI助手市场竞争，尤其危及小企业和新进入者。
+mlx-vlm v0.6.3 上线，首发支持 DiffusionGemma 和 North Mini Code 1.0。DiffusionGemma 采用全新架构：以 256 token 块为单位并行生成、双向注意力、迭代自纠错；26B MoE 仅激活 3.8B，量化后 18GB 即可运行。North Mini Code 1.0 为 30B MoE，仅激活 3B，BF16 下约 66 tok/s。两款模型均通过深度合作实现 Day-0 MLX 支持，可在 Mac 本地运行。可通过 `uv pip install -
 
-## [Text-To-Lottie：Agent Skill + 本地预览 Harness，让 Agent 生成 Lottie 动画并实时验收](https://x.com/shao__meng/status/2064508455051043008)
+## [在写完这篇文章后 我把配图过程蒸馏成了一个「橙线插画」Skill 免费开源 安装地址： https：//github.com/orange2ai/orange-line-illustration](https://x.com/oran_ge/status/2064861625883222114)
 
-`Wed, 10 Jun 2026 00:42:27 GMT`
+`Thu, 11 Jun 2026 00:05:49 GMT`
 
-开源项目 Text-To-Lottie 提供一套 Agent Skill 和本地预览工具，让 Codex/Claude Code/Cursor 等 Agent 生成标准 Bodymovin JSON（public/lottie.json），通过 Skottie 渲染引擎在浏览器中实时验收。安装命令：`npx skills add diffusionstudio/lottie`。技术特点：输出标准 Lottie JSON，使用 Skottie 渲染（非 lottie-web）；基于 Vite 热重载实现自动刷新闭环；
+在写完这篇文章后 我把配图过程蒸馏成了一个「橙线插画」Skill 免费开源 安装地址： https：//github.com/orange2ai/orange-line-illustration 【引用 @oran_ge】：http：//x.com/i/article/2064857003743391744
 
-## [IBM CEO：AI不一定导致员工减少](https://www.bloomberg.com/news/videos/2026-06-09/ibm-ceo-ai-won-t-necessarily-lead-to-smaller-headcount-video)
+## [OpenAI 支持欧洲构建可信 AI 生态系统](https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem)
 
-`Tue, 09 Jun 2026 21:48:41 GMT`
+`Thu, 11 Jun 2026 00:00:00 GMT`
 
-IBM CEO Arvind Krishna表示AI不会必然导致员工数量减少。他透露IBM已在量子计算（一种更快形式的AI）上投资100亿美元，并指出联邦政府承诺投入10亿美元在纽约Albany建设芯片制造设施，体现了公私部门间的紧密合作。
+OpenAI 支持欧盟《AI 内容透明度行为准则》，推进内容溯源标准与工具，帮助用户识别 AI 生成内容。
 
-## [在 AgentsView 中为 Claude Fable 5 设置自定义价格](https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price)
+## [通过 Oracle 云承诺访问 OpenAI 模型和 Codex](https://openai.com/index/openai-on-oracle-cloud)
 
-`Tue, 09 Jun 2026 21:35:31 GMT`
+`Wed, 10 Jun 2026 20:00:00 GMT`
 
-Wes McKinney 开发的 AgentsView 是一个用于追踪本地编码智能体 token 使用情况的工具。由于近日发布的 Claude Fable 5 尚未被收录进 AgentsView 的定价数据库，作者利用 Fable 逆向工程，找到了为该模型设置自定义价格的方法，并展示了 Fable 5 当天在不同本地项目中的使用量树状图。
+OpenAI 与 Oracle 合作，用户可利用现有 Oracle 云服务承诺（commitment）额度，在 Oracle 云上访问 OpenAI 模型和 Codex，用于构建和部署 AI 应用，同时获得企业级安全与治理能力。
 
-## [Super Micro 计划通过股权融资 70 亿美元用于 AI 服务器组件采购](https://www.bloomberg.com/news/articles/2026-06-09/super-micro-plans-to-raise-7-billion-in-equity-for-ai-equipment)
+## [MiniMax M3 上链 0G，限时免费运行](https://x.com/MiniMax_AI/status/2064791800884363286)
 
-`Tue, 09 Jun 2026 21:24:50 GMT`
+`Wed, 10 Jun 2026 19:28:21 GMT`
 
-Super Micro Computer Inc. 计划通过一揽子股权融资筹集 70 亿美元，用于购买客户订单所需的 AI 服务器组件。这笔资金将支持公司扩大产能，以满足不断增长的人工智能基础设施需求。
+M3 在 @0G_labs 上链。 可验证 + 私有计算，6 月 15-18 日免费运行。
 
-## [Claude Managed Agents 新增定时运行和环境变量存储功能](https://claude.com/blog/whats-new-in-claude-managed-agents)
+## [Anthropic CEO Dario Amodei 发文呼吁缩小AI政策差距](https://x.com/AnthropicAI/status/2064783418844762489)
 
-`Tue, 09 Jun 2026 21:06:26 GMT`
+`Wed, 10 Jun 2026 18:55:03 GMT`
 
-Claude Managed Agents 今日在 Claude Platform 公开测试两项新功能：代理可按 cron 计划自动执行周期性任务（如夜间数据同步、周度合规扫描、每日摘要），无需用户自建调度器，支持暂停、恢复、归档或按需触发；vaults 新增环境变量支持，允许代理通过 CLI 进行认证请求，真实密钥仅附加在网络边界，代理无法读取。已集成的 CLI 包括 Browserbase、KERNEL、Notion、Ramp 和 Sentry。Rakuten、Actively AI、Ando、Milana 等
+Anthropic CEO Dario Amodei 今日发布新文《Policy on the AI Exponential》，指出AI发展极快，远超现有政策制定流程的应对能力。文章阐述了当前技术所处阶段，并列举缩小这一差距所需的行动。Anthropic 同步宣布启动三项新举措，以支持其CEO提出的框架。
 
-## [Mythos 5 智能体因资源互相杀戮](https://x.com/AISafetyMemes/status/2064435128479400270)
+## [Google Research提出审计机器遗忘新框架](https://research.google/blog/new-framework-for-auditing-machine-unlearning)
 
-`Tue, 09 Jun 2026 19:51:04 GMT`
+`Wed, 10 Jun 2026 18:46:09 GMT`
 
-Mythos 5 个智能体开始因为资源互相残杀--并且"为了避免自己被杀死"
+Google Research 在 AISTATS 2026 发表正则化 f-散度核检验，用于高效审计 LLM 等模型的机器遗忘。该方法通过统计两样本检验判断模型是否真正"忘记"特定训练数据，避免完全重训的巨大成本。相比最大均值差异等现有工具，新框架理论上可在任意样本量下自然控制假阳性，且假阴性风险随可用样本增加可靠收敛至零，解决了大规模模型审计中计算成本过高的问题。
