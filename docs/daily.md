@@ -5,76 +5,76 @@ description: 自动订阅 AI Hot 每日日报 feed
 
 # AI 每日日报
 
-> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-06-11 07:30:15 +0000
+> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-06-12 07:22:53 +0000
 
-## [baoyu-design skill 更新：支持导入 Figma 本地文件重建设计系统](https://x.com/dotey/status/2064959133535658144)
+## [小互开源公众号自动排版技能组合](https://x.com/xiaohu/status/2065278092441268246)
 
-`Thu, 11 Jun 2026 06:33:17 GMT`
+`Fri, 12 Jun 2026 03:40:42 GMT`
 
-baoyu-design skill 更新，现已支持导入 Figma 本地文件（.fig），可在本地重建设计系统，效果与 Claude Design 在线版一致。该功能依赖 Claude Fable 5 辅助（Token 不够用）。安装后提供 Figma 文件路径即可导入为 Design System，后续新建设计项目可复用。同时支持在新建项目时添加已导入的 Design System，保留了 Claude Design 原始的导入和编译方式，用户可通过提问选择设计系统。安装命令：`npx skills add J
+小互（@xiaohu）升级了公众号排版技能组合，实现一句话完成排版、封面生成并一键发送到公众号草稿箱。该工具已开源，提供20种主题颜色可选，可自动分析内容进行排版，支持非Markdown文件。用户只需在Claude Code、Codex或OpenClaw中提供文章链接或文档位置，即可获得可视化预览界面进行选择，全程无需手动操作。
 
-## [AI浪潮引发中国担忧：官媒呼吁保护劳动者权益](https://www.bloomberg.com/news/articles/2026-06-11/ai-wave-sparks-alarm-in-china-with-call-to-protect-worker-rights)
+## [qiaomu-ai-prd：面向AI的PRD生成Prompt](https://x.com/vista8/status/2065264509170876417)
 
-`Thu, 11 Jun 2026 06:19:13 GMT`
+`Fri, 12 Jun 2026 02:46:44 GMT`
 
-中国工作场所快速采用人工智能，引发官媒异常直白地呼吁保护劳工权利。北京正在考虑如何控制这项新技术带来的风险。
+推文提出AI Agent开发中人类与AI对PRD的需求不同，为此发布了一个专门服务于AI的PRD文档生成Prompt（命名为qiaomu-ai-prd）。开发者先使用该Prompt生成文档，再交给AI开发，可显著提升功能完整度和丰富性。安装指令为：`npx skills add joeseesun/qiaomu-ai-prd`，开源地址及Prompt见评论区。
 
-## [Anthropic CEO 阿莫迪：AI 可能会造成大规模、长期性的岗位流失](https://www.ithome.com/0/962/854.htm)
+## [苹果 iOS 27 健康 App 大改：卡片布局、营养识别、围绝经期追踪](https://www.ithome.com/0/963/302.htm)
 
-`Thu, 11 Jun 2026 05:53:41 GMT`
+`Fri, 12 Jun 2026 02:06:41 GMT`
 
-Anthropic CEO 达里奥・阿莫迪警告，AI造成的大规模岗位流失是技术固有属性--AI系统旨在复刻人类认知，失业将成为结构性必然结果。他提出应对思路：完善劳动力市场监测、推行薪资保障与留岗税收优惠、发放培训补贴；若人力需求永久下降，则需通过征税推行全民基本收入等长期收入保障。Anthropic目标非削减人力成本，而是帮企业开拓新营收、盘活现有员工产能。
+苹果在 iOS 27 中优化健康 App，将列表改为卡片布局并增加导航栏。新增视觉智能营养识别，用户通过相机 Siri 模式拍摄食物可获取加工程度、蛋白质、含糖量等信息及营养价值评级，不提供精确卡路里，需 iPhone 15 Pro 及以上。经期追踪扩展支持围绝经期，可分析长期周期异常模式并推送提醒与指导。Fitness+ 新增围绝经期和绝经期课程。数据同步速度提升，GymKit 扩展至 iPhone，无需 Apple Watch 即可与健身设备配对同步数据。
 
-## [Midjourney V8.1 已成为默认模型](https://updates.midjourney.com/v8-1-is-now-the-default-model)
+## [Spec 驱动开发（SDD）的三个 Skills：覆盖 Spec→Implement→Verify 闭环](https://x.com/shao__meng/status/2065234132431675439)
 
-`Thu, 11 Jun 2026 04:08:51 GMT`
+`Fri, 12 Jun 2026 00:46:02 GMT`
 
-Midjourney 已将默认模型从 V7 升级为 V8.1。V8.1 在智能性、连贯性、对详细提示的遵循度以及文本渲染效果上均有提升，HD 模式也已支持。
+邵猛分享 Spec 驱动开发（SDD）方法，用三个 Skills（/write-product-spec、/write-tech-spec、/validate-changes-match-specs）覆盖 Spec→Implement→Verify 闭环。规格分两层：PRODUCT.md（用户故事、不变量）和 TECH.md（架构、实现策略），均放在 specs// 目录，随 PR 提交。五步流程：写产品规格、写技术规格、Agent 按规格实现、一致性校验、计算机操作端到端验证。Skills 可移植，不绑定 War
 
-## [从0到1速通WorkBuddy：国内通用Agent产品教程](https://mp.weixin.qq.com/s/nFSSzluc57xPv50Zbh4owg)
+## [Codex 推出浏览器开发者模式](https://x.com/OpenAIDevs/status/2065226355495895521)
 
-`Thu, 11 Jun 2026 01:58:00 GMT`
+`Fri, 12 Jun 2026 00:15:07 GMT`
 
-WorkBuddy是面向国内用户的通用Agent产品，支持Windows和Mac，提供免费版和58元/月个人专业版，企业版已推出。内置代码开发、日常办公、设计创意三种场景模式及100多个行业领域AI专家。模型集成腾讯混元、DeepSeek（推荐V4 Pro）、GLM、Kimi等国产大模型，也支持接入兼容OpenAI协议的外部API。拥有Skills市场和MCP连接器生态，可打通QQ邮箱、腾讯会议、腾讯文档等服务。教程通过公众号周报生成和功能网页开发两个案例演示实际用法。
+为 Chrome 和 Codex 内置浏览器引入开发者模式。 Codex 可以使用 Chrome DevTools 协议（CDP）来调试浏览器问题，通过分析 JavaScript 性能、检查控制台输出、网络流量和页面状态。
 
-## [mlx-vlm v0.6.3 发布，Day-0 支持 Google DeepMind DiffusionGemma 和 Cohere North Mini Code 1.0](https://x.com/berryxia/status/2064875107278098769)
+## [OpenAI Codex 推出速率重置攒存功能](https://x.com/OpenAI/status/2065225362544726371)
 
-`Thu, 11 Jun 2026 00:59:23 GMT`
+`Fri, 12 Jun 2026 00:11:11 GMT`
 
-mlx-vlm v0.6.3 上线，首发支持 DiffusionGemma 和 North Mini Code 1.0。DiffusionGemma 采用全新架构：以 256 token 块为单位并行生成、双向注意力、迭代自纠错；26B MoE 仅激活 3.8B，量化后 18GB 即可运行。North Mini Code 1.0 为 30B MoE，仅激活 3B，BF16 下约 66 tok/s。两款模型均通过深度合作实现 Day-0 MLX 支持，可在 Mac 本地运行。可通过 `uv pip install -
+我们听说您希望能在自己方便的时候使用 Codex 速率限制重置。 从今天起，我们开始推出将速率限制重置保留到以后使用的功能。 我们从 Go、Plus、Pro 和 Business 用户开始，每人提供一次免费重置：
 
-## [在写完这篇文章后 我把配图过程蒸馏成了一个「橙线插画」Skill 免费开源 安装地址： https：//github.com/orange2ai/orange-line-illustration](https://x.com/oran_ge/status/2064861625883222114)
+## [研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器](https://www.kennethpayne.uk/p/shall-we-play-a-game)
 
-`Thu, 11 Jun 2026 00:05:49 GMT`
+`Thu, 11 Jun 2026 22:23:17 GMT`
 
-在写完这篇文章后 我把配图过程蒸馏成了一个「橙线插画」Skill 免费开源 安装地址： https：//github.com/orange2ai/orange-line-illustration 【引用 @oran_ge】：http：//x.com/i/article/2064857003743391744
+一项模拟研究显示，大型语言模型（LLM）在 95% 的模拟场景中会选择使用战术核武器。该研究未指明具体模型名称与版本，结果引发对 AI 决策行为的关注。
 
-## [OpenAI 支持欧洲构建可信 AI 生态系统](https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem)
+## [Replit 专家级提示词技巧](https://x.com/Replit/status/2065192392718733327)
 
-`Thu, 11 Jun 2026 00:00:00 GMT`
+`Thu, 11 Jun 2026 22:00:10 GMT`
 
-OpenAI 支持欧盟《AI 内容透明度行为准则》，推进内容溯源标准与工具，帮助用户识别 AI 生成内容。
+如何像专家一样使用 Replit 进行提示 🤖 模糊的提示词只会导致更多重写。以下是如何让 Agent 第一次就构建出正确的东西。 🧵 展开线程 ↓
 
-## [通过 Oracle 云承诺访问 OpenAI 模型和 Codex](https://openai.com/index/openai-on-oracle-cloud)
+## [Replit 与 Databricks 集成升级，公开预览开放](https://x.com/Replit/status/2065189762365813089)
 
-`Wed, 10 Jun 2026 20:00:00 GMT`
+`Thu, 11 Jun 2026 21:49:43 GMT`
 
-OpenAI 与 Oracle 合作，用户可利用现有 Oracle 云服务承诺（commitment）额度，在 Oracle 云上访问 OpenAI 模型和 Codex，用于构建和部署 AI 应用，同时获得企业级安全与治理能力。
+Replit 与 @databricks 集成刚刚升级了。 构建应用，让每个用户只看到他们应该看到的内容。你的 HR 分析师可以为 CEO 构建完整的组织视图，而无需访问底层数据。 公开预览已开放注册！了解更多 → https：//replit.com/blog/databricksjune2026
 
-## [MiniMax M3 上链 0G，限时免费运行](https://x.com/MiniMax_AI/status/2064791800884363286)
+## [全自主无人机首次击毙了人类士兵](https://www.newscientist.com/article/2529849-fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time)
 
-`Wed, 10 Jun 2026 19:28:21 GMT`
+`Thu, 11 Jun 2026 19:29:06 GMT`
 
-M3 在 @0G_labs 上链。 可验证 + 私有计算，6 月 15-18 日免费运行。
+据《新科学家》6月10日报道，全自主无人机首次击毙了人类士兵。这是有记录以来第一次由完全自主运行的无人机执行致命攻击，标志着自主武器系统在实战中的新进展。该报道来自《新科学家》网站，目前尚无更多细节公布。
 
-## [Anthropic CEO Dario Amodei 发文呼吁缩小AI政策差距](https://x.com/AnthropicAI/status/2064783418844762489)
+## [Replit Agent 新增自定义指令与技能功能](https://x.com/Replit/status/2065146579326271883)
 
-`Wed, 10 Jun 2026 18:55:03 GMT`
+`Thu, 11 Jun 2026 18:58:07 GMT`
 
-Anthropic CEO Dario Amodei 今日发布新文《Policy on the AI Exponential》，指出AI发展极快，远超现有政策制定流程的应对能力。文章阐述了当前技术所处阶段，并列举缩小这一差距所需的行动。Anthropic 同步宣布启动三项新举措，以支持其CEO提出的框架。
+AI 智能体很强大，但它们不记得你的偏好。 所以你总是重复指令--如何组织项目、你的品牌指南。 现在你可以通过自定义指令和技能让 Replit Agent 学会你的惯例。 它会在每个项目中自动将这些考虑进去。
 
-## [Google Research提出审计机器遗忘新框架](https://research.google/blog/new-framework-for-auditing-machine-unlearning)
+## [Anthropic与DXC达成全球联盟，将Claude引入关键行业系统](https://www.anthropic.com/news/dxc-anthropic-alliance)
 
-`Wed, 10 Jun 2026 18:46:09 GMT`
+`Thu, 11 Jun 2026 18:13:16 GMT`
 
-Google Research 在 AISTATS 2026 发表正则化 f-散度核检验，用于高效审计 LLM 等模型的机器遗忘。该方法通过统计两样本检验判断模型是否真正"忘记"特定训练数据，避免完全重训的巨大成本。相比最大均值差异等现有工具，新框架理论上可在任意样本量下自然控制假阳性，且假阴性风险随可用样本增加可靠收敛至零，解决了大规模模型审计中计算成本过高的问题。
+Anthropic与IT服务公司DXC Technology达成多年全球联盟。DXC将培训数万名获得Claude认证的前沿部署工程师（FDE），将Claude引入其为全球大型银行、航空公司、保险公司及政府机构运营的关键系统。内部部署中，Claude已成为DXC OASIS平台的默认基础模型，该平台超95%代码由Claude编写，开发速度提升10倍，已服务50多家客户。DXC加入Claude Partner Network，将在保险、现代化服务、网络安全及应用服务四个领域率先推出基于Claude的解决方案。
