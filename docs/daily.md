@@ -5,76 +5,76 @@ description: 自动订阅 AI Hot 每日日报 feed
 
 # AI 每日日报
 
-> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-06-12 07:22:53 +0000
+> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-06-13 06:58:06 +0000
 
-## [小互开源公众号自动排版技能组合](https://x.com/xiaohu/status/2065278092441268246)
+## [SemiAnalysis 洞察 Token 经济：200 美元 AI 订阅榨出 70 倍用量](https://www.ithome.com/0/963/834.htm)
 
-`Fri, 12 Jun 2026 03:40:42 GMT`
+`Sat, 13 Jun 2026 06:09:26 GMT`
 
-小互（@xiaohu）升级了公众号排版技能组合，实现一句话完成排版、封面生成并一键发送到公众号草稿箱。该工具已开源，提供20种主题颜色可选，可自动分析内容进行排版，支持非Markdown文件。用户只需在Claude Code、Codex或OpenClaw中提供文章链接或文档位置，即可获得可视化预览界面进行选择，全程无需手动操作。
+SemiAnalysis 购买了 Anthropic 和 OpenAI 的全部订阅方案，模拟高强度编码任务直至触及每周上限。月费 200 美元的 Claude Max 20x 方案，按 API 价格换算最高可消耗约值 8000 美元的 token；ChatGPT Pro 20x 方案对应最高约值 14000 美元的 token。用户通过订阅可获取 40 至 70 倍的 API 价值，该机构指出这种价格体系在重度用户持续榨满上限后可能难以长期维持。
 
-## [qiaomu-ai-prd：面向AI的PRD生成Prompt](https://x.com/vista8/status/2065264509170876417)
+## [Anthropic的安全警告可能适得其反--政府已撤回其最强大AI](https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai)
 
-`Fri, 12 Jun 2026 02:46:44 GMT`
+`Sat, 13 Jun 2026 02:26:30 GMT`
 
-推文提出AI Agent开发中人类与AI对PRD的需求不同，为此发布了一个专门服务于AI的PRD文档生成Prompt（命名为qiaomu-ai-prd）。开发者先使用该Prompt生成文档，再交给AI开发，可显著提升功能完整度和丰富性。安装指令为：`npx skills add joeseesun/qiaomu-ai-prd`，开源地址及Prompt见评论区。
+Anthropic对政府撤回其最强大AI模型表达不满，称仅基于一个狭窄的潜在越狱发现就召回已部署给数亿用户的商业模型不合理。
 
-## [苹果 iOS 27 健康 App 大改：卡片布局、营养识别、围绝经期追踪](https://www.ithome.com/0/963/302.htm)
+## [关于美国政府指令暂停访问Fable 5和Mythos 5的声明](https://www.anthropic.com/news/fable-mythos-access)
 
-`Fri, 12 Jun 2026 02:06:41 GMT`
+`Sat, 13 Jun 2026 01:15:57 GMT`
 
-苹果在 iOS 27 中优化健康 App，将列表改为卡片布局并增加导航栏。新增视觉智能营养识别，用户通过相机 Siri 模式拍摄食物可获取加工程度、蛋白质、含糖量等信息及营养价值评级，不提供精确卡路里，需 iPhone 15 Pro 及以上。经期追踪扩展支持围绝经期，可分析长期周期异常模式并推送提醒与指导。Fitness+ 新增围绝经期和绝经期课程。数据同步速度提升，GymKit 扩展至 iPhone，无需 Apple Watch 即可与健身设备配对同步数据。
+美国政府以国家安全为由，指令Anthropic暂停所有外国国民（含海外员工）对Fable 5和Mythos 5的访问。Anthropic当日5：21pm （ET）收到指令后立即向所有客户禁用这两个模型，其他模型不受影响。政府称发现一种越狱Fable 5的方法；Anthropic审核认为该技术仅能识别少量已知微小漏洞，且其他公开模型（如OpenAI的GPT-5.5）也能做到。Anthropic坚持深度防御策略，认为此次越狱不具普遍性，不同意以此标准召回已服务数亿人的商用模型，正与政府合作争取尽快恢复访问。
 
-## [Spec 驱动开发（SDD）的三个 Skills：覆盖 Spec→Implement→Verify 闭环](https://x.com/shao__meng/status/2065234132431675439)
+## [OpenAI 遭多州总检察长联合调查](https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general)
 
-`Fri, 12 Jun 2026 00:46:02 GMT`
+`Sat, 13 Jun 2026 00:27:02 GMT`
 
-邵猛分享 Spec 驱动开发（SDD）方法，用三个 Skills（/write-product-spec、/write-tech-spec、/validate-changes-match-specs）覆盖 Spec→Implement→Verify 闭环。规格分两层：PRODUCT.md（用户故事、不变量）和 TECH.md（架构、实现策略），均放在 specs// 目录，随 PR 提交。五步流程：写产品规格、写技术规格、Agent 按规格实现、一致性校验、计算机操作端到端验证。Skills 可移植，不绑定 War
+OpenAI 正被一个由多州总检察长组成的联盟调查，该联盟已向这家人工智能公司索取涵盖广泛主题的信息。
 
-## [Codex 推出浏览器开发者模式](https://x.com/OpenAIDevs/status/2065226355495895521)
+## [Oran Ge 开源《人味儿写作心法.skill》解决AI写作缺人味](https://x.com/oran_ge/status/2065566882774868125)
 
-`Fri, 12 Jun 2026 00:15:07 GMT`
+`Fri, 12 Jun 2026 22:48:15 GMT`
 
-为 Chrome 和 Codex 内置浏览器引入开发者模式。 Codex 可以使用 Chrome DevTools 协议（CDP）来调试浏览器问题，通过分析 JavaScript 性能、检查控制台输出、网络流量和页面状态。
+Oran Ge 让 Claude Fable 5 打磨文案三遍，发现改稿越来越讲究却缺"人味儿"。他与 AI 讨论后得出结论：人写的文字背后有"存在感"--作者在具体位置付出过具体代价，而 AI 无法复现。为此他制作了《人味儿写作心法.skill》，专用于自写文章或口述后让 AI 改稿的场景，旨在保留文字的人味。该技能已开源免费发布在 GitHub。
 
-## [OpenAI Codex 推出速率重置攒存功能](https://x.com/OpenAI/status/2065225362544726371)
+## [Anthropic首次公众调查：近半美国人盼AI治愈疾病，超六成担忧失业](https://www.anthropic.com/news/anthropic-public-record)
 
-`Fri, 12 Jun 2026 00:11:11 GMT`
+`Fri, 12 Jun 2026 16:14:59 GMT`
 
-我们听说您希望能在自己方便的时候使用 Codex 速率限制重置。 从今天起，我们开始推出将速率限制重置保留到以后使用的功能。 我们从 Go、Plus、Pro 和 Business 用户开始，每人提供一次免费重置：
+Anthropic对近5.2万美国人调查显示：48%将治愈癌症等疾病列为首要期望，36%希望AI帮助残障人士。64%担忧AI导致失业，56%担忧认知依赖，52%担忧信息误导。超70%支持政府监管，最关注隐私（56%）、儿童安全（52%）和责任归属（49%）。仅15%信任AI公司决策。多数议题上观点不因党派或地域严重分裂。调查于2025年11-12月由YouGov线上执行并加权至人口普查基准。
 
-## [研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器](https://www.kennethpayne.uk/p/shall-we-play-a-game)
+## [Hermes Agent 在 OpenRouter 上的使用指南：设置、模型与路由](https://openrouter.ai/blog/tutorials/hermes-agent)
 
-`Thu, 11 Jun 2026 22:23:17 GMT`
+`Fri, 12 Jun 2026 16:00:00 GMT`
 
-一项模拟研究显示，大型语言模型（LLM）在 95% 的模拟场景中会选择使用战术核武器。该研究未指明具体模型名称与版本，结果引发对 AI 决策行为的关注。
+Hermes Agent 已通过 OpenRouter 处理超过 17 万亿 tokens。使用指南包括设置流程、选择支持 64K 上下文窗口的模型，以及调整路由策略以兼顾成本与可靠性。
 
-## [Replit 专家级提示词技巧](https://x.com/Replit/status/2065192392718733327)
+## [如何在OpenRouter上获得最低成本的LLM推理](https://openrouter.ai/blog/tutorials/how-to-get-the-lowest-cost-llm-inference-on-openrouter)
 
-`Thu, 11 Jun 2026 22:00:10 GMT`
+`Fri, 12 Jun 2026 16:00:00 GMT`
 
-如何像专家一样使用 Replit 进行提示 🤖 模糊的提示词只会导致更多重写。以下是如何让 Agent 第一次就构建出正确的东西。 🧵 展开线程 ↓
+在OpenRouter上追加`：floor`可获取最便宜提供商，通过`max_price`设定花费上限，并可免费使用20多个零成本模型。同时需注意避免计费陷阱。
 
-## [Replit 与 Databricks 集成升级，公开预览开放](https://x.com/Replit/status/2065189762365813089)
+## [olmo-eval：面向模型开发循环的评估工作台](https://huggingface.co/blog/allenai/olmo-eval)
 
-`Thu, 11 Jun 2026 21:49:43 GMT`
+`Fri, 12 Jun 2026 15:56:10 GMT`
 
-Replit 与 @databricks 集成刚刚升级了。 构建应用，让每个用户只看到他们应该看到的内容。你的 HR 分析师可以为 CEO 构建完整的组织视图，而无需访问底层数据。 公开预览已开放注册！了解更多 → https：//replit.com/blog/databricksjune2026
+olmo-eval 是基于 OLMES 标准构建的评估工作台，专为 LLM 持续开发中的反复评测场景设计。相比 OLMES，它减少了新增评测的实现工作量，支持 agentic 和多轮评测作为一等用例，并允许根据基准需求选择轻量直接运行或容器化隔离运行。采用模块化架构，模型、工具、容器环境、辅助模型均可独立替换。评测结果同时报告分数、标准误差和最小可检测效应。与 Harbor 侧重于发布不同，olmo-eval 聚焦开发阶段快速迭代，可逐问题对比检查点输出以区分真实改进与噪声。
 
-## [全自主无人机首次击毙了人类士兵](https://www.newscientist.com/article/2529849-fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time)
+## [字节豆包上线"任务模式"：支持定时执行与文件生成，"思考模式"升级为"专家模式"](https://www.ithome.com/0/963/725.htm)
 
-`Thu, 11 Jun 2026 19:29:06 GMT`
+`Fri, 12 Jun 2026 15:33:19 GMT`
 
-据《新科学家》6月10日报道，全自主无人机首次击毙了人类士兵。这是有记录以来第一次由完全自主运行的无人机执行致命攻击，标志着自主武器系统在实战中的新进展。该报道来自《新科学家》网站，目前尚无更多细节公布。
+6月12日，字节跳动旗下AI应用豆包大范围上线"任务模式"，支持定时执行、零代码网页生成、一键PPT生成、数据可视化分析等全链路Agent执行。原"思考模式"升级为"专家模式"，调用豆包大模型2.0 Pro版本，强化深度推理能力。App顶部模式切换改为"快速、专家、任务"。基础功能免费，高阶服务付费，专业版三档：标准版68元/月或688元/年，加强版200元/月或2048元/年，专业版500元/月或5088元/年。
 
-## [Replit Agent 新增自定义指令与技能功能](https://x.com/Replit/status/2065146579326271883)
+## [MiniMax M3 开源权重模型发布，已上架 HuggingFace](https://x.com/MiniMax_AI/status/2065436935188058208)
 
-`Thu, 11 Jun 2026 18:58:07 GMT`
+`Fri, 12 Jun 2026 14:11:53 GMT`
 
-AI 智能体很强大，但它们不记得你的偏好。 所以你总是重复指令--如何组织项目、你的品牌指南。 现在你可以通过自定义指令和技能让 Replit Agent 学会你的惯例。 它会在每个项目中自动将这些考虑进去。
+MiniMax 发布开源权重模型 M3，约 428B 总参数、23B 激活参数，已上传 HuggingFace。该模型融合三种前沿能力：编码与智能体方面达 59.0% SWE-Bench Pro、66.0% Terminal Bench 2.1、34.8% SWE-fficiency、28.8% KernelBench Hard、74.2% MCP Atlas；采用 MiniMax 稀疏注意力将上下文窗口扩展至 1M token；原生多模态。同步上线 MiniMax Code 工具及 API 平台。权重与技术报告预
 
-## [Anthropic与DXC达成全球联盟，将Claude引入关键行业系统](https://www.anthropic.com/news/dxc-anthropic-alliance)
+## [Kimi 发布并开源最新代码模型 Kimi-K2.7-Code](https://x.com/Kimi_Moonshot/status/2065377579130142937)
 
-`Thu, 11 Jun 2026 18:13:16 GMT`
+`Fri, 12 Jun 2026 10:16:02 GMT`
 
-Anthropic与IT服务公司DXC Technology达成多年全球联盟。DXC将培训数万名获得Claude认证的前沿部署工程师（FDE），将Claude引入其为全球大型银行、航空公司、保险公司及政府机构运营的关键系统。内部部署中，Claude已成为DXC OASIS平台的默认基础模型，该平台超95%代码由Claude编写，开发速度提升10倍，已服务50多家客户。DXC加入Claude Partner Network，将在保险、现代化服务、网络安全及应用服务四个领域率先推出基于Claude的解决方案。
+Kimi 发布并开源最新代码模型 Kimi-K2.7-Code。相比 K2.6，其在 Kimi Code Bench v2 上提升 +21.8%，Program Bench 提升 +11.0%，MLS Bench Lite 提升 +31.5%。推理效率改进，推理 token 使用量降低 30%，长时编码任务中指令遵循和端到端成功率均提升。6x 高速模式即将推出，即日起可通过 Kimi API 和 Kimi Code 使用。
