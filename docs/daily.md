@@ -5,7 +5,67 @@ description: 自动订阅 AI Hot 每日日报 feed
 
 # AI 每日日报
 
-> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-06-13 06:58:06 +0000
+> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-06-14 07:23:39 +0000
+
+## [Anthropic 上市前夕](https://x.com/xiaohu/status/2065991805238497732)
+
+`Sun, 14 Jun 2026 02:56:45 GMT`
+
+Anthropic CEO Dario Amodei透露内部模型Mythos有上千漏洞，能黑银行、窃取国家机密；预言AI一到五年内砍掉一半入门级白领工作；称Claude已被美军用于对伊朗战争，涉及女校150人死亡拷问；解释离开OpenAI因信任崩塌；回怼黄仁勋末日营销指控；给出文明崩溃概率10%-25%。
+
+## [Meta 开始撤销 20 亿美元收购 Manus 的交易](https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand)
+
+`Sun, 14 Jun 2026 00:03:49 GMT`
+
+据 TechCrunch 报道，Meta 已开始撤销对 Manus 的 20 亿美元收购交易，此前北京要求该交易必须反转。目前收购解除程序已启动。
+
+## [Suno 音轨分离：从零生成更纯净](https://x.com/suno/status/2065862499765821916)
+
+`Sat, 13 Jun 2026 18:22:56 GMT`
+
+重大更新：Suno 的音轨分离刚刚大幅升级。🚀 我们现在从零重新生成音轨，而非仅仅隔离频率。结果如何？纯净无伪影的音轨，可直接拖入你的 DAW。
+
+## [亚马逊首席执行官与美国官员会谈引发对 Anthropic 模型的整治](https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578)
+
+`Sat, 13 Jun 2026 18:22:19 GMT`
+
+亚马逊 CEO 与美国官员的会谈直接导致美国政府对 Anthropic 公司的 AI 模型采取整治行动。此次事件涉及对 Anthropic 旗下大语言模型的监管升级，具体措施及模型版本细节尚未披露。
+
+## [Fusion API：半价达Fable级智能](https://x.com/OpenRouter/status/2065856853989270011)
+
+`Sat, 13 Jun 2026 18:00:30 GMT`
+
+推出Fusion API，市场上最智能的复合模型。 Fusion以一半的价格实现Fable级别的智能。 工作原理如下👇
+
+## [/architect：减少80%的Fable token，Fable负责协调/审核，Codex负责构建](https://github.com/DanMcInerney/architect-loop)
+
+`Sat, 13 Jun 2026 16:46:05 GMT`
+
+/architect项目将Fable token减少80%，由Fable进行协调和审核，Codex负责构建任务。
+
+## [Anthropic 秘密申请上市，估值 9650 亿美元](https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters)
+
+`Sat, 13 Jun 2026 11:00:00 GMT`
+
+Anthropic，这家估值达 9650 亿美元的 AI 巨头、史上增长最快的初创公司之一，在秘密提交 IPO 申请后，再次投下重磅炸弹。
+
+## [谷歌Android安全负责人因反对军事AI合作辞职](https://www.ithome.com/0/963/888.htm)
+
+`Sat, 13 Jun 2026 08:40:39 GMT`
+
+谷歌Android平台安全负责人René Mayrhofer辞职，他在5月18日内部告别信中指责公司"丧失道德指针"，批评谷歌悄悄放弃碳中和目标（因AI模型能耗），并与美国战争部签署允许AI用于"任何合法目的"的协议。今年4月下旬谷歌宣布向五角大楼提供AI用于机密工作，2025年2月更新AI原则时移除了不使用AI开发武器或监控工具的承诺。Mayrhofer担忧谷歌AI产品可能被用于针对公民的大规模监控，包括自己和家人。
+
+## [扎克伯格承认 Meta AI 转型"脱轨"：裁员 10%、转岗 7000 人后组织调整过快](https://www.ithome.com/0/963/858.htm)
+
+`Sat, 13 Jun 2026 06:49:25 GMT`
+
+路透社披露的 Meta 内部备忘录显示，CEO 扎克伯格承认公司在 AI 转型中组织调整节奏过快，带来员工安置、管理跨度等问题，预计未来"几乎肯定会犯更多错误"。Meta 今年 5 月已裁减全球 10% 员工，并将 7000 人转入 AI 相关新项目。为缓解协作问题，公司将增加团队建设预算，7 月举办黑客松。新成立的应用 AI 工程部门个人贡献者与管理者比例最高达 50：1。扎克伯格重申今年不再全公司裁员。
+
+## [智谱 GLM-5.2 全量开放，支持 1M 上下文且下周开源](https://mp.weixin.qq.com/s/LDrbtLM0wiCTJorvd5GY9w)
+
+`Sat, 13 Jun 2026 06:19:36 GMT`
+
+GLM-5.2 是智谱迄今能力最强的开源模型，支持真正可用的 1M 上下文，在长程任务中继续保持领先，并被智谱称为最强的国产 Coding 模型。今晚 5：21 起面向 GLM Coding Plan 全量用户开放（覆盖 Lite、Pro、Max、团队版）。API 将于下周上线，模型下周正式开源，遵循 MIT 协议。
 
 ## [SemiAnalysis 洞察 Token 经济：200 美元 AI 订阅榨出 70 倍用量](https://www.ithome.com/0/963/834.htm)
 
@@ -18,63 +78,3 @@ SemiAnalysis 购买了 Anthropic 和 OpenAI 的全部订阅方案，模拟高强
 `Sat, 13 Jun 2026 02:26:30 GMT`
 
 Anthropic对政府撤回其最强大AI模型表达不满，称仅基于一个狭窄的潜在越狱发现就召回已部署给数亿用户的商业模型不合理。
-
-## [关于美国政府指令暂停访问Fable 5和Mythos 5的声明](https://www.anthropic.com/news/fable-mythos-access)
-
-`Sat, 13 Jun 2026 01:15:57 GMT`
-
-美国政府以国家安全为由，指令Anthropic暂停所有外国国民（含海外员工）对Fable 5和Mythos 5的访问。Anthropic当日5：21pm （ET）收到指令后立即向所有客户禁用这两个模型，其他模型不受影响。政府称发现一种越狱Fable 5的方法；Anthropic审核认为该技术仅能识别少量已知微小漏洞，且其他公开模型（如OpenAI的GPT-5.5）也能做到。Anthropic坚持深度防御策略，认为此次越狱不具普遍性，不同意以此标准召回已服务数亿人的商用模型，正与政府合作争取尽快恢复访问。
-
-## [OpenAI 遭多州总检察长联合调查](https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general)
-
-`Sat, 13 Jun 2026 00:27:02 GMT`
-
-OpenAI 正被一个由多州总检察长组成的联盟调查，该联盟已向这家人工智能公司索取涵盖广泛主题的信息。
-
-## [Oran Ge 开源《人味儿写作心法.skill》解决AI写作缺人味](https://x.com/oran_ge/status/2065566882774868125)
-
-`Fri, 12 Jun 2026 22:48:15 GMT`
-
-Oran Ge 让 Claude Fable 5 打磨文案三遍，发现改稿越来越讲究却缺"人味儿"。他与 AI 讨论后得出结论：人写的文字背后有"存在感"--作者在具体位置付出过具体代价，而 AI 无法复现。为此他制作了《人味儿写作心法.skill》，专用于自写文章或口述后让 AI 改稿的场景，旨在保留文字的人味。该技能已开源免费发布在 GitHub。
-
-## [Anthropic首次公众调查：近半美国人盼AI治愈疾病，超六成担忧失业](https://www.anthropic.com/news/anthropic-public-record)
-
-`Fri, 12 Jun 2026 16:14:59 GMT`
-
-Anthropic对近5.2万美国人调查显示：48%将治愈癌症等疾病列为首要期望，36%希望AI帮助残障人士。64%担忧AI导致失业，56%担忧认知依赖，52%担忧信息误导。超70%支持政府监管，最关注隐私（56%）、儿童安全（52%）和责任归属（49%）。仅15%信任AI公司决策。多数议题上观点不因党派或地域严重分裂。调查于2025年11-12月由YouGov线上执行并加权至人口普查基准。
-
-## [Hermes Agent 在 OpenRouter 上的使用指南：设置、模型与路由](https://openrouter.ai/blog/tutorials/hermes-agent)
-
-`Fri, 12 Jun 2026 16:00:00 GMT`
-
-Hermes Agent 已通过 OpenRouter 处理超过 17 万亿 tokens。使用指南包括设置流程、选择支持 64K 上下文窗口的模型，以及调整路由策略以兼顾成本与可靠性。
-
-## [如何在OpenRouter上获得最低成本的LLM推理](https://openrouter.ai/blog/tutorials/how-to-get-the-lowest-cost-llm-inference-on-openrouter)
-
-`Fri, 12 Jun 2026 16:00:00 GMT`
-
-在OpenRouter上追加`：floor`可获取最便宜提供商，通过`max_price`设定花费上限，并可免费使用20多个零成本模型。同时需注意避免计费陷阱。
-
-## [olmo-eval：面向模型开发循环的评估工作台](https://huggingface.co/blog/allenai/olmo-eval)
-
-`Fri, 12 Jun 2026 15:56:10 GMT`
-
-olmo-eval 是基于 OLMES 标准构建的评估工作台，专为 LLM 持续开发中的反复评测场景设计。相比 OLMES，它减少了新增评测的实现工作量，支持 agentic 和多轮评测作为一等用例，并允许根据基准需求选择轻量直接运行或容器化隔离运行。采用模块化架构，模型、工具、容器环境、辅助模型均可独立替换。评测结果同时报告分数、标准误差和最小可检测效应。与 Harbor 侧重于发布不同，olmo-eval 聚焦开发阶段快速迭代，可逐问题对比检查点输出以区分真实改进与噪声。
-
-## [字节豆包上线"任务模式"：支持定时执行与文件生成，"思考模式"升级为"专家模式"](https://www.ithome.com/0/963/725.htm)
-
-`Fri, 12 Jun 2026 15:33:19 GMT`
-
-6月12日，字节跳动旗下AI应用豆包大范围上线"任务模式"，支持定时执行、零代码网页生成、一键PPT生成、数据可视化分析等全链路Agent执行。原"思考模式"升级为"专家模式"，调用豆包大模型2.0 Pro版本，强化深度推理能力。App顶部模式切换改为"快速、专家、任务"。基础功能免费，高阶服务付费，专业版三档：标准版68元/月或688元/年，加强版200元/月或2048元/年，专业版500元/月或5088元/年。
-
-## [MiniMax M3 开源权重模型发布，已上架 HuggingFace](https://x.com/MiniMax_AI/status/2065436935188058208)
-
-`Fri, 12 Jun 2026 14:11:53 GMT`
-
-MiniMax 发布开源权重模型 M3，约 428B 总参数、23B 激活参数，已上传 HuggingFace。该模型融合三种前沿能力：编码与智能体方面达 59.0% SWE-Bench Pro、66.0% Terminal Bench 2.1、34.8% SWE-fficiency、28.8% KernelBench Hard、74.2% MCP Atlas；采用 MiniMax 稀疏注意力将上下文窗口扩展至 1M token；原生多模态。同步上线 MiniMax Code 工具及 API 平台。权重与技术报告预
-
-## [Kimi 发布并开源最新代码模型 Kimi-K2.7-Code](https://x.com/Kimi_Moonshot/status/2065377579130142937)
-
-`Fri, 12 Jun 2026 10:16:02 GMT`
-
-Kimi 发布并开源最新代码模型 Kimi-K2.7-Code。相比 K2.6，其在 Kimi Code Bench v2 上提升 +21.8%，Program Bench 提升 +11.0%，MLS Bench Lite 提升 +31.5%。推理效率改进，推理 token 使用量降低 30%，长时编码任务中指令遵循和端到端成功率均提升。6x 高速模式即将推出，即日起可通过 Kimi API 和 Kimi Code 使用。
