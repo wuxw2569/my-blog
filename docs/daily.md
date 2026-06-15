@@ -5,7 +5,49 @@ description: 自动订阅 AI Hot 每日日报 feed
 
 # AI 每日日报
 
-> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-06-14 07:23:39 +0000
+> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-06-15 09:20:44 +0000
+
+## [美国命令Anthropic阻止外国人访问Mythos](https://www.bloomberg.com/news/videos/2026-06-15/us-orders-anthropic-to-block-foreign-access-to-mythos-video)
+
+`Mon, 15 Jun 2026 07:33:41 GMT`
+
+美国政府已下令Anthropic阻止所有外国人访问其最先进的AI模型Mythos和Fable 5，原因是发现Fable 5可以被越狱（绕过安全护栏）。
+
+## [AI裁员浪潮成为火药桶](https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg)
+
+`Mon, 15 Jun 2026 07:25:41 GMT`
+
+今年科技公司已累计裁员约15万人，日均974人，速度比去年快44%；上月裁员近4万创两年新高，AI连续三个月被列为裁员首要原因。Block近半数员工被裁后，CEO Jack Dorsey否认AI是根源，Marc Andreessen则称AI只是"银弹借口"。Uber裁撤23%人事部门，但此前CTO透露AI编码预算四个月内耗尽。与此同时，AI芯片商Cerebras上市首日市值达670亿美元，SpaceX上市市值2.1万亿美元，Anthropic和OpenAI估值均约1万亿美元。Meta在扎克伯格购入1.7亿美元豪宅后
+
+## [OpenAI 推出合作伙伴网络 OpenAI Partner Network](https://openai.com/index/introducing-openai-partner-network)
+
+`Sun, 14 Jun 2026 17:00:00 GMT`
+
+OpenAI 宣布推出 OpenAI Partner Network，并投资 1.5 亿美元支持全球合作伙伴构建、销售和交付 AI 解决方案。该计划设立 Select、Advanced、Elite 三级合作伙伴层级，提供 Codex、网络安全、智能体等专业方向认证，并试点 Forward Deployed Experts 项目以支持复杂企业部署。目标在 2026 年底前培训认证 30 万名顾问。案例显示，Paychex 借助 Bain 和 OpenAI 的方案将等待时间降低 80%，人工审核时间减少 30%。
+
+## [白宫AI监管决定被指偏袒OpenAI与亚马逊](https://garymarcus.substack.com/p/what-washington-must-do)
+
+`Sun, 14 Jun 2026 16:15:35 GMT`
+
+白宫周五做出的AI监管决定被指偏袒OpenAI、亚马逊等企业，同时对Anthropic施压不足24小时，缺乏透明度和事实依据。Gary Marcus、Dean W Ball及卡托研究所Kevin Frazier等专家指出，这种由少数人闭门快速决策的做法带有腐败嫌疑，可能促使其他国家加速发展"主权AI"甚至中国AI，并导致美国人才流失。Anthropic声明称政府应在法定程序中基于技术事实阻止不安全部署，而非当前方式。Marcus呼吁建立独立机构负责AI监管，确保公平、清晰、基于证据的执行。
+
+## [Satya Nadella：没有生态的前沿不稳定](https://x.com/satyanadella/status/2066182223213293753)
+
+`Sun, 14 Jun 2026 15:33:24 GMT`
+
+微软CEO Satya Nadella认为，AI驱动的平台转变首次实现人与数字系统间的认知循环。企业需同时构建人力资本（知识、判断、关系）与token资本（自有的AI能力），且人力资本不会贬值，反而随token资本增长而增值。真正的机会在于建立人力资本与token资本复合增长的学习循环--企业应能替换通用模型而不丢失已内化的专家知识，通过私有评估和强化学习让模型从内部真实轨迹中持续提升。他警告，若所有价值被少数模型吞噬，将重演全球化空心化悲剧，呼吁构建前沿生态系统，让每家企业、行业和国家拥有自己的学习循环。
+
+## [乔木小说创作 Skill 开源发布](https://x.com/vista8/status/2066165703443726749)
+
+`Sun, 14 Jun 2026 14:27:45 GMT`
+
+开源乔木小说创作 Skill，用户只需说"我想写一个小说"或指定风格，AI 自动生成剧情梗概、人物设定、钩子、经典桥段、人物欲望、冲突升级和结尾。与 AI 讨论确认后，可生成完整、低 AI 味的小说。安装命令：npx skills add joeseesun/qiaomu-novel-generator，Github 开源地址见评论区。
+
+## [Anthropic 暂停新模型访问，印度辩论 AI 未来](https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future)
+
+`Sun, 14 Jun 2026 03:00:00 GMT`
+
+Anthropic 暂停了新模型的访问权限，印度科技领袖围绕这一事件展开辩论，探讨其是否是对该国 AI 雄心的警示。
 
 ## [Anthropic 上市前夕](https://x.com/xiaohu/status/2065991805238497732)
 
@@ -25,12 +67,6 @@ Anthropic CEO Dario Amodei透露内部模型Mythos有上千漏洞，能黑银行
 
 重大更新：Suno 的音轨分离刚刚大幅升级。🚀 我们现在从零重新生成音轨，而非仅仅隔离频率。结果如何？纯净无伪影的音轨，可直接拖入你的 DAW。
 
-## [亚马逊首席执行官与美国官员会谈引发对 Anthropic 模型的整治](https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578)
-
-`Sat, 13 Jun 2026 18:22:19 GMT`
-
-亚马逊 CEO 与美国官员的会谈直接导致美国政府对 Anthropic 公司的 AI 模型采取整治行动。此次事件涉及对 Anthropic 旗下大语言模型的监管升级，具体措施及模型版本细节尚未披露。
-
 ## [Fusion API：半价达Fable级智能](https://x.com/OpenRouter/status/2065856853989270011)
 
 `Sat, 13 Jun 2026 18:00:30 GMT`
@@ -42,39 +78,3 @@ Anthropic CEO Dario Amodei透露内部模型Mythos有上千漏洞，能黑银行
 `Sat, 13 Jun 2026 16:46:05 GMT`
 
 /architect项目将Fable token减少80%，由Fable进行协调和审核，Codex负责构建任务。
-
-## [Anthropic 秘密申请上市，估值 9650 亿美元](https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters)
-
-`Sat, 13 Jun 2026 11:00:00 GMT`
-
-Anthropic，这家估值达 9650 亿美元的 AI 巨头、史上增长最快的初创公司之一，在秘密提交 IPO 申请后，再次投下重磅炸弹。
-
-## [谷歌Android安全负责人因反对军事AI合作辞职](https://www.ithome.com/0/963/888.htm)
-
-`Sat, 13 Jun 2026 08:40:39 GMT`
-
-谷歌Android平台安全负责人René Mayrhofer辞职，他在5月18日内部告别信中指责公司"丧失道德指针"，批评谷歌悄悄放弃碳中和目标（因AI模型能耗），并与美国战争部签署允许AI用于"任何合法目的"的协议。今年4月下旬谷歌宣布向五角大楼提供AI用于机密工作，2025年2月更新AI原则时移除了不使用AI开发武器或监控工具的承诺。Mayrhofer担忧谷歌AI产品可能被用于针对公民的大规模监控，包括自己和家人。
-
-## [扎克伯格承认 Meta AI 转型"脱轨"：裁员 10%、转岗 7000 人后组织调整过快](https://www.ithome.com/0/963/858.htm)
-
-`Sat, 13 Jun 2026 06:49:25 GMT`
-
-路透社披露的 Meta 内部备忘录显示，CEO 扎克伯格承认公司在 AI 转型中组织调整节奏过快，带来员工安置、管理跨度等问题，预计未来"几乎肯定会犯更多错误"。Meta 今年 5 月已裁减全球 10% 员工，并将 7000 人转入 AI 相关新项目。为缓解协作问题，公司将增加团队建设预算，7 月举办黑客松。新成立的应用 AI 工程部门个人贡献者与管理者比例最高达 50：1。扎克伯格重申今年不再全公司裁员。
-
-## [智谱 GLM-5.2 全量开放，支持 1M 上下文且下周开源](https://mp.weixin.qq.com/s/LDrbtLM0wiCTJorvd5GY9w)
-
-`Sat, 13 Jun 2026 06:19:36 GMT`
-
-GLM-5.2 是智谱迄今能力最强的开源模型，支持真正可用的 1M 上下文，在长程任务中继续保持领先，并被智谱称为最强的国产 Coding 模型。今晚 5：21 起面向 GLM Coding Plan 全量用户开放（覆盖 Lite、Pro、Max、团队版）。API 将于下周上线，模型下周正式开源，遵循 MIT 协议。
-
-## [SemiAnalysis 洞察 Token 经济：200 美元 AI 订阅榨出 70 倍用量](https://www.ithome.com/0/963/834.htm)
-
-`Sat, 13 Jun 2026 06:09:26 GMT`
-
-SemiAnalysis 购买了 Anthropic 和 OpenAI 的全部订阅方案，模拟高强度编码任务直至触及每周上限。月费 200 美元的 Claude Max 20x 方案，按 API 价格换算最高可消耗约值 8000 美元的 token；ChatGPT Pro 20x 方案对应最高约值 14000 美元的 token。用户通过订阅可获取 40 至 70 倍的 API 价值，该机构指出这种价格体系在重度用户持续榨满上限后可能难以长期维持。
-
-## [Anthropic的安全警告可能适得其反--政府已撤回其最强大AI](https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai)
-
-`Sat, 13 Jun 2026 02:26:30 GMT`
-
-Anthropic对政府撤回其最强大AI模型表达不满，称仅基于一个狭窄的潜在越狱发现就召回已部署给数亿用户的商业模型不合理。
