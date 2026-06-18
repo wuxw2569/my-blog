@@ -5,76 +5,76 @@ description: 自动订阅 AI Hot 每日日报 feed
 
 # AI 每日日报
 
-> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-06-16 08:46:18 +0000
+> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-06-18 08:06:57 +0000
 
-## [Google Cloud 推出 OKF v0.1：供应商中立的 Markdown 规范，为 AI 智能体提供结构化上下文](https://www.marktechpost.com/2026/06/16/google-cloud-introduces-open-knowledge-format-okf-a-vendor-neutral-markdown-spec-for-giving-ai-agents-curated-context)
+## [免费开源乔木画布：AI生图+抠图，一键部署Vercel](https://x.com/vista8/status/2067513484364140994)
 
-`Tue, 16 Jun 2026 08:18:58 GMT`
+`Thu, 18 Jun 2026 07:43:21 GMT`
 
-Google Cloud 发布 Open Knowledge Format （OKF） v0.1，一种供应商中立的 Markdown 规范，为 AI 智能体提供结构化上下文知识。OKF 将知识表示为带 YAML 前置元数据的 markdown 文件目录，每个概念对应一个文件，通过 `type`、`title`、`description` 等少量保留字段实现互操作。无需专有服务、SDK 或运行时，目录可托管在 GitHub、以 tarball 传输或挂载到任意文件系统。OKF 旨在解决组织内部知识碎片化问题--表结构
+乔木画布推出免费开源在线图像编辑器，可一键部署Vercel为网站，功能类似简化版PS。支持Seedream和GPT-image-2生图、图片模板存储分享、一键抠图、2万图标和常见Emoji，甚至能绘制PRD。随时创建3：4/16：9/21：9等不同尺寸画布。原计划高级功能收费，庆祝端午节现全免费开源。在线体验：https：//ps.qiaomu.ai/，GitHub见评论区。
 
-## [Cartesia 发布 Sonic 3.5 与 Ink 2 实时语音模型](https://x.com/testingcatalog/status/2066773392527655252)
+## [MOSS-TTS-Local-Transformer-v1.5 在 SGLang-Omni 上：原生流式 48 kHz 语音服务](https://www.lmsys.org/blog/2026-06-17-moss-tts-local-v15)
 
-`Tue, 16 Jun 2026 06:42:30 GMT`
+`Thu, 18 Jun 2026 05:56:08 GMT`
 
-Cartesia 推出 Sonic 3.5 和 Ink 2 两个模型，作为单一实时语音栈，分别负责文本转语音和语音转文本。Ink 2 在 Artificial Analysis 的流式语音转文字排行榜上排名第一。Sonic 3.5 在实时文本转语音中位列榜首，首音频延迟约 82ms。Cartesia 成为目前唯一同时拥有 #1 听与说模型的提供商。
+MOSS-TTS-Local-Transformer-v1.5 是一款开源 TTS 模型，支持 48 kHz 立体声、零样本声音克隆、最长 10 分钟长文本合成、时长控制及 31 种语言。其核心采用 Qwen3-4B 骨干与约 2B 参数的 MOSS-Audio-Tokenizer-v2 音频编解码器，通过 12 个 RVQ 码本运行。SGLang-Omni 以三阶段流水线部署该模型。在 Seed-TTS-Eval 上词错误率 5.10%、语音相似度 69.23%，CV3-Eval 上 WER 7.48%、SIM 
 
-## [AI 版支付宝官宣开启邀测：右滑打开"阿宝"，官方放出 100 个邀请码](https://www.ithome.com/0/964/691.htm)
+## [cuTile Rust：安全无数据竞争的 GPU 内核系统](https://github.com/nvlabs/cutile-rs)
 
-`Tue, 16 Jun 2026 02:39:06 GMT`
+`Thu, 18 Jun 2026 03:09:11 GMT`
 
-支付宝今日开启 AI 版邀测，用户可右滑进入新版界面，在对话框或语音中输入指令，由"阿宝"助手代办事项。以查询公积金为例，阿宝自动匹配对应小程序和服务入口，用户点击确认即可完成，将多步跳转折叠为一句指令。所有涉及资金变动和支付的环节均需用户本人确认。首批放出 100 个邀请码。
+cuTile Rust 是一个基于 tile 的 GPU 编程系统，允许用 Rust 编写内存安全、无数据竞争的内核。它通过 `#【cutile：：module】` 宏将内核 AST 嵌入主机二进制，在运行时经 CUDA Tile IR JIT 编译为 GPU cubin。可变张量在启动前分割，不可变张量共享，启动器在 GPU 工作期间保持所有权。在 NVIDIA B200 上，逐元素操作达 7 TB/s（约 91% 峰值带宽），GEMM 达 2 PFlop/s（约 92% 密集 f16 峰值）。基于 cuTile
 
-## [毕业生陷入AI检测荒诞循环：手写摘要被判99%AI率，AI写部分0%](https://mp.weixin.qq.com/s/DRzNIiojGLO-iqqPyJ7f8Q)
+## [首个统一科学大模型 LOGOS 正式开源](https://mp.weixin.qq.com/s/50q5uY849FKnBzk1Q04MRg)
 
-`Tue, 16 Jun 2026 02:06:00 GMT`
+`Thu, 18 Jun 2026 02:31:28 GMT`
 
-当前毕业生面临论文AIGC率检测荒诞困境。学生手写摘要被判定99%AI率，纯AI写部分却为0%。学校要求AIGC率不超40%，学生用Claude反复修改并花上百元检测费（维普20元/篇，知网/万方2元/千字符），最终降至36.1%。答辩时老师要求改回学术表达，AI率回升至37.21%。同一论文在不同平台检测结果差异巨大（48%、44%、59%）。部分平台提供降重收费服务，少数学校已改用AI使用声明表替代一刀切检测。
+LOGOS 由 ATH-Token Foundry 联合中国人民大学高瓴人工智能学院开源，是首个基于统一"科学语法"的多领域科学生成基础模型。LOGOS-1B（1B参数）在六大科学任务上匹配或超越领域专用方法：口袋条件配体生成纯序列范式首次超越3D扩散模型，超越NatureLM（8×7B）；逆合成预测Top-1准确率74.8%；口袋位点识别仅靠序列达58.5% Top-n准确率；MOF材料生成NBB提升至17.78%。模型采用统一词汇表将蛋白质、小分子等编码为离散Token，通过空间交互离散化实现无需3D坐标的序列
 
-## [伯克利RDI发布Agents' Last Exam基准](https://rdi.berkeley.edu/blog/agents-last-exam)
+## [深入解析 Midjourney Scanner 技术内幕](https://x.com/midjourney/status/2067422898407837797)
 
-`Tue, 16 Jun 2026 01:59:10 GMT`
+`Thu, 18 Jun 2026 01:43:24 GMT`
 
-2026年6月，伯克利RDI发布Agents' Last Exam（ALE）基准，包含1，500余项源于真实工作的任务，覆盖55个非体力职业。对Fable 5、GPT-5.5、Composer 2.5等前沿智能体的测评显示：在最困难层级成功率均为0%；整体任务表现接近，但单任务成本差异巨大（Fable 5约$15.70，GPT-5.5约$3.80，Composer 2.5约$1.33）。CLI子集ALE-CLI最佳通过率仅25.2%。主要失败模式是智能体未验证输出即宣称完成。数据集、代码及CLI子集已开源。
+我们全新"Midjourney Scanner"的技术深潜。
 
-## [教育部"阳光志愿"信息服务系统全新升级上线：智能筛选志愿，数据权威可信](https://www.ithome.com/0/964/675.htm)
+## [上交所发布指引：AI大模型企业可适用科创板第五套上市标准](https://www.ithome.com/0/965/735.htm)
 
-`Tue, 16 Jun 2026 01:56:49 GMT`
+`Thu, 18 Jun 2026 00:49:16 GMT`
 
-教育部"阳光志愿"信息服务系统今日全新升级上线，依托招生、学籍、就业等海量官方数据，免费为考生和家长提供志愿填报服务。系统支持31个省区市本专科普通批次志愿筛选，输入高考成绩、位次及个性化条件即可快速生成合理参考方案。AI助手"智慧小招"24小时在线解答政策规则。平台数据由高校直接报送、官方核验，真实可靠。同时推出专业倾向测评和21项生涯测评工具，帮助学生认清特长、规划未来。
+上海证券交易所6月17日发布指引，支持尚未形成稳定收入的优质人工智能大模型企业通过科创板第五套上市标准发行上市。申报企业需在行业地位、产业链优势、目标市场需求、研发进度及关键指标方面具备突出竞争力。指引明确，申报时至少有一个大模型产品已完成上线发布并实现规模化应用，以验证商业模式可行性。下一步，上交所将在中国证监会指导下推进符合标准的企业上市。
 
-## [成本砍半，字节跳动推出 Seedance 2.0 Mini 视频生成模型](https://www.ithome.com/0/964/672.htm)
+## [苹果 Xcode 27 核心首次深度集成 AI 智能体：支持自然语言修 Bug、构建 App](https://www.ithome.com/0/965/734.htm)
 
-`Tue, 16 Jun 2026 01:49:40 GMT`
+`Thu, 18 Jun 2026 00:43:26 GMT`
 
-字节跳动火山引擎旗下火山方舟体验中心于 6 月 15 日上线 Seedance 2.0 Mini 视频生成模型，计划近期开放 API。该模型比 Seedance 2.0 Fast 快 2 倍，输出质量相当。图生视频定价 0.023 元/千 tokens，视频生视频 0.014 元/千 tokens，720P 规格下单秒生成成本约 0.5 元，较 Seedance 2.0 标准版降低约一半。模型面向电商内容生产、营销素材批量生成、UGC 创作及特效玩法等高频率、大规模视频生成场景。
+在 2026 年 WWDC 期间，苹果发布 Xcode 27，其核心组件首次整合 AI 智能体，能理解 Swift 语言并通过多轮自然语言对话辅助开发。AI 可跨多个文件修改整个代码库，也能根据提示与资源生成应用设计并独立构建完整应用，建成后仍可通过对话添加特效、动画等。Xcode 27 支持接入 Anthropic、OpenAI 和 Google 等第三方 AI 模型，同时引入 Core AI 框架提供现代 Swift API 调用端侧模型，并升级开源框架 MLX。
 
-## [五角大楼将大部分日常AI工作流从Anthropic转移，目标9月前完全切断](https://x.com/AYi_AInotes/status/2066679835607412846)
+## [Noam Shazeer 离开 Google 加入 OpenAI](https://x.com/Yuchenj_UW/status/2067401895178817999)
 
-`Tue, 16 Jun 2026 00:30:44 GMT`
+`Thu, 18 Jun 2026 00:19:56 GMT`
 
-五角大楼宣布已将超2/3日常AI工作流从Anthropic转移，目标9月前清零。起因是年初五角大楼要求Anthropic签署协议允许Claude用于大规模监控和全自动武器，CEO Dario Amodei以模型不可靠为由拒绝。五角大楼将其列为"供应链风险"，起诉未果。OpenAI调整立场获得订单。Polymarket预测6月底前和解概率仅9%。此事件凸显AI公司需在原则与政府合作间抉择。
+两年前谷歌花 27 亿美元请回的 AI 传奇 Noam Shazeer 已离开谷歌，加入 OpenAI。 对 Gemini 来说是个残酷的消息。
 
-## [Qwen-RobotManip：对齐解锁机器人操作基础模型的规模化能力](https://qwen.ai/blog?id=qwen-robotmanip)
+## [泄露文件显示OpenAI年营收130亿但亏损远超收入](https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year)
 
-`Tue, 16 Jun 2026 00:00:00 GMT`
+`Wed, 17 Jun 2026 23:09:09 GMT`
 
-Qwen-RobotManip 是通义千问基于 Qwen-VL 的视觉-语言-动作（VLA）基础模型，引入覆盖表示、运动和行为三维度的统一对齐框架。仅使用开源机器人数据集和人演示视频，构建约 38，100 小时预训练语料，涵盖 15 种机器人形态。在 LIBERO-Plus 达 91.4%，RoboTwin-C2R Hard 达 69.4%，RoboCasa365 Composite-Unseen 达 14.9%，EBench 达 45.6%，RoboTwin-IF 达 72.0%，并在 RoboChallenge
+OpenAI 2025年营收130.7亿美元（2024年37亿），但研发成本达191.8亿（含向微软支付105.9亿），收入成本（推理计算）75亿，销售营销成本57.3亿，运营亏损209.2亿。2025年净亏损约390亿，扣除约300亿一次性会计费用后约80亿。2025年3月获1220亿融资（估值8520亿）。ChatGPT周活超9亿，付费约5000万。为控制成本已关闭Sora视频模型并削减非核心业务。
 
-## [Qwen-RobotWorld：具身智能体的无界世界](https://qwen.ai/blog?id=qwen-robotworld)
+## [库克：AI 浪潮引发存储芯片价格暴涨，iPhone 等苹果产品涨价已"不可避免"](https://www.ithome.com/0/965/694.htm)
 
-`Tue, 16 Jun 2026 00:00:00 GMT`
+`Wed, 17 Jun 2026 22:41:15 GMT`
 
-Qwen-RobotWorld以语言为统一动作接口，采用双流Multimodal Diffusion Transformer（MMDiT）架构，将Qwen2.5-VL作为动作编码器。在4个基准测试中取得顶尖成绩，统一20余种机器人形态，基于860万跨场景训练对和1300多项操作技能。语言接口标准化500多种动作类别，支持操作、自动驾驶、室内导航的联合训练。还支持Scene2Robot人类到机器人转移及2-4路多视角几何一致视频生成。
+苹果CEO库克确认，AI热潮导致存储芯片严重短缺和价格暴涨，苹果产品涨价已"不可避免"。库克未透露涨价具体细节。华尔街日报指出，全球AI巨头大幅增加资本开支，高带宽内存需求激增，挤压消费电子芯片供应。自2024年以来内存和存储芯片价格已翻四倍，涨势预计延续至2027年。研究机构估算，下一代iPhone 18 Pro售价或需增加约270美元。苹果已在上月提高Mac Mini起售价。摩根士丹利预测，今年美国智能手机和PC价格将上涨15%。
 
-## [Qwen-RobotNav：面向智能体导航系统的可扩展导航模型](https://qwen.ai/blog?id=qwen-robotnav)
+## [Claude Code v2.1.181 发布](https://github.com/anthropics/claude-code/releases/tag/v2.1.181)
 
-`Tue, 16 Jun 2026 00:00:00 GMT`
+`Wed, 17 Jun 2026 22:07:41 GMT`
 
-Qwen 发布 Qwen-RobotNav，基于 Qwen3-VL 在 15.6M 样本上训练，统一了视觉语言导航、目标导航、目标跟踪、自动驾驶和具身问答五个领域，无需修改架构即可在推理时切换任务模式和观察参数。模型在多项基准取得 SOTA：VLN-CE RxR 成功率 76.5%，HM3Dv2 目标导航 75.6%（仅 RGB），EVT-Bench 跟踪率 90.0%，NAVSIM PDMS 91.4，以及三项 EQA 新标杆。模型暴露四个可调轴（视觉 token 预算、时间衰减、相机权重、帧采样模式）。作为智能
+Claude Code v2.1.181 发布，新增 `/config key=value` 语法允许在提示中直接设置任意配置项，新增 `sandbox.allowAppleEvents` 选项使沙盒命令支持 Apple Events，新增 `CLAUDE_CLIENT_PRESENCE_FILE` 环境变量用于抑制移动端推送通知。内置 Bun 运行时升级至 1.4，改进了长段落流式输出（逐行显示）和 API 连接中断后自动重试。子 agent 面板优化：空闲 agent 30 秒自动隐藏、列表最多 5 行。修复了
 
-## [项目负责人揭秘为何苹果 AI 版 Siri 姗姗来迟：推倒重来，彻底重构](https://www.ithome.com/0/964/620.htm)
+## [Google 分享 A2UI 与 MCP Apps 三种集成架构模式](https://developers.googleblog.com/a2ui-and-mcp-apps)
 
-`Mon, 15 Jun 2026 23:16:58 GMT`
+`Wed, 17 Jun 2026 21:13:53 GMT`
 
-苹果AI版Siri迟迟未上线，项目负责人迈克·罗克韦尔在WWDC技术分享会上透露，去年团队曾做出在原有Siri基础上小幅改良、新增工具调用的可运行版本，但因无法达到产品愿景，最终选择推倒重来，完整从零重构系统，依托全新大模型搭建。重构后的Siri拥有独立应用程序，原生支持多模态交互，隐私保护贯穿底层架构，并覆盖iPhone、iPad、Mac、Apple Watch、Vision Pro、CarPlay、AirPods等全平台，提供统一连贯体验。
+Google 分享了三种集成 A2UI 与 MCP Apps 的架构模式，旨在结合两者优势。A2UI 采用声明式框架，通过 JSON payload 定义 UI，由宿主原生渲染，确保一致性与安全性，但受限于预定义组件库。MCP Apps 在 iframe 中使用标准 Web 技术提供自定义界面，但存在设计碎片化、性能与安全挑战。三种模式包括：通过 MCP 服务器提供 A2UI，利用 MCP Resources 或 Tool 调用传递 JSON，实现"一次编写，原生渲染"的跨平台能力；以及静态与动态交付方案。Goog
