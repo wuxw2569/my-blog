@@ -5,76 +5,76 @@ description: 自动订阅 AI Hot 每日日报 feed
 
 # AI 每日日报
 
-> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-06-18 08:06:57 +0000
+> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-06-19 08:31:10 +0000
 
-## [免费开源乔木画布：AI生图+抠图，一键部署Vercel](https://x.com/vista8/status/2067513484364140994)
+## [我们在 Elasticsearch 上构建了一个持久化代理内存层，其召回率为0.89](https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch)
 
-`Thu, 18 Jun 2026 07:43:21 GMT`
+`Fri, 19 Jun 2026 05:01:18 GMT`
 
-乔木画布推出免费开源在线图像编辑器，可一键部署Vercel为网站，功能类似简化版PS。支持Seedream和GPT-image-2生图、图片模板存储分享、一键抠图、2万图标和常见Emoji，甚至能绘制PRD。随时创建3：4/16：9/21：9等不同尺寸画布。原计划高级功能收费，庆祝端午节现全免费开源。在线体验：https：//ps.qiaomu.ai/，GitHub见评论区。
+Agent Builder 正式上市（GA）。基于 Elasticsearch 的持久化内存层将记忆分为情景、语义、程序三类，分别存入独立索引，各设不同写速率与过期规则。召回采用 BM25 与 Jina v5 稠密向量的 RRF 融合，再经交叉编码器重排序。在 168 道 QA 题评估中，R@10 平均 0.89，零跨租户泄漏。该层可通过支持 MCP 协议的客户端访问，不绑定特定运行时，已开源至 GitHub。
 
-## [MOSS-TTS-Local-Transformer-v1.5 在 SGLang-Omni 上：原生流式 48 kHz 语音服务](https://www.lmsys.org/blog/2026-06-17-moss-tts-local-v15)
+## [阿里开源向量数据库Zvec，UCSD黄碧薇教授提出因果AI第四代范式](https://x.com/AYi_AInotes/status/2067832098816250346)
 
-`Thu, 18 Jun 2026 05:56:08 GMT`
+`Fri, 19 Jun 2026 04:49:25 GMT`
 
-MOSS-TTS-Local-Transformer-v1.5 是一款开源 TTS 模型，支持 48 kHz 立体声、零样本声音克隆、最长 10 分钟长文本合成、时长控制及 31 种语言。其核心采用 Qwen3-4B 骨干与约 2B 参数的 MOSS-Audio-Tokenizer-v2 音频编解码器，通过 12 个 RVQ 码本运行。SGLang-Omni 以三阶段流水线部署该模型。在 Seed-TTS-Eval 上词错误率 5.10%、语音相似度 69.23%，CV3-Eval 上 WER 7.48%、SIM 
+阿里开源内部向量数据库Zvec，pip install zvec免费使用，对标Pinecone每月70美元能力。支持十亿向量毫秒级检索，无需单独起服务，全平台兼容；v0.5.0新增原生全文混合搜索。UCSD黄碧薇教授（causal-learn作者）提出AI四代范式：相关性小模型→因果小模型→相关性大模型（LLM）→因果大模型，认为当前正站在第四代门口。其创立的Aether AI完成首轮融资，致力于从视频中自动抽取物理规律，探索下一代因果AI范式。
 
-## [cuTile Rust：安全无数据竞争的 GPU 内核系统](https://github.com/nvlabs/cutile-rs)
+## [DeepSeek研究员开源AutoResearch：AI自主跑通285B模型RL研究闭环](https://x.com/AYi_AInotes/status/2067819352926150953)
 
-`Thu, 18 Jun 2026 03:09:11 GMT`
+`Fri, 19 Jun 2026 03:58:46 GMT`
 
-cuTile Rust 是一个基于 tile 的 GPU 编程系统，允许用 Rust 编写内存安全、无数据竞争的内核。它通过 `#【cutile：：module】` 宏将内核 AST 嵌入主机二进制，在运行时经 CUDA Tile IR JIT 编译为 GPU cubin。可变张量在启动前分割，不可变张量共享，启动器在 GPU 工作期间保持所有权。在 NVIDIA B200 上，逐元素操作达 7 TB/s（约 91% 峰值带宽），GEMM 达 2 PFlop/s（约 92% 密集 f16 峰值）。基于 cuTile
+DeepSeek研究员Deli Chen将AutoResearch协议开源，并发布Self-play综述论文。其AI智能体首次完全自主地在DeepSeek 285B模型上完成完整RL研究闭环--从实验设计、写代码、提交GPU任务、debug到结论总结，全程零人工干预。系统调用了GRPO工具，被视为持续学习研究的开端。
 
-## [首个统一科学大模型 LOGOS 正式开源](https://mp.weixin.qq.com/s/50q5uY849FKnBzk1Q04MRg)
+## [Fable模型被美国临时关闭，AI安全管控时代来临](https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b)
 
-`Thu, 18 Jun 2026 02:31:28 GMT`
+`Fri, 19 Jun 2026 03:31:56 GMT`
 
-LOGOS 由 ATH-Token Foundry 联合中国人民大学高瓴人工智能学院开源，是首个基于统一"科学语法"的多领域科学生成基础模型。LOGOS-1B（1B参数）在六大科学任务上匹配或超越领域专用方法：口袋条件配体生成纯序列范式首次超越3D扩散模型，超越NatureLM（8×7B）；逆合成预测Top-1准确率74.8%；口袋位点识别仅靠序列达58.5% Top-n准确率；MOF材料生成NBB提升至17.78%。模型采用统一词汇表将蛋白质、小分子等编码为离散Token，通过空间交互离散化实现无需3D坐标的序列
+美国政府短暂关闭了Mythos类中的Fable模型，标志着AI模型已越过危险门槛。作者预测最多两三代模型后，超级智能将像核武器一样被管控，大多数Fortune 500企业无法访问或仅受控使用。开源模型落后前沿约七个月，且面临算力和政府锁定的双重壁垒。人类的"辨别地平线"使许多人感觉模型进步停止，但实际指数增长未停--只是用户缺少足够困难的问题。Fable类已能解决此前Opus 4.8无法完成的复杂任务（如React客户端），AI将彻底改变编程和知识工作，但多数人只能使用当前等级模型。
 
-## [深入解析 Midjourney Scanner 技术内幕](https://x.com/midjourney/status/2067422898407837797)
+## [Salesforce CodeGen教程：生成、验证并重排序Python函数（含单元测试与安全检查）](https://www.marktechpost.com/2026/06/18/salesforce-codegen-tutorial-generate-validate-and-rerank-python-functions-with-unit-tests-and-safety-checks)
 
-`Thu, 18 Jun 2026 01:43:24 GMT`
+`Fri, 19 Jun 2026 02:44:12 GMT`
 
-我们全新"Midjourney Scanner"的技术深潜。
+本教程实现一个基于Salesforce CodeGen的端到端代码生成工作流。从HuggingFace加载CodeGen模型（支持350M、2B、codegen2-1B、codegen25-7b等版本），通过自然语言提示生成Python函数，随后进行函数提取、语法检查、静态安全检查、单元测试验证、best-of-N候选重排序、多步程序合成、提示词实验、基准可视化及导出。展示了CodeGen作为结构化代码生成流水线的能力，不仅完成代码补全，还能评估、筛选和组织生成结果。
 
-## [上交所发布指引：AI大模型企业可适用科创板第五套上市标准](https://www.ithome.com/0/965/735.htm)
+## [这家韩国电信巨头是Anthropic"Mythos"争议的焦点](https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls)
 
-`Thu, 18 Jun 2026 00:49:16 GMT`
+`Fri, 19 Jun 2026 01:33:10 GMT`
 
-上海证券交易所6月17日发布指引，支持尚未形成稳定收入的优质人工智能大模型企业通过科创板第五套上市标准发行上市。申报企业需在行业地位、产业链优势、目标市场需求、研发进度及关键指标方面具备突出竞争力。指引明确，申报时至少有一个大模型产品已完成上线发布并实现规模化应用，以验证商业模式可行性。下一步，上交所将在中国证监会指导下推进符合标准的企业上市。
+美国政府对Anthropic最强大的AI模型Claude Mythos实施出口管制，导火索是该公司将访问权限授予韩国电信巨头SK Telecom，美方担忧SK Telecom与中国存在关联。随后亚马逊向白宫报告Mythos的公开版本Fable 5存在可被绕过的防护漏洞，加剧不信任。白宫命令Anthropic撤销所有外国国民（包括美国境内移民）对Mythos和Fable 5的访问权限，Anthropic因此完全禁用这两个模型。Mythos此前通过Project Glasswing向约150家组织开放，SK Telec
 
-## [苹果 Xcode 27 核心首次深度集成 AI 智能体：支持自然语言修 Bug、构建 App](https://www.ithome.com/0/965/734.htm)
+## [AI 员工 Viktor 登陆 Microsoft Teams，年化收入达 2000 万美元](https://x.com/rohanpaul_ai/status/2067755504613613699)
 
-`Thu, 18 Jun 2026 00:43:26 GMT`
+`Thu, 18 Jun 2026 23:45:03 GMT`
 
-在 2026 年 WWDC 期间，苹果发布 Xcode 27，其核心组件首次整合 AI 智能体，能理解 Swift 语言并通过多轮自然语言对话辅助开发。AI 可跨多个文件修改整个代码库，也能根据提示与资源生成应用设计并独立构建完整应用，建成后仍可通过对话添加特效、动画等。Xcode 27 支持接入 Anthropic、OpenAI 和 Google 等第三方 AI 模型，同时引入 Core AI 框架提供现代 Swift API 调用端侧模型，并升级开源框架 MLX。
+AI 员工 Viktor 在 Slack 上实现 2000 万美元年化收入（无销售团队、未大规模推广），现已正式进驻 Microsoft Teams。Viktor 定位为零门槛 AI：用户无需学习、无需提示词，像 @同事 一样提及即可获得完整工作成果，甚至无需主动 @ 也能自动完成。产品面向 Teams 的 3.2 亿用户，助力企业内部运营和管理人员零学习成本使用 AI。即日起免费试用，含 100 美元信用额度，无需绑定信用卡。
 
-## [Noam Shazeer 离开 Google 加入 OpenAI](https://x.com/Yuchenj_UW/status/2067401895178817999)
+## [诺姆·沙齐尔加入OpenAI](https://twitter.com/NoamShazeer/status/2067400851438932297)
 
-`Thu, 18 Jun 2026 00:19:56 GMT`
+`Thu, 18 Jun 2026 20:29:15 GMT`
 
-两年前谷歌花 27 亿美元请回的 AI 传奇 Noam Shazeer 已离开谷歌，加入 OpenAI。 对 Gemini 来说是个残酷的消息。
+前Google研究员、Transformer架构共同作者诺姆·沙齐尔在X上宣布，他将加入OpenAI，并期待与那里的卓越团队合作。沙齐尔表示这是一个艰难的决定，同时对Google团队及其共同取得的成果感到无比自豪。
 
-## [泄露文件显示OpenAI年营收130亿但亏损远超收入](https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year)
+## [OpenAI IPO前连下两城：招揽Transformer共同作者及前白宫AI政策官员](https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo)
 
-`Wed, 17 Jun 2026 23:09:09 GMT`
+`Thu, 18 Jun 2026 19:59:22 GMT`
 
-OpenAI 2025年营收130.7亿美元（2024年37亿），但研发成本达191.8亿（含向微软支付105.9亿），收入成本（推理计算）75亿，销售营销成本57.3亿，运营亏损209.2亿。2025年净亏损约390亿，扣除约300亿一次性会计费用后约80亿。2025年3月获1220亿融资（估值8520亿）。ChatGPT周活超9亿，付费约5000万。为控制成本已关闭Sora视频模型并削减非核心业务。
+OpenAI在IPO前夕连招两位重量级人物：Google DeepMind AI先驱、Transformer架构共同作者Noam Shazeer，以及前特朗普白宫AI政策官员Dean Ball。Shazeer此前通过27亿美元收购协议重返Google，此次离职加盟OpenAI。Ball将于7月6日加入，领导新组建的Strategic Futures团队，向首席战略官Jason Kwon汇报，团队将负责前沿AI政策与内部治理，聚焦灾难性风险、递归自我改进、劳动力市场影响及前沿实验室与政府关系等议题。此举正值Anthr
 
-## [库克：AI 浪潮引发存储芯片价格暴涨，iPhone 等苹果产品涨价已"不可避免"](https://www.ithome.com/0/965/694.htm)
+## [OpenClaw 接入 OpenRouter](https://openrouter.ai/blog/tutorials/openclaw-openrouter)
 
-`Wed, 17 Jun 2026 22:41:15 GMT`
+`Thu, 18 Jun 2026 19:00:00 GMT`
 
-苹果CEO库克确认，AI热潮导致存储芯片严重短缺和价格暴涨，苹果产品涨价已"不可避免"。库克未透露涨价具体细节。华尔街日报指出，全球AI巨头大幅增加资本开支，高带宽内存需求激增，挤压消费电子芯片供应。自2024年以来内存和存储芯片价格已翻四倍，涨势预计延续至2027年。研究机构估算，下一代iPhone 18 Pro售价或需增加约270美元。苹果已在上月提高Mac Mini起售价。摩根士丹利预测，今年美国智能手机和PC价格将上涨15%。
+OpenClaw 已内置 OpenRouter 支持，一条命令即可为 AI 智能体配置统一密钥、统一账单，并实现跨 300 多个模型的自动故障转移。同时提供具体设置步骤以及常见错误的修复方法。
 
-## [Claude Code v2.1.181 发布](https://github.com/anthropics/claude-code/releases/tag/v2.1.181)
+## [Claude Code 现已支持 artifacts](https://claude.com/blog/artifacts-in-claude-code)
 
-`Wed, 17 Jun 2026 22:07:41 GMT`
+`Thu, 18 Jun 2026 18:54:47 GMT`
 
-Claude Code v2.1.181 发布，新增 `/config key=value` 语法允许在提示中直接设置任意配置项，新增 `sandbox.allowAppleEvents` 选项使沙盒命令支持 Apple Events，新增 `CLAUDE_CLIENT_PRESENCE_FILE` 环境变量用于抑制移动端推送通知。内置 Bun 运行时升级至 1.4，改进了长段落流式输出（逐行显示）和 API 连接中断后自动重试。子 agent 面板优化：空闲 agent 30 秒自动隐藏、列表最多 5 行。修复了
+从今日起，Claude Code 可将工作进度生成为 artifacts--实时、可分享的交互式网页，涵盖 PR 走查、系统说明、仪表盘、发布清单等。artifacts 基于会话完整上下文（代码库、连接器、对话）自动构建，更新时页面原地刷新，同事即时可见。默认仅作者可见，可分享给组织内成员，由管理员通过组织层级开关和角色权限管控。内部测试中最常见用例为调试：工程师调查事件，Claude Code 分析日志并发布包含时间线、嫌疑提交和错误率图表的 artifact，团队无需再"走过场式汇报"。
 
-## [Google 分享 A2UI 与 MCP Apps 三种集成架构模式](https://developers.googleblog.com/a2ui-and-mcp-apps)
+## [MosaicLeaks： 你的研究智能体能保守秘密吗？](https://huggingface.co/blog/ServiceNow/mosaicleaks)
 
-`Wed, 17 Jun 2026 21:13:53 GMT`
+`Thu, 18 Jun 2026 18:13:13 GMT`
 
-Google 分享了三种集成 A2UI 与 MCP Apps 的架构模式，旨在结合两者优势。A2UI 采用声明式框架，通过 JSON payload 定义 UI，由宿主原生渲染，确保一致性与安全性，但受限于预定义组件库。MCP Apps 在 iframe 中使用标准 Web 技术提供自定义界面，但存在设计碎片化、性能与安全挑战。三种模式包括：通过 MCP 服务器提供 A2UI，利用 MCP Resources 或 Tool 调用传递 JSON，实现"一次编写，原生渲染"的跨平台能力；以及静态与动态交付方案。Goog
+深度研究智能体在结合私有本地文档与外部网页检索时存在隐私泄露风险。MosaicLeaks 提出包含 1，001 条多跳研究链的新任务，每条链交错混合本地与公共子问题。测试发现智能体频繁泄露私有信息，单纯优化任务性能反而加剧泄露。基于此，研究提出隐私感知深度研究（PA-DR）强化学习训练方法，将严格链成功率从 48.7% 提升至 58.7%，同时将答案/全面信息泄露率从 34.0% 降至 9.9%。
