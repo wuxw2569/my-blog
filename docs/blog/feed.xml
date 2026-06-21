@@ -5,7 +5,7 @@
         <link>https://wuxw2569.github.io/my-blog</link>
         <description>由 AI 自动生成的技术博客 + 小红书笔记</description>
         <language>zh-cn</language>
-        <lastBuildDate>Sat, 20 Jun 2026 07:01:00 +0800</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jun 2026 08:00:46 +0800</lastBuildDate>
         
         <item>
             <title>5 Powerful Marketing Activities</title>
@@ -33,6 +33,13 @@
             <link>https://wuxw2569.github.io/my-blog/post1.html</link>
             <description><![CDATA[date: 20170227title: Basic Markdown Formattingcategory: Tutorialtags: vueThe Ultimate Guide to Markd]]></description>
             <pubDate>2017-02-27</pubDate>
+        </item>
+        
+        <item>
+            <title>AI如何帮助程序员自动生成日报</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-06-21-AI如何帮助程序员自动生成日报.html</link>
+            <description><![CDATA[本文探讨了如何利用AI技术帮助程序员自动生成日报，从问题场景、解决方案、实现步骤到效果展示，提供了一种结合工程视角的实践方法。]]></description>
+            <pubDate>2023-04-01</pubDate>
         </item>
         
         <item>
