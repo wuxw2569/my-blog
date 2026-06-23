@@ -5,76 +5,76 @@ description: 自动订阅 AI Hot 每日日报 feed
 
 # AI 每日日报
 
-> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-06-22 08:57:22 +0000
+> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-06-23 06:50:36 +0000
 
-## [NSA局长：Mythos数小时内攻破其几乎所有机密系统](https://aihot.virxact.com/items/cmqny6q7v0288slhkbzc8ob3u)
+## [京东全栈开源JoyAI-VL-Interaction，从"一问一答"走向"边看边说"](https://aihot.virxact.com/items/cmqq8ww0e07m4slp5mk5snl0z)
 
-`Sun, 21 Jun 2026 15:31:52 GMT`
+`Tue, 23 Jun 2026 06:04:50 GMT`
 
-美国NSA局长称，Mythos在数小时内攻破了其几乎所有机密系统。此前Mythos已在5天内破解MacOS。而顶级漏洞团队Google Project Zero完成同等攻击需6个月，单个MacOS零日漏洞价值约200万美元。苹果原假设全球仅10-20个团队具备此能力，Mythos将使该数字增至数千。全球约20亿活跃苹果设备中，Mac用户多为记者、高管、政府官员等高价值目标，苹果曾是"最安全"的选择。 🔗 阅读原文：https://x.com/AISafetyMemes/status/2068718552174252
+京东近日开源全球首个全栈交互模型JoyAI-VL-Interaction，获vLLM-Omni原生支持。该模型能持续观察视频流、主动判断关键事件并实时响应，支持将复杂任务委托后台Agent处理。在58个真人盲评中，对比豆包视频通话助手胜率77.6%，对比Gemini视频通话助手胜率87.9%，监控预警场景达100%胜率。开源内容包括模型权重、交互数据集、训练方案及完整可部署系统，支持摄像头、直播流等视频输入及语音交互、长期记忆、vLLM部署，适用于安防监控、老人看护、直播讲解等实时场景。 🔗 阅读原文：https:
 
-## [美团tabbit国际版免费接入GPT-5.5/Claude Opus 4.8等旗舰模型](https://aihot.virxact.com/items/cmqnokdyn007jsl4nxazzzxp1)
+## [豆包音频生成模型1.0发布，重新定义AI音频创作](https://aihot.virxact.com/items/cmqq876yf07gsslp5eix31xaq)
 
-`Sun, 21 Jun 2026 10:11:21 GMT`
+`Tue, 23 Jun 2026 05:41:11 GMT`
 
-美团近期上线tabbit国际版应用，免费集成多家顶级AI模型的最新旗舰版，包括GPT-5.5、Claude Opus 4.8、Gemini 3.5 Flash，以及国内Kimi-2.6、GLM-5.1、MiniMax-M3。用户无需单独订阅即可使用这些模型。需注意：只有国际版包含海外模型，国内版仅提供国内模型。该应用旨在抢占AI入口，目前处于免费推广阶段。 🔗 阅读原文：https://x.com/AYi_AInotes/status/2068637890247016607
+火山引擎正式发布豆包音频生成模型1.0（Doubao-Seed-Audio 1.0），支持文本与音频参考生成，端到端输出目标音频。单条Prompt可编排多角色对白、情绪语气、背景音乐及环境氛围，长时生成中保持多角色音色一致性，无需后期多轨混音。模型支持0样本多模态输入，无需额外训练即可生成；实现音色与风格解耦控制及"一声多角"能力。一次支持2分钟音频创作，多次延长保持音色统一。已开启火山方舟API邀测，个人用户享30分钟创作额度，即将上线剪映、即梦、番茄等产品。 🔗 阅读原文：https://mp.weixin.q
 
-## [腾讯元宝父亲节活动：上传照片生成与年轻爸爸的合影](https://aihot.virxact.com/items/cmqnbj6i202ndsl8hb9fghqqf)
+## [Seed2.1 正式发布，深入 AI 生产力](https://aihot.virxact.com/items/cmqq5ns6p06scslp5dlnxluux)
 
-`Sun, 21 Jun 2026 04:51:10 GMT`
+`Tue, 23 Jun 2026 00:02:42 GMT`
 
-腾讯元宝推出父亲节主题活动，用户可选择爸爸年轻时照片与自己的照片，输入提示词（如"帮我生成一张和爸爸的合影，将图2的我融合到图1爸爸的照片中，我想穿越回__年前，和他一起_____；保留爸爸照片的背景、动作及五官；人物姿态自然协调，整体光线与色调保持一致"），元宝即可生成合影。活动旨在让用户"回到过去"看到爸爸的青春模样。 🔗 阅读原文：https://mp.weixin.qq.com/s/xrTg2Bdy3FF3gn3C_gVBJQ
+字节Seed发布Seed2.1系列，面向真实生产力场景的智能体，强化通用Agent能力、代码工程交付与多模态理解。Seed2.1 Pro在GDPval基准获最高分，Agents' Last Exam位列参评模型第一梯队；MobileWorld手机GUI任务最高分，CreativeWork多环境任务表现突出。多模态在CharXiv-RQ等多项基准取得SOTA。代码能力上，Seed2.1 Pro在NL2Repo-Bench表现良好，开发者评测相比Claude Opus 4.6获59.1%胜率。模型已在豆包、TRAE上线
 
-## [开源教程《Deep Agents 实战》发布](https://aihot.virxact.com/items/cmqmbymfe00zisl4f3pa6jwmz)
+## [Aleph 2.0 现已集成到 Figma Weave](https://aihot.virxact.com/items/cmqpu6z9y03w3slp59okauzsw)
 
-`Sat, 20 Jun 2026 12:16:16 GMT`
+`Mon, 22 Jun 2026 23:18:22 GMT`
 
-LangChain 官方认证大使 @zhanghaili0610 推出开源教程《Deep Agents 实战》，基于 LangChain / LangGraph 生态，讲解如何用 Deep Agents Harness 框架构建真实 Agent 应用。核心是"三层架构"：Runtime（LangGraph）、Framework（LangChain）、Harness（Deep Agents）。技术内核为上下文工程，通过虚拟文件系统实现按需读取、中间结果落盘、大文件局部读取。教程共 8 章 + 2 准备篇，覆盖虚拟文件
+Aleph 2.0 是 Runway 的旗舰视频编辑模型，现已在 Figma Weave 中上线。它是一个基于上下文的视频编辑模型，通过关键帧工作：从视频中提取一帧，重新设计风格并附上时间戳连接回 Aleph 2.0 节点，即可将该编辑传递到主体出现的每一帧，同时保持其他内容不变。支持最长 30 秒、1080p 的片段，可跨多镜头序列应用编辑，无需逐镜头处理。 🔗 阅读原文：https://runwayml.com/news/aleph-2-in-figma-weave
 
-## [微软双向转售GPT与DeepSeek成全球最大AI中间商](https://aihot.virxact.com/items/cmqm0elho009fsliiybg230vu)
+## [美国警长利用Flock车牌系统跟踪前女友案频发，Flock法务官承认"最常见滥用"](https://aihot.virxact.com/items/cmqpqqsrw030aslp5c0jt14yr)
 
-`Sat, 20 Jun 2026 06:25:29 GMT`
+`Mon, 22 Jun 2026 21:32:12 GMT`
 
-彭博社报道，微软已成为全球最大AI模型中转站，既将ChatGPT卖给中国企业，也反向将DeepSeek模型卖给西方客户。报道称微软正在测试DeepSeek-R1和DeepSeek-V4，计划向西方客户提供这些中国模型。这一模式构建起跨中美AI模型的双向贸易网络。 🔗 阅读原文：https://x.com/AYi_AInotes/status/2068218661710512231
+伊利诺伊州Holiday Hills警察局长于2026年6月18日被捕，被控两项渎职重罪。检方指控他利用Flock车牌读取系统及州警察数据库，跟踪6名认识的人，其中3人为前女友，并对其中一人的前男友车牌查询140次（86次脱岗），持续18个月。全美至少18起类似案例：佐治亚州Braselton警察局长、爱达荷州Jerome县警长（700余次查询其妻车牌）等均因此辞职或被捕。Flock首席法务官Dan Haley承认，滥用该系统"最常见情况"就是跟踪前女友。Flock称系统只跟踪车辆，但案例表明车辆是手段，人是目标。
 
-## [NVIDIA Research 发布 SpatialClaw：免训练空间推理框架](https://aihot.virxact.com/items/cmqlj0jn600pdsljggy6btum5)
+## [在 AWS、Google Cloud 和 Microsoft Foundry 上使用完整版 Claude Desktop](https://aihot.virxact.com/items/cmqppyj5702txslp5d7ahupmr)
 
-`Fri, 19 Jun 2026 22:51:59 GMT`
+`Mon, 22 Jun 2026 21:19:56 GMT`
 
-NVIDIA Research 发布 SpatialClaw，一个免训练的空间推理框架。它通过将代码作为动作接口，让智能体调用感知工具（Depth Anything 3、SAM 3）并自由组合输出，解决视觉语言模型在 3D 空间判断上的弱点。在 20 项基准测试中平均准确率达 59.9%，比近期智能体 SpaceTools 高 11.2 个百分点，比无工具基线高 6.5 点，比结构化工具调用高 3.2 点。框架无需重新训练，同一提示词和工具集可跨所有基准和骨干网络运行，支持 Qwen3.5/3.6 及 Gemma4
+通过 AWS、Google Cloud 和 Microsoft Foundry 使用 Claude Desktop 的组织现已获得 Chat、Claude Cowork 和 Claude Code 集成的完整桌面体验。IT 团队可将推理保留在自己的云环境中，对话历史本地存储。支持 IAM Identity Center、Workforce Identity Federation、Microsoft Entra ID 或 Okta 登录；策略模板可导出至 Intune、GPO 或 Jamf；提供离线安装器。Chat、
 
-## [Figure机器人数首超人类员工](https://aihot.virxact.com/items/cmqlgwh3f006nsljg3exh1nge)
+## [Show HN：Oak--专为代理设计的 Git 替代方案](https://aihot.virxact.com/items/cmqppo7c402qnslp5p92n6y3b)
 
-`Fri, 19 Jun 2026 21:50:24 GMT`
+`Mon, 22 Jun 2026 21:00:09 GMT`
 
-我们已超越理论阶段。 有史以来第一次，Figure的机器人数量超过了人类员工数量。 🔗 阅读原文：https://x.com/rohanpaul_ai/status/2068089038213693800
+Oak 是开源版本控制系统，专为 AI 智能体（Claude Code、Codex、Cursor）设计。采用 BLAKE3 内容哈希、内容定义分块、diff/merge 及 Blob/Manifest/Commit/Tree 数据模型，可选 SQLite 和 git 后端。以分支-会话为基本工作单元，用分支描述替代逐次提交，通过内容寻址懒加载使智能体数秒内编辑任意仓库。速度远超 git。已发布公开测试版 v0.99.0，支持 macOS（Apple Silicon）、Linux（x86_64）及 Windows，可
 
-## [JAWBONE Act：一项打击政府为压制合法网络言论而施压的新法案](https://aihot.virxact.com/items/cmqlclrpp01h9sl2s1c94el8x)
+## [AI 治理清单：LLM 架构先行](https://aihot.virxact.com/items/cmqpyc83704y0slp54f6dv3w7)
 
-`Fri, 19 Jun 2026 19:41:30 GMT`
+`Mon, 22 Jun 2026 19:00:00 GMT`
 
-上周，参议员Ted Cruz和Ron Wyden提出两党法案JAWBONE Act，为受政府胁迫的广播商、互动计算机服务商及AI提供商创建针对政府官员的联邦诉讼权，并建立政府与中间方就用户表达问题沟通的透明度体系。法案旨在应对政府施压私营公司审查受第一修正案保护的言论。EFF支持该法案，并举证：2025年6月联邦高官威胁起诉ICEBlock创建者，同年10月司法部长要求苹果下架该应用。EFF还提起信息自由诉讼，要求披露政府与苹果、谷歌、Meta的沟通记录。 🔗 阅读原文：https://www.eff.org/de
+Deloitte 报告显示企业 AI 抱负与治理成熟度之间差 53 个百分点，74% 计划两年内部署智能体 AI，仅 21% 拥有成熟治理模型。路由架构是首个治理层。三种姿态--托管网关（如 OpenRouter、Portkey）、自托管网关（如 LiteLLM）和直接 API--默认治理能力不同，直接 API 缺乏统一控制面，造成治理盲区。治理清单可映射为资产盘点、问责制、访问控制、证据记录与合规性五大支柱。路由层能提供跨团队可见性与审计证据，而电子表格不能。 🔗 阅读原文：https://openrouter.
 
-## [OpenRouter vs Portkey：你的团队该选哪个LLM网关？](https://aihot.virxact.com/items/cmqldpkuw0011slf9a7n9u4pa)
+## [Google DeepMind 7500 万美元投资 A24，合作开发电影 AI 工具](https://aihot.virxact.com/items/cmqpl4smd01j1slp5npj3krmn)
 
-`Fri, 19 Jun 2026 19:00:00 GMT`
+`Mon, 22 Jun 2026 18:49:44 GMT`
 
-OpenRouter是托管路由网络，买credits后通过一个API路由至70+供应商，自动故障转移，无需自有密钥；覆盖300+模型（含20+免费），按用量收费（零加成+5.5%平台费，首100万免费），支持零数据保留和欧盟路由。Portkey是AI控制平面（2026年被Palo Alto收购），置于用户密钥之上，增加治理、提示管理、护栏和可观测性；提供1600+ LLM统一API，按日志计费（Developer免费，Production $49/月），支持HIPAA、SSO、私有部署。两者均可组合使用。 🔗 阅读
+Google DeepMind 宣布向独立电影制片厂 A24 投资 7500 万美元（据《华尔街日报》），双方将合作开发电影制作 AI 工具。A24 出品过《万事俱备》《后室》等影片。Google DeepMind CEO Demis Hassabis 称，希望通过与艺术家直接合作，打造支持创意表达的 AI 功能。此举是好莱坞最新一次科技公司与电影 AI 联手，此前 Netflix 已收购 Ben Affleck 的 AI 工具公司 Interpositive，亚马逊 MGM 工作室也在去年设立了影视 AI 部门。
 
-## [baoyu-design Skill迭代：修复导出样式与渐变丢失问题，支持AI配图导出PPTX](https://aihot.virxact.com/items/cmqlaf27b00wusl2sfbraxwid)
+## [Google ADK 与 A2A 协议：跨语言多智能体团队构建实战](https://aihot.virxact.com/items/cmqpgzgfq00hislp5hwlbgz0h)
 
-`Fri, 19 Jun 2026 18:43:30 GMT`
+`Mon, 22 Jun 2026 17:08:43 GMT`
 
-宝玉分享 baoyu-design Skill 的迭代过程：用户测试发现导出问题（样式表未铺满整页、渐变色丢失），他在本地复现后让 Agent 分析原因、给出解决方案并添加测试覆盖，修复后效果改善。该 Skill 可在制作 PPT、动画视频或网站时调用 AI 生图配图，支持 Codex 内置画图或配合 baoyu-image-gen Skill 调用 Codex CLI 画图，并能连同图片一起导出为 PPTX，在 PowerPoint/Keynote 中二次编辑。迭代循环：自己用 → 发现问题 → 让 Agent 
+一篇技术博客展示了如何用 Google Agent Development Kit （ADK） 与 Agent2Agent （A2A） 协议搭建跨语言多智能体流水线：Python agent 调用 Gemini 解析合同条款，Go agent 用纯确定性逻辑校验合规性。A2A 协议通过 Agent Card 实现能力发现、JSON-RPC 2.0 完成通信、Task 状态机管理任务生命周期；ADK 的 RemoteA2aAgent 抽象可将任意 A2A 兼容服务封装成本地子智能体。文中强调将单体提示词分解为专业化微
 
-## [AI中心的数据黑洞](https://aihot.virxact.com/items/cmql6vhtu01n0slluxpq3yvzh)
+## [东京 AI 公司 Sakana AI 推出多智能体编排系统 Sakana Fugu](https://aihot.virxact.com/items/cmqpez1uu001gslp5j4h23mih)
 
-`Fri, 19 Jun 2026 16:45:03 GMT`
+`Mon, 22 Jun 2026 16:11:41 GMT`
 
-智能的一种定义是样本效率，但近年AI进步主要靠扩充数据分布和增加算力。强化学习本质是合成数据生成--投入大量算力通过验证器筛选"好"数据，再训练模型预测正确输出。这一过程需要每个领域和技能的海量人类专家示例，数据行业年收入已达数十亿美元。近日Epoch报告，开源模型仅落后前沿闭源模型4个月，原因在于数据可从公开API蒸馏，而超参数等不易复制。人类一生接触约2亿token，前沿模型训练在数十到数百T token之间，相差近百万倍--机器人、自动驾驶等领域同样存在巨大效率差距。 🔗 阅读原文：https://www.d
+Sakana AI 是 2023 年成立于东京的 AI 公司，由前 Google Brain 的 David Ha（CEO）、Transformer 论文共同作者 Llion Jones（CTO）及前日本外交官 Ren Ito（主席）联合创立。其产品 Sakana Fugu 将多智能体系统封装成单个 API 调用，内部自动拆解任务、调度全球模型并验证结果。Fugu Ultra 在工程、科学、推理等基准上对标 Fable/Mythos，通过动态编排多模型天然绕开单一供应商出口管制风险，被视为将多智能体从复杂工程变为开
 
-## [AlphaFold 负责人 John Jumper 离职 Google DeepMind，加入 Anthropic](https://aihot.virxact.com/items/cmql4yj5e014zsllucl69g3l6)
+## [Google Labs 提出用"洞察策略"评估 AI 编码智能体的主动性](https://aihot.virxact.com/items/cmqpeu90600l4sldksepc49lt)
 
-`Fri, 19 Jun 2026 16:07:27 GMT`
+`Mon, 22 Jun 2026 16:08:41 GMT`
 
-AlphaFold 团队负责人 John Jumper 宣布，在 Google DeepMind 工作近 9 年后决定离职，将加入 Anthropic（先休整一段时间）。DeepMind CEO Demis Hassabis 表示，过去 9 年与 Jumper 的非凡合作改变了世界，AlphaFold 展示了 AI 在科学与医学领域的巨大潜力，并为 AI 造福人类指明了方向。Jumper 回忆，Hassabis 在他博士毕业仅 6 个月后就大胆让他领导 AlphaFold 团队，感谢团队教会他如何做伟大的科学。 🔗
+Google Labs 提出以"洞察策略"评估 AI 编码智能体的主动性，而非仅按任务完成度打分。团队基于 Google 内部代码库 705 个 bug（1178 个 CL），通过时空近邻与语义相似度聚类还原开发者实际的高层级目标。初步实验显示：Jules 在单轮探索下洞察相关性评分平均 4.5/5；探索预算从两轮增至三轮时，Hit@5 准确率从 33% 升至 57%。团队正将评估方法扩展至公开 GitHub 数据，并探索纳入问题追踪器、对话等更丰富的上下文。 🔗 阅读原文：https://developers.g
