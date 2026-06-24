@@ -5,76 +5,76 @@ description: 自动订阅 AI Hot 每日日报 feed
 
 # AI 每日日报
 
-> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-06-23 06:50:36 +0000
+> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-06-24 06:48:45 +0000
 
-## [京东全栈开源JoyAI-VL-Interaction，从"一问一答"走向"边看边说"](https://aihot.virxact.com/items/cmqq8ww0e07m4slp5mk5snl0z)
+## [OpenAI ChatGPT 语音最大规模升级：双向AI语音模型 Bidi 1 已上线测试](https://aihot.virxact.com/items/cmqrl73460l9gslp5w33pryqi)
 
-`Tue, 23 Jun 2026 06:04:50 GMT`
+`Wed, 24 Jun 2026 04:34:24 GMT`
 
-京东近日开源全球首个全栈交互模型JoyAI-VL-Interaction，获vLLM-Omni原生支持。该模型能持续观察视频流、主动判断关键事件并实时响应，支持将复杂任务委托后台Agent处理。在58个真人盲评中，对比豆包视频通话助手胜率77.6%，对比Gemini视频通话助手胜率87.9%，监控预警场景达100%胜率。开源内容包括模型权重、交互数据集、训练方案及完整可部署系统，支持摄像头、直播流等视频输入及语音交互、长期记忆、vLLM部署，适用于安防监控、老人看护、直播讲解等实时场景。 🔗 阅读原文：https:
+6月23日，部分用户反馈 ChatGPT 网页版和 App 版上线了双向 AI 语音模型 Bidi 1，位于设置模型选择器中，与标准语音和高级语音并列。该模型支持边说话边监听，用户可在对话中途打断并发出新指令，例如要求从1数到10时中途喊停倒数，模型会立即切换执行。OpenAI 尚未官宣，预计本周启动更大范围测试。 🔗 阅读原文：https://www.ithome.com/0/967/852.htm
 
-## [豆包音频生成模型1.0发布，重新定义AI音频创作](https://aihot.virxact.com/items/cmqq876yf07gsslp5eix31xaq)
+## [Qwen-AgentWorld 开源：让 Agent 学会"先预测，再行动"](https://aihot.virxact.com/items/cmqrizuey0kmcslp5zt7bajh0)
 
-`Tue, 23 Jun 2026 05:41:11 GMT`
+`Wed, 24 Jun 2026 03:32:04 GMT`
 
-火山引擎正式发布豆包音频生成模型1.0（Doubao-Seed-Audio 1.0），支持文本与音频参考生成，端到端输出目标音频。单条Prompt可编排多角色对白、情绪语气、背景音乐及环境氛围，长时生成中保持多角色音色一致性，无需后期多轨混音。模型支持0样本多模态输入，无需额外训练即可生成；实现音色与风格解耦控制及"一声多角"能力。一次支持2分钟音频创作，多次延长保持音色统一。已开启火山方舟API邀测，个人用户享30分钟创作额度，即将上线剪映、即梦、番茄等产品。 🔗 阅读原文：https://mp.weixin.q
+通义千问推出首个原生语言世界模型 Qwen-AgentWorld，覆盖 MCP、Search、Terminal、SWE、Web、OS、Android 七大领域。模型基于超 1000 万条真实交互轨迹，经 CPT→SFT→RL 三阶段训练，在 AgentWorldBench 上超越 GPT-5.4（58.25）和 Claude Opus 4.8，Qwen-AgentWorld-397B-A17B 取得 58.71 分。两种范式已验证其能力：作为解耦环境模拟器实现可控 Sim RL，在 WideSearch 上超越真实
 
-## [Seed2.1 正式发布，深入 AI 生产力](https://aihot.virxact.com/items/cmqq5ns6p06scslp5dlnxluux)
+## [今天，豆包正式推出专业版](https://aihot.virxact.com/items/cmqrdmylf0iyeslp50lteppvq)
 
-`Tue, 23 Jun 2026 00:02:42 GMT`
+`Wed, 24 Jun 2026 01:00:00 GMT`
 
-字节Seed发布Seed2.1系列，面向真实生产力场景的智能体，强化通用Agent能力、代码工程交付与多模态理解。Seed2.1 Pro在GDPval基准获最高分，Agents' Last Exam位列参评模型第一梯队；MobileWorld手机GUI任务最高分，CreativeWork多环境任务表现突出。多模态在CharXiv-RQ等多项基准取得SOTA。代码能力上，Seed2.1 Pro在NL2Repo-Bench表现良好，开发者评测相比Claude Opus 4.6获59.1%胜率。模型已在豆包、TRAE上线
+豆包专业版基于豆包2.1系列大模型上线，面向复杂办公与生产力场景。办公任务模式接入可执行Agent任务的豆包2.1模型，支持操作本地电脑、浏览器、调用Skills技能、定时任务，内置Office办公套件，并可生成带后端数据库的在线应用。免费用户可体验豆包2.1 Turbo版办公任务模式，专业版接入豆包2.1 Pro模型。定价：标准套餐68元/月（连续包月），加强套餐200元/月，高级套餐500元/月。大学生认证后标准套餐38元/月，持续6个月。 🔗 阅读原文：https://mp.weixin.qq.com/s/S
 
-## [Aleph 2.0 现已集成到 Figma Weave](https://aihot.virxact.com/items/cmqpu6z9y03w3slp59okauzsw)
+## [AI招聘工具存在种族偏见和系统性排斥；黑人占比26%，亚裔占比15%](https://aihot.virxact.com/items/cmqr73j5g0h1nslp5g9y52k0v)
 
-`Mon, 22 Jun 2026 23:18:22 GMT`
+`Tue, 23 Jun 2026 21:48:25 GMT`
 
-Aleph 2.0 是 Runway 的旗舰视频编辑模型，现已在 Figma Weave 中上线。它是一个基于上下文的视频编辑模型，通过关键帧工作：从视频中提取一帧，重新设计风格并附上时间戳连接回 Aleph 2.0 节点，即可将该编辑传递到主体出现的每一帧，同时保持其他内容不变。支持最长 30 秒、1080p 的片段，可跨多镜头序列应用编辑，无需逐镜头处理。 🔗 阅读原文：https://runwayml.com/news/aleph-2-in-figma-weave
+一项覆盖340万人、400万份申请、150家雇主和1700个职位的大规模实地研究发现，AI招聘筛选工具存在显著的种族歧视：26%的黑人申请者和15%的亚裔申请者遭遇算法对其族群的系统性排斥；若AI按推荐率最高群体（通常为白人）标准执行，将有4万份额外申请进入下一轮。多数雇主依赖同一第三方供应商算法，形成"算法单一文化"，导致10%提交4份申请者被所有职位拒绝。对比同期未用AI的招聘数据（8.3万份申请、108家财富500强企业），未发现此类模式。研究呼吁对算法招聘进行独立监管。 🔗 阅读原文：https://hai
 
-## [美国警长利用Flock车牌系统跟踪前女友案频发，Flock法务官承认"最常见滥用"](https://aihot.virxact.com/items/cmqpqqsrw030aslp5c0jt14yr)
+## [Runway推出Seedance 4K等三款新模型](https://aihot.virxact.com/items/cmqr6bnad0gw8slp5xmrffynm)
 
-`Mon, 22 Jun 2026 21:32:12 GMT`
+`Tue, 23 Jun 2026 21:36:44 GMT`
 
-伊利诺伊州Holiday Hills警察局长于2026年6月18日被捕，被控两项渎职重罪。检方指控他利用Flock车牌读取系统及州警察数据库，跟踪6名认识的人，其中3人为前女友，并对其中一人的前男友车牌查询140次（86次脱岗），持续18个月。全美至少18起类似案例：佐治亚州Braselton警察局长、爱达荷州Jerome县警长（700余次查询其妻车牌）等均因此辞职或被捕。Flock首席法务官Dan Haley承认，滥用该系统"最常见情况"就是跟踪前女友。Flock称系统只跟踪车辆，但案例表明车辆是手段，人是目标。
+Seedance 4K。Seedance Mini。Kling 3.0 Turbo。现已推出。 全球最佳模型，汇聚一处。 使用优惠码 30RUNWAY，前三个月可享七折优惠。 通过下方链接开始使用。 🔗 阅读原文：https://x.com/runwayml/status/2069535148450705517
 
-## [在 AWS、Google Cloud 和 Microsoft Foundry 上使用完整版 Claude Desktop](https://aihot.virxact.com/items/cmqppyj5702txslp5d7ahupmr)
+## [Oracle因AI应用裁员21000人，债务驱动云基础设施投资](https://aihot.virxact.com/items/cmqr4zhkm0gidslp5x8ow892r)
 
-`Mon, 22 Jun 2026 21:19:56 GMT`
+`Tue, 23 Jun 2026 20:17:38 GMT`
 
-通过 AWS、Google Cloud 和 Microsoft Foundry 使用 Claude Desktop 的组织现已获得 Chat、Claude Cowork 和 Claude Code 集成的完整桌面体验。IT 团队可将推理保留在自己的云环境中，对话历史本地存储。支持 IAM Identity Center、Workforce Identity Federation、Microsoft Entra ID 或 Okta 登录；策略模板可导出至 Intune、GPO 或 Jamf；提供离线安装器。Chat、
+Oracle在截至5月31日的财年裁员21000人，员工总数降至141，000人，降幅12.9%。公司称AI技术的采用导致劳动力缩减，同时重组成本达18亿美元，同比增长481%。Oracle计划2026年通过债务和股权筹集450至500亿美元，扩建Oracle Cloud Infrastructure，服务OpenAI、xAI、AMD、Nvidia、Meta等客户。公司债务超1200亿美元。分析人士指出裁员有助于改善现金流，但Oracle也承认大规模裁员可能带来生产力下降、人才短缺和员工士气受损等风险。 🔗 阅读原
 
-## [Show HN：Oak--专为代理设计的 Git 替代方案](https://aihot.virxact.com/items/cmqppo7c402qnslp5p92n6y3b)
+## [FastWan-QAD：单卡5090上1.8秒生成5秒视频](https://aihot.virxact.com/items/cmqr15pz20fjzslp5eps5gotw)
 
-`Mon, 22 Jun 2026 21:00:09 GMT`
+`Tue, 23 Jun 2026 18:52:30 GMT`
 
-Oak 是开源版本控制系统，专为 AI 智能体（Claude Code、Codex、Cursor）设计。采用 BLAKE3 内容哈希、内容定义分块、diff/merge 及 Blob/Manifest/Commit/Tree 数据模型，可选 SQLite 和 git 后端。以分支-会话为基本工作单元，用分支描述替代逐次提交，通过内容寻址懒加载使智能体数秒内编辑任意仓库。速度远超 git。已发布公开测试版 v0.99.0，支持 macOS（Apple Silicon）、Linux（x86_64）及 Windows，可
+Sky Computing Lab 发布 FastWan-QAD 视频生成模型系列，基于 FastVideo 的量化感知蒸馏（QAD）方案训练。在单张 NVIDIA GeForce RTX 5090 上，端到端生成一段 5 秒 480P 视频仅需 1.8 秒。模型、代码及博客已开源。 🔗 阅读原文：https://x.com/haoailab/status/2069493820732170695
 
-## [AI 治理清单：LLM 架构先行](https://aihot.virxact.com/items/cmqpyc83704y0slp54f6dv3w7)
+## [Krea 2 技术报告正式发布](https://aihot.virxact.com/items/cmqqxfykz0ehkslp55nlmaje0)
 
-`Mon, 22 Jun 2026 19:00:00 GMT`
+`Tue, 23 Jun 2026 17:31:26 GMT`
 
-Deloitte 报告显示企业 AI 抱负与治理成熟度之间差 53 个百分点，74% 计划两年内部署智能体 AI，仅 21% 拥有成熟治理模型。路由架构是首个治理层。三种姿态--托管网关（如 OpenRouter、Portkey）、自托管网关（如 LiteLLM）和直接 API--默认治理能力不同，直接 API 缺乏统一控制面，造成治理盲区。治理清单可映射为资产盘点、问责制、访问控制、证据记录与合规性五大支柱。路由层能提供跨团队可见性与审计证据，而电子表格不能。 🔗 阅读原文：https://openrouter.
+我们的技术报告已发布。 深入解析创建 Krea 2 所用的数据、架构及训练技巧。 https：//www.krea.ai/blog/krea-2-technical-report 🔗 阅读原文：https://x.com/krea_ai/status/2069473417804591191
 
-## [Google DeepMind 7500 万美元投资 A24，合作开发电影 AI 工具](https://aihot.virxact.com/items/cmqpl4smd01j1slp5npj3krmn)
+## [Anthropic 推出 Claude Tag：在 Slack 中通过 @Claude 协作](https://aihot.virxact.com/items/cmqqwge4a0e6tslp50f3tli27)
 
-`Mon, 22 Jun 2026 18:49:44 GMT`
+`Tue, 23 Jun 2026 17:09:41 GMT`
 
-Google DeepMind 宣布向独立电影制片厂 A24 投资 7500 万美元（据《华尔街日报》），双方将合作开发电影制作 AI 工具。A24 出品过《万事俱备》《后室》等影片。Google DeepMind CEO Demis Hassabis 称，希望通过与艺术家直接合作，打造支持创意表达的 AI 功能。此举是好莱坞最新一次科技公司与电影 AI 联手，此前 Netflix 已收购 Ben Affleck 的 AI 工具公司 Interpositive，亚马逊 MGM 工作室也在去年设立了影视 AI 部门。
+Anthropic 推出 Claude Tag，一种在 Slack 频道中通过 @Claude 委托任务的新协作方式。Claude 可记住频道上下文，支持多用户交互，经授权后可自动学习其他频道和数据源。开启"环境"行为后，能主动更新未解决的线程或任务。支持异步工作，可自主推进项目数小时或数天。即日起面向 Claude Enterprise 和 Team 客户提供 beta 版。管理员可精细控制工具和渠道访问权限、设置 token 消耗限额，并查看所有操作日志。 🔗 阅读原文：https://www.anthropi
 
-## [Google ADK 与 A2A 协议：跨语言多智能体团队构建实战](https://aihot.virxact.com/items/cmqpgzgfq00hislp5hwlbgz0h)
+## [GitHub联合开源联盟呼吁修改加州AI透明度法案以保护开源](https://aihot.virxact.com/items/cmqr1y54m0frmslp5b6e6js37)
 
-`Mon, 22 Jun 2026 17:08:43 GMT`
+`Tue, 23 Jun 2026 15:48:00 GMT`
 
-一篇技术博客展示了如何用 Google Agent Development Kit （ADK） 与 Agent2Agent （A2A） 协议搭建跨语言多智能体流水线：Python agent 调用 Gemini 解析合同条款，Go agent 用纯确定性逻辑校验合规性。A2A 协议通过 Agent Card 实现能力发现、JSON-RPC 2.0 完成通信、Task 状态机管理任务生命周期；ADK 的 RemoteA2aAgent 抽象可将任意 A2A 兼容服务封装成本地子智能体。文中强调将单体提示词分解为专业化微
+GitHub 联合 Black Forest Labs、Hugging Face 与 Mozilla Corporation 组成开源联盟，呼吁对加州 AI 透明度法案（SB 942，拟由 SB 1000 修正）进行针对性修改。当前草案要求开发者在下游用户未履行义务时撤销开源许可证，这与开源许可证永久不可撤销的性质冲突。联盟认为该要求非必要，已有直接监管和执法机制，并建议参考欧盟 AI 法案的透明度实践规范，以向下游用户通知最佳实践文档的方式替代撤销条款。GitHub 支持这些修正，以在保持透明度目标的同时兼容开源
 
-## [东京 AI 公司 Sakana AI 推出多智能体编排系统 Sakana Fugu](https://aihot.virxact.com/items/cmqpez1uu001gslp5j4h23mih)
+## [Mistral OCR 4](https://aihot.virxact.com/items/cmqqqkqoh0chzslp5i6l20j5q)
 
-`Mon, 22 Jun 2026 16:11:41 GMT`
+`Tue, 23 Jun 2026 14:24:55 GMT`
 
-Sakana AI 是 2023 年成立于东京的 AI 公司，由前 Google Brain 的 David Ha（CEO）、Transformer 论文共同作者 Llion Jones（CTO）及前日本外交官 Ren Ito（主席）联合创立。其产品 Sakana Fugu 将多智能体系统封装成单个 API 调用，内部自动拆解任务、调度全球模型并验证结果。Fugu Ultra 在工程、科学、推理等基准上对标 Fable/Mythos，通过动态编排多模型天然绕开单一供应商出口管制风险，被视为将多智能体从复杂工程变为开
+Mistral AI 发布 OCR 4，新增边界框、块分类（标题、表格、方程式、签名等）及逐页逐词置信度分数。支持 170 种语言、10 个语系，可单容器全自托管部署。在 OlmOCRBench 上得分 85.20，独立标注者偏好率平均 72%。定价每 1000 页 $4，Batch API 享 50% 折扣。可通过 API 或 Mistral Studio 的 Document AI 调用。 🔗 阅读原文：https://mistral.ai/news/ocr-4
 
-## [Google Labs 提出用"洞察策略"评估 AI 编码智能体的主动性](https://aihot.virxact.com/items/cmqpeu90600l4sldksepc49lt)
+## [无限制OCR：单次长时域解析](https://aihot.virxact.com/items/cmqqpk6qr0c7cslp5tgwky5n0)
 
-`Mon, 22 Jun 2026 16:08:41 GMT`
+`Tue, 23 Jun 2026 13:32:22 GMT`
 
-Google Labs 提出以"洞察策略"评估 AI 编码智能体的主动性，而非仅按任务完成度打分。团队基于 Google 内部代码库 705 个 bug（1178 个 CL），通过时空近邻与语义相似度聚类还原开发者实际的高层级目标。初步实验显示：Jules 在单轮探索下洞察相关性评分平均 4.5/5；探索预算从两轮增至三轮时，Hit@5 准确率从 33% 升至 57%。团队正将评估方法扩展至公开 GitHub 数据，并探索纳入问题追踪器、对话等更丰富的上下文。 🔗 阅读原文：https://developers.g
+Unlimited OCR 是一个托管在 GitHub 的项目，实现单次长时域解析（One-Shot Long-Horizon Parsing），旨在一次性处理长时间跨度的 OCR 任务。 🔗 阅读原文：https://github.com/baidu/Unlimited-OCR
