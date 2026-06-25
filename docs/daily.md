@@ -5,76 +5,76 @@ description: 自动订阅 AI Hot 每日日报 feed
 
 # AI 每日日报
 
-> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-06-24 06:48:45 +0000
+> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-06-25 06:47:40 +0000
 
-## [OpenAI ChatGPT 语音最大规模升级：双向AI语音模型 Bidi 1 已上线测试](https://aihot.virxact.com/items/cmqrl73460l9gslp5w33pryqi)
+## [Anthropic称阿里巴巴非法获取了Claude AI模型的功能](https://aihot.virxact.com/items/cmqsy1vs107c5slfu4fmksjzd)
 
-`Wed, 24 Jun 2026 04:34:24 GMT`
+`Thu, 25 Jun 2026 03:07:48 GMT`
 
-6月23日，部分用户反馈 ChatGPT 网页版和 App 版上线了双向 AI 语音模型 Bidi 1，位于设置模型选择器中，与标准语音和高级语音并列。该模型支持边说话边监听，用户可在对话中途打断并发出新指令，例如要求从1数到10时中途喊停倒数，模型会立即切换执行。OpenAI 尚未官宣，预计本周启动更大范围测试。 🔗 阅读原文：https://www.ithome.com/0/967/852.htm
+Anthropic指控阿里巴巴未经授权提取了其Claude AI模型的能力。该指控基于Anthropic的调查，认为阿里巴巴通过逆向工程或其他手段复制了Claude的核心技术。目前阿里巴巴尚未公开回应。 🔗 阅读原文：https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24
 
-## [Qwen-AgentWorld 开源：让 Agent 学会"先预测，再行动"](https://aihot.virxact.com/items/cmqrizuey0kmcslp5zt7bajh0)
+## [盈透证券（Interactive Brokers）与 Grok 集成：组合分析、情景建模与实时交易指令生成](https://aihot.virxact.com/items/cmqst0js5060tslfu7s6uxjhf)
 
-`Wed, 24 Jun 2026 03:32:04 GMT`
+`Thu, 25 Jun 2026 00:00:00 GMT`
 
-通义千问推出首个原生语言世界模型 Qwen-AgentWorld，覆盖 MCP、Search、Terminal、SWE、Web、OS、Android 七大领域。模型基于超 1000 万条真实交互轨迹，经 CPT→SFT→RL 三阶段训练，在 AgentWorldBench 上超越 GPT-5.4（58.25）和 Claude Opus 4.8，Qwen-AgentWorld-397B-A17B 取得 58.71 分。两种范式已验证其能力：作为解耦环境模拟器实现可控 Sim RL，在 WideSearch 上超越真实
+盈透证券（Interactive Brokers）近日与 Grok 集成，用户可在几分钟内免费关联现有账户，无需注册新账户。通过自然语言与 Grok 对话，可完成组合收益分析（如股息与利息预测）、行业/地区/经济事件的风险敞口情景建模、市场趋势研究，并直接生成对冲订单等实时交易指令，实现从数据洞察到执行决策的一体化。 🔗 阅读原文：https://x.ai/news/grok-interactive-brokers
 
-## [今天，豆包正式推出专业版](https://aihot.virxact.com/items/cmqrdmylf0iyeslp50lteppvq)
+## [AI被认为会取代工程岗位，但新数据显示工程是2025年最具韧性的岗位](https://aihot.virxact.com/items/cmqsmijfz04cwslfuwufeuxwz)
 
-`Wed, 24 Jun 2026 01:00:00 GMT`
+`Wed, 24 Jun 2026 21:56:41 GMT`
 
-豆包专业版基于豆包2.1系列大模型上线，面向复杂办公与生产力场景。办公任务模式接入可执行Agent任务的豆包2.1模型，支持操作本地电脑、浏览器、调用Skills技能、定时任务，内置Office办公套件，并可生成带后端数据库的在线应用。免费用户可体验豆包2.1 Turbo版办公任务模式，专业版接入豆包2.1 Pro模型。定价：标准套餐68元/月（连续包月），加强套餐200元/月，高级套餐500元/月。大学生认证后标准套餐38元/月，持续6个月。 🔗 阅读原文：https://mp.weixin.qq.com/s/S
+风投机构SignalFire追踪8000万家公司数百万员工数据发现，工程是2025年最具韧性的岗位。大型科技公司总招聘较2019年下降25%，工程岗仅降11%；工程岗占Alphabet、Meta等12家"Tech Majors"新招员工的55%（2019年为46%）。早期初创公司2025年工程师招聘比2019年增长7%。Anthropic CEO警告AI可能消灭一半入门级白领，但该公司经济主管称尚未看到显著影响。NVIDIA CEO黄仁勋表示AI让工程师更忙碌，是杰文斯悖论的典型例证。 🔗 阅读原文：https:/
 
-## [AI招聘工具存在种族偏见和系统性排斥；黑人占比26%，亚裔占比15%](https://aihot.virxact.com/items/cmqr73j5g0h1nslp5g9y52k0v)
+## [Gemini 3.5 Flash 中的计算机使用](https://aihot.virxact.com/items/cmqsl6c5y042hslfu74apxkap)
 
-`Tue, 23 Jun 2026 21:48:25 GMT`
+`Wed, 24 Jun 2026 21:16:01 GMT`
 
-一项覆盖340万人、400万份申请、150家雇主和1700个职位的大规模实地研究发现，AI招聘筛选工具存在显著的种族歧视：26%的黑人申请者和15%的亚裔申请者遭遇算法对其族群的系统性排斥；若AI按推荐率最高群体（通常为白人）标准执行，将有4万份额外申请进入下一轮。多数雇主依赖同一第三方供应商算法，形成"算法单一文化"，导致10%提交4份申请者被所有职位拒绝。对比同期未用AI的招聘数据（8.3万份申请、108家财富500强企业），未发现此类模式。研究呼吁对算法招聘进行独立监管。 🔗 阅读原文：https://hai
+Google 将计算机使用（Computer use）作为内置工具集成至 Gemini 3.5 Flash，使开发者能构建跨浏览器、移动端和桌面环境的智能体。此前该功能仅作为独立模型在 Gemini 2.5 中提供，现已原生整合至主 Flash 模型。开发者可通过 Gemini API 及 Gemini Enterprise Agent Platform 调用。安全方面，模型采用针对性对抗训练降低提示注入风险，并新增两项可选企业级保护：要求用户确认敏感操作、检测到间接提示注入时自动停止。该能力在持续软件测试、跨应用
 
-## [Runway推出Seedance 4K等三款新模型](https://aihot.virxact.com/items/cmqr6bnad0gw8slp5xmrffynm)
+## [Notion 使用 Cursor SDK 嵌入编码智能体](https://aihot.virxact.com/items/cmqsjydyy03s2slfu0akeh868)
 
-`Tue, 23 Jun 2026 21:36:44 GMT`
+`Wed, 24 Jun 2026 20:55:19 GMT`
 
-Seedance 4K。Seedance Mini。Kling 3.0 Turbo。现已推出。 全球最佳模型，汇聚一处。 使用优惠码 30RUNWAY，前三个月可享七折优惠。 通过下方链接开始使用。 🔗 阅读原文：https://x.com/runwayml/status/2069535148450705517
+Notion 通过 Cursor SDK 在数周内将编码智能体嵌入产品。用户可在文档中@Cursor、在讨论串中提及或向数据库指派任务，Cursor 即可端到端完成规划、构建、测试、验证并自动创建 PR。集成基于一套 Provider 无关的智能体框架，Notion 的讨论串对应一个 Cursor 智能体，每条消息对应一次智能体运行；结果通过 SSE 流式传输，支持断连恢复。Cursor SDK 提供与生产环境相同的模型、运行时和远程 MCP 支持，让 Notion 无需自建智能体基础设施即可获得完整栈编码能力。用
 
-## [Oracle因AI应用裁员21000人，债务驱动云基础设施投资](https://aihot.virxact.com/items/cmqr4zhkm0gidslp5x8ow892r)
+## [Perplexity推出Computer for Counsel](https://aihot.virxact.com/items/cmqshf6dl0354slfug4vof984)
 
-`Tue, 23 Jun 2026 20:17:38 GMT`
+`Wed, 24 Jun 2026 19:34:04 GMT`
 
-Oracle在截至5月31日的财年裁员21000人，员工总数降至141，000人，降幅12.9%。公司称AI技术的采用导致劳动力缩减，同时重组成本达18亿美元，同比增长481%。Oracle计划2026年通过债务和股权筹集450至500亿美元，扩建Oracle Cloud Infrastructure，服务OpenAI、xAI、AMD、Nvidia、Meta等客户。公司债务超1200亿美元。分析人士指出裁员有助于改善现金流，但Oracle也承认大规模裁员可能带来生产力下降、人才短缺和员工士气受损等风险。 🔗 阅读原
+推出 Computer for Counsel。 Computer 现在连接了律师日常使用的研究数据库、文档工具和案件管理系统。可从中提取可引用来源：@midpageAI、@LegalZoom、@Docusign、@netdocuments 等。 所有 Pro 和 Max 订阅用户均可使用。 🔗 阅读原文：https://x.com/perplexity_ai/status/2069866668671766804
 
-## [FastWan-QAD：单卡5090上1.8秒生成5秒视频](https://aihot.virxact.com/items/cmqr15pz20fjzslp5eps5gotw)
+## [在与Anthropic的纠纷中，NSA失去了对Mythos的访问权限](https://aihot.virxact.com/items/cmqsgw1tf0304slfurlccxlvs)
 
-`Tue, 23 Jun 2026 18:52:30 GMT`
+`Wed, 24 Jun 2026 19:08:32 GMT`
 
-Sky Computing Lab 发布 FastWan-QAD 视频生成模型系列，基于 FastVideo 的量化感知蒸馏（QAD）方案训练。在单张 NVIDIA GeForce RTX 5090 上，端到端生成一段 5 秒 480P 视频仅需 1.8 秒。模型、代码及博客已开源。 🔗 阅读原文：https://x.com/haoailab/status/2069493820732170695
+美国国家安全局（NSA）因与人工智能公司Anthropic的纠纷，失去了对Mythos系统的访问权限。 🔗 阅读原文：https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html
 
-## [Krea 2 技术报告正式发布](https://aihot.virxact.com/items/cmqqxfykz0ehkslp55nlmaje0)
+## [GPT-5.5 Instant 新版本，对话更有趣](https://aihot.virxact.com/items/cmqsef9c302f0slfu6lvuhnu7)
 
-`Tue, 23 Jun 2026 17:31:26 GMT`
+`Wed, 24 Jun 2026 18:00:21 GMT`
 
-我们的技术报告已发布。 深入解析创建 Krea 2 所用的数据、架构及训练技巧。 https：//www.krea.ai/blog/krea-2-technical-report 🔗 阅读原文：https://x.com/krea_ai/status/2069473417804591191
+我们为你带来了新版 GPT-5.5 Instant，它现在聊起天来有趣多了。 我们最常用的模型现在能更好地理解问题背后的意图，并相应地调整回应。 它也能更可靠地处理复杂约束，让购物和本地推荐更加实用和连贯。 今天向付费用户推送，明天向免费用户推送。 🔗 阅读原文：https://x.com/OpenAI/status/2069843083701915755
 
-## [Anthropic 推出 Claude Tag：在 Slack 中通过 @Claude 协作](https://aihot.virxact.com/items/cmqqwge4a0e6tslp50f3tli27)
+## [思考即回忆：推理如何解锁LLM中的参数化知识](https://aihot.virxact.com/items/cmqsbr8l701ndslfubzp0hnmi)
 
-`Tue, 23 Jun 2026 17:09:41 GMT`
+`Wed, 24 Jun 2026 17:05:40 GMT`
 
-Anthropic 推出 Claude Tag，一种在 Slack 频道中通过 @Claude 委托任务的新协作方式。Claude 可记住频道上下文，支持多用户交互，经授权后可自动学习其他频道和数据源。开启"环境"行为后，能主动更新未解决的线程或任务。支持异步工作，可自主推进项目数小时或数天。即日起面向 Claude Enterprise 和 Team 客户提供 beta 版。管理员可精细控制工具和渠道访问权限、设置 token 消耗限额，并查看所有操作日志。 🔗 阅读原文：https://www.anthropi
+Google Research研究发现，推理（chain-of-thought）能帮助大语言模型（LLM）回忆简单事实，即使这些事实无需复杂推导。在Gemini-2.5 Flash和Pro以及Qwen3-32B上，启用推理后模型能够回答原本无法直接回答的简单问题，pass@k显示正确事实存在于输出分布中。该现象由两个机制驱动：一是生成的推理token充当计算缓冲，允许模型进行隐藏计算以提取参数化知识；二是推理过程中产生的相关事实起到启动效应（factual priming），帮助模型激活正确答案。 🔗 阅读原文：h
 
-## [GitHub联合开源联盟呼吁修改加州AI透明度法案以保护开源](https://aihot.virxact.com/items/cmqr1y54m0frmslp5b6e6js37)
+## [Figma在Config 2026押注人类判断，画布AI能力却来自第三方](https://aihot.virxact.com/items/cmqsbrhhm01o1slfu2kei9qhy)
 
-`Tue, 23 Jun 2026 15:48:00 GMT`
+`Wed, 24 Jun 2026 16:49:01 GMT`
 
-GitHub 联合 Black Forest Labs、Hugging Face 与 Mozilla Corporation 组成开源联盟，呼吁对加州 AI 透明度法案（SB 942，拟由 SB 1000 修正）进行针对性修改。当前草案要求开发者在下游用户未履行义务时撤销开源许可证，这与开源许可证永久不可撤销的性质冲突。联盟认为该要求非必要，已有直接监管和执法机制，并建议参考欧盟 AI 法案的透明度实践规范，以向下游用户通知最佳实践文档的方式替代撤销条款。GitHub 支持这些修正，以在保持透明度目标的同时兼容开源
+Figma在Config 2026将设计画布扩展至代码、动画、3D深度和着色器效果，并集成去年收购的Weave工作流系统。新功能包括Code Layers（代码与设计并存）、Motion动画、深度层、Shader及Generative Plugins。协作方面，团队可搜索复用AI提示词、保存工作流为技能、共享插件。Figma的AI功能依赖Anthropic、OpenAI和Google等外部模型，推理成本挤压利润率。同时，Anthropic等公司的竞争产品可直接生成界面，构成威胁。 🔗 阅读原文：https://th
 
-## [Mistral OCR 4](https://aihot.virxact.com/items/cmqqqkqoh0chzslp5i6l20j5q)
+## [NVIDIA NeMo AutoModel：一行代码加速Transformer MoE模型微调](https://aihot.virxact.com/items/cmqs9yjcy0187slfupnhipvhf)
 
-`Tue, 23 Jun 2026 14:24:55 GMT`
+`Wed, 24 Jun 2026 16:00:13 GMT`
 
-Mistral AI 发布 OCR 4，新增边界框、块分类（标题、表格、方程式、签名等）及逐页逐词置信度分数。支持 170 种语言、10 个语系，可单容器全自托管部署。在 OlmOCRBench 上得分 85.20，独立标注者偏好率平均 72%。定价每 1000 页 $4，Batch API 享 50% 折扣。可通过 API 或 Mistral Studio 的 Document AI 调用。 🔗 阅读原文：https://mistral.ai/news/ocr-4
+NVIDIA NeMo AutoModel 是基于 Transformers v5 的开源库，添加 Expert Parallelism、DeepEP 融合 all-to-all 调度和 TransformerEngine 内核。在 MoE 模型微调中，相比原生 v5，训练吞吐量提升 3.4-3.7 倍，GPU 内存减少 29-32%，仅需改动一行 import。在 16 节点 128 张 H100 上全微调 Nemotron 3 Ultra 550B A55B 时，v5 因内存不足无法运行，而 AutoModel
 
-## [无限制OCR：单次长时域解析](https://aihot.virxact.com/items/cmqqpk6qr0c7cslp5tgwky5n0)
+## [OpenRouter 零数据留存（ZDR）实践：97 款新模型，流量占比近半](https://aihot.virxact.com/items/cmqsi8c9303azslfuexk0h241)
 
-`Tue, 23 Jun 2026 13:32:22 GMT`
+`Wed, 24 Jun 2026 16:00:00 GMT`
 
-Unlimited OCR 是一个托管在 GitHub 的项目，实现单次长时域解析（One-Shot Long-Horizon Parsing），旨在一次性处理长时间跨度的 OCR 任务。 🔗 阅读原文：https://github.com/baidu/Unlimited-OCR
+OpenRouter 的零数据留存（ZDR）保证用户提示词和模型响应不被存储，元数据一般安全。自 1 月以来新增 97 款支持 ZDR 的模型，月度 token 量增长 4.3 倍，约占全部路由流量一半。ZDR 在三个层面执行：账户级（整个供应商开启）、护栏级（按 API Key 或组织成员限定）、单次请求级（传参数仅路由至 ZDR 端点）。企业用户可灵活选择控制粒度，避免锁定单一供应商。 🔗 阅读原文：https://openrouter.ai/blog/insights/when-zero-means-zero
