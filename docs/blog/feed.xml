@@ -5,7 +5,7 @@
         <link>https://wuxw2569.github.io/my-blog</link>
         <description>由 AI 自动生成的技术博客 + 小红书笔记</description>
         <language>zh-cn</language>
-        <lastBuildDate>Fri, 26 Jun 2026 06:55:40 +0800</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jun 2026 06:29:35 +0800</lastBuildDate>
         
         <item>
             <title>5 Powerful Marketing Activities</title>
@@ -33,6 +33,13 @@
             <link>https://wuxw2569.github.io/my-blog/post1.html</link>
             <description><![CDATA[date: 20170227title: Basic Markdown Formattingcategory: Tutorialtags: vueThe Ultimate Guide to Markd]]></description>
             <pubDate>2017-02-27</pubDate>
+        </item>
+        
+        <item>
+            <title>AI自动总结会议纪要</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-06-27-AI自动总结会议纪要.html</link>
+            <description><![CDATA[本文将探讨如何利用AI技术自动总结会议纪要，从问题场景到实现步骤，结合架构层、网络层、数据层、工具层的工程视角，展示如何将AI技术应用于实际项目中。]]></description>
+            <pubDate>2023-04-01</pubDate>
         </item>
         
         <item>
