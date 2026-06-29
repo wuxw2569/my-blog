@@ -5,76 +5,76 @@ description: 自动订阅 AI Hot 每日日报 feed
 
 # AI 每日日报
 
-> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-06-26 06:55:40 +0000
+> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-06-29 07:30:06 +0000
 
-## [小鹏 CEO 何小鹏：2026 年底自动驾驶可以合法进入全球](https://aihot.virxact.com/items/cmquitk6o04qnsl805yictrvb)
+## [SK 集团会长崔泰源：到 2035 年建设 15GW AI 数据中心，总投资达 1000 万亿韩元](https://aihot.virxact.com/items/cmqyvdkok000qslf1ctykave9)
 
-`Fri, 26 Jun 2026 05:40:52 GMT`
+`Mon, 29 Jun 2026 06:44:15 GMT`
 
-小鹏汽车 CEO 何小鹏微博透露，VLA 2.0 走向全球进入确定模式。联合国 WP29 缔约国会议批准了 DCAS UNR 171 series 02（对应城区 NGP 法规）与 UNR ADS（对应 L3-L5 自动驾驶法规）。DCAS 将在六个月后成为欧盟强制法规，即 2026 年底自动驾驶可合法进入全球；UNR ADS 为框架性法规，加速 L4 级 Robotaxi 落地。何小鹏称 2027 年海外小鹏汽车将搭载 VLA 和 VLM，支持中英文混合语音对话。 🔗 阅读原文：https://www.ithom
+SK 集团会长崔泰源 6 月 29 日宣布，计划到 2035 年建成 15GW AI 数据中心容量，作为韩国国家级基础设施和实体 AI 时代核心底座。项目总投资 1000 万亿韩元（约 4.4 万亿元人民币），未来 10 年保持年均 100 万亿韩元以上国内投资，旨在实现从出口传统商品向智能服务的转变，构建韩国智能市场。此外，SK 海力士将向韩国西南部投资 400 万亿韩元，半导体供应项目总投资达 1100 万亿韩元（约 4.84 万亿元人民币）。 🔗 阅读原文：https://www.ithome.com/0/9
 
-## [近400家美国报纸起诉微软和OpenAI：未经授权抓取新闻内容训练AI](https://aihot.virxact.com/items/cmqugodz30481sl80as72hqx1)
+## [分享两个Vibe Coding必备的实用Prompt：第一性原理与对抗式审查](https://aihot.virxact.com/items/cmqykzeht02shslivflwhgdbx)
 
-`Fri, 26 Jun 2026 04:37:58 GMT`
+`Mon, 29 Jun 2026 02:08:00 GMT`
 
-代表近400家纸媒的出版商联盟向美国纽约南区联邦地区法院起诉微软和OpenAI，指控其未经授权抓取新闻内容用于训练Copilot、ChatGPT等AI模型，侵犯版权并触犯《数字千年版权法》。起诉书称被告"系统性且秘密地"爬取网站，复制文章并删除版权管理信息。原告表示AI产品基于其内容创造数十亿美元价值，但出版商分文未得，称此举或成地方新闻业"丧钟"。OpenAI回应训练数据基于公开可获取内容且符合合理使用原则，微软未置评。 🔗 阅读原文：https://www.ithome.com/0/968/872.htm
+作者分享Vibe Coding中两个关键Prompt：一是"从第一性原理出发"，强制AI跳出类比推理，从基本事实重新推导本质，曾帮作者发现AIHOT抓取海外信源的底层流量路由隐患并彻底重构；二是"对抗式审查"，让AI站在恶意用户角度攻防式审查代码，检出OOM死循环、未来时间污染等手工难发现的BUG。两个Prompt形成生成与验证闭环，使纯Vibe Coding项目AIHOT最近一周请求量超千万次。 🔗 阅读原文：https://mp.weixin.qq.com/s/umPqTD_-IubbhXIgiS47eQ
 
-## [Claude Code 6个实用Hook玩法](https://aihot.virxact.com/items/cmquanuro02prsl8053rbhfjl)
+## [Artifacts 22：Zyphra、Cohere 和 Poolside 正在扩展生态系统广度](https://aihot.virxact.com/items/cmqy28vh30050slr1uzaev9nk)
 
-`Fri, 26 Jun 2026 02:02:00 GMT`
+`Sun, 28 Jun 2026 17:03:07 GMT`
 
-Claude Code 内置近30个Hook事件（年初仅13个），本质是写死的规则脚本，运行时不消耗token。6个实用玩法：权限弹窗提醒、开机日程播报（问候+天气+飞书日程）、上下文预压缩时自动生成摘要卡片、结合Skill自动整理下载文件夹、启动后每小时久坐提醒、通过Bark实现手机/手表任务完成/失败推送。让AI从被动聊天框变为事件驱动的自动化系统。 🔗 阅读原文：https://mp.weixin.qq.com/s/LVj2foSXi_hBRKxjuYaUyw
+开源模型生态正变得更多元，参与者从少数中国公司扩展到全球各类组织。纯模型制造商包括 DeepSeek、智谱、MiniMax、Poolside、Arcee、Zyphra 及主权 AI 玩家 Cohere、Sovereign、Mistral、Trillion Labs；科技巨头如阿里 Qwen、Google Gemma 和 NVIDIA 各有不同动机；产品公司如 JetBrains、Zed、Krea、Photoroom 则训练高度专业的小模型。NVIDIA 发布 Nemotron-3-Ultra-550B-A55B-B
 
-## [小互开源个人IP配图技能"小互IP Studio"，含31个原创角色](https://aihot.virxact.com/items/cmqu93tek02e2sl80iom0bica)
+## [Wayfinder Router：在本地和托管的大语言模型之间进行确定性查询路由](https://aihot.virxact.com/items/cmqy1fj3003cislwfljtykjvx)
 
-`Fri, 26 Jun 2026 01:26:23 GMT`
+`Sun, 28 Jun 2026 16:58:56 GMT`
 
-博主小互开源个人IP配图技能"小互IP Studio"，包含31个原创角色（15个手绘线稿角色+16个谐音梗meme形象）及一套配图方法论。该Agent可自动读取文章、规划配图类型（情绪图/示意图/四格漫画）、生成并自查返工。默认画风为手绘线稿淡彩，另备5种皮肤（3D盲盒、黑白线稿等）可切换。安装仅需Python3，支持Claude Code、Codex等工具，需自备OpenAI兼容的图像API key（默认GPT-image-2）；也可只输出提示词手动生图。 🔗 阅读原文：https://x.com/xiaohu
+Wayfinder Router 通过分析提示词的结构（长度、标题、列表、代码）和措辞（证明、数学、硬约束），在微秒级完成路由决策，完全离线且无需调用其他模型。默认仅使用结构特征，词汇线索因盲测未泛化而默认为关闭。对比依赖模型调用的路由器（如 RouteLLM、NotDiamond），它避免了延迟、成本和随机性。用户可在自有数据上校准评分阈值。支持任何 OpenAI 兼容 API（含 Ollama、Anthropic、Groq、vLLM 等），可自托管。提供终端和网页演示（--dry-run 无需密钥），以及基准测
 
-## [@exponentialview 发布《State of the AI Economy》报告：AI经济年化收入超1750亿美元](https://aihot.virxact.com/items/cmqu5r7al01j7sl80meg0lje3)
+## [Grok 4.5 私测于 SpaceX 和 Tesla，性能接近 Opus](https://aihot.virxact.com/items/cmqxo43c90009slwfmy4wm3z3)
 
-`Thu, 25 Jun 2026 23:29:52 GMT`
+`Sun, 28 Jun 2026 10:50:05 GMT`
 
-报告基于去重后的消费端AI支出统计，过去12个月实际AI营收达1100亿美元，年化运行率超1750亿美元，增长速度约为移动/互联网普及浪潮的3倍。营收形成速度急剧加快：2023年新增10亿美元收入需180天，现缩短至不足2天。企业AI已脱离试点阶段，但全面推广仍处早期。31%的标普500公司在财报电话会提及AI，仅20%量化影响。Token降价每10%刺激12-18%用量增长，需求价格弹性强。超大规模云厂商AI收入目前大致覆盖基础设施折旧，GPU经济效益依赖6年计算寿命假设。电力供应和数据中心成本仍是未来扩展主要瓶
+Grok 4.5，基于我们的1.5T V9基础模型，并在补充训练中加入Cursor数据，现已在SpaceX和Tesla进入私测。初步评估显示其性能接近，或许超越Opus。 强化学习仍在持续显著改进模型，Grok Build工具链也在日益完善。 所有参与者的出色工作！ 今年，@SpaceX 将每月发布完全从头训练的新模型。 🔗 阅读原文：https://x.com/elonmusk/status/2071184354756477041
 
-## [Claude Code v2.1.193 发布](https://aihot.virxact.com/items/cmqu24x8v00lssl8065rajmsy)
+## [仅有三个AI模型在500天创业测试中盈利超过起始资本](https://aihot.virxact.com/items/cmqxnrjtc004ssljh9zvejgbo)
 
-`Thu, 25 Jun 2026 21:45:57 GMT`
+`Sun, 28 Jun 2026 10:16:13 GMT`
 
-Claude Code v2.1.193 新增 `autoMode.classifyAllShell` 设置，将全部 Bash/PowerShell 命令经自动模式分类器处理。自动模式拒绝原因现加入转录、拒绝提示及 `/permissions` 页面。新增 `claude_code.assistant_response` OpenTelemetry 日志事件（默认不记录，需设置 `OTEL_LOG_ASSISTANT_RESPONSES=1`）。Bash 模式支持实时文件路径自动补全；MCP 服务器需认证时显示启动
+普林斯顿大学推出CEO-Bench基准测试，让AI智能体在模拟环境中运营订阅软件公司NovaMind 500天，起始资金100万美元。14个测试模型中，仅Claude Fable 5（最佳轮次盈利4715万美元）、Claude Opus 4.8（2780万美元）和GPT-5.5（2130万美元）在最佳运行中超过起始资本。一个不调用语言模型的简单规则启发式方法通过固定定价、配额和针对性开发达到1576万美元，超越除上述三款外的所有模型。多数模型无法保持连贯策略，在模拟结束前破产。该测试旨在衡量AI的长期战略决策能力。
 
-## [Codex 在 ChatGPT 移动 App 正式可用](https://aihot.virxact.com/items/cmqu0cbyl006isl80rufd707u)
+## [新浪开源VibeThinker-3B：推理可压缩，事实知识不能](https://aihot.virxact.com/items/cmqxiel9h004ysl50umg2c011)
 
-`Thu, 25 Jun 2026 21:15:18 GMT`
+`Sun, 28 Jun 2026 07:44:41 GMT`
 
-OpenAI 宣布 Codex 在 ChatGPT 移动应用中正式开放（GA），并新增一对一设备配对实现更安全的手机与电脑连接。移动端新增通知、目标、侧边聊天、文件预览及内联审阅评论功能。此前预览版已明确，用户可通过 ChatGPT 移动 App 启动新工作、审查输出、引导执行和批准下一步，而 Codex 实际继续在笔记本、Mac mini 或开发机上后台运行。 🔗 阅读原文：https://x.com/OpenAIDevs/status/2070254532911882707
+新浪发布仅3B参数的VibeThinker-3B，在AIME26等数学编程基准上持平DeepSeek V3.2等大200-333倍的模型，LiveCodeBench超越所有20B以下模型，LeetCode竞赛解决123/128题超过GPT-5.2、Kimi K2.5等。但知识密集型GPQA-Diamond大幅落后。模型基于阿里Qwen2.5-Coder-3B，经SFT、强化学习、自蒸馏等多阶段后训练。研究提出"参数压缩-覆盖假说"：逻辑推理依赖少数可压缩模式，而广泛世界知识仍需大参数。模型已开源。 🔗 阅读原文：h
 
-## [美国政府要求OpenAI暂缓GPT-5.6广泛发布](https://aihot.virxact.com/items/cmqu0e95l006ysl8097qhn8ny)
+## [阿德拉菲尼尔：仅在AI agent工作时阻止Mac睡眠的菜单栏工具](https://aihot.virxact.com/items/cmqx9k72u0425slp05ijlfezl)
 
-`Thu, 25 Jun 2026 21:06:58 GMT`
+`Sun, 28 Jun 2026 03:55:17 GMT`
 
-The Information 报道，美国政府因安全顾虑要求 OpenAI 暂缓 GPT-5.6 的广泛发布，改为推出受控预览版。OpenAI 计划先向小部分合作伙伴提供早期访问，并由政府逐客户审批准入。这一非常规做法主要担忧模型在自动化高技能网络工作上的能力：既能帮防御者更快发现漏洞，也可能被攻击者用于加速测试漏洞利用。本周四，CEO Sam Altman 已向员工确认该审批流程。 🔗 阅读原文：https://x.com/rohanpaul_ai/status/2070252433109049466
+Adrafinil 是一款 macOS 菜单栏应用，仅在 Claude Code、Codex、Cursor、Gemini CLI、Aider、Hermes、OpenCode、Cline、Pi 等 9 种 AI coding agent 持有活跃会话时阻止系统睡眠（包括合盖睡眠）。无 agent 工作时，合盖后 Mac 正常睡眠。它通过各 agent 的钩子系统调用 CLI，往返延迟低于 50ms，支持引用计数断言、热切出（温度阈值强制释放）、空闲释放及进程嗅探。需要 macOS Tahoe 26.4，Xcode 2
 
-## [Midjourney 预览 V8.2 并加速草稿模式](https://aihot.virxact.com/items/cmqtvqfrt07aksl0et0cawoue)
+## [四大顶级AI对决《文明VI》：Claude核平法国仍输，暴露感知与执行短板](https://aihot.virxact.com/items/cmqx7behn03g3slp0pzrofqz9)
 
-`Thu, 25 Jun 2026 19:11:05 GMT`
+`Sun, 28 Jun 2026 02:45:16 GMT`
 
-Midjourney 带来两项更新。一是加入 `--preview` 参数可提前体验 V8.2 的美学与个性化效果；二是此前在 V8.1 推出的大批量草稿模式（生成 24 张低分辨率图，价格仅为标准 4 张的一半，点击 "Vary" 可升级为全分辨率）现在支持搭配 `--sref random` 使用，探索风格空间的速度比之前快 24 倍。 🔗 阅读原文：https://x.com/midjourney/status/2070223272072065228
+英国前首相府数据科学家Liam Wilkinson搭建76个MCP工具，将Claude Opus 4.6、GPT-5.4、Gemini 3.1 Pro等四个模型放入《文明VI》进行23场对局。Claude扮演葡萄牙时，因法国文化胜利逼近，花50回合研发核弹核平图卢兹，但法国最终以外交胜利获胜。Wilkinson发现：AI主动检查全局状态仅占1-2%（感知盲区），计划后10回合内执行率仅48-66%（知行差距）。结论是智商非瓶颈，感知与执行才是关键。 🔗 阅读原文：https://www.ithome.com/0/9
 
-## [IBM 首度推出亚纳米级芯片技术](https://aihot.virxact.com/items/cmqtvbv4r076ssl0e588aopiw)
+## [SpaceX 注册 SpaceXAI 商标，将合并 xAI](https://aihot.virxact.com/items/cmqwub84n008jslp0ael13807)
 
-`Thu, 25 Jun 2026 18:52:05 GMT`
+`Sat, 27 Jun 2026 20:51:20 GMT`
 
-IBM 于 2026 年 6 月 25 日发布全球首款亚纳米级芯片技术，采用 0.7 nm（7 埃米）节点与全新三维纳米堆叠（nanostack）架构。指甲盖大小的芯片集成近 1000 亿个晶体管，密度约为 IBM 2021 年 2 nm 芯片的两倍。相比 2 nm 芯片，性能最高提升 50%，能效最高提升 70%。纳米堆叠架构还实现 SRAM 面积缩减 40%，有助于支撑先进 AI 工作负载的高带宽需求。该技术已在 VLSI 2026 会议上验证，IBM 预计 5 年内量产。 🔗 阅读原文：https://new
+消息：SpaceX 刚刚注册了"SpaceXAI"商标。 埃隆·马斯克表示 xAI 将解散，不再作为独立公司，因此它将只是 SpaceXAI，SpaceX 的 AI 产品。 🔗 阅读原文：https://x.com/cb_doge/status/2070973276562530507
 
-## [Midjourney V8.1 草稿模式新增随机风格功能](https://aihot.virxact.com/items/cmqtv6jlv0766sl0eixynhk6m)
+## [苹果Vision负责人跳槽OpenAI，触控OLED MacBook用M5芯片](https://aihot.virxact.com/items/cmqwmotnk01tasly021bf38i5)
 
-`Thu, 25 Jun 2026 18:50:16 GMT`
+`Sat, 27 Jun 2026 17:05:48 GMT`
 
-Midjourney V8.1 的草稿模式（draft mode）添加了随机风格功能。用户在提示词中加入 `--sref random` 即可一键生成 24 张不同风格的图片。开启草稿模式可通过点击提示栏的 ⚡ 图标或添加 `--draft` 参数。 🔗 阅读原文：https://updates.midjourney.com/random-styles-in-draft-mode
+2026年6月26日，Mark Gurman称苹果Vision产品组副总裁Paul Meade下周离职加入OpenAI硬件部门。他负责Vision Pro、无屏幕AI智能眼镜及AR眼镜研发。苹果计划首款触控OLED MacBook使用M5 Pro/Max芯片，2026年底到2027年初发布；M7 Pro/Max版本2027年底跟进。苹果此前因涨价市值蒸发2300多亿美元。核心高管流失至OpenAI凸显AI硬件竞争加速。 🔗 阅读原文：https://x.com/berryxia/status/20709165208
 
-## [Runway发布Agent 2.0](https://aihot.virxact.com/items/cmqtun7jv06zvsl0ejc2rnrpp)
+## [DeepSeek 开源 DSpark 投机解码框架，加速 DeepSeek-V4 生成速度 60-85%](https://aihot.virxact.com/items/cmqwm45f901n6sly0gpl6b6l5)
 
-`Thu, 25 Jun 2026 18:41:58 GMT`
+`Sat, 27 Jun 2026 16:59:58 GMT`
 
-Runway发布Agent 2.0，帮助营销人员创建、测试和优化广告、视频及营销活动。品牌营销人员可在对话中开发活动概念、生成变体并自动本地化；绩效营销人员可上传创意并导入Meta、YouTube、TikTok或Google广告数据，由Agent分析后生成下一轮待测广告。社交媒体营销人员可一次性生成一周内容，自动裁切为9：16、16：9、1：1等格式；产品营销人员可借助Agent确定定位角度并构建活动资产。Agent 2.0面向所有用户开放。 🔗 阅读原文：https://runwayml.com/news/int
+DeepSeek 发布 DSpark 投机解码框架并开源检查点与训练代码。该框架不是新模型，而是在 DeepSeek-V4 权重上附加草稿模块，通过半自回归生成（并行骨干 + 轻量级顺序头）实现无损加速。生产环境下，DeepSeek-V4-Flash 和 V4-Pro 每用户生成速度较 MTP-1 基线分别提升 60-85% 和 57-78%。离线测试中，接受长度比 Eagle3 高 26-31%，比 DFlash 高 16-18%。配套 DeepSpec 训练代码库采用 MIT 许可证。 🔗 阅读原文：https
