@@ -5,76 +5,76 @@ description: 自动订阅 AI Hot 每日日报 feed
 
 # AI 每日日报
 
-> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-06-29 07:30:06 +0000
+> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-06-30 06:56:46 +0000
 
-## [SK 集团会长崔泰源：到 2035 年建设 15GW AI 数据中心，总投资达 1000 万亿韩元](https://aihot.virxact.com/items/cmqyvdkok000qslf1ctykave9)
+## [美团 LongCat 发布旗舰模型 LongCat-2.0](https://aihot.virxact.com/items/cmr08dev204qjslkit52gdrur)
 
-`Mon, 29 Jun 2026 06:44:15 GMT`
+`Tue, 30 Jun 2026 05:42:42 GMT`
 
-SK 集团会长崔泰源 6 月 29 日宣布，计划到 2035 年建成 15GW AI 数据中心容量，作为韩国国家级基础设施和实体 AI 时代核心底座。项目总投资 1000 万亿韩元（约 4.4 万亿元人民币），未来 10 年保持年均 100 万亿韩元以上国内投资，旨在实现从出口传统商品向智能服务的转变，构建韩国智能市场。此外，SK 海力士将向韩国西南部投资 400 万亿韩元，半导体供应项目总投资达 1100 万亿韩元（约 4.84 万亿元人民币）。 🔗 阅读原文：https://www.ithome.com/0/9
+美团 LongCat 推出旗舰模型 LongCat-2.0，采用 1.6T 参数 MoE 架构（约 48B 活跃参数），原生支持 1M 上下文窗口。定价为 Input Cache $0.015/1M tokens、Input $0.75/1M tokens、Output $2.95/1M tokens。模型专为 Agentic Coding 设计，包含三大技术：LSA 稀疏注意力实现高效 1M 扩展；Zero-Compute Experts 动态激活 33B-56B 参数/token，无算力浪费；MOPD 将专家分
 
-## [分享两个Vibe Coding必备的实用Prompt：第一性原理与对抗式审查](https://aihot.virxact.com/items/cmqykzeht02shslivflwhgdbx)
+## [X（Twitter）发布 hosted X MCP，AI 智能体可直连 X API](https://aihot.virxact.com/items/cmr07c62l04huslkimxy3vdw5)
 
-`Mon, 29 Jun 2026 02:08:00 GMT`
+`Tue, 30 Jun 2026 04:40:25 GMT`
 
-作者分享Vibe Coding中两个关键Prompt：一是"从第一性原理出发"，强制AI跳出类比推理，从基本事实重新推导本质，曾帮作者发现AIHOT抓取海外信源的底层流量路由隐患并彻底重构；二是"对抗式审查"，让AI站在恶意用户角度攻防式审查代码，检出OOM死循环、未来时间污染等手工难发现的BUG。两个Prompt形成生成与验证闭环，使纯Vibe Coding项目AIHOT最近一周请求量超千万次。 🔗 阅读原文：https://mp.weixin.qq.com/s/umPqTD_-IubbhXIgiS47eQ
+X（Twitter）官方推出 hosted X MCP，AI 智能体可通过 MCP 协议直接调用 X API 获取实时信息，支持 Grok、Cursor 等工具。用户需注册 X API 并按量付费，个人优惠价每次调用 0.01 美元（1 美元 1000 次）。有用户实测拉取近三天书签仅花 0.1 美元。配置步骤：创建 APP 并充值、获取配置 ID、辅助配置（可交给 Codex/Claude）、授权启动。 🔗 阅读原文：https://x.com/op7418/status/2071816099986022650
 
-## [Artifacts 22：Zyphra、Cohere 和 Poolside 正在扩展生态系统广度](https://aihot.virxact.com/items/cmqy28vh30050slr1uzaev9nk)
+## [AI就业争论变得更加混乱](https://aihot.virxact.com/items/cmr05b2wq0414slkivvyyjlbl)
 
-`Sun, 28 Jun 2026 17:03:07 GMT`
+`Tue, 30 Jun 2026 04:01:00 GMT`
 
-开源模型生态正变得更多元，参与者从少数中国公司扩展到全球各类组织。纯模型制造商包括 DeepSeek、智谱、MiniMax、Poolside、Arcee、Zyphra 及主权 AI 玩家 Cohere、Sovereign、Mistral、Trillion Labs；科技巨头如阿里 Qwen、Google Gemma 和 NVIDIA 各有不同动机；产品公司如 JetBrains、Zed、Krea、Photoroom 则训练高度专业的小模型。NVIDIA 发布 Nemotron-3-Ultra-550B-A55B-B
+截至2026年5月，AI相关裁员接近9万个，预计未来五年美国最多15%的岗位将被AI替代。但Ramp与Revelio Labs对近22，000家公司的报告发现，高AI投入企业（前三个月人均月均支出30美元）总员工数增长10.2%，入门级岗位增长12%。报告认为AI并非普遍导致岗位消失，而是在资源充裕的科技企业里成为扩张工具--降低工程、销售、客服等职能的生产成本，从而推动整体增员。但仅购买订阅而未持续投入的公司未见人头增长，可能加剧企业间的资源鸿沟。 🔗 阅读原文：https://techcrunch.com/20
 
-## [Wayfinder Router：在本地和托管的大语言模型之间进行确定性查询路由](https://aihot.virxact.com/items/cmqy1fj3003cislwfljtykjvx)
+## [一个人管理5款产品，80%时间不写代码？Every的复利工程](https://aihot.virxact.com/items/cmr03h5tq03jjslki3a281zet)
 
-`Sun, 28 Jun 2026 16:58:56 GMT`
+`Tue, 30 Jun 2026 03:23:23 GMT`
 
-Wayfinder Router 通过分析提示词的结构（长度、标题、列表、代码）和措辞（证明、数学、硬约束），在微秒级完成路由决策，完全离线且无需调用其他模型。默认仅使用结构特征，词汇线索因盲测未泛化而默认为关闭。对比依赖模型调用的路由器（如 RouteLLM、NotDiamond），它避免了延迟、成本和随机性。用户可在自有数据上校准评分阈值。支持任何 OpenAI 兼容 API（含 Ollama、Anthropic、Groq、vLLM 等），可自托管。提供终端和网页演示（--dry-run 无需密钥），以及基准测
+媒体软件公司Every公开「复利工程」方法论，以单人工程团队维护5款产品。核心是四步循环：Plan→Work→Review→Compound，其中Compound将每次解决问题的解法写入CLAUDE.md和docs/solutions/，使AI下次自动避坑。工程师80%时间花在Plan和Review，仅20%用于写代码。配套开源插件支持Claude Code等，含26个专项agent、23条工作流命令、13项技能，可零配置使用。/workflows：review一次并发14个agent审查代码，/workflows
 
-## [Grok 4.5 私测于 SpaceX 和 Tesla，性能接近 Opus](https://aihot.virxact.com/items/cmqxo43c90009slwfmy4wm3z3)
+## [具身智能数据采集员：日薪200元起，给机器人当老师](https://aihot.virxact.com/items/cmr00f9t902pgslkiofzqdgx2)
 
-`Sun, 28 Jun 2026 10:50:05 GMT`
+`Tue, 30 Jun 2026 01:58:00 GMT`
 
-Grok 4.5，基于我们的1.5T V9基础模型，并在补充训练中加入Cursor数据，现已在SpaceX和Tesla进入私测。初步评估显示其性能接近，或许超越Opus。 强化学习仍在持续显著改进模型，Grok Build工具链也在日益完善。 所有参与者的出色工作！ 今年，@SpaceX 将每月发布完全从头训练的新模型。 🔗 阅读原文：https://x.com/elonmusk/status/2071184354756477041
+具身智能数据采集员以日薪200-250元招兼职，无需学历经验。面试先测量身高体重以适配采集手套，并询问是否晕VR。工作分两种：遥操作采集--穿戴设备控制双臂机器人完成分拣积木、叠纸杯等动作；无机器人示教采集--徒手重复动作（如叠衣服），设备记录轨迹。全球高质量物理交互数据截至2026年初仅约50万小时，不足大语言模型训练数据的两万分之一，需大量人力从零采集。 🔗 阅读原文：https://mp.weixin.qq.com/s/aSd4kLu7xHllZatrd5EGsw
 
-## [仅有三个AI模型在500天创业测试中盈利超过起始资本](https://aihot.virxact.com/items/cmqxnrjtc004ssljh9zvejgbo)
+## [AI News Radar 大更新：新增自媒体板块，支持订阅多平台账号](https://aihot.virxact.com/items/cmqzzpqet02gpslki3d15k1l0)
 
-`Sun, 28 Jun 2026 10:16:13 GMT`
+`Tue, 30 Jun 2026 01:47:00 GMT`
 
-普林斯顿大学推出CEO-Bench基准测试，让AI智能体在模拟环境中运营订阅软件公司NovaMind 500天，起始资金100万美元。14个测试模型中，仅Claude Fable 5（最佳轮次盈利4715万美元）、Claude Opus 4.8（2780万美元）和GPT-5.5（2130万美元）在最佳运行中超过起始资本。一个不调用语言模型的简单规则启发式方法通过固定定价、配额和针对性开发达到1576万美元，超越除上述三款外的所有模型。多数模型无法保持连贯策略，在模拟结束前破产。该测试旨在衡量AI的长期战略决策能力。
+AI News Radar 迎来大更新，新增自媒体板块，支持订阅某书、某音、某站、某X等平台账号，每日按热度推荐 Top10 信息（无热门则不硬凑），同时保留时间轴视图，可在热度优先和时间优先间切换。官方来源包括 OpenAI、Anthropic、Google 等一手消息及 GitHub AI&ML 更新日志。信息流按来源、类型、信号等级分类，标注高优先级与多源认证。项目完全开源，可零 API 部署独立 AI 日报页面，支持手机移动端及暗色界面。 🔗 阅读原文：https://mp.weixin.qq.com/s/
 
-## [新浪开源VibeThinker-3B：推理可压缩，事实知识不能](https://aihot.virxact.com/items/cmqxiel9h004ysl50umg2c011)
+## [为 Amazon Bedrock 和 Google Cloud 推出的 Claude apps gateway](https://aihot.virxact.com/items/cmqzq4so7002zslki45ad5xtq)
 
-`Sun, 28 Jun 2026 07:44:41 GMT`
+`Mon, 29 Jun 2026 21:22:33 GMT`
 
-新浪发布仅3B参数的VibeThinker-3B，在AIME26等数学编程基准上持平DeepSeek V3.2等大200-333倍的模型，LiveCodeBench超越所有20B以下模型，LeetCode竞赛解决123/128题超过GPT-5.2、Kimi K2.5等。但知识密集型GPQA-Diamond大幅落后。模型基于阿里Qwen2.5-Coder-3B，经SFT、强化学习、自蒸馏等多阶段后训练。研究提出"参数压缩-覆盖假说"：逻辑推理依赖少数可压缩模式，而广泛世界知识仍需大参数。模型已开源。 🔗 阅读原文：h
+Anthropic 今日推出 Claude apps gateway，一个自托管控制平面，让企业能在 Amazon Bedrock 和 Google Cloud 上运行 Claude Code。它作为单个无状态容器部署于 Linux，后端使用 PostgreSQL，提供企业级 SSO 登录（通过 OIDC 对接 Google Workspace、Microsoft Entra ID、Okta 等）、集中策略管理、角色权限、路由（支持故障转移）以及按日/周/月、按组织/群组/用户的消费上限。遥测数据通过 OTLP 发
 
-## [阿德拉菲尼尔：仅在AI agent工作时阻止Mac睡眠的菜单栏工具](https://aihot.virxact.com/items/cmqx9k72u0425slp05ijlfezl)
+## [Rubin Ultra取消，新版尺寸性能减半](https://aihot.virxact.com/items/cmqzpe7kz003xslznxpw78tx5)
 
-`Sun, 28 Jun 2026 03:55:17 GMT`
+`Mon, 29 Jun 2026 21:00:47 GMT`
 
-Adrafinil 是一款 macOS 菜单栏应用，仅在 Claude Code、Codex、Cursor、Gemini CLI、Aider、Hermes、OpenCode、Cline、Pi 等 9 种 AI coding agent 持有活跃会话时阻止系统睡眠（包括合盖睡眠）。无 agent 工作时，合盖后 Mac 正常睡眠。它通过各 agent 的钩子系统调用 CLI，往返延迟低于 50ms，支持引用计数断言、热切出（温度阈值强制释放）、空闲释放及进程嗅探。需要 macOS Tahoe 26.4，Xcode 2
+有意思：在GTC 2026宣布Rubin Ultra仅3个月后，原4-die Rubin Ultra因制造执行问题被取消。新的"Rubin Ultra"尺寸减半，实际性能约为原版的一半。1/4🧵 🔗 阅读原文：https://x.com/SemiAnalysis_/status/2071700428249596290
 
-## [四大顶级AI对决《文明VI》：Claude核平法国仍输，暴露感知与执行短板](https://aihot.virxact.com/items/cmqx7behn03g3slp0pzrofqz9)
+## [OpenClaw 发布原生 iOS 与 Android 应用](https://aihot.virxact.com/items/cmqzo4q2o005oslkhjl7jdtoc)
 
-`Sun, 28 Jun 2026 02:45:16 GMT`
+`Mon, 29 Jun 2026 20:11:33 GMT`
 
-英国前首相府数据科学家Liam Wilkinson搭建76个MCP工具，将Claude Opus 4.6、GPT-5.4、Gemini 3.1 Pro等四个模型放入《文明VI》进行23场对局。Claude扮演葡萄牙时，因法国文化胜利逼近，花50回合研发核弹核平图卢兹，但法国最终以外交胜利获胜。Wilkinson发现：AI主动检查全局状态仅占1-2%（感知盲区），计划后10回合内执行率仅48-66%（知行差距）。结论是智商非瓶颈，感知与执行才是关键。 🔗 阅读原文：https://www.ithome.com/0/9
+OpenClaw 现已登陆 iOS 和 Android 🦞 📱 原生移动应用，终于来了 💬 智能体装进口袋 🔔 频道、任务、回复，随时处理 用你的大拇指，在任何地方运行智能体。 iOS： https：//apps.apple.com/us/app/openclaw-ai-that-does-things/id6780396132 Android： https：//play.google.com/store/apps/details？id=ai.openclaw.app 🔗 阅读原文：https://x.com/op
 
-## [SpaceX 注册 SpaceXAI 商标，将合并 xAI](https://aihot.virxact.com/items/cmqwub84n008jslp0ael13807)
+## [Claude 在 Microsoft Foundry 正式可用](https://aihot.virxact.com/items/cmqzjpce1006aslqvqo2kpjo6)
 
-`Sat, 27 Jun 2026 20:51:20 GMT`
+`Mon, 29 Jun 2026 18:22:20 GMT`
 
-消息：SpaceX 刚刚注册了"SpaceXAI"商标。 埃隆·马斯克表示 xAI 将解散，不再作为独立公司，因此它将只是 SpaceXAI，SpaceX 的 AI 产品。 🔗 阅读原文：https://x.com/cb_doge/status/2070973276562530507
+从今天起，Claude 模型在 Microsoft Foundry 上正式可用，托管于 Azure 环境，运行在 NVIDIA GB300 GPU 上。首批提供 Claude Opus 4.8 和 Claude Haiku 4.5，通过 Messages API 调用，支持提示缓存和扩展思考。用户可选择推理处理位置，包括美国数据区域，由 Anthropic 负责推理运营。Azure 用户可使用现有身份验证、计费与治理控制，并获得统一账单；符合条件的 Enterprise Agreement 客户可将 Claude 
 
-## [苹果Vision负责人跳槽OpenAI，触控OLED MacBook用M5芯片](https://aihot.virxact.com/items/cmqwmotnk01tasly021bf38i5)
+## [Qwen 3.6 27B 是本地开发的理想选择](https://aihot.virxact.com/items/cmqzk693n002zslksfkrr5w2w)
 
-`Sat, 27 Jun 2026 17:05:48 GMT`
+`Mon, 29 Jun 2026 18:03:02 GMT`
 
-2026年6月26日，Mark Gurman称苹果Vision产品组副总裁Paul Meade下周离职加入OpenAI硬件部门。他负责Vision Pro、无屏幕AI智能眼镜及AR眼镜研发。苹果计划首款触控OLED MacBook使用M5 Pro/Max芯片，2026年底到2027年初发布；M7 Pro/Max版本2027年底跟进。苹果此前因涨价市值蒸发2300多亿美元。核心高管流失至OpenAI凸显AI硬件竞争加速。 🔗 阅读原文：https://x.com/berryxia/status/20709165208
+Qwen 3.6 27B 是一款密集参数本地大语言模型，原生支持 256k 上下文。在 Macbook Max M5 上运行 llama.cpp Q8_0 量化版（含多 token 预测）可达 30 tokens/s；用户反馈在 RTX 5090 上 Q6_K 量化可达 50 tokens/s。它可通过单个提示完成创意诗歌、用 pnpm 生成六边形扫雷游戏等任务，作者称其为首个真正具备通用智能的本地模型。另有一个 MoE 变体 35B A3B，但作者推荐 27B 版本。 🔗 阅读原文：https://quesma.
 
-## [DeepSeek 开源 DSpark 投机解码框架，加速 DeepSeek-V4 生成速度 60-85%](https://aihot.virxact.com/items/cmqwm45f901n6sly0gpl6b6l5)
+## [Anthropic工程师Margot Van Laar：提示词工程实战--调试生产提示词为主，评估是唯一严谨方式](https://aihot.virxact.com/items/cmqzdby9m00o8sltjugcnx002)
 
-`Sat, 27 Jun 2026 16:59:58 GMT`
+`Mon, 29 Jun 2026 15:04:14 GMT`
 
-DeepSeek 发布 DSpark 投机解码框架并开源检查点与训练代码。该框架不是新模型，而是在 DeepSeek-V4 权重上附加草稿模块，通过半自回归生成（并行骨干 + 轻量级顺序头）实现无损加速。生产环境下，DeepSeek-V4-Flash 和 V4-Pro 每用户生成速度较 MTP-1 基线分别提升 60-85% 和 57-78%。离线测试中，接受长度比 Eagle3 高 26-31%，比 DFlash 高 16-18%。配套 DeepSpec 训练代码库采用 MIT 许可证。 🔗 阅读原文：https
+An anthropic应用AI工程师Margot Van Laar在Code with Claude分享提示词工程实战，核心观点：大部分时间在调试和维护已有生产提示词而非从零编写。两个场景：客服机器人维护中，用XML标签结构化清理，移除旧模型遗留的"禁止列表"指令（新模型会过度拟合），精确计算应调用工具，转人工决策需明确代价与收益；零售排班Agent从零构建时，拆成生成-评估-修复三个简单提示词更稳定，选用更强推理模型（Opus）。她反复强调：评估（Eval）是唯一严谨方式，没有评估就是碰运气。 🔗 阅读原文：h
