@@ -5,76 +5,76 @@ description: 自动订阅 AI Hot 每日日报 feed
 
 # AI 每日日报
 
-> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-07-01 07:10:32 +0000
+> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-07-02 06:40:24 +0000
+
+## [昆仑万维天工3.2发布Skywork Tags，AI智能体加入工作群聊](https://aihot.virxact.com/items/cmr2x3a7n0c0tsl8zxytx1kfx)
+
+`Thu, 02 Jul 2026 02:53:26 GMT`
+
+昆仑万维天工3.2发布Skywork Tags，将AI智能体以团队成员身份接入Slack、飞书、钉钉、Discord、Telegram等即时通讯工具。团队可在原有工作群中@Skywork参与讨论，无需切换窗口或迁移数据。共享版Agent持续吸收多样上下文后表现反超精心调教的个人版，团队最终完全改用共享版。Skywork Tags不要求改变工作方式，让AI积累团队上下文并越用越强。 🔗 阅读原文：https://mp.weixin.qq.com/s/OqL6ID-mAel8XN-slYgXOA
+
+## [AI 版支付宝开放公测，蚂蚁阿宝无需邀请码即可体验](https://aihot.virxact.com/items/cmr2x7ii20c2jsl8zygz5iw9n)
+
+`Thu, 02 Jul 2026 02:51:10 GMT`
+
+支付宝阿宝 AI 助手今日正式开放公测，iOS 和安卓用户可在应用商店或支付宝 App 搜索"阿宝"或"蚂蚁阿宝"直接体验。开通后右滑进入新版，以对话方式安排办事，例如说出"查公积金"，阿宝会自动匹配对应小程序和服务入口，用户点击确认即可完成。支付宝承诺所有资金变动与支付环节均需用户本人确认，扫码、转账等功能已预留入口。 🔗 阅读原文：https://www.ithome.com/0/971/469.htm
+
+## [Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美](https://aihot.virxact.com/items/cmr2t1n9h0b18sl8zqxn9r5nu)
+
+`Thu, 02 Jul 2026 00:56:56 GMT`
+
+Emil Kowalski 将多年 UI/动画原则沉淀为三个 Skill，使 Codex、Claude Code、Cursor 等 Coding Agents 具备资深设计工程师的审美判断。核心规则：动画必须有理由；每天 100+ 次的高频操作禁用动画；UI 动画控制在 300ms 内；只动画 transform 和 opacity；入口从 scale（0.95）+opacity：0 开始；尊重 prefers-reduced-motion（仅移除位移动画）。review-animations 以严格标准审查动画代
+
+## [Claude Code v2.1.198 发布](https://aihot.virxact.com/items/cmr2jtg2z08nvsl8zt9pagjoe)
+
+`Wed, 01 Jul 2026 20:45:36 GMT`
+
+Claude Code v2.1.198 更新。Claude in Chrome 现已全面可用。为 claude agents 新增后台智能体通知（agent_needs_input / agent_completed）。新增 /dataviz 技能，提供图表与仪表盘设计指导及配色验证器。Gateway 增加 AWS 上的 Claude Platform 作为上游提供商。后台智能体在 worktree 中完成代码后自动提交、推送并创建草稿 PR。内置 Explore 智能体现继承主会话模型（上限 opus）。修复网
+
+## [Google Cloud Workbench Notebooks 扩展发布：在 VS Code 中连接云端 Jupyter 环境](https://aihot.virxact.com/items/cmr2cbj7s06qgsl8zt4giih2x)
+
+`Wed, 01 Jul 2026 17:17:56 GMT`
+
+Google Cloud Workbench Notebooks 扩展正式上线，开发者可在 VS Code 中直接连接可扩展的云端 Jupyter 环境，无需切换上下文即可利用高性能 Google Cloud 基础设施完成机器学习全流程。该扩展已完全开源，可在 GitHub 和 VS Code Marketplace 获取。 🔗 阅读原文：https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workb
+
+## [Meta 大规模 AI 存储蓝图](https://aihot.virxact.com/items/cmr2d1lf706zpsl8zwbf3dmd9)
+
+`Wed, 01 Jul 2026 16:00:36 GMT`
+
+Meta 运营数百 EB 级存储集群，基于 Tectonic 分层存储层构建 BLOB 存储架构，以应对两大挑战：最大化 GPU 利用率与研究迭代速度。传统 BLOB 架构的多层元数据查询可导致数百毫秒延迟，使 GPU 因 I/O 等待停顿。新架构将训练栈逐步迁移到 BLOB 存储接口上，利用闪存提供可预测的低 pMax 延迟，避免单 GPU 慢速拖慢整批任务。同时，统一的数据湖访问支持地理分布 GPU 间的数据高速注入与跨区移动，提升研究效率。 🔗 阅读原文：https://engineering.fb.com/
+
+## [智谱推出GLM-5.2官方开发环境ZCode](https://aihot.virxact.com/items/cmr29qmtz064gsl8zqzza1stv)
+
+`Wed, 01 Jul 2026 15:59:46 GMT`
+
+推出 ZCode，GLM-5.2 的官方开发环境 - GLM Coding Plan 订阅用户：现可在 ZCode 获得 1.5 倍使用配额 - 支持 BYOK：可与您现有的订阅和 API 配合使用 - 适用于 macOS、Windows 和 Linux 立即下载：http://zcode.z.ai/en 🔗 阅读原文：https://x.com/Zai_org/status/2072349453361557898
+
+## [Meta效仿SpaceX，将过剩AI算力变现](https://aihot.virxact.com/items/cmr259c3104wjsl8z81g6p5op)
+
+`Wed, 01 Jul 2026 13:43:07 GMT`
+
+据Bloomberg报道，Meta正计划推出云基础设施业务Meta Compute，对外出售AI计算能力和模型访问权限，直接与AWS、Google Cloud及Azure竞争。Meta已承诺未来几年投入1829亿美元建设AI基础设施，其中俄亥俄州数据中心（规模如曼哈顿）将于今年上线。新业务由基础设施主管Santosh Janardhan、Meta超级智能实验室负责人Daniel Gross和总裁Dina Powell McCormick领导。Meta可能效仿CoreWeave出售裸计算能力，并像AWS一样托管AI模
+
+## [Cloudflare 推出全新AI流量管理选项：区分搜索、智能体与训练爬虫，保护广告页面](https://aihot.virxact.com/items/cmr25x2x2051tsl8ze3nntrkd)
+
+`Wed, 01 Jul 2026 13:00:00 GMT`
+
+Cloudflare 为所有网站所有者提供更精细的AI流量管控选项，取代一刀切的屏蔽方式。用户可轻松区分并管理搜索爬虫、AI智能体爬虫和训练爬虫，同时新增保护广告变现页面的能力。 🔗 阅读原文：https://blog.cloudflare.com/content-independence-day-ai-options
+
+## [OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略](https://aihot.virxact.com/items/cmr1wzzsm02uosl8zop6s0sly)
+
+`Wed, 01 Jul 2026 10:03:41 GMT`
+
+OpenAI论文首次列出GPT-5.6的三个Pro变体：Luna Pro、Terra Pro和Sol Pro，取代以往单一Pro模式。在基因组学基准中，Sol Pro通过率31.5%居60个测试模型之首，领先标准Sol（28.7%）和Claude Opus 4.8（16.0%）。Pro相比标准版本提升逐级递减：Luna Pro提升7.1个百分点（16.5%→23.6%），Terra Pro提升5.2（23.3%→28.5%），Sol Pro仅提升2.8（28.7%→31.5%）。Terra Pro（28.5%）几乎
+
+## [NVIDIA 发布 Nemotron-Labs-TwoTower 开放权重扩散语言模型](https://aihot.virxact.com/items/cmr1ti4v001xlsl8zovi1yoqa)
+
+`Wed, 01 Jul 2026 08:10:17 GMT`
+
+NVIDIA 发布 Nemotron-Labs-TwoTower，基于冻结的自回归骨干 Nemotron-3-Nano-30B-A3B 的扩散语言模型。采用双塔架构：上下文塔冻结，降噪器塔训练，通过层对齐交叉注意力和状态播种协作。在 2×H100 上 BF16 评估，保留 98.7% 的 AR 基线质量，生成吞吐量提升 2.42 倍（γ=0.8，块大小 S=16）。降噪器在约 2.1T token 上训练，骨干使用 25T token 预训练。总参数约 60B，每 token 活跃参数约 3B/塔。支持扩散、模拟 
 
 ## [亚马逊 AWS 砸 10 亿美元，派遣工程师进驻客户公司](https://aihot.virxact.com/items/cmr1qbf1w012isl8zibrcgm2h)
 
 `Wed, 01 Jul 2026 06:57:42 GMT`
 
 亚马逊 AWS 宣布设立新部门，组建前置驻场工程师团队，先期投入 10 亿美元（约 67.97 亿元人民币）。团队分批派驻客户企业，每批 5-6 组工程师，驻场周期 45 天，协助客户落地人工智能软件与智能体应用。该模式在 Palantir、Salesforce、Anthropic、谷歌云等企业已有先例，领英数据显示 2023 至 2025 年间同类岗位需求增长 42 倍。新部门员工规模将达数千人，首批客户包括 NBA 与理光。 🔗 阅读原文：https://www.ithome.com/0/971/071.htm
-
-## [美团 LongCat-2.0 正式发布：国产算力集群训练的万亿参数大模型](https://aihot.virxact.com/items/cmr1js18u03imslnld2yrjboo)
-
-`Wed, 01 Jul 2026 02:24:00 GMT`
-
-美团于6月30日发布新一代万亿参数大模型LongCat-2.0并开源。总参数1.6T，平均激活约48B，原生支持1M超长上下文，在五万卡国产算力集群上完成全流程训练与推理。采用LSA稀疏注意力、零计算专家、ScMoE及MOPD多专家融合（Agent/Reasoning/Interaction三组专家）架构。评测中SWE-bench Pro获59.5，SWE-bench Multilingual获77.3。预览版已通过OpenRouter和longcat.ai开放，月调用量跻身OpenRouter全球前三。 🔗 阅读
-
-## [mattpocockuk 的 /writing-great-skills：编写可预测 AI Skill 的指南](https://aihot.virxact.com/items/cmr1eiq770260slnlxguii7jy)
-
-`Wed, 01 Jul 2026 01:14:54 GMT`
-
-mattpocockuk 的 /writing-great-skills 成为其最常调用的 Skill，指导如何编写稳定可预测的 AI Skill。核心：以过程可预测为目标；区分 model-invoked（自动触发）与 user-invoked（用户调用），description 应作触发器；采用三层信息结构（主步骤、参考、外部文件）实现渐进式披露；每步骤需明确完成标准；拆分 Skill 是为了控制模型注意力；利用 leading word 压缩行为要求。同时诊断五种失败模式：Premature completi
-
-## [Anthropic在Claude Code中植入隐写术代码识别中国用户](https://aihot.virxact.com/items/cmr1bxokg01eoslnlem278yfq)
-
-`Wed, 01 Jul 2026 00:11:00 GMT`
-
-Anthropic在Claude Code中植入隐写术：读取本地时区（Asia/Shanghai或Asia/Urumqi）和ANTHROPIC_BASE_URL环境变量，与一份经base64+XOR（密钥91）加密的147个域名列表（含美团、字节跳动、月之暗面等）比对，识别中国用户。识别后，在请求发送前将系统提示词中日期字符串的单引号（U+0027）替换为其他Unicode字符，连字符改为斜杠，作为2-3比特分类标记传回服务器。该隐蔽行为被社区逆向发现后引发争议，被认为破坏用户信任。 🔗 阅读原文：https://
-
-## [库克与欧盟科技主管就新版Siri AI举行建设性会谈](https://aihot.virxact.com/items/cmr1bb1gr01adslnlt43fwfff)
-
-`Tue, 30 Jun 2026 23:43:32 GMT`
-
-苹果CEO库克与欧盟科技事务负责人维尔库宁就新版Siri AI在欧推出举行建设性视频会议。新版Siri将转为可调用用户个人数据的聊天机器人，但因《数字市场法》互操作义务苹果拒绝向竞争对手开放同等数据权限，暂不在欧盟iPhone和iPad上推出。苹果提出"可信系统代理"方案，拟在设备与第三方AI模型间增加软件层，但未开发，并要求18个月监管宽限期，遭欧盟拒绝。欧盟收到数百封消费者邮件及死亡威胁。 🔗 阅读原文：https://www.ithome.com/0/970/810.htm
-
-## [AI 用 prover-verifier LLM 循环攻克 9 个未解数学难题](https://aihot.virxact.com/items/cmr190seo00nsslnlxmfddenz)
-
-`Tue, 30 Jun 2026 22:32:34 GMT`
-
-AI Safety Memes 推文指出，AI 刚刚解决了 9 个未解决的数学问题，但全球没有记者报道。引用 @WeinsteinOmri 的推文称，采用"prover-verifier"LLM 循环的方法，成功解决了理论计算机科学中 9 个重大开放问题，其中包括一个困扰其长达 2 年的难题。该研究由哥伦比亚大学合作者完成，并计划将这一方法扩展到所有科学领域。 🔗 阅读原文：https://x.com/AISafetyMemes/status/2072085914558558402
-
-## [NotebookLM Short Video Overviews 全量上线 Web 英文版](https://aihot.virxact.com/items/cmr12g90k00zlsldxyyr0fmt3)
-
-`Tue, 30 Jun 2026 19:44:44 GMT`
-
-NotebookLM 正式向 Web 英文用户全量推出 Short Video Overviews（短视频概览）功能。该功能可将复杂资料自动转化为 60 秒竖屏视频，深入讲解任意概念。此前，这一功能已面向 Google AI Ultra 和 Pro 订阅者（移动端及 Web）推出，免费用户即将可用。 🔗 阅读原文：https://x.com/NotebookLM/status/2072043680442245276
-
-## [Claude Sonnet 5 发布](https://aihot.virxact.com/items/cmr0yev3s005cslw8omm20ml6)
-
-`Tue, 30 Jun 2026 18:02:06 GMT`
-
-Claude Sonnet 5 是 Anthropic 推出的最新 Sonnet 模型，具备计划、浏览器和终端工具使用能力，可自主运行。性能接近 Opus 4.8，定价更低：即日起至 2026 年 8 月 31 日，输入 token $2/百万，输出 $10/百万，之后恢复为 $3/百万输入和 $15/百万输出。相比 Sonnet 4.6，在推理、工具使用、编程和知识工作等智能体能力上大幅提升。在 BrowseComp 和 OSWorld-Verified 评测中严格优于 Sonnet 4.6。安全评估显示不良行为
-
-## [Acti 将 AI 智能体直接放入手机键盘](https://aihot.virxact.com/items/cmr0yab2e003oslw8uw5zghrc)
-
-`Tue, 30 Jun 2026 17:52:46 GMT`
-
-新加坡初创公司 Acti 发布基于 Google Gemini 的智能体键盘，可代替用户在应用中执行操作。核心功能 Skills 允许用自然语言创建快捷方式，如长按 T 键翻译消息、C 键发送会议链接。早期测试者两周内创建超 1000 个 Skills。采用本地优先架构，默认不访问私人消息。公司获 530 万美元种子轮融资，由 BITKRAFT Ventures 领投，现已开放下载。 🔗 阅读原文：https://techcrunch.com/2026/06/30/acti-puts-ai-agents-direc
-
-## [Claude Science 科研工作台正式上线](https://aihot.virxact.com/items/cmr0xc7sg0040slb3yenz5k02)
-
-`Tue, 30 Jun 2026 17:32:06 GMT`
-
-Anthropic 推出 AI 科研工作台 Claude Science，整合常用工具与计算资源，支持从文献分析到多步骤研究的全流程。提供超 60 项预配置技能与连接器，覆盖基因组学、单细胞、蛋白质组学、结构生物学、化学信息学等领域；可在macOS/Linux本地运行，或通过SSH/HPC远程使用。生成含代码和环境的可审计成果（3D蛋白质结构、基因组浏览器轨迹等），内置reviewer agent自动检查引用与计算错误。通过NVIDIA BioNeMo接入Evo 2、Boltz-2等模型，也支持连接自有模型与管道。
-
-## [Claude Code 入门：智能体循环](https://aihot.virxact.com/items/cmr0x7y97001yslb3tyb8w4ce)
-
-`Tue, 30 Jun 2026 17:28:28 GMT`
-
-Claude Code 团队将智能体循环定义为 agent 重复工作直到满足停止条件的过程，并划分出四种主要类型：turn-based 循环（用户提示触发，Claude 自行判断完成或需更多上下文）、goal-based 循环（通过 `/goal` 命令设定可验证完成标准与最大轮次）、time-based 循环（通过 `/loop` 按时间间隔重复执行，可用 `/schedule` 移至云端）、以及 proactive 循环（基于事件或计划自动运行，无人实时参与）。文章还介绍了如何编写 SKILL.md 文件将人工
-
-## [ADK Go 2.0 发布：构建可靠的多智能体应用，新增基于图的工作流引擎、人工参与循环与动态编排](https://aihot.virxact.com/items/cmr0wupt4007gsl403t7s6dbn)
-
-`Tue, 30 Jun 2026 17:17:40 GMT`
-
-Agent Development Kit （ADK） for Go 2.0 发布，引入了一类基于图的工作流引擎，用于组合复杂多智能体应用。新版本内置人工参与循环（HITL）编排、使用纯 Go 代码的动态执行、以及指数退避重试等自动弹性特性。统一执行模型后，单智能体应用与复杂图均运行在同一运行时上，简化了遥测与状态持久化。 🔗 阅读原文：https://developers.googleblog.com/announcing-adk-go-20
