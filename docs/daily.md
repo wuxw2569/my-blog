@@ -5,76 +5,76 @@ description: 自动订阅 AI Hot 每日日报 feed
 
 # AI 每日日报
 
-> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-07-02 06:40:24 +0000
+> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-07-03 06:31:20 +0000
 
-## [昆仑万维天工3.2发布Skywork Tags，AI智能体加入工作群聊](https://aihot.virxact.com/items/cmr2x3a7n0c0tsl8zxytx1kfx)
+## [claude-real-video ─ 让任何大语言模型（LLM）都能观看视频](https://aihot.virxact.com/items/cmr4hb6x001txsll5jfiiy9u3)
 
-`Thu, 02 Jul 2026 02:53:26 GMT`
+`Fri, 03 Jul 2026 04:56:06 GMT`
 
-昆仑万维天工3.2发布Skywork Tags，将AI智能体以团队成员身份接入Slack、飞书、钉钉、Discord、Telegram等即时通讯工具。团队可在原有工作群中@Skywork参与讨论，无需切换窗口或迁移数据。共享版Agent持续吸收多样上下文后表现反超精心调教的个人版，团队最终完全改用共享版。Skywork Tags不要求改变工作方式，让AI积累团队上下文并越用越强。 🔗 阅读原文：https://mp.weixin.qq.com/s/OqL6ID-mAel8XN-slYgXOA
+claude-real-video 是一个开源工具，让大语言模型基于视频画面而非字幕进行理解。它通过场景变化检测提取关键帧、滑动窗口去重并转录音频，生成干净的本地文件夹供模型读取。支持 YouTube 链接或本地文件，依赖 ffmpeg 和 Whisper，通过 pip 安装。全部处理在本地完成，不上传云端。 🔗 阅读原文：https://github.com/HUANGCHIHHUNGLeo/claude-real-video
 
-## [AI 版支付宝开放公测，蚂蚁阿宝无需邀请码即可体验](https://aihot.virxact.com/items/cmr2x7ii20c2jsl8zygz5iw9n)
+## [阿里达摩院发布超导材料发现AI智能体Elements Claw](https://aihot.virxact.com/items/cmr4ewvnu016msll54kwma7sx)
 
-`Thu, 02 Jul 2026 02:51:10 GMT`
+`Fri, 03 Jul 2026 03:27:15 GMT`
 
-支付宝阿宝 AI 助手今日正式开放公测，iOS 和安卓用户可在应用商店或支付宝 App 搜索"阿宝"或"蚂蚁阿宝"直接体验。开通后右滑进入新版，以对话方式安排办事，例如说出"查公积金"，阿宝会自动匹配对应小程序和服务入口，用户点击确认即可完成。支付宝承诺所有资金变动与支付环节均需用户本人确认，扫码、转账等功能已预留入口。 🔗 阅读原文：https://www.ithome.com/0/971/469.htm
+7月3日，阿里达摩院联合中国人民大学、中国科学院大学发布首个超导材料发现AI智能体Elements Claw。该智能体采用"专通融合"架构，基于1.25亿分子/晶体结构预训练的1B参数原子基础模型Elements，判断超导性AUC达0.996，预测临界温度平均误差小于1K。AI仅用28个GPU小时筛选240万晶体结构，预测出6.8万个候选材料，其中4种（Hf21Re25、Zr4VRe7、HfZrRe4、Zr3ScRe8）已合成并验证超导性，临界温度最高6.5K。全部240万稳定晶体数据库已开放。 🔗 阅读原文：ht
 
-## [Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美](https://aihot.virxact.com/items/cmr2t1n9h0b18sl8zqxn9r5nu)
+## [Claude Fable 5 自主优化 AIHOT 网站 SEO/GEO 全记录](https://aihot.virxact.com/items/cmr4768yq013qsl3g29wasjnp)
 
-`Thu, 02 Jul 2026 00:56:56 GMT`
+`Fri, 03 Jul 2026 00:16:00 GMT`
 
-Emil Kowalski 将多年 UI/动画原则沉淀为三个 Skill，使 Codex、Claude Code、Cursor 等 Coding Agents 具备资深设计工程师的审美判断。核心规则：动画必须有理由；每天 100+ 次的高频操作禁用动画；UI 动画控制在 300ms 内；只动画 transform 和 opacity；入口从 scale（0.95）+opacity：0 开始；尊重 prefers-reduced-motion（仅移除位移动画）。review-animations 以严格标准审查动画代
+作者用 Claude Fable 5 优化 AIHOT 网站的 SEO 与 GEO。模型自主启动 22 个 Agent 调研 40 分钟，发现豆包 App 每天六千多次访问未被统计等异常。规划境外加速时，否定 Claude Opus 4.8 的 Cloudflare 方案（无法国内直连/国外分流，且 2025 年起默认拦截 AI 爬虫），改用火山引擎 CDN。因需白名单，模型自行找到工单入口提交专业工单，22 分钟开通；发现工程师漏答回源 IP 网段问题，礼貌追问并补充备选方案；发现官方方案有安全漏洞，自行加暗号验
 
-## [Claude Code v2.1.198 发布](https://aihot.virxact.com/items/cmr2jtg2z08nvsl8zt9pagjoe)
+## [得州特斯拉致命车祸：司机嫌FSD太保守，加速踏板踩死致76岁居民死亡](https://aihot.virxact.com/items/cmr46bm6n00xesl3gigy5su8z)
 
-`Wed, 01 Jul 2026 20:45:36 GMT`
+`Thu, 02 Jul 2026 23:43:15 GMT`
 
-Claude Code v2.1.198 更新。Claude in Chrome 现已全面可用。为 claude agents 新增后台智能体通知（agent_needs_input / agent_completed）。新增 /dataviz 技能，提供图表与仪表盘设计指导及配色验证器。Gateway 增加 AWS 上的 Claude Platform 作为上游提供商。后台智能体在 worktree 中完成代码后自动提交、推送并创建草稿 PR。内置 Explore 智能体现继承主会话模型（上限 opus）。修复网
+44岁的迈克尔·巴特勒驾驶特斯拉Model 3冲入得州住宅，致76岁玛莎·阿维拉死亡，现被控过失杀人。警方从其手机发现2026年5月多次搜索"FSD不够激进""特斯拉FSD过于保守"等记录。特斯拉AI负责人称驾驶员将加速踏板踩到底（100%），手动操作覆盖了FSD。车辆数据显示，约6秒内加速踏板被完全踩下，时速升至117公里（超限速两倍），制动踏板始终未踩。阿维拉家属已起诉特斯拉和巴特勒，美国NHTSA和NTSB已介入调查。 🔗 阅读原文：https://www.ithome.com/0/971/971.htm
 
-## [Google Cloud Workbench Notebooks 扩展发布：在 VS Code 中连接云端 Jupyter 环境](https://aihot.virxact.com/items/cmr2cbj7s06qgsl8zt4giih2x)
+## [扎克伯格称AI智能体开发速度未如预期](https://aihot.virxact.com/items/cmr46bjmz00x0sl3g5rj6sp46)
 
-`Wed, 01 Jul 2026 17:17:56 GMT`
+`Thu, 02 Jul 2026 23:38:10 GMT`
 
-Google Cloud Workbench Notebooks 扩展正式上线，开发者可在 VS Code 中直接连接可扩展的云端 Jupyter 环境，无需切换上下文即可利用高性能 Google Cloud 基础设施完成机器学习全流程。该扩展已完全开源，可在 GitHub 和 VS Code Marketplace 获取。 🔗 阅读原文：https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workb
+Meta CEO 扎克伯格在本周内部全体会议上表示，AI 智能体的开发速度并未像高管们此前预期的那样加速。今年早些时候Meta裁减约8000名员工（约占10%），并将另外7000人调至多个AI团队，包括Agent Transformation小组。扎克伯格称裁员不够"干净"，原因是高管担心公司无法足够快地适应技术行业变化。他还指出以AI为中心的新公司结构所预期的好处尚未实现，但相信未来三到六个月将开始看到AI投资的改善。路透社报道，Meta今年预计在AI基础设施上投入高达1450亿美元。 🔗 阅读原文：https:
 
-## [Meta 大规模 AI 存储蓝图](https://aihot.virxact.com/items/cmr2d1lf706zpsl8zwbf3dmd9)
+## [阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控](https://aihot.virxact.com/items/cmr3zye9z00qfslw2sg1izmks)
 
-`Wed, 01 Jul 2026 16:00:36 GMT`
+`Thu, 02 Jul 2026 20:51:39 GMT`
 
-Meta 运营数百 EB 级存储集群，基于 Tectonic 分层存储层构建 BLOB 存储架构，以应对两大挑战：最大化 GPU 利用率与研究迭代速度。传统 BLOB 架构的多层元数据查询可导致数百毫秒延迟，使 GPU 因 I/O 等待停顿。新架构将训练栈逐步迁移到 BLOB 存储接口上，利用闪存提供可预测的低 pMax 延迟，避免单 GPU 慢速拖慢整批任务。同时，统一的数据湖访问支持地理分布 GPU 间的数据高速注入与跨区移动，提升研究效率。 🔗 阅读原文：https://engineering.fb.com/
+阿里巴巴发布 Page Agent，一个开源的 JavaScript 客户端库，嵌入网页后可通过自然语言指令直接操作 DOM 元素。与 Playwright、Puppeteer 等外部浏览器自动化工具不同，Page Agent 不依赖截图或多模态模型，而是将实时 DOM 脱水压缩为 FlatDomTree 文本映射，让纯文本模型精准执行点击、表单填写等操作。它继承用户 cookies 和会话，无需独立后端，并支持任意 OpenAI 兼容端点的模型（示例使用 `qwen3.5-plus`）。项目采用 MIT 许可证，
 
-## [智谱推出GLM-5.2官方开发环境ZCode](https://aihot.virxact.com/items/cmr29qmtz064gsl8zqzza1stv)
+## [关于Mythos和网络安全的讨论并非炒作](https://aihot.virxact.com/items/cmr3yrwnf00e1slw21f16oh2d)
 
-`Wed, 01 Jul 2026 15:59:46 GMT`
+`Thu, 02 Jul 2026 20:24:09 GMT`
 
-推出 ZCode，GLM-5.2 的官方开发环境 - GLM Coding Plan 订阅用户：现可在 ZCode 获得 1.5 倍使用配额 - 支持 BYOK：可与您现有的订阅和 API 配合使用 - 适用于 macOS、Windows 和 Linux 立即下载：http://zcode.z.ai/en 🔗 阅读原文：https://x.com/Zai_org/status/2072349453361557898
+关于Mythos和网络安全的讨论并非炒作。 （正如任何使用Fable进行自主工作的人可能已经认识到的那样。） 🔗 阅读原文：https://x.com/emollick/status/2072778376494895139
 
-## [Meta效仿SpaceX，将过剩AI算力变现](https://aihot.virxact.com/items/cmr259c3104wjsl8z81g6p5op)
+## [Microsoft 成立"Frontier Company"，斥资 25 亿美元派驻 6000 名 AI 工程师到企业客户现场](https://aihot.virxact.com/items/cmr3wzycy008tslnxrw3opnfn)
 
-`Wed, 01 Jul 2026 13:43:07 GMT`
+`Thu, 02 Jul 2026 19:18:29 GMT`
 
-据Bloomberg报道，Meta正计划推出云基础设施业务Meta Compute，对外出售AI计算能力和模型访问权限，直接与AWS、Google Cloud及Azure竞争。Meta已承诺未来几年投入1829亿美元建设AI基础设施，其中俄亥俄州数据中心（规模如曼哈顿）将于今年上线。新业务由基础设施主管Santosh Janardhan、Meta超级智能实验室负责人Daniel Gross和总裁Dina Powell McCormick领导。Meta可能效仿CoreWeave出售裸计算能力，并像AWS一样托管AI模
+Microsoft 新设业务部门"Frontier Company"，拨款 25 亿美元，将 6000 名行业与工程专家派驻企业客户现场，"共同设计、共同创新、部署并持续改进 AI 系统"。该部门由 Rodrigo Kede Lima 领导，旨在超越"前部署工程"模式，成为"最大、以结果为导向的工程组织"。Microsoft 将自己定位为 OpenAI 和 Anthropic 的"平台中立"替代方案，后两者也已设立专门部署公司。Microsoft 将借助埃森哲、凯捷、安永等系统集成商扩大覆盖范围。 🔗 阅读原文：h
 
-## [Cloudflare 推出全新AI流量管理选项：区分搜索、智能体与训练爬虫，保护广告页面](https://aihot.virxact.com/items/cmr25x2x2051tsl8ze3nntrkd)
+## [Agent辅助的SGLang开发：初步探索](https://aihot.virxact.com/items/cmr3uklx8008dslbrcmev44qb)
 
-`Wed, 01 Jul 2026 13:00:00 GMT`
+`Thu, 02 Jul 2026 18:37:56 GMT`
 
-Cloudflare 为所有网站所有者提供更精细的AI流量管控选项，取代一刀切的屏蔽方式。用户可轻松区分并管理搜索爬虫、AI智能体爬虫和训练爬虫，同时新增保护广告变现页面的能力。 🔗 阅读原文：https://blog.cloudflare.com/content-independence-day-ai-options
+SGLang团队将LLM服务、分布式运行时、GPU内核、扩散管道等工作流编码为可执行的SKILL.md文件、脚本、基准合约和审查循环。现有技能包括：SGLang .claude/skills（CUDA调试、内核集成、性能分析等）、SGLang diffusion .claude/skills（扩散模型添加与调优）、BBuf/AI-Infra-Auto-Driven-SKILLS（跨框架SOTA循环）、KDA（MLSys 2026 FlashInfer内核竞赛获胜方案）以及BBuf/KDA-Pilot（已合并三个SG
 
-## [OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略](https://aihot.virxact.com/items/cmr1wzzsm02uosl8zop6s0sly)
+## [Claude Enterprise 新增用量与成本分析及支出管控功能](https://aihot.virxact.com/items/cmr3tce0201rwsl7lm25hjxbo)
 
-`Wed, 01 Jul 2026 10:03:41 GMT`
+`Thu, 02 Jul 2026 18:03:22 GMT`
 
-OpenAI论文首次列出GPT-5.6的三个Pro变体：Luna Pro、Terra Pro和Sol Pro，取代以往单一Pro模式。在基因组学基准中，Sol Pro通过率31.5%居60个测试模型之首，领先标准Sol（28.7%）和Claude Opus 4.8（16.0%）。Pro相比标准版本提升逐级递减：Luna Pro提升7.1个百分点（16.5%→23.6%），Terra Pro提升5.2（23.3%→28.5%），Sol Pro仅提升2.8（28.7%→31.5%）。Terra Pro（28.5%）几乎
+Claude Enterprise 推出更丰富的管理分析工具和成本控制功能。仪表板现可按群组和用户分析用量与成本，支持按 SCIM 群组筛选，展示制品创建、文件编辑、技能和连接器对应的成本。Claude Code 管理控制台新增"使用量"和"价值"选项卡，分别显示活跃开发者、会话次数、常用命令，以及生产力提升估算、每次提交成本和年度价值估算。分析聊天支持自然语言查询并返回可导出图表。Analytics API 可将数据接入 Datadog Cloud Cost Management 和 CloudZero。管理员可
 
-## [NVIDIA 发布 Nemotron-Labs-TwoTower 开放权重扩散语言模型](https://aihot.virxact.com/items/cmr1ti4v001xlsl8zovi1yoqa)
+## [Fable 5 仅 4.44 美元搭建 Rube Goldberg 机器](https://aihot.virxact.com/items/cmr3tdz1t01t0sl7lztwzlcaj)
 
-`Wed, 01 Jul 2026 08:10:17 GMT`
+`Thu, 02 Jul 2026 17:46:31 GMT`
 
-NVIDIA 发布 Nemotron-Labs-TwoTower，基于冻结的自回归骨干 Nemotron-3-Nano-30B-A3B 的扩散语言模型。采用双塔架构：上下文塔冻结，降噪器塔训练，通过层对齐交叉注意力和状态播种协作。在 2×H100 上 BF16 评估，保留 98.7% 的 AR 基线质量，生成吞吐量提升 2.42 倍（γ=0.8，块大小 S=16）。降噪器在约 2.1T token 上训练，骨干使用 25T token 预训练。总参数约 60B，每 token 活跃参数约 3B/塔。支持扩散、模拟 
+用 Fable 5 构建的鲁布·戈德堡机械，仅需 4.44 美元 👀 提示词在此：https://www.reddit.com/r/openrouter/comments/1ulkilz/i_asked_claude_fable_5_to_build_a_rube_goldberg/ 🔗 阅读原文：https://x.com/OpenRouter/status/2072738704922439689
 
-## [亚马逊 AWS 砸 10 亿美元，派遣工程师进驻客户公司](https://aihot.virxact.com/items/cmr1qbf1w012isl8zibrcgm2h)
+## [Anthropic与五角大楼控权之争：Claude军事用途护栏分歧](https://aihot.virxact.com/items/cmr3pz3hx00w5sl7lk3qk71x5)
 
-`Wed, 01 Jul 2026 06:57:42 GMT`
+`Thu, 02 Jul 2026 16:24:50 GMT`
 
-亚马逊 AWS 宣布设立新部门，组建前置驻场工程师团队，先期投入 10 亿美元（约 67.97 亿元人民币）。团队分批派驻客户企业，每批 5-6 组工程师，驻场周期 45 天，协助客户落地人工智能软件与智能体应用。该模式在 Palantir、Salesforce、Anthropic、谷歌云等企业已有先例，领英数据显示 2023 至 2025 年间同类岗位需求增长 42 倍。新部门员工规模将达数千人，首批客户包括 NBA 与理光。 🔗 阅读原文：https://www.ithome.com/0/971/071.htm
+WSJ法庭文件显示，Anthropic CEO Dario Amodei与五角大楼副部长Emil Michael数月邮件往来，核心分歧在于Claude的军事用途护栏。Anthropic要求禁止全自主武器及某些监控用途，五角大楼则希望Claude可用于所有合法国家安全场景。Michael称若分歧太大不愿"强行推动"。随后五角大楼将Anthropic列为供应链风险，阻止合作伙伴在国防部项目中使用其模型。法官暂停部分措施，政府正在上诉。Michael称原先采用Anthropic的操作中已有三分之二切换至其他AI工具。 🔗
