@@ -5,7 +5,7 @@
         <link>https://wuxw2569.github.io/my-blog</link>
         <description>由 AI 自动生成的技术博客 + 小红书笔记</description>
         <language>zh-cn</language>
-        <lastBuildDate>Sun, 05 Jul 2026 06:40:16 +0800</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jul 2026 07:11:32 +0800</lastBuildDate>
         
         <item>
             <title>5 Powerful Marketing Activities</title>
@@ -33,6 +33,13 @@
             <link>https://wuxw2569.github.io/my-blog/post1.html</link>
             <description><![CDATA[date: 20170227title: Basic Markdown Formattingcategory: Tutorialtags: vueThe Ultimate Guide to Markd]]></description>
             <pubDate>2017-02-27</pubDate>
+        </item>
+        
+        <item>
+            <title>AI生成知识笔记并发布博客</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-07-06-AI生成知识笔记并发布博客.html</link>
+            <description><![CDATA[本文将探讨如何利用AI技术生成知识笔记，并通过Java后端将笔记发布到博客平台，结合架构层、网络层、数据层、工具层的工程视角，分享实现步骤和代码示例。]]></description>
+            <pubDate>2023-04-01</pubDate>
         </item>
         
         <item>

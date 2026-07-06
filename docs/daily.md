@@ -5,76 +5,76 @@ description: 自动订阅 AI Hot 每日日报 feed
 
 # AI 每日日报
 
-> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-07-05 06:40:16 +0000
+> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-07-06 07:11:31 +0000
 
-## [26000名学生研究显示AI隐藏学习成本需两年才显现](https://aihot.virxact.com/items/cmr65ieko002tslf0xiomac0c)
+## [阿里千问升级Fun-ASR-Realtime实时语音识别模型，单模型支持16种方言和30种语言](https://aihot.virxact.com/items/cmr8vj83600vhslls8ftdoise)
 
-`Sat, 04 Jul 2026 09:08:41 GMT`
+`Mon, 06 Jul 2026 06:39:48 GMT`
 
-一项追踪26000名7-12年级中学生30个月的面板数据研究发现：使用AI后作业分数提升18%，完成时间从64分钟降至45分钟，但闭卷考试分数下降20%，升学考试成绩下降18%至24%，且完全影响约两年才显现。81%长期用户作业完成时间低于50分钟（外包迹象）。社会学科下降27%，STEM下降22%，英语下降17%，语文下降9%。每周使用AI一小时损失约5%，五小时损失30%。早期损失从约25%降至16%但未消失。 🔗 阅读原文：https://the-decoder.com/a-26000-student-stu
+阿里千问今日升级实时语音识别大模型Fun-ASR-Realtime，单模型支持16种方言和30种语言，API已上线阿里云百炼平台。在覆盖八大方言区的16种方言识别测试中，字符准确率平均88.62%，在12类方言上领先火山与腾讯相关产品。首字延迟控制在百毫秒级别，流式识别准确率接近离线水平，支持多语言无缝切换。针对泰语等东亚、东南亚语言专项优化后识别准确率提升20%。离线模式模型Fun-ASR-Flash字错率1.7%，位列AI评测平台Artificial Analysis全球第一。 🔗 阅读原文：https://w
 
-## [NVIDIA 联合多所大学提出 ASPIRE：自我改进机器人框架，零样本成功率最高提升 77 分](https://aihot.virxact.com/items/cmr5zuihg0739slc7nv4mlc5r)
+## [Fun-ASR-Realtime 发布：单模型支持30种语言与16种方言，识别准确率领先](https://aihot.virxact.com/items/cmr8tzbde00jjsllsayhpgjqg)
 
-`Sat, 04 Jul 2026 06:32:47 GMT`
+`Mon, 06 Jul 2026 06:09:29 GMT`
 
-NVIDIA 联合密歇根大学、UIUC、UC Berkeley 等提出 ASPIRE，一个持续学习机器人框架。它通过协调器-执行器架构、闭环执行引擎、技能库和进化搜索，编写并优化机器人控制程序。编程智能体使用 Claude Code（Claude Opus 4.6，1M token 上下文窗口）。在 LIBERO-Pro 上最高比最强基线提升 77 分；Robosuite 双手交接成功率从 20% 提升至 92%；BEHAVIOR-1K 收音机拾取任务从 56% 提升至 88%。利用 LIBERO-90 积累的技能
+通义实验室发布Fun-ASR-Realtime实时语音识别模型。单模型覆盖30种语言及16种方言，针对东亚、东南亚地区重点优化。在工业级方言测评inhouse上取得87.8%的语义准确率，大幅领先，多地方言接近人工水平。引入上下文理解与动态热词注入，实现同音词、品牌名等语义消歧。流式识别首字延迟控制在百毫秒级，准确率接近离线水平，支持多语言无缝切换。API已上线阿里云百炼平台。 🔗 阅读原文：https://mp.weixin.qq.com/s/ntw0SliBi4f8LROnFY26kA via AI HOT ·
 
-## [我国研制全球首款基于可控存内计算的忆阻器神经动力学芯片](https://aihot.virxact.com/items/cmr5wizx2067eslc7xynzcf9y)
+## [Synthetic Sciences 发布 OpenScience：面向机器学习、生物学、物理学和化学研究的开源模型无关 AI 工作台](https://aihot.virxact.com/items/cmr8reau2005fslvpmqjll6du)
 
-`Sat, 04 Jul 2026 05:01:02 GMT`
+`Mon, 06 Jul 2026 05:07:12 GMT`
 
-北京大学集成电路学院联合中科院上海微系统所，发布全球首款基于可控存内计算的忆阻器神经动力学芯片，首次将单步运算时延压缩至2.12毫秒。芯片采用40纳米工艺，存内计算阵列与外围电路总面积0.28平方毫米，运行频率50 MHz，单步积分仅需9级流水。在脑皮层重建等任务中较当前GPU提速50至478倍，突破神经动力学实时计算瓶颈。相关成果7月3日发表于《科学》。 🔗 阅读原文：https://www.ithome.com/0/972/526.htm
+Synthetic Sciences 推出开源（Apache 2.0）AI 科研工作台 OpenScience，覆盖机器学习、生物学、物理学、化学。它运行从文献、假设、代码、实验到分析与撰写的完整科研循环，支持按请求切换任意模型（Claude、GPT、Gemini、GLM、Kimi、DeepSeek 及本地微调模型）。内置 250 余项可编辑技能和 UniProt、PDB、ChEMBL、arXiv 等约 30 个科学数据库作为智能体工具。用户可自带 API 密钥在自己的基础设施上免费运行，安装命令为 `npm in
 
-## [pxpipe：通过图像化压缩输入token降低Claude Code成本](https://aihot.virxact.com/items/cmr5cef1q017islc779xjrcy6)
+## [分享8个Claude Fable 5下线前必跑的超实用Prompt](https://aihot.virxact.com/items/cmr8j9weh02kxsl0dy08683oe)
 
-`Fri, 03 Jul 2026 19:19:45 GMT`
+`Mon, 06 Jul 2026 01:19:09 GMT`
 
-pxpipe是一个本地代理，将系统提示、工具文档和历史记录等密集文本渲染为PNG图像，利用图像token成本取决于像素尺寸的特性压缩输入token。在Fable 5模型上，约25k文本token压缩为约2.7k图像token，端到端账单降低59-70%。SWE-bench Lite 10个实例全部通过，成本从$54降至$27；SWE-bench Pro 19对测试中18对判定一致，单次请求成本降低约60%。该方法有损（精确ID等需保持文本），默认仅处理`claude-fable-5`请求，可通过`PXPIPE_MO
+Claude Fable 5即将下线，作者整理了8个经实战验证的提示词：/goal提示语让模型自主跑25次实验（花费165美元，构建速度提高50%、token开销降60%）；工作模式提示语将用户习惯转化为可复用Skills；行动规范提示语约束subagent行为；subagent分配提示语智能分配任务；25个定时循环工作流（含Shadow prompt loop做A/B测试）；自治运行+自动暂停提示语；记忆系统提示语保留错题本；反向面试提示语确保95%把握再执行。这些提示词可迁移至API计费后继续使用，核心是让模型
 
-## [Fable 的判断力：Simon Willison 从 Claude Code 团队获得的效率技巧](https://aihot.virxact.com/items/cmr5blxyu00ykslc7kiaaxqam)
+## [SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO](https://aihot.virxact.com/items/cmr8j82w402k0sl0ddfe6f7zv)
 
-`Fri, 03 Jul 2026 18:51:06 GMT`
+`Mon, 06 Jul 2026 01:09:29 GMT`
 
-Simon Willison 在 AIE 上与 Claude Code 团队交流后建议，让 Fable（以及 Opus）用自己的判断力工作，而非硬性规定行为。例如，直接让 Fable 自行决定何时编写测试，比给出具体规则更好。为应对价格即将上涨、节省 Fable token，Jesse Vincent 的另一个技巧是告诉 Fable 将较小任务委托给较低功耗模型（Sonnet 用于实质性实现、Haiku 用于机械修改），主循环保留判断、审计和数据合成等任务。Willison 已将提示词存入 Claude Code 
+SK 海力士于本周一启动规模约 280 亿美元的美股上市计划，将在纳斯达克通过存托凭证发行 1779 万股新股，每 10 份存托凭证对应 1 股普通股。发行价区间周一公布，最终发行价周四敲定，股票周五挂牌交易。受益于全球人工智能热潮，该股年内涨幅超 270%。本次募资规模预计为史上第二大新股发行，仅次于上月 SpaceX 的 857 亿美元 IPO。SK 海力士是高带宽内存芯片核心供应商，产品用于英伟达、谷歌等 AI 设备。 🔗 阅读原文：https://www.ithome.com/0/972/896.htm v
 
-## [藏师傅PPT与Pencil结合使用技巧](https://aihot.virxact.com/items/cmr4wyzef05r3sll5oxo52f8j)
+## [NVIDIA Kyber NVL144 延迟超 12 个月至 2028](https://aihot.virxact.com/items/cmr8ajv5h00e0sl0d7rzs38ei)
 
-`Fri, 03 Jul 2026 12:25:20 GMT`
+`Sun, 05 Jul 2026 21:00:27 GMT`
 
-用户将藏师傅的AI生成PPT导入Pencil设计软件，可在Pencil中一次性浏览所有页面并手动调整AI常见的排版问题，如元素重叠、对齐不准、字体错误。Pencil提供比PPT更强的编辑能力（对齐、嵌套、打组），支持导出网页和编辑文件，也可导出PNG后直接放入PPT演示。这种工作流昨天经朋友分享验证，大幅提升AI生成内容的可编辑性。 🔗 阅读原文：https://x.com/op7418/status/2073020264083050811
+重大延迟：Jensen 在 GTC 上展示 Kyber NVL144 仅 3 个月后，该项目遭遇重大挫折，已推迟超过 12 个月，延至 2028 年。下文我们将解释 Kyber 为何面临大幅延迟，以及 NVIDIA 的 NVL72x2 背靠背机架架构为何也被取消，导致 Rubin Ultra 的扩展域受限。👇️ 1/6🧵 🔗 阅读原文：https://x.com/SemiAnalysis_/status/2073874671498387899 via AI HOT · https://aihot.virxact.c
 
-## [全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成](https://aihot.virxact.com/items/cmr4w2clt05kasll56e54tanx)
+## [扎克伯格：建千兆瓦级AI集群，集中精英与资本](https://aihot.virxact.com/items/cmr84d4v901hssl04oav0ki73)
 
-`Fri, 03 Jul 2026 11:57:00 GMT`
+`Sun, 05 Jul 2026 18:19:42 GMT`
 
-安全厂商 Sysdig 首次记录到 AI Agent"JADEPUFFER"自动完成的勒索攻击。攻击利用暴露的 Langflow 服务漏洞 CVE-2025-3248 远程执行 Python 代码，随后自主收集 OpenAI、Anthropic、DeepSeek、Gemini 等 API 密钥及阿里云、腾讯云、华为云、AWS、Google Cloud、Azure 等云平台凭证，通过 MinIO 默认密码访问对象存储并创建每 30 分钟连接的计划任务。横向移动到 MySQL 和 Nacos 服务器，利用数据库 Roo
+"我们正在建设这个 Prometheus 集群，首个千兆瓦以上的单一集群……我们是在谈论数千亿美元的资本投入。" Mark Zuckerberg 表示，他的职责就是集中精英人才、资本和基础设施。 🔗 阅读原文：https://x.com/rohanpaul_ai/status/2073834219659534816 via AI HOT · https://aihot.virxact.com/items/cmr84d4v901hssl04oav0ki73
 
-## [生数科技发布 Vidu S1，推动视频生成迈向"实时交互"新时代](https://aihot.virxact.com/items/cmr53vzsc07l3sll5x8mfscz3)
+## [三周前，我不小心创办了一家小公司](https://aihot.virxact.com/items/cmr83ashr0189sl04hhietwtx)
 
-`Fri, 03 Jul 2026 11:17:47 GMT`
+`Sun, 05 Jul 2026 17:43:57 GMT`
 
-7月3日，生数科技在2026全球数字经济大会上发布Vidu S1实时交互模型，支持实时视频通话和语音控制视频走向，实现无限时长连续互动。模型采用自回归扩散路线，基于已生成画面和语音指令持续预测后续内容；无需传统建模，一张图片即可创建角色并自定义音色。Vidu S1在540P分辨率下实现25FPS（最高42FPS）实时生成，通过TurboDiffusion等技术降低计算成本，已开启内测。 🔗 阅读原文：https://mp.weixin.qq.com/s/RuukpnoOA2tI0ERCNrLgtQ
+一位父亲为患有自闭症的非语言儿子开发了一款沟通应用，在言语治疗室的等候区展示时，所有非语言儿童的母亲看到后都忍不住流泪，言语治疗师也啜泣了五分钟。他意外发现产品市场匹配，决定腾出时间让更多孩子能用上，即使这意味着几周睡眠不足。应用本身是专为理解语言困难的儿童设计的，与传统的AAC设备不同--后者主要面向身体障碍但语言理解正常的成人。 🔗 阅读原文：https://extelligence.substack.com/p/i-accidentally-started-a-small-business via AI HO
 
-## [JoyAI App 上线 UGC 数字人功能，用户可"捏"出专属虚拟玩伴](https://aihot.virxact.com/items/cmr53w14307lfsll5fo2cq53p)
+## [欧盟理事会通过快速通道强制推行"聊天管控"（Chat Control 2.0）](https://aihot.virxact.com/items/cmr815l2z00pgsl04wayrv4tr)
 
-`Fri, 03 Jul 2026 10:03:25 GMT`
+`Sun, 05 Jul 2026 16:23:44 GMT`
 
-JoyAI App 近日上线 UGC 数字人功能，用户只需上传一张照片即可生成专属虚拟数字分身，支持一键复刻写实形象或通过模板重塑为卡通风格，搭配用户自己的语音即可解锁专属陪伴。该功能复用"万能博士"技术底座，集成 JoyAI 语言、语音、数字人大模型，实现行业领先的全双工对话，支持随时打断、自然接话。数字人兼具情绪陪伴与全能助手属性，可提供点外卖、金融咨询、学英语、规划行程等生活服务。 🔗 阅读原文：https://mp.weixin.qq.com/s/XfpxdblzNWa5HxahRoT9pg
+欧盟理事会通过书面程序快速通过一项新法规，强制要求科技集团对加密通信进行无差别扫描（Chat Control 2.0），以填补过渡性规定4月3日到期后的法律漏洞，并向欧洲议会施压。批评者指责该做法试图绕过民主监督。草案将在夏季休会前以紧急程序提交议会表决，多数议员可能已离会，反对需绝对多数，几乎无法阻止。理事会称扫描限于必要范围，处理的数据须在检测后12个月内不可撤销地删除。 🔗 阅读原文：https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces
 
-## [面向 Web 开发者的 Safari MCP 服务器](https://aihot.virxact.com/items/cmr4s179804l5sll5u47j7031)
+## [Anthropic Claude Design 反向工程提示词开源更新](https://aihot.virxact.com/items/cmr7z00up0065sl0472bil7hs)
 
-`Fri, 03 Jul 2026 09:59:42 GMT`
+`Sun, 05 Jul 2026 15:35:42 GMT`
 
-Safari Technology Preview 247 推出 Safari MCP 服务器，基于 Model Context Protocol，允许任何 MCP 兼容客户端连接 Safari 浏览器窗口。智能体可获取 DOM、网络请求、截图、控制台输出等信息，自主完成调试、性能分析、可访问性检查等任务。内置 `browser_console_messages`、`screenshot`、`evaluate_javascript`、`list_network_requests` 等工具。开发者安装后启用"远程自动
+Anthropic 旗下 Claude Design 的反向工程系统提示词在 GitHub 以 MIT 许可证开源，包含 20 章提示词和 14 项技能，覆盖内容纪律、美学、无障碍（WCAG、语义 HTML、键盘导航）、交互状态、系统思维等。近日针对 Fable 5/Opus 4.7+ 系列校准，新增自主决策条款：小决定直接执行记录而不询问。项目支持 Claude Code/Claude.ai 及 Codex 两种变体。 🔗 阅读原文：https://github.com/Trystan-SA/claude-des
 
-## [国家网信办就《互联网信息服务管理办法》再次征求意见，首设"智能信息服务"专章规范AI服务](https://aihot.virxact.com/items/cmr4rs02404h6sll50myozvz0)
+## [美团 LongCat-2.0 完全开源（MIT 许可），1.6T MoE 模型开放权重与推理代码](https://aihot.virxact.com/items/cmr7vpphy007oslgnz4aotpx4)
 
-`Fri, 03 Jul 2026 09:15:08 GMT`
+`Sun, 05 Jul 2026 14:00:18 GMT`
 
-7月3日，国家互联网信息办公室就《互联网信息服务管理办法（修订草案征求意见稿）》再次公开征求意见。草案新增"智能信息服务"专章，要求AI服务提供者公示技术基本原理、训练数据来源，对生成合成内容进行标识，禁止强制用户使用智能服务或利用算法扰乱网络舆论。草案还强化用户账号管理，明确对超过6个月不登录账号可依约注销；要求平台建立网络暴力信息特征库，提供屏蔽、禁止转载等防护选项。意见反馈截止8月2日。 🔗 阅读原文：https://www.ithome.com/0/972/341.htm
+美团今日宣布 LongCat-2.0 完全开源（MIT 许可），公开模型权重与推理代码。该模型为 MoE 架构，总参数量 1.6T，每 token 激活约 48B，支持 1M token 上下文。技术亮点包括 LongCat Sparse Attention 高效处理长文本、Zero-Compute Experts 动态激活 33B-56B 零浪费计算、MOPD 按任务路由 Agent/Reasoning/Interaction 三组专家。Benchmark 成绩：Terminal-Bench 2.1 70.8；S
 
-## [面壁智能发布AI全自动预训练框架ForgeTrain，8小时追平Megatron-LM](https://aihot.virxact.com/items/cmr4righa04d8sll54465w8z3)
+## [LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用](https://aihot.virxact.com/items/cmr7ita5g00reslxdrprk52b0)
 
-`Fri, 03 Jul 2026 09:12:17 GMT`
+`Sun, 05 Jul 2026 07:50:19 GMT`
 
-面壁智能发布全球首个完全由AI编写、无人类干预的生产级大模型预训练框架ForgeTrain。该框架针对特定模型和硬件从零自动"锻造"专用训练代码。基准测试显示，ForgeTrain在8小时内追平Megatron-LM，1.5至2天内实现稳定反超，模型FLOPS利用率提升约8%~10%，且可迁移至不同模型（MiniCPM4-0.5B/8B）和硬件（H100及昇腾NPU）。其采用四阶段Harness优化流程，全程自动判定。面壁智能将其工程思想概括为Forge Engineering。 🔗 阅读原文：https://mp
+LlamaIndex 发布 legal-kb，一个基于 Index v2（LlamaParse Platform）的法律文档知识库参考应用。采用 Retrieval Harness 模式，赋予 Agent 四个文件系统风格工具：retrieve（混合语义检索，支持 rerank 和引用）、findFiles（精确/模糊文件名搜索）、readFile（带偏移量的原始内容读取）和 grepFile（正则匹配并返回字符位置）。Agent 需先调用 findFiles 确定文件清单，再依次使用其他工具定位内容。底层基于 V
