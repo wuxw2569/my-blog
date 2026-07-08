@@ -5,76 +5,76 @@ description: 自动订阅 AI Hot 每日日报 feed
 
 # AI 每日日报
 
-> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-07-07 06:50:23 +0000
+> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-07-08 05:49:52 +0000
 
-## [MIRA：可玩多人世界模型，20 FPS实时生成"火箭联盟的梦"](https://aihot.virxact.com/items/cmra67abw003vihup3mg75wsc)
+## [AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞](https://aihot.virxact.com/items/cmrblfb8a050sihl1484pa3wo)
 
-`Tue, 07 Jul 2026 04:22:22 GMT`
+`Wed, 08 Jul 2026 04:29:33 GMT`
 
-MIRA是一个可玩、多人的世界模型，被形容为"火箭联盟的梦"。它基于10k小时公开机器人收集的数据训练，学习四玩家游戏动态，根据按键实时生成画面，帧率达20 FPS。模型由General Intuition与Kyutai Labs联合构建，Epic Games提供协作。Ethan Mollick称从最早的扩散DOOM玩过来，多人20 FPS效果出色。演示、技术报告及开源代码已公开，在ICML Booth 111现场展示。 🔗 阅读原文：https://x.com/emollick/status/2074348274
+zkSecurity 的 AI 审计代理 zkao 持续扫描 Cloudflare 的 CIRCL 密码学库，使用 Opus 4.6 + skills 和 GPT-5.3 + skills 等模型发现并确认了 7 个真实漏洞。其中包括阈值 RSA 中 float64 精度丢失（AI 自评 Critical）和属性基加密（CP-ABE）访问控制完全失效（Critical，由 zkao 自行发现）。所有漏洞已在上游修复，多数在 HackerOne 上获得确认和奖励。AI 生成的候选发现仍需人工验证，但 zkao 已能自
 
-## [Sysdig 澄清首例"智能体勒索软件"JadePuffer：AI 执行攻击但人类仍负责设置与选目标](https://aihot.virxact.com/items/cmr9wjj3g00jhih9kuibhf720)
+## [美国商务部批准OpenAI大规模发布GPT-5.6，Sol明日亮相](https://aihot.virxact.com/items/cmrbkf2e804qlihl1e8qe5q4a)
 
-`Mon, 06 Jul 2026 23:56:14 GMT`
+`Wed, 08 Jul 2026 03:30:52 GMT`
 
-云安全公司 Sysdig 记录了首例"智能体勒索软件"攻击 JadePuffer，AI 智能体独立完成入侵、窃取凭证、横向移动、加密超 1，300 条配置记录并撰写赎金信，还能在 31 秒内修复失败登录并以自然语言注释解释推理过程。但 Sysdig 高级威胁研究总监 Michael Clark 澄清，人类仍负责设置攻击基础设施、选择受害目标、提供通过此前入侵获取的数据库凭证。Sysdig 未能识别驱动该智能体的具体模型；AI 智能体在攻击中窃取了 OpenAI、Anthropic、DeepSeek 和 Gemini
+美国商务部正式批准OpenAI大规模发布GPT-5.6。OpenAI宣布GPT-5.6 Sol将于本周四完成最后准备后，与Terra和Luna一同面向公众推出。此前因国家安全考量，美国政府要求分阶段发布，仅允许向经批准的有限实体开放。此次全面放行标志着临时管控结束。获批前，美国商务部下属AI标准与创新中心执行了测试，OpenAI技术团队驻扎华盛顿配合沟通。美国最新AI行政令即将出台，旨在为先进AI模型发布建立正式评估框架。 🔗 阅读原文：https://www.ithome.com/0/973/922.htm vi
 
-## [Gemini Spark 可智能追踪话题实时反应](https://aihot.virxact.com/items/cmr9wgeoh00hvih9kcga5y5uj)
+## [蚂蚁集团旗下Robbyant开源LingBot-Vision：1B参数边界中心视觉基础模型，用于密集空间感知](https://aihot.virxact.com/items/cmrbikwbz04b5ihl16qfp5ntw)
 
-`Mon, 06 Jul 2026 23:52:57 GMT`
+`Wed, 08 Jul 2026 03:03:22 GMT`
 
-Gemini Spark 现在可以智能追踪话题并实时反应事件。 试试下一篇帖子中的提示词，在你支持的球队比赛结束后，获取定制化的比赛分析邮件。 🔗 阅读原文：https://x.com/GeminiApp/status/2074280473581572600 via AI HOT · https://aihot.virxact.com/items/cmr9wgeoh00hvih9kcga5y5uj
+蚂蚁集团旗下具身智能公司Robbyant开源LingBot-Vision，一套自监督视觉Transformer家族，专为密集空间感知设计。旗舰ViT-g/16参数约1.1B，采用掩膜边界建模训练，将边界作为原生预训练信号。在密集空间任务中，该1B模型匹配或超越参数规模高达7倍的大模型（如7B DINOv3）。模型以Apache-2.0许可证在Hugging Face开源，提供ViT-g、ViT-L（300M）、ViT-B（86M）、ViT-S四个规模。 🔗 阅读原文：https://www.marktechpost
 
-## [OfficeCLI：为AI智能体设计的开源Office套件](https://aihot.virxact.com/items/cmr9u2kma003gihdb8r5drdfd)
+## [Pulpie：用于清理网络的Pareto最优模型](https://aihot.virxact.com/items/cmrbez8y903b9ihl133b5wr18)
 
-`Mon, 06 Jul 2026 23:03:34 GMT`
+`Wed, 08 Jul 2026 01:33:24 GMT`
 
-OfficeCLI是全球首个专为AI智能体设计的开源Office套件，以单二进制文件运行，无需安装Office或任何依赖。它内置HTML渲染引擎，可将.docx/.xlsx/.pptx转换为HTML或PNG，形成"渲染→查看→修复"的视觉闭环，使AI代理能自主创建、读取和修改Word、Excel、PowerPoint文档。支持公式、图表、条件格式、RTL布局、修订追踪、表格、数据透视表等复杂功能。提供CLI命令和基于自然语言的桌面应用AionUi，并可一键安装到Claude Code、Cursor、Windsurf
+Pulpie是一族Pareto最优模型，用于从HTML页面提取主要内容。其最小模型pulpie-orange-small（210M参数）在WebMainBench上取得0.862的ROUGE-5 F1分数，接近600M参数的Dripper（0.864），但成本仅1/20。在NVIDIA L4 GPU上，Pulpie处理速度13.7页/秒，Dripper仅0.68页/秒。清理10亿页HTML，Pulpie成本约$7，900，Dripper需$159，000。模型采用编码器架构，单次前向传播即可标记每个HTML块为内容
 
-## [Claude Code v2.1.202 发布](https://aihot.virxact.com/items/cmr9u1olo002sihdbunnazaoz)
+## [Claude开发者分享两种多智能体模式：Advisor和Orchestrator](https://aihot.virxact.com/items/cmrbdqlcv02y4ihl11xbxx9xs)
 
-`Mon, 06 Jul 2026 22:51:16 GMT`
+`Wed, 08 Jul 2026 01:06:01 GMT`
 
-Claude Code v2.1.202 在 `/config` 中新增"Dynamic workflow size"设置，可控制动态工作流的 agent 数量规模（小/中/大），作为指导性建议而非硬性上限。工作流派生的 agent 现在会发射 `workflow.run_id` 和 `workflow.name` 的 OpenTelemetry 属性。修复了 mTLS 握手失败、远程控制发送命令失败、移动端发送无说明图片被静默丢弃、语音听写在麦克风故障时无限重试（改为暂停输入）、重载已有技能导致重复指令等问题。改
+Claude开发者官方分享团队高频使用的两种多智能体模式。Advisor模式：Sonnet 5作为执行者，通过tool call调用Fable 5获取指导。SWE-bench Pro（482题）上，Sonnet 5单独75.5%/$0.75，加顾问达84%/$1.40，Fable 5单独91.5%/$2.25；组合方案约92%性能、63%成本。Orchestrator模式：Fable 5作为编排者规划并向多个Sonnet 5 worker扇出任务。BrowseComp上，全Sonnet 5 77.8%/$16.01
 
-## [Claude Code 团队详解四种智能体循环类型](https://aihot.virxact.com/items/cmr9lm48z00u7ihe85tjkvn5t)
+## [蚂蚁集团周俊AICon演讲：从Token数量到Token密度，万亿参数模型效率优先](https://aihot.virxact.com/items/cmrbdsefa02yjihl17gg7mhx3)
 
-`Mon, 06 Jul 2026 19:08:45 GMT`
+`Wed, 08 Jul 2026 01:00:00 GMT`
 
-Claude Code 团队将"设计循环"定义为智能体重复工作直到满足停止条件，划分四种类型：1）回合循环--手动提示触发，Claude 自判完成，适合短任务，可通过 SKILL.md 提升验证；2）目标循环--`/goal` 手动触发，达成目标或达最大轮数停止，需确定性完成标准（如测试通过数）；3）时间循环--`/loop` 和 `/schedule` 按间隔触发，适合同步消息、检查 PR 等重复任务，可云端运行；4）主动循环--事件或计划触发，无人实时参与，每个子任务独立退出。建议从最简单方案开始，选择性使用复
+蚂蚁集团副总裁周俊在AICon演讲指出，万亿参数模型每运行15分钟算力成本约等于一辆特斯拉，效率是智能体时代最需解决的问题。团队提出从"更多Token"转向"更高Token密度"策略，采用7份Lightning Attention加1份MLA的混合线性注意力架构，使256K长上下文成本从指数级降至线性级，算力更多用于思考。通过Kpop算法区分工具调用与自然语言Token，结合思维链剪枝、自蒸馏等，Token输出减少约4倍而能力不降。在LongBench、BFCL等基准上提升显著，千亿参数模型在Agent任务中超越部
 
-## [2026年科技公司AI裁员名单：Microsoft、Oracle、GitLab等十家公司裁减数千岗位](https://aihot.virxact.com/items/cmr9kq74q00mkihe8o68fnq9t)
+## [《人生设计课》Prompt实测：用Claude设计人生的四个阶段](https://aihot.virxact.com/items/cmrbc048n02j2ihl1all0ymge)
 
-`Mon, 06 Jul 2026 18:35:00 GMT`
+`Wed, 08 Jul 2026 00:12:06 GMT`
 
-2026年以来，多家科技公司以AI为由大规模裁员。Microsoft裁减约4800岗位（2.1%），Oracle裁减21000人（13%），GitLab裁减350人（14%）以投资AI基础设施，Google Cloud持续裁减员工（外界估计1500-3000+工程师），Intuit裁减3000人（17%），Meta裁减8000人（10%）并转岗7000人至AI，Cisco裁减近4000人（5%），Cloudflare裁减1100人（20%），GM裁减500-600 IT岗位，Coinbase裁减700人（14%）。
+作者将斯坦福《人生设计课》理论体系制成Prompt，通过Claude逐步提问、追问和分析。Prompt融合设计思维、心流理论和积极心理学，分为看清现状、找到指南针、寻路、制定奥德赛计划四阶段，主线问题控制在6到9个。AI引导用户给健康、工作、娱乐、爱打分，区分重力问题与可设计的真问题，生成三个五年人生版本，最终输出8000至12000字的《个人人生设计蓝图》。作者实测效果超预期。 🔗 阅读原文：https://mp.weixin.qq.com/s/VDlBdkspV0SQNFJYLxOogQ via AI HOT 
 
-## [Claude Fable实地指南：发现你的未知](https://aihot.virxact.com/items/cmr9jp8hl00fdihe850djojos)
+## [Krea 2 身份保留功能上线](https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz)
 
-`Mon, 06 Jul 2026 18:20:11 GMT`
+`Tue, 07 Jul 2026 20:22:46 GMT`
 
-Claude Fable是第一款要求用户主动澄清未知才能获得高质量工作的模型。与Claude Fable协作是一个在实现前后迭代发现未知的过程。通过将问题分解为已知的已知、已知的未知、未知的已知和未知的未知四类，用户可以借助Claude Fable和Claude Code进行盲点检查、头脑风暴、原型设计、实现笔记记录以及答辩解释，从而高效挖掘并解决深藏于代码库和设计与实现中的潜在问题。 🔗 阅读原文：https://claude.com/blog/a-field-guide-to-claude-fable-find
+Krea 2 的身份保留功能已发布，配套模型和 ComfyUI 节点也已上线。🔥 🔗 阅读原文：https://x.com/krea_ai/status/2074589965653303321 via AI HOT · https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz
 
-## [OpenClaw 登陆 HuggingFace 本地应用](https://aihot.virxact.com/items/cmr9jbw7a0085ihe85luucw73)
+## [Meta Superintelligence Labs 推出 Muse Image 和 Muse Video](https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz)
 
-`Mon, 06 Jul 2026 17:45:30 GMT`
+`Tue, 07 Jul 2026 19:33:53 GMT`
 
-OpenClaw 登陆 @huggingface 本地应用 🦞🤝🤗 1. 在 hf 上挑任意 GGUF/MLX 模型 2. 复制 openclaw onboard 设置 3. Voila，你得到一个完全本地的工具调用智能体。无云端、无密钥、无人监控。 让你的 claw 本地化到极致。抵抗是徒劳的 🦞 🔗 阅读原文：https://x.com/openclaw/status/2074187998602871212 via AI HOT · https://aihot.virxact.com/items/cmr9jbw
+Meta Superintelligence Labs 发布首个媒体生成模型 Muse Image 和 Muse Video。Muse Image 是目前最先进的图像生成模型，能精确遵循指令、精准编辑、多参考构图，并利用 Instagram 社交上下文。它还具备智能体工具使用能力并集成 Muse Spark。用户可通过 Meta AI 应用、网页、Instagram Stories 和 WhatsApp 试用，初始限于部分国家。Muse Video 基于相同预训练基础，实现高视觉保真度并原生支持音频。 🔗 阅读原文
 
-## [SGLang 集成 DSpark 推测解码：置信度驱动的可变长度验证](https://aihot.virxact.com/items/cmr9h98co0470slsmqqc2ilv1)
+## [微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型](https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795)
 
-`Mon, 06 Jul 2026 17:11:47 GMT`
+`Tue, 07 Jul 2026 18:35:58 GMT`
 
-SGLang 团队将 DSpark 推测解码算法集成到开源推理引擎中。该算法采用半自回归块起草器一次生成一组 token，并利用置信度头与顺序温度缩放（STS）为每个请求动态分配可变验证长度，从而在高负载下裁剪无效验证成本。SGLang 支持密集模型（如 Qwen3）和稀疏模型（如 DeepSeek-V4），通过全 CUDA 图处理不规则的每请求验证长度。提供三种验证模式：`static`（全长）、`compact`（生产路径）和 `cap-accept`（接受上限测量）。还引入了零开销调度、基于离线成本表的在线调
+微软正用自研MAI模型替换Copilot产品中的OpenAI和Anthropic模型以降低支出。MAI模型已在Excel和Outlook中每周处理数万次请求，但占比仍小。Build大会上发布推理模型MAI-Thinking 1，声称编码媲美Sonnet 4.6和Opus 4.6，但基准测试大幅落后，仅与DeepSeek V3.2相当。AI负责人承认目标是削减并消除对Anthropic的支出。CEO暗示未来可能按用量计费，MAI为默认，第三方模型付费附加。微软称MAI使用干净商业许可数据，实际基于Common Cra
 
-## [Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出](https://aihot.virxact.com/items/cmr9hhq6k04anslsmg761vie9)
+## [YC CEO声称每日用AI部署3.7万行代码，开发者审查发现前端代码大量臃肿低效](https://aihot.virxact.com/items/cmrayv5ja0293ihog3rixaqua)
 
-`Mon, 06 Jul 2026 17:04:58 GMT`
+`Tue, 07 Jul 2026 17:52:12 GMT`
 
-Google 于 6 月通过客户邮件低调更新了搜索服务隐私设置，新增"搜索服务历史"和"个性化推荐"两项开关，默认将用户上传的图片、文件、音频和视频录制等媒体数据保存并用于训练 AI 模型。该更新适用于搜索、地图、购物、航班、酒店、翻译、新闻等服务。用户可通过取消勾选"保存媒体"框来退出，同时可设置数据自动删除周期（3/18/36 个月）。此前独立的网络与应用活动设置不再影响搜索服务数据保留。Meta 等其他公司也在大规模收集用户媒体数据用于 AI 训练。 🔗 阅读原文：https://techcrunch.com
+Y Combinator CEO Garry Tan在X上宣称，他与AI编码代理每天在五个项目中部署37000行代码，并保持连续72天发布记录。波兰开发者Gregorein深入审查Tan网站前端代码，发现大量臃肿与低效问题：页面加载169次请求、总计6.42MB数据（对比Hacker News仅7次12KB）；包含28个测试文件、78个未使用的JavaScript控制器、八种格式Logo（含空文件）、未压缩的旧PNG等。Gregorein指出，AI虽能快速生成代码，但质量仍应优先于数量。 🔗 阅读原文：https:
 
-## [字节 Seed 发布 EdgeBench：衡量真实世界环境学习，发现新 Scaling Law](https://aihot.virxact.com/items/cmra3zy5200p0ihx88zih8ib8)
+## [NotebookLM短视频概览正式上线](https://aihot.virxact.com/items/cmray36fg021nihogfo205417)
 
-`Mon, 06 Jul 2026 16:00:00 GMT`
+`Tue, 07 Jul 2026 17:48:50 GMT`
 
-字节 Seed 发布超长程评测集 EdgeBench，含 134 个真实任务（覆盖六大领域），每个任务支持 Agent 持续工作至少 12 小时。基于约 38000 小时交互数据，发现 Agent 环境学习表现遵循高精度 log-sigmoid 曲线（平均 R2=0.998）；自 2025 年 9 月至 2026 年 5 月，前沿模型学习速度约每三个月翻一倍。EdgeBench 已开源 51 个任务及完整评测框架。 🔗 阅读原文：https://seed.bytedance.com/zh/blog/edgebenc
+短视频概览功能已正式在移动端和网页端面向所有英语用户全面上线！ 一如既往，您的意见对我们至关重要。请在下方分享您最喜欢的作品，并告诉我们接下来需要添加哪些功能！❤️ 🔗 阅读原文：https://x.com/NotebookLM/status/2074551227594264799 via AI HOT · https://aihot.virxact.com/items/cmray36fg021nihogfo205417
