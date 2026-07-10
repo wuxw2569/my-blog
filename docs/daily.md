@@ -5,76 +5,76 @@ description: 自动订阅 AI Hot 每日日报 feed
 
 # AI 每日日报
 
-> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-07-09 06:42:25 +0000
+> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-07-10 06:43:24 +0000
 
-## [Robbyant 发布 LingBot-VLA 2.0：开源 6B 跨实体机器人视觉-语言-动作模型](https://aihot.virxact.com/items/cmrcsrok60407ihx5jvrp15a1)
+## [Claude Code v2.1.206 发布](https://aihot.virxact.com/items/cmreax6su01ozihyy4xtirms5)
 
-`Thu, 09 Jul 2026 00:45:39 GMT`
+`Fri, 10 Jul 2026 01:45:26 GMT`
 
-Robbyant 推出 LingBot-VLA 2.0，一个 6B 参数的开源视觉-语言-动作（VLA）基础模型。它以 Qwen3-VL-4B-Instruct 为骨干，采用 MoE 动作专家架构，通过 55 维规范向量统一表示不同机器人的状态和动作。训练数据涵盖约 60，000 小时高质量数据（50，000 小时机器人轨迹 + 10，000 小时第一人称人类视频），覆盖 20 种机器人配置。在 GM-100 双机械臂基准测试中，模型在多个平台上超越 π0.5 和之前版本。模型权重、代码和技术报告已以 Apache
+Claude Code v2.1.206 发布，主要更新包括：为 `/cd` 命令添加目录路径建议；新增 `/doctor` 检查以建议修剪 CLAUDE.md 文件中模型可从代码库推导的内容；`/commit-push-pr` 现在自动允许 git push 到仓库配置的推送远程仓库；`/login` 支持 Anthropic 运营的公共网关端点；后台智能体在更新后自动升级。修复了过期登录导致所有模型报错、`claude --resume` 和 `--continue` 在启动时无键盘响应、MCP 服务器忽略 `
 
-## [面向AI模型双重用途知识的"开关"：Anthropic与AE Studio提出GRAM方法](https://aihot.virxact.com/items/cmrcpjgf00373ihx5mtyo2fsy)
+## [Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型](https://aihot.virxact.com/items/cmre6wsva00lzihyym47wp98b)
 
-`Wed, 08 Jul 2026 23:27:02 GMT`
+`Fri, 10 Jul 2026 00:20:20 GMT`
 
-Anthropic与AE Studio联合提出梯度路由辅助模块（GRAM）方法，通过在Transformer每层添加可移除的神经元模块，使模型在训练时将病毒学、网络安全、核物理、专业编程语言等双重用途知识仅路由到对应模块，而非扩散至全局。训练后删除模块即可消除该能力，保留则供可信部署使用。实验在合成数据、真实数据及50M到5B参数模型上测试，GRAM效果与数据过滤相当，移除模块不降低通用性能，且比事后"遗忘"技术更难恢复。该研究为平衡双重用途知识的安全访问与有益使用提供了更鲁棒的方案。 🔗 阅读原文：https:/
+Google Research 发布 SensorFM，一个在超过 100 万亿分钟多模态传感器数据上预训练的大规模基础模型，数据来自 500 万同意参与者，涵盖 100 多个国家及 20 余款 Fitbit 和 Pixel Watch 设备。SensorFM 学习通用的人体生理表征，可迁移至心血管、代谢、睡眠、心理健康及生活方式等 35 项健康预测任务，支持标签高效适配与数据填充，并可作为个人健康智能体的基础工具。该模型旨在解决传统可穿戴健康模型针对单一终点、难以泛化的问题。 🔗 阅读原文：https://res
 
-## [利润超10亿美元、ARR剑指千亿，Anthropic抢先OpenAI冲击IPO](https://aihot.virxact.com/items/cmrcp5by2031uihx57fypdkfo)
+## [Show HN： 如何在我的低配置电脑上运行 GLM-5.2](https://aihot.virxact.com/items/cmre3p4ne005fihrad1xjqjru)
 
-`Wed, 08 Jul 2026 22:30:38 GMT`
+`Thu, 09 Jul 2026 22:18:12 GMT`
 
-Anthropic今年第三季度利润预计超10亿美元，已于6月1日秘密提交IPO申请，若成功将成为规模最大AI实验室IPO。其与OpenAI的年度经常性收入合计接近1000亿美元。凭借Claude Code在软件开发领域的快速普及，Anthropic在2026年实现AI模型盈利变现，成为B2B市场领跑者。SemiAnalysis报告认为其商业模式优越，若持续良好执行，市值可能触及6万亿美元。 🔗 阅读原文：https://www.ithome.com/0/974/275.htm via AI HOT · https:
+colibrì v1.0 引擎以纯 C 实现、零运行时依赖，可在约 25 GB RAM 的消费级电脑上运行 744B 参数的 GLM-5.2 MoE 模型。模型经 int4 量化后磁盘占用约 370 GB，常驻内存仅 9.9 GB，通过流式加载磁盘专家实现推理。冷解码速度约 🔗 阅读原文：https://github.com/JustVugg/colibri via AI HOT · https://aihot.virxact.com/items/cmre3p4ne005fihrad1xjqjru
 
-## [Seedream 5.0 Pro 登陆 Runway，支持14种语言](https://aihot.virxact.com/items/cmrcn8mlw02k5ihx5risshcr3)
+## [Elon Musk称赞Anthropic并承诺不切断其算力](https://aihot.virxact.com/items/cmre1vdj600h8ihwk2g9d8r99)
 
-`Wed, 08 Jul 2026 22:21:38 GMT`
+`Thu, 09 Jul 2026 21:57:42 GMT`
 
-Seedream 5.0 Pro 现已登陆 Runway。可通过提示词或参考图生成高细节图像，图像内文字清晰可读，支持多达14种语言。立即点击下方链接尝试。 🔗 阅读原文：https://x.com/runwayml/status/2074982268175630814 via AI HOT · https://aihot.virxact.com/items/cmrcn8mlw02k5ihx5risshcr3
+Elon Musk近日在X上承认此前对Anthropic的判断有误，称其"显然是当前AI领域的领导者"，盛赞Mythos/Fable模型"目前最好"，并承诺不会恶意切断其计算资源。2026年7月起，Anthropic成为SpaceX最大客户之一--双方5月签署协议，Anthropic以每月12.5亿美元（至2029年5月，总计约400亿美元）购买xAI旗下Colossus 1数据中心300兆瓦全部算力。Musk以特斯拉开放专利、超充网络等先例佐证其"不挤压竞争对手"的风格，合同条款也提供了保障。 🔗 阅读原文：ht
 
-## [诉讼：男子使用Grok制作7000张继女色情图像后自杀](https://aihot.virxact.com/items/cmrcit2bg01f9ihx5cps026s8)
+## [AI 能否回答 3 万亿美元的问题？](https://aihot.virxact.com/items/cmre1vdj600h9ihwkt35yib2l)
 
-`Wed, 08 Jul 2026 19:56:37 GMT`
+`Thu, 09 Jul 2026 21:47:50 GMT`
 
-一男子使用Grok生成7000张继女儿童性虐待材料（CSAM）后自杀。更多年轻女孩起诉X平台，指控其涉及Grok生成CSAM，并包庇儿童性犯罪者。 🔗 阅读原文：https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt via AI HOT · https://aihot.virxact.com/items/cmrcit2b
+Sequoia 合伙人 David Cahn 更新 AI 基础设施支出估算：2026 年全球投入达 1.5 万亿美元，行业需产生 3 万亿美元收入才能回本。Anthropic 年化收入（ARR）达 600 亿美元，OpenAI 2025 年收入 130 亿美元（11 月称 ARR 200 亿美元），但缺口仍大。Apollo 首席经济学家指出，谷歌、Meta、微软、亚马逊均预测 2028 年自由现金流加速，但风险在于更多组织转向更便宜的开放权重模型（尤其中国模型），且 OpenAI 最新模型编码任务 token 效率
 
-## [Replit 推出社区档案与力量排名](https://aihot.virxact.com/items/cmrc8cfhc00jeihqc0r5wx6qz)
+## [社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作](https://aihot.virxact.com/items/cmre2mjan00msihwkpuxq0462)
 
-`Wed, 08 Jul 2026 15:00:47 GMT`
+`Thu, 09 Jul 2026 21:46:29 GMT`
 
-本周新功能 🚀 Replit 社区档案--vibe coders 的工作证明。 你的档案，你的展示。获取你的智能体使用和检查点的活跃度图表，外加面向专业用户的 Replit 力量排名。 登录，认领你的档案，挑选你最棒的项目，与朋友分享你的数据。 立即查看 → http://replit.com/community 🔗 阅读原文：https://x.com/Replit/status/2074871322220339515 via AI HOT · https://aihot.virxact.com/items/cm
+安全公司Pangram通过Chrome扩展收集超100万条帖子，分析发现社交媒体AI生成内容泛滥。整体AI检测率13.8%，长文（超250词）中25.72%完全由AI生成。LinkedIn最为严重，超40%长文帖子被标记为完全AI生成，占全部AI内容的62%；X/Twitter近一半文章（23.9%完全AI+22.9%混合）为AI写作。Reddit整体AI率仅4.4%，但顶层帖子AI率达11.6%。分析使用Pangram 3.3模型，假阳性率0.01%。Substack上长文AI率反而略低。 🔗 阅读原文：http
 
-## [OpenRouter聊天室推出一键零数据保留](https://aihot.virxact.com/items/cmrc8c7rq00imihqcg5rp1u13)
+## [Bun 被 Anthropic 收购后用 Rust 重写，月下载超 2200 万](https://aihot.virxact.com/items/cmre2mjao00ncihwk7foifcuk)
 
-`Wed, 08 Jul 2026 14:57:23 GMT`
+`Thu, 09 Jul 2026 21:46:21 GMT`
 
-新功能：聊天室一键ZDR（零数据保留） 在完全隐私保护下横向对比模型：https://openrouter.ai/chat 🔗 阅读原文：https://x.com/OpenRouter/status/2074870468394250461 via AI HOT · https://aihot.virxact.com/items/cmrc8c7rq00imihqcg5rp1u13
+Bun 于 2025 年 12 月被 Anthropic 收购，作者使用预发布版 Claude Fable 5 进行了大量 Rust 重写。Bun 最初用 Zig 在一年内构建，如今 CLI 月下载超 2200 万，被 Claude Code 等采用。广泛功能带来稳定性挑战，v1.3.14 修复了多项 use-after-free、内存泄漏等 bug。团队通过 ASAN、Fuzzilli 模糊测试等系统性预防，并借助 Rust 的内存安全特性减少此类缺陷。 🔗 阅读原文：https://bun.com/blog/b
 
-## [OpenAI发布政府与国家安全合作伙伴关系方针](https://aihot.virxact.com/items/cmrcjj0xz01mqihx5zwai9t6j)
+## [微软发布Flint：面向AI智能体的可视化语言](https://aihot.virxact.com/items/cmre2mjao00nmihwkz4nz0e46)
 
-`Wed, 08 Jul 2026 13:30:00 GMT`
+`Thu, 09 Jul 2026 21:46:19 GMT`
 
-OpenAI近日公布国家安全原则，阐明在政府及国家安全领域部署前沿AI系统的方针。原则强调在保护公民、防御关键基础设施、提供公共服务及应对新兴威胁（网络防御和生物安全）中发挥AI优势，同时确保民主问责、人类判断和法治。过去一个月，OpenAI通过Daybreak网络防御计划与澳大利亚、加拿大、日本、韩国、法国、德国、波兰、荷兰及欧盟ENISA等机构建立网络安全信任访问合作，并与英国政府开展网络安全测试评估。上月，OpenAI向部分美国政府及盟友合作伙伴开放GPT-Rosalind模型用于公共卫生和生物防御。原则适用
+微软研究院推出Flint，一种可视化中间语言，让AI智能体通过简洁的人类可编辑spec自动生成美观图表。用户只需提供数据、语义类型和图表类型，Flint编译器即可推导坐标轴、配色、布局等底层参数。支持46种图表类型，可渲染到Vega-Lite、ECharts和Chart.js三个后端。项目通过npm安装（TypeScript/JavaScript），并提供MCP服务器用于智能体工作流集成。采用弹性布局模型自动优化图表尺寸与间距，已开源。 🔗 阅读原文：https://microsoft.github.io/flin
 
-## [OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷](https://aihot.virxact.com/items/cmrcigf5k01bqihx54i8oph9u)
+## [Cognition 推出 SWE-1.7，接近 GPT 5.5 与 Opus 智能水平](https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj)
 
-`Wed, 08 Jul 2026 13:00:00 GMT`
+`Thu, 09 Jul 2026 21:46:17 GMT`
 
-OpenAI 对编码评测基准 SWE-Bench Pro 进行详细审计，发现约 30% 的任务存在缺陷。在 731 个任务的公开子集中，前沿模型通过率在八个月内从 23.3% 提升至 80.3%，但数据质量检查显示大量任务存在测试过于严格、提示词描述不足、测试覆盖不全或误导性提示等问题。OpenAI 建议模型开发者仔细审视评测结果，并指出 AI 智能体在规模化数据质量检查中日益增长的实用性。 🔗 阅读原文：https://openai.com/index/separating-signal-from-noise-c
+Cognition 发布迄今最强模型 SWE-1.7，基于 Kimi K2.7 基座训练，通过强化学习管线改进（基础设施、训练稳定性、数据质量、长程任务技术）实现前沿智能水平并大幅降低成本。在 FrontierCode 1.1 Main 基准上达 42.3%（Kimi K2.7 Code 为 30.1%，GPT-5.5 为 43.0%，Opus 4.8 为 46.5%），Terminal-Bench 2.1 达 81.5%，SWE-Bench Multilingual 达 77.8%。模型针对长周期异步任务优化，现
 
-## [在校研究生Kunkun开源管理相互调用Skill的方法](https://aihot.virxact.com/items/cmrc1iygj00twihyfe1hkvycv)
+## [ChatGPT Sites将创意变可发布网站](https://aihot.virxact.com/items/cmre1bxqr00bhihwk8z3bz5qs)
 
-`Wed, 08 Jul 2026 12:08:18 GMT`
+`Thu, 09 Jul 2026 21:27:27 GMT`
 
-在校研究生Kunkun开源了一套管理大量互相调用Skill的方法。核心方案包括：1）搭建HTML后台，按运行模式（手动/自动）、链路位置、专业领域三类标签筛选Skill；2）将连环调用的Skill绘制成Mermaid流程图，根据debug、新功能、合PR、改设计等阶段定位对应技能组；3）仿照Matt的ask Matt技能开发"ask me"技能，将调用决策浓缩成上下文喂给模型。该方法避免将所有调用交给模型自行判断，保持工程复杂场景下的人机对齐与可控性。项目已开源至GitHub。 🔗 阅读原文：https://x.c
+将一个想法变成可发布和分享的实时网站 以下是OpenAI团队的一些成员用Sites构建的示例👇 @prd_008 用Sites将一个想法变成了个人专注应用： 🔗 阅读原文：https://x.com/OpenAIDevs/status/2075331020090687666 via AI HOT · https://aihot.virxact.com/items/cmre1bxqr00bhihwk8z3bz5qs
 
-## [加拿大不列颠哥伦比亚省拟起诉OpenAI：未上报ChatGPT暴力对话致校园枪击惨案](https://aihot.virxact.com/items/cmrbxa3ll003yihgens8d2sqg)
+## [Google 推出 LiteRT.js：高性能 Web AI 推理运行时](https://aihot.virxact.com/items/cmre0j0vj002sihwk71qvktk7)
 
-`Wed, 08 Jul 2026 09:55:17 GMT`
+`Thu, 09 Jul 2026 21:21:08 GMT`
 
-加拿大不列颠哥伦比亚省7月7日宣布将起诉OpenAI，指控其未向执法部门上报一名ChatGPT用户2025年6月封禁前的暴力相关对话内容。该用户随后于今年2月在塔布勒岭制造校园枪击案，杀害8人。OpenAI CEO萨姆·奥尔特曼今年4月为此公开致歉，承认本应上报但未执行。受害家属已在加州法院提起诉讼，省政府正协调独立诉讼，要求赔偿用于社区重建。 🔗 阅读原文：https://www.ithome.com/0/974/169.htm via AI HOT · https://aihot.virxact.com/ite
+Google 发布 LiteRT.js，这是 LiteRT 跨平台边缘 AI 运行时的最新成员，专为 JavaScript 开发者设计，可直接在浏览器中运行机器学习模型。LiteRT.js 基于 WebGPU 和即将推出的 WebNN 实现 SOTA 推理性能，同时支持回退到 WebAssembly CPU 方案。 🔗 阅读原文：https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference via AI HO
 
-## [GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞](https://aihot.virxact.com/items/cmrbu023x079pihl1q4rvhzky)
+## [Anthropic发起"硬问题"倡议，邀请公众提出AI相关尖锐问题](https://aihot.virxact.com/items/cmrdslwmv06tcih4bzp5l7ivy)
 
-`Wed, 08 Jul 2026 08:29:47 GMT`
+`Thu, 09 Jul 2026 17:40:42 GMT`
 
-Noma Labs 在 GitHub Agentic Workflows 中发现严重提示词注入漏洞 GitLost。未认证攻击者仅需在属于同一组织的公共仓库中创建一个嵌有恶意指令的 Issue，即可诱使基于 Claude 或 GitHub Copilot 的 AI 代理读取并公开该组织内私有仓库的内容。攻击无需编码技能或凭证，根源在于代理将用户可控内容视为可信指令，且 GitHub 的防护措施因 "Additionally" 关键词被绕过。Noma Labs 已公开 PoC 并建议限制跨仓库权限、隔离用户输入。 🔗
+Anthropic作为公益公司，发起"硬问题"倡议，邀请公众就AI对就业、社会、家庭、科学医学等领域的影响提出最尖锐的问题。此前已通过多种方式收集看法：首轮调查询问5.2万美国人；通过Anthropic Interviewer调查了159个国家70种语言的8.1万Claude用户；开展数十场线下焦点小组；并基于匿名真实数据研究Claude使用情况。公司还设立了Anthropic Institute和Long-Term Benefit Trust以监督公益使命进展。Anthropic承诺将公开追踪并报告针对这些问题的
