@@ -5,76 +5,76 @@ description: 自动订阅 AI Hot 每日日报 feed
 
 # AI 每日日报
 
-> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-07-10 06:43:24 +0000
+> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-07-11 05:38:57 +0000
 
-## [Claude Code v2.1.206 发布](https://aihot.virxact.com/items/cmreax6su01ozihyy4xtirms5)
+## [OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘](https://aihot.virxact.com/items/cmrfr2xvi02brihjlp1tlzg1n)
 
-`Fri, 10 Jul 2026 01:45:26 GMT`
+`Sat, 11 Jul 2026 01:56:54 GMT`
 
-Claude Code v2.1.206 发布，主要更新包括：为 `/cd` 命令添加目录路径建议；新增 `/doctor` 检查以建议修剪 CLAUDE.md 文件中模型可从代码库推导的内容；`/commit-push-pr` 现在自动允许 git push 到仓库配置的推送远程仓库；`/login` 支持 Anthropic 运营的公共网关端点；后台智能体在更新后自动升级。修复了过期登录导致所有模型报错、`claude --resume` 和 `--continue` 在启动时无键盘响应、MCP 服务器忽略 `
+知名 AI 创业者 Matt Shumer 的 Mac 硬盘被 OpenAI 最新 Agent 模型 GPT-5.6-Sol 彻底清空。他在本地 Agent 上开启 Full Access 权限，让 subagent 执行文件清理任务，结果 shell 变量 $HOME 路径解析错误，Agent 直接执行 `rm -rf /Users/mattsdevbox`，导致数年代码、文件、照片丢失。该任务此前已安全运行数百次。事后 Agent 自动生成事故报告承认错误。Matt 表示"1000x 更信任 Anthropic
 
-## [Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型](https://aihot.virxact.com/items/cmre6wsva00lzihyym47wp98b)
+## [博科圣地如何利用前沿AI技术](https://aihot.virxact.com/items/cmrfiocpi0035ihjlcm4qu8af)
 
-`Fri, 10 Jul 2026 00:20:20 GMT`
+`Fri, 10 Jul 2026 22:07:19 GMT`
 
-Google Research 发布 SensorFM，一个在超过 100 万亿分钟多模态传感器数据上预训练的大规模基础模型，数据来自 500 万同意参与者，涵盖 100 多个国家及 20 余款 Fitbit 和 Pixel Watch 设备。SensorFM 学习通用的人体生理表征，可迁移至心血管、代谢、睡眠、心理健康及生活方式等 35 项健康预测任务，支持标签高效适配与数据填充，并可作为个人健康智能体的基础工具。该模型旨在解决传统可穿戴健康模型针对单一终点、难以泛化的问题。 🔗 阅读原文：https://res
+2025至2026年间对尼日利亚东北部27名前"博科圣地"成员的半结构化访谈揭示了该组织在2024年系统性地利用前沿AI技术。两大派系均使用ChatGPT、Claude、Gemini、Grok、Meta AI和DeepSeek辅助作战与日常运作，AI应用已通过专门小组和内部培训实现制度化。成员成功绕过部分安全限制，将AI用于袭击策划、武器故障排查及爆炸装置设计。相关技术通过跨国圣战网络传播，伊斯兰国特工提供了面对面培训。受访者对AI表现出强烈热情，部分人对大规模杀伤性武器持开放态度，但记录在案的使用仍限于常规手段。
 
-## [Show HN： 如何在我的低配置电脑上运行 GLM-5.2](https://aihot.virxact.com/items/cmre3p4ne005fihrad1xjqjru)
+## [Apple 起诉 OpenAI 窃取商业机密](https://aihot.virxact.com/items/cmrfep0gs01ljihxb6uazy2jn)
 
-`Thu, 09 Jul 2026 22:18:12 GMT`
+`Fri, 10 Jul 2026 20:32:00 GMT`
 
-colibrì v1.0 引擎以纯 C 实现、零运行时依赖，可在约 25 GB RAM 的消费级电脑上运行 744B 参数的 GLM-5.2 MoE 模型。模型经 int4 量化后磁盘占用约 370 GB，常驻内存仅 9.9 GB，通过流式加载磁盘专家实现推理。冷解码速度约 🔗 阅读原文：https://github.com/JustVugg/colibri via AI HOT · https://aihot.virxact.com/items/cmre3p4ne005fihrad1xjqjru
+Apple 于周五向美国加州北区联邦法院提起诉讼，指控 OpenAI 窃取商业机密并违反合同。诉状称，OpenAI 高级领导层（包括首席硬件官 Tang Tan）指使前 Apple 员工在招聘过程中窃取机密，包括使用未发布产品的项目代号、要求应聘者携带硬件组件参加面试。Apple 还指控前高级系统电气工程师 Chang Liu 在 2026 年离职加入 OpenAI 后未归还公司笔记本电脑，并用其下载机密技术文档。Apple 称其机密信息已被 OpenAI 用于开发自有硬件产品，例如一项专有金属精加工技术。Appl
 
-## [Elon Musk称赞Anthropic并承诺不切断其算力](https://aihot.virxact.com/items/cmre1vdj600h8ihwk2g9d8r99)
+## [宇树G1人形机器人完成首例活体微创手术](https://aihot.virxact.com/items/cmrf93thr003iihxbrnllhiyd)
 
-`Thu, 09 Jul 2026 21:57:42 GMT`
+`Fri, 10 Jul 2026 17:55:54 GMT`
 
-Elon Musk近日在X上承认此前对Anthropic的判断有误，称其"显然是当前AI领域的领导者"，盛赞Mythos/Fable模型"目前最好"，并承诺不会恶意切断其计算资源。2026年7月起，Anthropic成为SpaceX最大客户之一--双方5月签署协议，Anthropic以每月12.5亿美元（至2029年5月，总计约400亿美元）购买xAI旗下Colossus 1数据中心300兆瓦全部算力。Musk以特斯拉开放专利、超充网络等先例佐证其"不挤压竞争对手"的风格，合同条款也提供了保障。 🔗 阅读原文：ht
+一篇新的《自然》论文展示了宇树G1人形机器人执行研究人员所称的首例由人形机器人完成的活体标准微创手术。加州大学圣地亚哥团队使用G1，以常规手术器械完成了对两只活猪的腹腔镜胆囊切除术；第二次手术耗时32分钟。该机器人仍需反复校正，且尚无法满足手术无菌标准，但其成本可能仅为达芬奇系统的约5%。 🔗 阅读原文：https://x.com/thexpin/status/2075640168896516139 via AI HOT · https://aihot.virxact.com/items/cmrf93thr003i
 
-## [AI 能否回答 3 万亿美元的问题？](https://aihot.virxact.com/items/cmre1vdj600h9ihwkt35yib2l)
+## [Claude Code桌面版新增应用内浏览器](https://aihot.virxact.com/items/cmrf8177m007bihprf4zml1hn)
 
-`Thu, 09 Jul 2026 21:47:50 GMT`
+`Fri, 10 Jul 2026 17:36:29 GMT`
 
-Sequoia 合伙人 David Cahn 更新 AI 基础设施支出估算：2026 年全球投入达 1.5 万亿美元，行业需产生 3 万亿美元收入才能回本。Anthropic 年化收入（ARR）达 600 亿美元，OpenAI 2025 年收入 130 亿美元（11 月称 ARR 200 亿美元），但缺口仍大。Apollo 首席经济学家指出，谷歌、Meta、微软、亚马逊均预测 2028 年自由现金流加速，但风险在于更多组织转向更便宜的开放权重模型（尤其中国模型），且 OpenAI 最新模型编码任务 token 效率
+Claude Code 桌面版现在有了应用内浏览器。 Claude 可以调出文档、设计稿或任何其他网站。它可以像操作本地开发服务器一样，进行阅读、点击浏览和交互。 该浏览器采用沙盒机制且可配置：你可以自行选择会话是否持久保留。 🔗 阅读原文：https://x.com/ClaudeDevs/status/2075635283211772279 via AI HOT · https://aihot.virxact.com/items/cmrf8177m007bihprf4zml1hn
 
-## [社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作](https://aihot.virxact.com/items/cmre2mjan00msihwkpuxq0462)
+## [DeepSeek-V4 Flash 强化学习训练登陆 AMD Instinct MI355X GPU，由 Miles 框架支持](https://aihot.virxact.com/items/cmrf7a5kg000wihpr80vvnaxn)
 
-`Thu, 09 Jul 2026 21:46:29 GMT`
+`Fri, 10 Jul 2026 17:19:11 GMT`
 
-安全公司Pangram通过Chrome扩展收集超100万条帖子，分析发现社交媒体AI生成内容泛滥。整体AI检测率13.8%，长文（超250词）中25.72%完全由AI生成。LinkedIn最为严重，超40%长文帖子被标记为完全AI生成，占全部AI内容的62%；X/Twitter近一半文章（23.9%完全AI+22.9%混合）为AI写作。Reddit整体AI率仅4.4%，但顶层帖子AI率达11.6%。分析使用Pangram 3.3模型，假阳性率0.01%。Substack上长文AI率反而略低。 🔗 阅读原文：http
+DeepSeek-V4 Flash 的强化学习训练现已在 AMD Instinct MI355X GPU 上通过 Miles 框架获得支持，基于 ROCm 软件栈运行。该 2840 亿参数 MoE 模型（每 token 激活 130 亿参数）需 SGLang 进行 rollout 生成、Megatron 进行策略更新，Miles 负责异步循环与权重同步。团队解决了 SGLang 与 Megatron 间模型对齐、量化状态在线更新及多节点并行稳定性三大挑战，最终在四个八 GPU 节点上完成端到端验证：超过 100 个
 
-## [Bun 被 Anthropic 收购后用 Rust 重写，月下载超 2200 万](https://aihot.virxact.com/items/cmre2mjao00ncihwk7foifcuk)
+## [Perplexity 推出跨模型信用额度分析功能](https://aihot.virxact.com/items/cmrf3pi9j0730ih8eb6hjx4hn)
 
-`Thu, 09 Jul 2026 21:46:21 GMT`
+`Fri, 10 Jul 2026 15:14:27 GMT`
 
-Bun 于 2025 年 12 月被 Anthropic 收购，作者使用预发布版 Claude Fable 5 进行了大量 Rust 重写。Bun 最初用 Zig 在一年内构建，如今 CLI 月下载超 2200 万，被 Claude Code 等采用。广泛功能带来稳定性挑战，v1.3.14 修复了多项 use-after-free、内存泄漏等 bug。团队通过 ASAN、Fuzzilli 模糊测试等系统性预防，并借助 Rust 的内存安全特性减少此类缺陷。 🔗 阅读原文：https://bun.com/blog/b
+推出 Computer Analytics：你现在可以跨模型跟踪信用额度支出。 该功能现已面向个人和企业用户开放，可在账户设置的 Analytics 下使用。 🔗 阅读原文：https://x.com/perplexity_ai/status/2075599540640714863 via AI HOT · https://aihot.virxact.com/items/cmrf3pi9j0730ih8eb6hjx4hn
 
-## [微软发布Flint：面向AI智能体的可视化语言](https://aihot.virxact.com/items/cmre2mjao00nmihwkz4nz0e46)
+## [百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟](https://aihot.virxact.com/items/cmrf0774z04wyih8e0snjs2g2)
 
-`Thu, 09 Jul 2026 21:46:19 GMT`
+`Fri, 10 Jul 2026 13:58:07 GMT`
 
-微软研究院推出Flint，一种可视化中间语言，让AI智能体通过简洁的人类可编辑spec自动生成美观图表。用户只需提供数据、语义类型和图表类型，Flint编译器即可推导坐标轴、配色、布局等底层参数。支持46种图表类型，可渲染到Vega-Lite、ECharts和Chart.js三个后端。项目通过npm安装（TypeScript/JavaScript），并提供MCP服务器用于智能体工作流集成。采用弹性布局模型自动优化图表尺寸与间距，已开源。 🔗 阅读原文：https://microsoft.github.io/flin
+百度搭子在成都百度AI Day上发布四项更新。个人版新增浏览器调用、智能路由（平均任务耗时降20%，Token利用率提升25%）、多端共享记忆及强化PPT生成，并上架"一镜"数字人制作、"灵医"报告解读等Skill。行业首个自媒体专业套件支持选题到复盘全链路。企业版支持团队协作与权限管理。搭子联盟启动，中国联通等已加入。上线三个月，日均提问量增长20倍。 🔗 阅读原文：https://mp.weixin.qq.com/s/Haqbjim9YGmRu1XpxG_VvA via AI HOT · https://aih
 
-## [Cognition 推出 SWE-1.7，接近 GPT 5.5 与 Opus 智能水平](https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj)
+## [小红书发布大模型新架构 PIPO](https://aihot.virxact.com/items/cmrerlfrs0046ihm87smc2el4)
 
-`Thu, 09 Jul 2026 21:46:17 GMT`
+`Fri, 10 Jul 2026 09:59:00 GMT`
 
-Cognition 发布迄今最强模型 SWE-1.7，基于 Kimi K2.7 基座训练，通过强化学习管线改进（基础设施、训练稳定性、数据质量、长程任务技术）实现前沿智能水平并大幅降低成本。在 FrontierCode 1.1 Main 基准上达 42.3%（Kimi K2.7 Code 为 30.1%，GPT-5.5 为 43.0%，Opus 4.8 为 46.5%），Terminal-Bench 2.1 达 81.5%，SWE-Bench Multilingual 达 77.8%。模型针对长周期异步任务优化，现
+小红书提出 PIPO 架构，通过输入侧压缩器将两个 token 折叠为一个 latent，输出侧 MTP head 将隐藏状态展开为额外 token，实现输入长度减半、每步输出翻倍。基于 Qwen3.5-4B/9B backbone，在 AIME 2025 等基准上最高带来 +7.15 pass@4 提升。部署测评中，TTFT 加速约 1.23×，TPOT 加速约 1.86×。训练采用 SFT 和 On-Policy Distillation 两阶段，将 verifier 校验能力蒸馏进轻量 confidence 
 
-## [ChatGPT Sites将创意变可发布网站](https://aihot.virxact.com/items/cmre1bxqr00bhihwk8z3bz5qs)
+## [扎克伯格首度回应 Meta"算力过剩"：没人会嫌算力太多，但租出去更赚钱](https://aihot.virxact.com/items/cmrem518401w2ihcl3vs3c152)
 
-`Thu, 09 Jul 2026 21:27:27 GMT`
+`Fri, 10 Jul 2026 07:26:10 GMT`
 
-将一个想法变成可发布和分享的实时网站 以下是OpenAI团队的一些成员用Sites构建的示例👇 @prd_008 用Sites将一个想法变成了个人专注应用： 🔗 阅读原文：https://x.com/OpenAIDevs/status/2075331020090687666 via AI HOT · https://aihot.virxact.com/items/cmre1bxqr00bhihwk8z3bz5qs
+Meta CEO 扎克伯格首次正面回应公司筹划云基础设施业务一事，否认"算力过剩"猜测，称内部算力需求依然旺盛、满负荷运转。但他同时表示，当前市场对算力出价极高，将部分 AI 基础设施对外出租在财务上更划算。Meta 正制定代号"Meta Compute"的云计算计划，包括开放模型访问权限和直接出租裸算力两条路线。扎克伯格还提及 SpaceX 以每月 12.5 亿美元将数据中心租给 Anthropic 的模式。Meta 2026 年资本支出指引达 1250 亿至 1450 亿美元，计划 2026 年 9 月量产自研
 
-## [Google 推出 LiteRT.js：高性能 Web AI 推理运行时](https://aihot.virxact.com/items/cmre0j0vj002sihwk71qvktk7)
+## [马斯克承认Anthropic是当前AI领导者](https://aihot.virxact.com/items/cmremehbx0246ihclothaz1km)
 
-`Thu, 09 Jul 2026 21:21:08 GMT`
+`Fri, 10 Jul 2026 07:20:46 GMT`
 
-Google 发布 LiteRT.js，这是 LiteRT 跨平台边缘 AI 运行时的最新成员，专为 JavaScript 开发者设计，可直接在浏览器中运行机器学习模型。LiteRT.js 基于 WebGPU 和即将推出的 WebNN 实现 SOTA 推理性能，同时支持回退到 WebAssembly CPU 方案。 🔗 阅读原文：https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference via AI HO
+马斯克在X上发文承认自己此前对Anthropic的判断有误，称其"显然是当前AI领域的领导者"。他表示，没有公司发布过像Mythos/Fable这样优秀的模型，并相信Anthropic很快会推出Mythos 2。他还强调，即使作为竞争对手，也不会以伤害对方的方式切断合作，并列举了特斯拉开源专利、开放超级充电网络等先例。该推文被Rohan Paul转发，称这是Anthropic"最强有力的炫耀"。 🔗 阅读原文：https://x.com/rohanpaul_ai/status/2075480331600417141
 
-## [Anthropic发起"硬问题"倡议，邀请公众提出AI相关尖锐问题](https://aihot.virxact.com/items/cmrdslwmv06tcih4bzp5l7ivy)
+## [Elon Musk 转发用户称赞 Grok Build 的反馈](https://aihot.virxact.com/items/cmrema2b4022bihcleaow4j8v)
 
-`Thu, 09 Jul 2026 17:40:42 GMT`
+`Fri, 10 Jul 2026 07:14:39 GMT`
 
-Anthropic作为公益公司，发起"硬问题"倡议，邀请公众就AI对就业、社会、家庭、科学医学等领域的影响提出最尖锐的问题。此前已通过多种方式收集看法：首轮调查询问5.2万美国人；通过Anthropic Interviewer调查了159个国家70种语言的8.1万Claude用户；开展数十场线下焦点小组；并基于匿名真实数据研究Claude使用情况。公司还设立了Anthropic Institute和Long-Term Benefit Trust以监督公益使命进展。Anthropic承诺将公开追踪并报告针对这些问题的
+Elon Musk 转发用户 @0x0funky 对 Grok Build 的称赞。该用户称 Grok Build 是目前唯一集大成的 coding agentic workflow，内建图像生成和图片生视频功能，生图速度快且品质不输 Codex。Agent 可直接完成图像与视频生成，无需额外串接 MCP 或外部服务。用户结合 Agent Sprite Forge 工具，利用 Grok Build 的视频生成能力，先产出 6 秒角色动作视频再反编译为 game sprite，大幅减少对齐问题，制作 2D 横版游戏耗
