@@ -5,7 +5,7 @@
         <link>https://wuxw2569.github.io/my-blog</link>
         <description>由 AI 自动生成的技术博客 + 小红书笔记</description>
         <language>zh-cn</language>
-        <lastBuildDate>Sat, 11 Jul 2026 05:38:57 +0800</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jul 2026 05:56:32 +0800</lastBuildDate>
         
         <item>
             <title>5 Powerful Marketing Activities</title>
@@ -33,6 +33,13 @@
             <link>https://wuxw2569.github.io/my-blog/post1.html</link>
             <description><![CDATA[date: 20170227title: Basic Markdown Formattingcategory: Tutorialtags: vueThe Ultimate Guide to Markd]]></description>
             <pubDate>2017-02-27</pubDate>
+        </item>
+        
+        <item>
+            <title>AI生成自动化测试用例</title>
+            <link>https://wuxw2569.github.io/my-blog/2026-07-12-AI生成自动化测试用例.html</link>
+            <description><![CDATA[本文将探讨如何利用AI技术生成自动化测试用例，结合Java后端与架构开发的视角，分享实现步骤和效果展示。]]></description>
+            <pubDate>2023-04-01</pubDate>
         </item>
         
         <item>
