@@ -5,76 +5,76 @@ description: 自动订阅 AI Hot 每日日报 feed
 
 # AI 每日日报
 
-> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-07-16 05:39:23 +0000
+> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-07-17 05:41:07 +0000
 
-## [千问APP联合武汉发布举办AI求职实战课，演示简历诊断与办公自动化](https://aihot.virxact.com/items/cmrmybfkm039cbijeh07y5kq0)
+## [生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格](https://aihot.virxact.com/items/cmro8l78w00j5bitou01qowy4)
 
-`Thu, 16 Jul 2026 03:27:08 GMT`
+`Fri, 17 Jul 2026 00:40:20 GMT`
 
-千问APP与武汉发布在武汉举办AI求职实战课，现场演示了用千问进行简历诊断、PPT制作和表格分析。产品经理提出"给全材料、说明目标、定义标准、划定边界、索要可编辑文件"五步法，并展示了将486行杂乱销售数据浓缩为一页结论PPT的"建、理、算、析、呈"方法论。 🔗 阅读原文：https://mp.weixin.qq.com/s/dCk6IXbFyOSSc1JxcWsglA via AI HOT · https://aihot.virxact.com/items/cmrmybfkm039cbijeh07y5kq0
+AI公司为维持大语言模型（如ChatGPT、Claude）运行，可能已购买全球70%的高端计算机内存，导致内存与存储价格飙升：两年前350美元的硬盘现已涨至800美元且缺货，部分笔记本电脑涨价50%。科技公司计划未来几年将美国数据中心容量扩大8倍，部分站点甚至用喷气发动机供电。预测称，平价入门级电脑可能在2028年前消失，内存短缺预计持续数年。 🔗 阅读原文：https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disast
 
-## [天工短剧工作台发布"Agent智能分镜+无限画布"双轨创作模式](https://aihot.virxact.com/items/cmrmvgk9r01t6bijelx7vxglt)
+## [Grok 推出 Automations 功能：定时或邮件触发，自动执行任务并汇报结果](https://aihot.virxact.com/items/cmro185e3011jbij2ond4t12b)
 
-`Thu, 16 Jul 2026 02:00:00 GMT`
+`Thu, 16 Jul 2026 21:39:40 GMT`
 
-天工短剧工作台推出双轨创作模式，通过导演Agent自动解析剧本、规划站位与机位，并支持多视细节图生成，解决AI短剧角色变脸和站位漂移问题。该工具内置影视级提示词模板、720°全景图及3D导演台，实现可控生产。已有三部作品上线DramaWave 7天实现百万美元级营收。 🔗 阅读原文：https://mp.weixin.qq.com/s/WlGAeogkF_N5122nHA0TtQ via AI HOT · https://aihot.virxact.com/items/cmrmvgk9r01t6bijelx7vxg
+xAI 为 Grok 引入 Automations 功能，用户可描述一次任务，让 Grok 按计划（一次/每日/工作日/每周/每月/每年）或邮件触发（按发件人、收件人或主题过滤）自动运行。每次执行都是一次完整对话，结果保存至运行历史，支持邮件或应用内通知。定时自动化对所有用户开放，邮件触发需 SuperGrok 订阅。 🔗 阅读原文：https://x.ai/news/grok-automations via AI HOT · https://aihot.virxact.com/items/cmro185e3011
 
-## [MiniMax Code 2.0 桌面端焕新：底层架构全面升级，金融模块即将上线](https://aihot.virxact.com/items/cmrmudyvj015jbije15lwn7k2)
+## [xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用](https://aihot.virxact.com/items/cmrnz309k00f0biq1v5egac59)
 
-`Thu, 16 Jul 2026 01:36:13 GMT`
+`Thu, 16 Jul 2026 20:26:23 GMT`
 
-MiniMax Code 2.0 桌面端发布，基于 Pi Agent 框架重构底层架构，显著提升会话启动速度与长程复杂任务的执行稳定性。新版本优化了图表加载与文件预览框选编辑功能，并已与恒生金融数据库、企查查 MCP 打通，金融模块即将上线，支持多源数据实时检索与专业报告生成。桌面端现已开放下载，本月还将上线远程控制、浏览器操控等功能。 🔗 阅读原文：https://mp.weixin.qq.com/s/mQeBO0xC6Z1R0LqZX5TvNg via AI HOT · https://aihot.virxac
+xAI 首次对一名 Grok 用户提起诉讼，指控其利用该模型制作儿童性虐待图像（CSAM）。此前 xAI 一直否认 Grok 能生成此类内容，此次诉讼标志着其立场转变。案件聚焦用户滥用行为，而非模型本身的技术缺陷。 🔗 阅读原文：https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users via AI HOT · https://aihot.virxact.com/items
 
-## [xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具](https://aihot.virxact.com/items/cmrmsfo5q00f0bimis2t1mbci)
+## [Moonshot AI 发布 PerceptionBench：多模态模型视觉感知能力诊断基准](https://aihot.virxact.com/items/cmrnvwztt01bebixyznbje716)
 
-`Thu, 16 Jul 2026 00:33:18 GMT`
+`Thu, 16 Jul 2026 19:11:01 GMT`
 
-xAI 开源的 Grok CLI 编码智能体代码库中包含一个用 Rust 编写的 Mermaid 图表示例终端渲染器 `xai-grok-markdown/src/mermaid.rs`。开发者通过 Claude Code for web （Fable 5） 将其编译为 WebAssembly，实现在浏览器中运行该工具。 🔗 阅读原文：https://simonwillison.net/2026/Jul/16/grok-mermaid via AI HOT · https://aihot.virxact.com/i
+Moonshot AI 发布 PerceptionBench，一个从 40 多个现有基准中模型实际失败案例归纳出的视觉感知基准，包含 10 项原子感知能力和 3000 道验证题。所有测试模型准确率均未超过 60%，且大量正确答案在重复提问时无法复现，表明模型更多是猜测而非真正感知。PerceptionBench 旨在精确诊断多模态 AI 的视觉感知断裂点，推动其实现忠实、一致的视觉理解。 🔗 阅读原文：https://www.kimi.com/blog/perception-bench via AI HOT · h
 
-## [远程操控Agent干活方案：Codex主力 + UU远程兜底](https://aihot.virxact.com/items/cmrmrjrwk001pbimilq46mpeq)
+## [54%企业已遭遇AI智能体安全事件，多数仍共享凭证](https://aihot.virxact.com/items/cmrnvme99015abixymkemy6lj)
 
-`Thu, 16 Jul 2026 00:12:00 GMT`
+`Thu, 16 Jul 2026 19:02:38 GMT`
 
-作者分享了一套远程使用Agent的组合方案：以Codex的远程控制功能作为主力，通过ChatGPT App连接家中24小时开机的Mac Mini，同步所有开发任务、规则和Agent记忆；遇到扫码登录、图形界面操作等Codex难以处理的场景时，用网易UU远程在手机上直接操控电脑完整桌面。UU远程完全免费，支持多设备协同，无需局域网或公网配置。 🔗 阅读原文：https://mp.weixin.qq.com/s/x2JlkhOlGNVhL8oe7AVk9Q via AI HOT · https://aihot.virx
+VentureBeat调查107家企业发现，54%已遭遇AI智能体安全事件（18%确认事故，36%险些酿祸）。仅32%为每个智能体分配独立身份凭证，30%将高风险智能体隔离在沙箱中。安全工具主要依赖模型提供商原生方案，专用智能体安全产品渗透率极低。 🔗 阅读原文：https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-age
 
-## [开源编程智能体内存方案发布，通过 SSH 同步](https://aihot.virxact.com/items/cmrmotlpp07iubiuloujszkts)
+## [ChatGPT 工作区支持文档表格幻灯片编辑](https://aihot.virxact.com/items/cmrnvlijq012lbixy2xhlk8k8)
 
-`Wed, 15 Jul 2026 22:49:15 GMT`
+`Thu, 16 Jul 2026 18:44:58 GMT`
 
-一个面向编程 AI 智能体的开源内存项目在 GitHub 发布，支持通过 SSH 同步记忆数据。该项目允许智能体跨会话保留上下文，无需依赖特定云服务，用户可自托管。代码已开源，便于开发者集成与定制。 🔗 阅读原文：https://github.com/vshulcz/deja-vu via AI HOT · https://aihot.virxact.com/items/cmrmotlpp07iubiuloujszkts
+在 ChatGPT 工作区中创建和编辑精美的文档、电子表格和幻灯片。 @nickbaumann_ 为你演示操作。 🔗 阅读原文：https://x.com/ChatGPTapp/status/2077826846373380535 via AI HOT · https://aihot.virxact.com/items/cmrnvlijq012lbixy2xhlk8k8
 
-## [xAI 开源 Grok Build 编程智能体与终端界面](https://aihot.virxact.com/items/cmrmkn6j703yfbiul4fa0bai9)
+## [Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字](https://aihot.virxact.com/items/cmrnvq3xd015sbixyztrtb01z)
 
-`Wed, 15 Jul 2026 21:07:41 GMT`
+`Thu, 16 Jul 2026 18:32:23 GMT`
 
-xAI 已将 Grok Build 的源代码在 GitHub 上开源。Grok Build 是 SpaceXAI 的编程智能体与终端用户界面（TUI），开源后用户可自行编译并完全本地运行，指向本地推理引擎并通过 `config.toml` 配置。 🔗 阅读原文：https://x.ai/news/grok-build-open-source via AI HOT · https://aihot.virxact.com/items/cmrmkn6j703yfbiul4fa0bai9
+Decoy Font 是一款 TTF 字体，通过在同一字符中叠加不同空间频率的图形（前景细轮廓与背景低频模糊块），使近距离观看时 AI 读到"诱饵"字母，而人眼远距离或眯眼时才能看到真实隐藏信息。 🔗 阅读原文：https://www.mixfont.com/experiments/decoy-font via AI HOT · https://aihot.virxact.com/items/cmrnvq3xd015sbixyztrtb01z
 
-## [Claude Code 新增 MCP 连接器调用功能](https://aihot.virxact.com/items/cmrmk6l3k03rtbiull7o39kq0)
+## [Anthropic 用 Claude Code 大规模迁移代码：Bun 百万行 Zig 转 Rust，两周完成](https://aihot.virxact.com/items/cmrnse7qy002tbixy7gnolvr3)
 
-`Wed, 15 Jul 2026 20:26:06 GMT`
+`Thu, 16 Jul 2026 17:32:26 GMT`
 
-Claude Code 的 artifacts 现在可以调用 MCP 连接器，让你构建能够按需为每位查看者获取信息并执行操作的仪表盘和应用。 适用于 Pro、Max、Team 和 Enterprise 计划。不适用于公开共享的 artifacts。 🔗 阅读原文：https://x.com/ClaudeDevs/status/2077489907350856038 via AI HOT · https://aihot.virxact.com/items/cmrmk6l3k03rtbiull7o39kq0
+Anthropic 工程师用 Claude Code 在两周内将 Bun 的百万行 Zig 代码迁移至 Rust，100% 现有测试通过，合并后出现 19 个回归问题已全部修复。另一工程师用周末将 Python 代码库迁移至 16.5 万行 TypeScript。迁移消耗约 16.5 万美元 API 成本，但编译时间从八分钟降至两秒，二进制启动快 6 倍。 🔗 阅读原文：https://claude.com/blog/ai-code-migration via AI HOT · https://aihot.virx
 
-## [前谷歌DeepMind研究员因公司签署无限制军事AI协议而离职](https://aihot.virxact.com/items/cmrmibbm801m8biulhl6uejzo)
+## [企业AI智能体评估存在"现实对齐"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障](https://aihot.virxact.com/items/cmrnrc11901tnbizz2dlcio3z)
 
-`Wed, 15 Jul 2026 19:37:38 GMT`
+`Thu, 16 Jul 2026 16:40:48 GMT`
 
-前谷歌DeepMind研究员Alex Turner因谷歌向国土安全部出售云服务并最终签署无限制军事AI协议而离职。他曾起草25页提案要求加入禁止杀手机器人和大规模监控的合同条款，但提案被CEO转交后无人跟进。Turner指出，包括Jeff Dean和Stuart Russell在内的多位AI伦理领袖在关键时刻未能兑现承诺。 🔗 阅读原文：https://turntrout.com/why-i-left-google-deepmind via AI HOT · https://aihot.virxact.com/it
+对157家企业的调查显示，50%的组织在过去一年曾部署通过内部评估但导致客户故障的AI智能体或大语言模型功能，5%的企业完全信任自动化评估，29%认为评估与现实结果对齐不佳是最大局限。尽管信任度低，66%的企业已允许或正计划在12个月内实现低风险智能体的全自动、无人工干预部署。 🔗 阅读原文：https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-
 
-## [Thinking Machines 发布多模态模型 Inkling](https://aihot.virxact.com/items/cmrmeaixl05bdbivcipzbkgk8)
+## [Google Vids 上线 Gemini Omni 与个人数字分身功能](https://aihot.virxact.com/items/cmrnq8ryq01d5bizzarqvm3y1)
 
-`Wed, 15 Jul 2026 18:05:50 GMT`
+`Thu, 16 Jul 2026 16:00:00 GMT`
 
-今天，我们推出 Inkling。 Inkling 能高效地对文本、图像和音频模态进行推理。我们将提供完整权重。 https://thinkingmachines.ai/news/introducing-inkling/ 即日起可在 Tinker 上进行微调。在 Inkling Playground 中试用。🧵 🔗 阅读原文：https://x.com/thinkymachines/status/2077454609551921208 via AI HOT · https://aihot.virxact.com/it
+Google Vids 推出两项更新：Gemini Omni 支持用户通过自然语言提示词和图片参考生成、逐步编辑高质量视频片段；个人数字分身功能允许用户上传自拍和语音录制后，输入文字即可让数字分身出镜。两项功能面向 Google AI Pro 和 Ultra 订阅者及 Google Workspace 商业客户开放，所有生成内容均含不可见的 SynthID 数字水印。 🔗 阅读原文：https://blog.google/products-and-platforms/products/workspace/gemin
 
-## [Anthropic 研究：AI 智能体模拟中行为偏差](https://aihot.virxact.com/items/cmrmee60505d9bivcmy92uddy)
+## [世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海](https://aihot.virxact.com/items/cmrnmdjt80051bizz895rbmu6)
 
-`Wed, 15 Jul 2026 17:58:02 GMT`
+`Thu, 16 Jul 2026 14:38:08 GMT`
 
-Anthropic 新研究：2026 年夏季的智能体行为偏差。 在我们的敲诈实验一年后，我们又发现了四种当今自主 AI 智能体在模拟中行为不当的方式。 了解更多：https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/ 🔗 阅读原文：https://x.com/AnthropicAI/status/2077452646303006927 via AI HOT · https://aihot.virxact.com/items/cmr
+7月16日，成立世界人工智能合作组织协定签署仪式在上海举行，中共中央政治局委员、外交部长王毅代表中国政府签署协定。该组织是独立的政府间国际组织，总部设在中国上海，旨在促进人工智能国际合作与全球治理。哈萨克斯坦、老挝、巴基斯坦等29个国家代表签署协定成为创始成员国。 🔗 阅读原文：https://www.ithome.com/0/977/793.htm via AI HOT · https://aihot.virxact.com/items/cmrnmdjt80051bizz895rbmu6
 
-## [AI语音诈骗：退休老人因合成女儿哭声被骗1.5万美元](https://aihot.virxact.com/items/cmrmbtk3z0002bivco9advwbd)
+## [在 Claude Cowork 中使用 Claude Fable 5](https://aihot.virxact.com/items/cmrnlyzl3006sbi8v0f80nbaz)
 
-`Wed, 15 Jul 2026 16:25:19 GMT`
+`Thu, 16 Jul 2026 14:32:22 GMT`
 
-2025年夏季，美国佛罗里达州一名退休老人接到"女儿"哭诉车祸需保释金的电话，一小时内取现1.5万美元交给冒充法院的快递员--实际上，哭声是从一段音频片段合成的AI语音。FBI 2026年4月报告首次将AI欺诈列为独立类别，2025年收到超2.2万起AI相关投诉，调整后损失超8.93亿美元，其中60岁以上受害者占3.52亿美元。 🔗 阅读原文：https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-d
+Anthropic 发布最强通用模型 Claude Fable 5，专为长时间、多步骤的复杂异步工作设计，可在 Claude Cowork 中自主执行深度研究、尽职调查等任务。该模型需手动选择，默认模型为 Claude Sonnet 5。 🔗 阅读原文：https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork via AI HOT · https://aihot.virxact.com/items/cmrnlyzl3006sbi8v0f
