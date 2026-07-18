@@ -5,76 +5,76 @@ description: 自动订阅 AI Hot 每日日报 feed
 
 # AI 每日日报
 
-> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-07-17 05:41:07 +0000
+> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-07-18 05:24:19 +0000
 
-## [生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格](https://aihot.virxact.com/items/cmro8l78w00j5bitou01qowy4)
+## [Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临"再分配"](https://aihot.virxact.com/items/cmrpwwjho06djbisr218fe8ro)
 
-`Fri, 17 Jul 2026 00:40:20 GMT`
+`Sat, 18 Jul 2026 04:47:25 GMT`
 
-AI公司为维持大语言模型（如ChatGPT、Claude）运行，可能已购买全球70%的高端计算机内存，导致内存与存储价格飙升：两年前350美元的硬盘现已涨至800美元且缺货，部分笔记本电脑涨价50%。科技公司计划未来几年将美国数据中心容量扩大8倍，部分站点甚至用喷气发动机供电。预测称，平价入门级电脑可能在2028年前消失，内存短缺预计持续数年。 🔗 阅读原文：https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disast
+Index Ventures 联合创始人 Neil Rimer 表示，围绕 AI 积累的巨额财富将面临"某种形式的再分配"，无论是自愿还是强制。他呼吁科技领袖在推动自愿再分配中发挥主导作用。与此同时，美国慈善捐赠总额虽创新高，但捐赠人数持续下降，而加州正考虑对亿万富翁征收 5% 的一次性财富税。 🔗 阅读原文：https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out via AI HOT · https:/
 
-## [Grok 推出 Automations 功能：定时或邮件触发，自动执行任务并汇报结果](https://aihot.virxact.com/items/cmro185e3011jbij2ond4t12b)
+## [Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？](https://aihot.virxact.com/items/cmrp97h7o0020biuxh7pzewro)
 
-`Thu, 16 Jul 2026 21:39:40 GMT`
+`Fri, 17 Jul 2026 17:41:32 GMT`
 
-xAI 为 Grok 引入 Automations 功能，用户可描述一次任务，让 Grok 按计划（一次/每日/工作日/每周/每月/每年）或邮件触发（按发件人、收件人或主题过滤）自动运行。每次执行都是一次完整对话，结果保存至运行历史，支持邮件或应用内通知。定时自动化对所有用户开放，邮件触发需 SuperGrok 订阅。 🔗 阅读原文：https://x.ai/news/grok-automations via AI HOT · https://aihot.virxact.com/items/cmro185e3011
+Apple 对 OpenAI 提起诉讼，指控其存在多项不当行为，尽管许多专家认为部分指控属于行业惯例。此举正值 Apple 发布新版软件公测版（以新 Siri AI 为核心）之际，外界猜测 Apple 究竟是担忧 OpenAI 成为潜在竞争对手，还是想利用 OpenAI 的弱势期获利。 🔗 阅读原文：https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast via AI HOT · https://aihot.virxact.com
 
-## [xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用](https://aihot.virxact.com/items/cmrnz309k00f0biq1v5egac59)
+## [月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件](https://aihot.virxact.com/items/cmrp8wsr10bhobitotnd5hzeq)
 
-`Thu, 16 Jul 2026 20:26:23 GMT`
+`Fri, 17 Jul 2026 17:38:33 GMT`
 
-xAI 首次对一名 Grok 用户提起诉讼，指控其利用该模型制作儿童性虐待图像（CSAM）。此前 xAI 一直否认 Grok 能生成此类内容，此次诉讼标志着其立场转变。案件聚焦用户滥用行为，而非模型本身的技术缺陷。 🔗 阅读原文：https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users via AI HOT · https://aihot.virxact.com/items
+月之暗面CEO杨植麟在GTC 2026演讲中提出用MuonClip优化器替代Adam，可将数据利用效率提升近一倍。同时推出Kimi Linear线性注意力，在百万Token上下文下全面超越全注意力；Agent Swarm已支持300个Agent并行工作。 🔗 阅读原文：https://x.com/dotey/status/2078172517085085951 via AI HOT · https://aihot.virxact.com/items/cmrp8wsr10bhobitotnd5hzeq
 
-## [Moonshot AI 发布 PerceptionBench：多模态模型视觉感知能力诊断基准](https://aihot.virxact.com/items/cmrnvwztt01bebixyznbje716)
+## [八天四款前沿模型发布，Kimi K3 跻身第三](https://aihot.virxact.com/items/cmrp7cwpv0ay9bitoudhrgt7k)
 
-`Thu, 16 Jul 2026 19:11:01 GMT`
+`Fri, 17 Jul 2026 17:11:19 GMT`
 
-Moonshot AI 发布 PerceptionBench，一个从 40 多个现有基准中模型实际失败案例归纳出的视觉感知基准，包含 10 项原子感知能力和 3000 道验证题。所有测试模型准确率均未超过 60%，且大量正确答案在重复提问时无法复现，表明模型更多是猜测而非真正感知。PerceptionBench 旨在精确诊断多模态 AI 的视觉感知断裂点，推动其实现忠实、一致的视觉理解。 🔗 阅读原文：https://www.kimi.com/blog/perception-bench via AI HOT · h
+过去八天内，Grok 4.5、GPT-5.6、Muse Spark 1.1 与 Kimi K3 四款前沿模型相继发布，使 Artificial Analysis Intelligence Index 得分超 50 的实验室从 6 月初的 2 家增至 6 家。 🔗 阅读原文：https://x.com/ArtificialAnlys/status/2078165665278730490 via AI HOT · https://aihot.virxact.com/items/cmrp7cwpv0ay9bitoudhr
 
-## [54%企业已遭遇AI智能体安全事件，多数仍共享凭证](https://aihot.virxact.com/items/cmrnvme99015abixymkemy6lj)
+## [Sora 2 视频克隆效果惊人，真假难辨](https://aihot.virxact.com/items/cmrp6rlcn0aq5bitortofd0cp)
 
-`Thu, 16 Jul 2026 19:02:38 GMT`
+`Fri, 17 Jul 2026 16:34:01 GMT`
 
-VentureBeat调查107家企业发现，54%已遭遇AI智能体安全事件（18%确认事故，36%险些酿祸）。仅32%为每个智能体分配独立身份凭证，30%将高风险智能体隔离在沙箱中。安全工具主要依赖模型提供商原生方案，专用智能体安全产品渗透率极低。 🔗 阅读原文：https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-age
+一年后，没有任何东西能接近 Sora 的完美视频深度克隆。它捕捉到了我和 Sam 的每一块面部肌肉运动以及我们走路的方式。 如果你从这段关于我或 Sam 的视频中截取一帧，根本无法判断它是真是假。 🔗 阅读原文：https://x.com/gabriel1/status/2078156277247881438 via AI HOT · https://aihot.virxact.com/items/cmrp6rlcn0aq5bitortofd0cp
 
-## [ChatGPT 工作区支持文档表格幻灯片编辑](https://aihot.virxact.com/items/cmrnvlijq012lbixy2xhlk8k8)
+## [Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高](https://aihot.virxact.com/items/cmrp5pfjw0af6bitoudv35oqk)
 
-`Thu, 16 Jul 2026 18:44:58 GMT`
+`Fri, 17 Jul 2026 16:32:51 GMT`
 
-在 ChatGPT 工作区中创建和编辑精美的文档、电子表格和幻灯片。 @nickbaumann_ 为你演示操作。 🔗 阅读原文：https://x.com/ChatGPTapp/status/2077826846373380535 via AI HOT · https://aihot.virxact.com/items/cmrnvlijq012lbixy2xhlk8k8
+Cursor 的模型评估负责人 Nate Schmidt 发现，Claude Fable 5 在其内部基准 CursorBench 上以 Max effort 模式达到 72.9%，创下新高。该模型在模糊的真实编程任务中表现出全局推理能力，例如在航天模拟器中仅凭一句提示自主规划并成功登月，而此前 Claude Opus 运行 12 小时以上仍无结果。 🔗 阅读原文：https://claude.com/blog/working-at-the-frontier-cursor via AI HOT · https://
 
-## [Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字](https://aihot.virxact.com/items/cmrnvq3xd015sbixyztrtb01z)
+## [美团LongCat发布LoHoSearch：更难搜索智能体基准](https://aihot.virxact.com/items/cmrp0qw3s090ybitorwj6diwi)
 
-`Thu, 16 Jul 2026 18:32:23 GMT`
+`Fri, 17 Jul 2026 14:08:29 GMT`
 
-Decoy Font 是一款 TTF 字体，通过在同一字符中叠加不同空间频率的图形（前景细轮廓与背景低频模糊块），使近距离观看时 AI 读到"诱饵"字母，而人眼远距离或眯眼时才能看到真实隐藏信息。 🔗 阅读原文：https://www.mixfont.com/experiments/decoy-font via AI HOT · https://aihot.virxact.com/items/cmrnvq3xd015sbixyztrtb01z
+美团LongCat推出LoHoSearch，一个基于762万实体维基百科知识图谱自动生成问题的搜索智能体基准，旨在解决BrowseComp等现有基准趋于饱和的问题。在11个前沿模型测试中，最佳得分仅34.74%，远低于当前模型在BrowseComp上约90%的成绩；上下文策略仅带来+6.8个百分点的提升。该基准包含544道问题、11个领域，采用树与图结构，已开源。 🔗 阅读原文：https://x.com/Meituan_LongCat/status/2078119654632124547 via AI HOT ·
 
-## [Anthropic 用 Claude Code 大规模迁移代码：Bun 百万行 Zig 转 Rust，两周完成](https://aihot.virxact.com/items/cmrnse7qy002tbixy7gnolvr3)
+## [苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函](https://aihot.virxact.com/items/cmrove64p07imbitof1v9rzwz)
 
-`Thu, 16 Jul 2026 17:32:26 GMT`
+`Fri, 17 Jul 2026 11:10:01 GMT`
 
-Anthropic 工程师用 Claude Code 在两周内将 Bun 的百万行 Zig 代码迁移至 Rust，100% 现有测试通过，合并后出现 19 个回归问题已全部修复。另一工程师用周末将 Python 代码库迁移至 16.5 万行 TypeScript。迁移消耗约 16.5 万美元 API 成本，但编译时间从八分钟降至两秒，二进制启动快 6 倍。 🔗 阅读原文：https://claude.com/blog/ai-code-migration via AI HOT · https://aihot.virx
+苹果已向约40名就职于OpenAI的前员工发出律师函，要求保存相关文件。此前苹果起诉OpenAI及两名前员工，指控其通过挖角获取商业机密以加速AI硬件研发。苹果称已有超400名前员工在OpenAI工作，正寻求法院禁令阻止OpenAI使用苹果信息并要求归还机密。 🔗 阅读原文：https://www.ithome.com/0/978/277.htm via AI HOT · https://aihot.virxact.com/items/cmrove64p07imbitof1v9rzwz
 
-## [企业AI智能体评估存在"现实对齐"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障](https://aihot.virxact.com/items/cmrnrc11901tnbizz2dlcio3z)
+## [OpenAI 提出 AI 时代记分卡："有用智能每美元"衡量实际工作价值](https://aihot.virxact.com/items/cmrozfoiv08mhbitofbllzxl4)
 
-`Thu, 16 Jul 2026 16:40:48 GMT`
+`Fri, 17 Jul 2026 10:00:00 GMT`
 
-对157家企业的调查显示，50%的组织在过去一年曾部署通过内部评估但导致客户故障的AI智能体或大语言模型功能，5%的企业完全信任自动化评估，29%认为评估与现实结果对齐不佳是最大局限。尽管信任度低，66%的企业已允许或正计划在12个月内实现低风险智能体的全自动、无人工干预部署。 🔗 阅读原文：https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-
+OpenAI 提出"Useful Intelligence per Dollar"（有用智能每美元）作为衡量 AI 投资回报的核心指标，从完成的有用工作量、成功任务的实际成本、结果可靠性三个维度评估。 🔗 阅读原文：https://openai.com/index/a-scorecard-for-the-ai-age via AI HOT · https://aihot.virxact.com/items/cmrozfoiv08mhbitofbllzxl4
 
-## [Google Vids 上线 Gemini Omni 与个人数字分身功能](https://aihot.virxact.com/items/cmrnq8ryq01d5bizzarqvm3y1)
+## [首届"小有可为"大赛乡村教育一等奖作品"智绘科普"技术拆解](https://aihot.virxact.com/items/cmrorbywu06cebitoixzgpb5l)
 
-`Thu, 16 Jul 2026 16:00:00 GMT`
+`Fri, 17 Jul 2026 09:41:25 GMT`
 
-Google Vids 推出两项更新：Gemini Omni 支持用户通过自然语言提示词和图片参考生成、逐步编辑高质量视频片段；个人数字分身功能允许用户上传自拍和语音录制后，输入文字即可让数字分身出镜。两项功能面向 Google AI Pro 和 Ultra 订阅者及 Google Workspace 商业客户开放，所有生成内容均含不可见的 SynthID 数字水印。 🔗 阅读原文：https://blog.google/products-and-platforms/products/workspace/gemin
+首届"小有可为"大赛乡村教育赛道一等奖作品"智绘科普"采用 Qwen3.5-397B-A17B 大语言模型与 Manim 动画引擎，通过多Agent分阶段协作与自动修复机制，将知识主题转化为可控、可编辑的教学动画。系统包含规划、草稿、实现、审查、合成五个阶段，渲染失败时可自动提取日志并修复，该工程范式可迁移至其他赛道。 🔗 阅读原文：https://mp.weixin.qq.com/s/a2YKWmyMoyIc3GKLbXffpQ via AI HOT · https://aihot.virxact.com/ite
 
-## [世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海](https://aihot.virxact.com/items/cmrnmdjt80051bizz895rbmu6)
+## [Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩](https://aihot.virxact.com/items/cmropqooe05tqbitodvnqnc6u)
 
-`Thu, 16 Jul 2026 14:38:08 GMT`
+`Fri, 17 Jul 2026 08:41:53 GMT`
 
-7月16日，成立世界人工智能合作组织协定签署仪式在上海举行，中共中央政治局委员、外交部长王毅代表中国政府签署协定。该组织是独立的政府间国际组织，总部设在中国上海，旨在促进人工智能国际合作与全球治理。哈萨克斯坦、老挝、巴基斯坦等29个国家代表签署协定成为创始成员国。 🔗 阅读原文：https://www.ithome.com/0/977/793.htm via AI HOT · https://aihot.virxact.com/items/cmrnmdjt80051bizz895rbmu6
+Schema 框架在 ARC-AGI-3 公开集上，使用 Claude Opus 4.8 和 Fable 5 达到 99% RHAE 分数，使用 GPT-5.6 Sol 达到 95.35%。该框架不修改模型权重，而是将原始观测转化为可编辑程序，联合解决状态归因和机制发现问题。此前最强模型 GPT-5.6 Sol 在半私有集上仅得 7.78%。 🔗 阅读原文：https://schema-harness.github.io/ via AI HOT · https://aihot.virxact.com/items/c
 
-## [在 Claude Cowork 中使用 Claude Fable 5](https://aihot.virxact.com/items/cmrnlyzl3006sbi8v0f80nbaz)
+## [NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本在 RTEB 基准上排名第一](https://aihot.virxact.com/items/cmronvv4105bdbitohe86a4un)
 
-`Thu, 16 Jul 2026 14:32:22 GMT`
+`Fri, 17 Jul 2026 07:53:02 GMT`
 
-Anthropic 发布最强通用模型 Claude Fable 5，专为长时间、多步骤的复杂异步工作设计，可在 Claude Cowork 中自主执行深度研究、尽职调查等任务。该模型需手动选择，默认模型为 Claude Sonnet 5。 🔗 阅读原文：https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork via AI HOT · https://aihot.virxact.com/items/cmrnlyzl3006sbi8v0f
+NVIDIA 发布 Nemotron 3 Embed 系列，包含三个开源 checkpoint，其中 8B-BF16 版本在 RTEB 基准上以 78.46 的平均 NDCG@10 排名第一。1B-NVFP4 版本在 Blackwell 上吞吐量比 BF16 高 2 倍，精度保留 99.5%，所有模型最大序列长度 32，768 tokens。 🔗 阅读原文：https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-o
