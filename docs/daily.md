@@ -5,7 +5,55 @@ description: 自动订阅 AI Hot 每日日报 feed
 
 # AI 每日日报
 
-> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-07-19 05:50:23 +0000
+> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-07-20 06:16:39 +0000
+
+## [面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型](https://aihot.virxact.com/items/cmrsp4xym0bb4biwm2ex85cp2)
+
+`Mon, 20 Jul 2026 03:54:08 GMT`
+
+面壁智能联合 OpenBMB 发布并开源 MiniCPM-Robot 系列，包括通用 VLA 模型 MiniCPM-RobotManip（1.5B 参数）与移动跟踪模型 MiniCPM-RobotTrack（0.9B 参数）。 🔗 阅读原文：https://mp.weixin.qq.com/s/KwBAC8TFa846WFj-DHrgIQ via AI HOT · https://aihot.virxact.com/items/cmrsp4xym0bb4biwm2ex85cp2
+
+## [Ollama 获 8800 万美元融资，加速开放模型生态发展](https://aihot.virxact.com/items/cmrsl3weh0a3pbiwmdqtrjycc)
+
+`Mon, 20 Jul 2026 01:45:09 GMT`
+
+Ollama 宣布完成 8800 万美元融资，由 Benchmark、Theory Ventures 和 8VC 等领投。该平台已服务 890 万开发者，并被 85% 的财富 500 强企业使用，其云端 token 用量月均翻倍。资金将用于支持无缝混合推理、新模型发布当日集成，以及让开发者在不牺牲所有权和隐私的前提下使用最强开放模型。 🔗 阅读原文：https://ollama.com/blog/all-aboard-open-models via AI HOT · https://aihot.virxact.co
+
+## [不会代码也能做产品：一份从0开始的Vibe Coding保姆级教程](https://aihot.virxact.com/items/cmrshb0i008zzbiwmuvh5kufa)
+
+`Mon, 20 Jul 2026 00:08:00 GMT`
+
+本文面向零代码用户，提供一套使用国产大模型（Kimi、GLM、Qwen等）从零开发并上线产品的完整流程。核心步骤包括购买Coding Plan、下载官方Agent编程产品、注册域名与服务器并同步做ICP备案，然后通过Agent的Plan模式描述需求并让AI自动执行开发。上线后建议建立分支保护与测试流程，并强调即使不懂代码，也必须对系统架构了如指掌。 🔗 阅读原文：https://mp.weixin.qq.com/s/EeHjsju08ARLbwtwFcViqg via AI HOT · https://aihot.
+
+## [黄仁勋访日：Nvidia 联手日本打造物理 AI 时代，Noetra 主权 AI 工厂与 Cosmos 机器人联盟落地](https://aihot.virxact.com/items/cmrsbql4401gxbiuaj7s1567n)
+
+`Sun, 19 Jul 2026 21:16:07 GMT`
+
+Nvidia CEO 黄仁勋在 7 月 15-16 日访日期间，宣布为日本建设"Vera Rubin AI 工厂"，配备 13，750 颗 Vera CPU 和 27，500 颗 Rubin GPU，预计 2028 年投运。 🔗 阅读原文：https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit via AI HOT · https://aihot.virxact.com/items/cmrsbql4401
+
+## [字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成](https://aihot.virxact.com/items/cmrsopm9r0b7ubiwmtfvpwkxu)
+
+`Sun, 19 Jul 2026 16:00:00 GMT`
+
+字节跳动 Seed 团队发布音频创作模型 Seed Audio 1.0，在统一框架下联合建模人声、音效和环境声，支持 100ms 间隔精度的时间控制、单次约 2 分钟音频的延展生成及 20+ 语种自然生成。该模型已在火山方舟体验中心上线，多数场景音频可用率达 90% 以上，多语言音频自然度 MOS 超 4 分。 🔗 阅读原文：https://seed.bytedance.com/zh/blog/%E4%BB%8E-%E4%BC%9A%E8%AF%B4-%E8%B5%B0%E5%90%91-%E4%BC%9A%E5%
+
+## [MiniCPM5-2B发布：4B以下全球性能第一，适配9款芯片](https://aihot.virxact.com/items/cmrru2n5x00vzbi5qea6youod)
+
+`Sun, 19 Jul 2026 13:12:39 GMT`
+
+面壁智能联合OpenBMB发布端侧模型MiniCPM5-2B，以2B参数量在AA-Index榜单取得4B以下模型最高分17分，平均分54.26，超越Qwen3.5-2B等竞品。模型原生支持混合思考与512K上下文，已完成华为昇腾、英伟达等9款芯片的Day0适配，即将开源。 🔗 阅读原文：https://mp.weixin.qq.com/s/rjFxrUylyGMqa5QtgypCdw via AI HOT · https://aihot.virxact.com/items/cmrru2n5x00vzbi5qea6y
+
+## [昆仑万维宣布2026为"世界模型元年"，发布Matrix-Game 3.5等模型](https://aihot.virxact.com/items/cmrrt03gx00mkbi5qtoim4wvo)
+
+`Sun, 19 Jul 2026 12:35:56 GMT`
+
+昆仑万维董事长方汉在WAIC上宣布2026年为"世界模型元年"，并发布Matrix-Game 3.5世界模型、Mureka v9.5与O3音乐模型。Matrix-Game 3.5实现Patch级记忆注入，5B模型在720p分辨率下单卡可达20FPS实时生成，核心架构已开源。 🔗 阅读原文：https://mp.weixin.qq.com/s/LidvGePhOOoUY3KTor_w9g via AI HOT · https://aihot.virxact.com/items/cmrrt03gx00mkbi5qtoi
+
+## [Qwen3.8 开源发布，2.4T 参数模型上线](https://aihot.virxact.com/items/cmrrjaxlv030jbihklywu3xy6)
+
+`Sun, 19 Jul 2026 08:10:39 GMT`
+
+Qwen3.8 即将发布并很快开源权重！🌐 该模型拥有 2.4T 海量参数，正在持续进化。我们相信它是目前最强大的模型之一，可与领先的前沿 AI 模型媲美，仅次于 Fable 5。 你无需等待即可测试。就在刚才，Qwen3.8-Max-Preview 已在阿里巴巴的 Token Plan、Qoder 和 QoderWork 上首次亮相。快来抢先体验吧。 期待你的作品。敬请关注！🚀 🔗 阅读原文：https://x.com/Alibaba_Qwen/status/2078754377473601787 via AI 
 
 ## [AI 热潮正在瓦解全球决策机制](https://aihot.virxact.com/items/cmrrd5bjb00cfbikihob9drtj)
 
@@ -30,51 +78,3 @@ transcribe.cpp v0.1.0 发布，一个基于 ggml 的语音转录库，支持 16 
 `Sat, 18 Jul 2026 04:47:25 GMT`
 
 Index Ventures 联合创始人 Neil Rimer 表示，围绕 AI 积累的巨额财富将面临"某种形式的再分配"，无论是自愿还是强制。他呼吁科技领袖在推动自愿再分配中发挥主导作用。与此同时，美国慈善捐赠总额虽创新高，但捐赠人数持续下降，而加州正考虑对亿万富翁征收 5% 的一次性财富税。 🔗 阅读原文：https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out via AI HOT · https:/
-
-## [Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？](https://aihot.virxact.com/items/cmrp97h7o0020biuxh7pzewro)
-
-`Fri, 17 Jul 2026 17:41:32 GMT`
-
-Apple 对 OpenAI 提起诉讼，指控其存在多项不当行为，尽管许多专家认为部分指控属于行业惯例。此举正值 Apple 发布新版软件公测版（以新 Siri AI 为核心）之际，外界猜测 Apple 究竟是担忧 OpenAI 成为潜在竞争对手，还是想利用 OpenAI 的弱势期获利。 🔗 阅读原文：https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast via AI HOT · https://aihot.virxact.com
-
-## [月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件](https://aihot.virxact.com/items/cmrp8wsr10bhobitotnd5hzeq)
-
-`Fri, 17 Jul 2026 17:38:33 GMT`
-
-月之暗面CEO杨植麟在GTC 2026演讲中提出用MuonClip优化器替代Adam，可将数据利用效率提升近一倍。同时推出Kimi Linear线性注意力，在百万Token上下文下全面超越全注意力；Agent Swarm已支持300个Agent并行工作。 🔗 阅读原文：https://x.com/dotey/status/2078172517085085951 via AI HOT · https://aihot.virxact.com/items/cmrp8wsr10bhobitotnd5hzeq
-
-## [八天四款前沿模型发布，Kimi K3 跻身第三](https://aihot.virxact.com/items/cmrp7cwpv0ay9bitoudhrgt7k)
-
-`Fri, 17 Jul 2026 17:11:19 GMT`
-
-过去八天内，Grok 4.5、GPT-5.6、Muse Spark 1.1 与 Kimi K3 四款前沿模型相继发布，使 Artificial Analysis Intelligence Index 得分超 50 的实验室从 6 月初的 2 家增至 6 家。 🔗 阅读原文：https://x.com/ArtificialAnlys/status/2078165665278730490 via AI HOT · https://aihot.virxact.com/items/cmrp7cwpv0ay9bitoudhr
-
-## [美团LongCat发布LoHoSearch：更难搜索智能体基准](https://aihot.virxact.com/items/cmrp0qw3s090ybitorwj6diwi)
-
-`Fri, 17 Jul 2026 14:08:29 GMT`
-
-美团LongCat推出LoHoSearch，一个基于762万实体维基百科知识图谱自动生成问题的搜索智能体基准，旨在解决BrowseComp等现有基准趋于饱和的问题。在11个前沿模型测试中，最佳得分仅34.74%，远低于当前模型在BrowseComp上约90%的成绩；上下文策略仅带来+6.8个百分点的提升。该基准包含544道问题、11个领域，采用树与图结构，已开源。 🔗 阅读原文：https://x.com/Meituan_LongCat/status/2078119654632124547 via AI HOT ·
-
-## [LLM cliché highlighter：一款识别AI写作套话的检测工具](https://aihot.virxact.com/items/cmrpy1nvp06pubisrn8ne51v6)
-
-`Fri, 17 Jul 2026 12:11:11 GMT`
-
-Simon Willison 用 Fable 5 开发了一款 LLM cliché highlighter 应用，用于高亮 LLM 生成文本中常见的十种套话模式，例如"no fluff， no filler， no jargon"这类陈词滥调。该工具旨在帮助读者快速识别并过滤掉充斥在文章中的 AI 写作风格化表达。 🔗 阅读原文：https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter via AI HOT · https://aihot.virxac
-
-## [苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函](https://aihot.virxact.com/items/cmrove64p07imbitof1v9rzwz)
-
-`Fri, 17 Jul 2026 11:10:01 GMT`
-
-苹果已向约40名就职于OpenAI的前员工发出律师函，要求保存相关文件。此前苹果起诉OpenAI及两名前员工，指控其通过挖角获取商业机密以加速AI硬件研发。苹果称已有超400名前员工在OpenAI工作，正寻求法院禁令阻止OpenAI使用苹果信息并要求归还机密。 🔗 阅读原文：https://www.ithome.com/0/978/277.htm via AI HOT · https://aihot.virxact.com/items/cmrove64p07imbitof1v9rzwz
-
-## [OpenAI 提出 AI 时代记分卡："有用智能每美元"衡量实际工作价值](https://aihot.virxact.com/items/cmrozfoiv08mhbitofbllzxl4)
-
-`Fri, 17 Jul 2026 10:00:00 GMT`
-
-OpenAI 提出"Useful Intelligence per Dollar"（有用智能每美元）作为衡量 AI 投资回报的核心指标，从完成的有用工作量、成功任务的实际成本、结果可靠性三个维度评估。 🔗 阅读原文：https://openai.com/index/a-scorecard-for-the-ai-age via AI HOT · https://aihot.virxact.com/items/cmrozfoiv08mhbitofbllzxl4
-
-## [首届"小有可为"大赛乡村教育一等奖作品"智绘科普"技术拆解](https://aihot.virxact.com/items/cmrorbywu06cebitoixzgpb5l)
-
-`Fri, 17 Jul 2026 09:41:25 GMT`
-
-首届"小有可为"大赛乡村教育赛道一等奖作品"智绘科普"采用 Qwen3.5-397B-A17B 大语言模型与 Manim 动画引擎，通过多Agent分阶段协作与自动修复机制，将知识主题转化为可控、可编辑的教学动画。系统包含规划、草稿、实现、审查、合成五个阶段，渲染失败时可自动提取日志并修复，该工程范式可迁移至其他赛道。 🔗 阅读原文：https://mp.weixin.qq.com/s/a2YKWmyMoyIc3GKLbXffpQ via AI HOT · https://aihot.virxact.com/ite
