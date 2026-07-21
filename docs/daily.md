@@ -5,76 +5,76 @@ description: 自动订阅 AI Hot 每日日报 feed
 
 # AI 每日日报
 
-> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-07-20 06:16:39 +0000
+> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-07-21 05:49:16 +0000
 
-## [面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型](https://aihot.virxact.com/items/cmrsp4xym0bb4biwm2ex85cp2)
+## [腾讯混元推出Hyra-1.0递归自我改进研究智能体](https://aihot.virxact.com/items/cmru3vmv252v2bihzm2btrcpy)
 
-`Mon, 20 Jul 2026 03:54:08 GMT`
+`Tue, 21 Jul 2026 03:33:08 GMT`
 
-面壁智能联合 OpenBMB 发布并开源 MiniCPM-Robot 系列，包括通用 VLA 模型 MiniCPM-RobotManip（1.5B 参数）与移动跟踪模型 MiniCPM-RobotTrack（0.9B 参数）。 🔗 阅读原文：https://mp.weixin.qq.com/s/KwBAC8TFa846WFj-DHrgIQ via AI HOT · https://aihot.virxact.com/items/cmrsp4xym0bb4biwm2ex85cp2
+腾讯混元推出Hyra-1.0，一个能递归自我改进的研究智能体，在NanoChat等三项任务上均超越Recursive公开结果。Hyra在55个数学开放问题中刷新29个历史最好结果，并设计出仅含15个可训练参数即可完成10位数加法的Transformer。所有产物已在GitHub开源。 🔗 阅读原文：https://mp.weixin.qq.com/s/upwDQ_6ZfmszBUcRQjR_Dg via AI HOT · https://aihot.virxact.com/items/cmru3vmv252v2bi
 
-## [Ollama 获 8800 万美元融资，加速开放模型生态发展](https://aihot.virxact.com/items/cmrsl3weh0a3pbiwmdqtrjycc)
+## [Anthropic 与作家群体15亿美元版权和解获批](https://aihot.virxact.com/items/cmru21tbc4mjcbihzxvgo4yo1)
 
-`Mon, 20 Jul 2026 01:45:09 GMT`
+`Tue, 21 Jul 2026 01:57:54 GMT`
 
-Ollama 宣布完成 8800 万美元融资，由 Benchmark、Theory Ventures 和 8VC 等领投。该平台已服务 890 万开发者，并被 85% 的财富 500 强企业使用，其云端 token 用量月均翻倍。资金将用于支持无缝混合推理、新模型发布当日集成，以及让开发者在不牺牲所有权和隐私的前提下使用最强开放模型。 🔗 阅读原文：https://ollama.com/blog/all-aboard-open-models via AI HOT · https://aihot.virxact.co
+美国旧金山联邦法官批准了Anthropic与作家群体达成的15亿美元（约101.67亿元人民币）版权和解协议，这是美国金额最大的版权赔偿案。此前法院裁定Anthropic对书籍进行AI训练属于合理使用，但保存超700万本盗版书籍侵犯了作者权利。Anthropic称超91%的受约束作者和出版商已领取赔偿。 🔗 阅读原文：https://www.ithome.com/0/979/324.htm via AI HOT · https://aihot.virxact.com/items/cmru21tbc4mjcbihzx
 
-## [不会代码也能做产品：一份从0开始的Vibe Coding保姆级教程](https://aihot.virxact.com/items/cmrshb0i008zzbiwmuvh5kufa)
+## [一个随机数就能识别AI模型身份：行为指纹技术可检测API中转站偷换模型](https://aihot.virxact.com/items/cmrtyvkng3voibihzero6pry1)
 
-`Mon, 20 Jul 2026 00:08:00 GMT`
+`Tue, 21 Jul 2026 01:10:49 GMT`
 
-本文面向零代码用户，提供一套使用国产大模型（Kimi、GLM、Qwen等）从零开发并上线产品的完整流程。核心步骤包括购买Coding Plan、下载官方Agent编程产品、注册域名与服务器并同步做ICP备案，然后通过Agent的Plan模式描述需求并让AI自动执行开发。上线后建议建立分支保护与测试流程，并强调即使不懂代码，也必须对系统架构了如指掌。 🔗 阅读原文：https://mp.weixin.qq.com/s/EeHjsju08ARLbwtwFcViqg via AI HOT · https://aihot.
+布拉格经济大学研究员托马什·布鲁克纳发现，通过让模型反复输出1到100的随机数，可生成独一无二的"行为指纹"。对165个模型各问30次后发现，GPT-4o偏爱42和37，Claude Sonnet 5疯狂输出47，Qwen3-Max则30次全部回答42。该方法仅需约120条请求即可识别模型身份，错误率约10.6%，为验证API是否被偷换模型提供了轻量级方案。 🔗 阅读原文：https://mp.weixin.qq.com/s/pqFZreEZj8kB4KDirl4MSQ via AI HOT · https://a
 
-## [黄仁勋访日：Nvidia 联手日本打造物理 AI 时代，Noetra 主权 AI 工厂与 Cosmos 机器人联盟落地](https://aihot.virxact.com/items/cmrsbql4401gxbiuaj7s1567n)
+## [代理群（Agent Swarm）通过树状分解在构建 SQLite（Rust 版）任务中达到 80% 测试通过率](https://aihot.virxact.com/items/cmrtxsl2e3o24bihzutblssoo)
 
-`Sun, 19 Jul 2026 21:16:07 GMT`
+`Tue, 21 Jul 2026 00:35:26 GMT`
 
-Nvidia CEO 黄仁勋在 7 月 15-16 日访日期间，宣布为日本建设"Vera Rubin AI 工厂"，配备 13，750 颗 Vera CPU 和 27，500 颗 Rubin GPU，预计 2028 年投运。 🔗 阅读原文：https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit via AI HOT · https://aihot.virxact.com/items/cmrsbql4401
+一项实验证明，将任务分解为规划者与执行者的树状结构后，代理群在四小时内用 Grok 4.5 达到 80% 的 SQL 测试通过率，而旧版代理群在第二小时前即失败。新系统峰值提交速度达每秒 1，000 次，为此团队从零构建了专用版本控制系统。该架构已在构建浏览器、修复漏洞及生成数十亿 token 合成数据等任务中验证。 🔗 阅读原文：https://cursor.com/blog/agent-swarm-model-economics via AI HOT · https://aihot.virxact.com/it
 
-## [字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成](https://aihot.virxact.com/items/cmrsopm9r0b7ubiwmtfvpwkxu)
+## [ArXiv上超30%新投稿文本特征与AI撰写一致](https://aihot.virxact.com/items/cmrtkxcfk49mmbitl5rnaga7n)
 
-`Sun, 19 Jul 2026 16:00:00 GMT`
+`Mon, 20 Jul 2026 18:28:23 GMT`
 
-字节跳动 Seed 团队发布音频创作模型 Seed Audio 1.0，在统一框架下联合建模人声、音效和环境声，支持 100ms 间隔精度的时间控制、单次约 2 分钟音频的延展生成及 20+ 语种自然生成。该模型已在火山方舟体验中心上线，多数场景音频可用率达 90% 以上，多语言音频自然度 MOS 超 4 分。 🔗 阅读原文：https://seed.bytedance.com/zh/blog/%E4%BB%8E-%E4%BC%9A%E8%AF%B4-%E8%B5%B0%E5%90%91-%E4%BC%9A%E5%
+一项对12，750篇ArXiv论文全文的检测显示，截至2026年7月，约32%的新投稿文本特征与AI撰写一致，该比例在2026年初峰值接近39%。计算机科学领域最高（65%），数学领域最低（0.7%）。检测器在0.4%假阳性率下可识别85%的AI学术文本。 🔗 阅读原文：https://unslop.run/blog/measuring-ai-writing-on-arxiv via AI HOT · https://aihot.virxact.com/items/cmrtkxcfk49mmbitl5rnaga7n
 
-## [MiniCPM5-2B发布：4B以下全球性能第一，适配9款芯片](https://aihot.virxact.com/items/cmrru2n5x00vzbi5qea6youod)
+## [《第九区》导演Neill Blomkamp发布首部完全由AI生成的短片《Nightborne》](https://aihot.virxact.com/items/cmrtirgkp3n0ybitlf25zqtwv)
 
-`Sun, 19 Jul 2026 13:12:39 GMT`
+`Mon, 20 Jul 2026 17:32:41 GMT`
 
-面壁智能联合OpenBMB发布端侧模型MiniCPM5-2B，以2B参数量在AA-Index榜单取得4B以下模型最高分17分，平均分54.26，超越Qwen3.5-2B等竞品。模型原生支持混合思考与512K上下文，已完成华为昇腾、英伟达等9款芯片的Day0适配，即将开源。 🔗 阅读原文：https://mp.weixin.qq.com/s/rjFxrUylyGMqa5QtgypCdw via AI HOT · https://aihot.virxact.com/items/cmrru2n5x00vzbi5qea6y
+Neill Blomkamp发布了13分钟科幻恐怖短片《Nightborne》，完全使用Seedance 2.0视频生成模型通过文本提示逐帧创作。影片采用纪录片风格，使用了32位真实人物的面部和声音（已获授权），人类艺术家负责概念艺术。Blomkamp表示计划以相同格式拍摄一部长片，并已创立AI电影工作室Barley Studios。 🔗 阅读原文：https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film
 
-## [昆仑万维宣布2026为"世界模型元年"，发布Matrix-Game 3.5等模型](https://aihot.virxact.com/items/cmrrt03gx00mkbi5qtoim4wvo)
+## [中国AI几乎追平美国，Kimi K3开源模型引发市场震荡](https://aihot.virxact.com/items/cmrtiqzfu3mx9bitlx9vw60wj)
 
-`Sun, 19 Jul 2026 12:35:56 GMT`
+`Mon, 20 Jul 2026 17:27:55 GMT`
 
-昆仑万维董事长方汉在WAIC上宣布2026年为"世界模型元年"，并发布Matrix-Game 3.5世界模型、Mureka v9.5与O3音乐模型。Matrix-Game 3.5实现Patch级记忆注入，5B模型在720p分辨率下单卡可达20FPS实时生成，核心架构已开源。 🔗 阅读原文：https://mp.weixin.qq.com/s/LidvGePhOOoUY3KTor_w9g via AI HOT · https://aihot.virxact.com/items/cmrrt03gx00mkbi5qtoi
+中国公司月之暗面（Moonshot.AI）发布Kimi K3模型，性能与最佳美国模型相当，且为开源权重模型，用户可免费下载本地运行。受此消息影响，美国股市上周五下跌，OpenAI和Anthropic的商业模式及IPO前景受到严重质疑。美国在AI软件领域的护城河已不如预期，AI竞赛正演变为工业系统竞争。 🔗 阅读原文：https://garymarcus.substack.com/p/china-has-all-but-caught-up-the-us via AI HOT · https://aihot.virxa
 
-## [Qwen3.8 开源发布，2.4T 参数模型上线](https://aihot.virxact.com/items/cmrrjaxlv030jbihklywu3xy6)
+## [Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景](https://aihot.virxact.com/items/cmrtfkakm2undbitla364sgej)
 
-`Sun, 19 Jul 2026 08:10:39 GMT`
+`Mon, 20 Jul 2026 16:19:52 GMT`
 
-Qwen3.8 即将发布并很快开源权重！🌐 该模型拥有 2.4T 海量参数，正在持续进化。我们相信它是目前最强大的模型之一，可与领先的前沿 AI 模型媲美，仅次于 Fable 5。 你无需等待即可测试。就在刚才，Qwen3.8-Max-Preview 已在阿里巴巴的 Token Plan、Qoder 和 QoderWork 上首次亮相。快来抢先体验吧。 期待你的作品。敬请关注！🚀 🔗 阅读原文：https://x.com/Alibaba_Qwen/status/2078754377473601787 via AI 
+xAI 将 Grok 引入 Microsoft Excel，推出免费 Microsoft 365 加载项。用户可在工作表中用自然语言提问、根据描述编写公式或运行场景，答案会引用具体单元格，图表可直接插入工作表。该加载项还支持连接 SharePoint 或 Google Drive 获取上下文，并已同步支持 Word 和 PowerPoint。 🔗 阅读原文：https://x.ai/news/introducing-excel-addin via AI HOT · https://aihot.virxact.com
 
-## [AI 热潮正在瓦解全球决策机制](https://aihot.virxact.com/items/cmrrd5bjb00cfbikihob9drtj)
+## [Replit 新统一工具栏集成数据库与双因素认证](https://aihot.virxact.com/items/cmrtfjet52udzbitl7n6bqkqj)
 
-`Sun, 19 Jul 2026 05:13:24 GMT`
+`Mon, 20 Jul 2026 16:01:05 GMT`
 
-一位拥有 300 多次行业交流经验的从业者观察到，全球公私机构正陷入集体性 AI 狂热，决策层要么没有计划，要么只能低头回避。过去一年半中，其团队所见的所有 AI 项目均以失败告终（成功率 0%），失败原因常与 LLM 能力无关，而是企业本就难以有效运行软件项目，且 AI 项目叠加了额外风险。内部聊天机器人几乎无人使用，客户服务聊天机器人也极少带来良好体验，例如三菱的语音客服承诺回电却六周未兑现。 🔗 阅读原文：https://ludic.mataroa.blog/blog/ai-mania-is-eviscera
+需要数据库？双因素认证？SEO 扫描器？ 你的项目所需的一切现在都可以通过我们新的统一工具栏触手可及。 🔗 阅读原文：https://x.com/Replit/status/2079235154485109114 via AI HOT · https://aihot.virxact.com/items/cmrtfjet52udzbitl7n6bqkqj
 
-## [ChatGPT Work 功能：建站、邮件、文档处理](https://aihot.virxact.com/items/cmrraq5dk03p5bi18vyrt83kp)
+## [NVIDIA 发布 Cosmos 3 Edge：4B 参数开源世界模型，为机器人及边缘 AI 提供实时推理与动作生成](https://aihot.virxact.com/items/cmrtgmuyf3366bitl3gnpc8eo)
 
-`Sun, 19 Jul 2026 04:25:10 GMT`
+`Mon, 20 Jul 2026 15:58:51 GMT`
 
-ChatGPT Work 适用于 ✅ 创建和托管网站 ✅ 为你管理电子邮件 ✅ 总结海量文档 ✅ 制作一流的文档、表格和幻灯片 已在你的移动应用或 http://chatgpt.com 上提供，包含在 Plus、Pro、Business 和 Enterprise 套餐中。 🔗 阅读原文：https://x.com/thsottiaux/status/2078697631019303273 via AI HOT · https://aihot.virxact.com/items/cmrraq5dk03p5bi18vy
+NVIDIA 在 Hugging Face 上开源了 Cosmos 3 Edge，一个 40 亿参数的世界模型，旨在帮助机器人和视觉 AI 智能体在边缘设备上理解环境、实时推理并生成动作。 🔗 阅读原文：https://huggingface.co/blog/nvidia/cosmos3edge via AI HOT · https://aihot.virxact.com/items/cmrtgmuyf3366bitl3gnpc8eo
 
-## [transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族](https://aihot.virxact.com/items/cmrr7sdid02ybbi18afm9lr2i)
+## [LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率](https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr)
 
-`Sun, 19 Jul 2026 02:49:15 GMT`
+`Mon, 20 Jul 2026 12:21:09 GMT`
 
-transcribe.cpp v0.1.0 发布，一个基于 ggml 的语音转录库，支持 16 个 ASR 模型族（60+ 模型），并通过 Vulkan、Metal、CUDA 和 TinyBLAS 实现 GPU 加速。 🔗 阅读原文：https://workshop.cjpais.com/projects/transcribe-cpp via AI HOT · https://aihot.virxact.com/items/cmrr7sdid02ybbi18afm9lr2i
+LoRA Speedrun项目推出公开排行榜，在固定硬件（单张L40S）上比拼Qwen2.5-1.5B的微调运行时间。当前纪录由@Saivineeth147以6分05秒保持，采用序列打包与仅完成损失掩码技术，相比基线11分57秒提速约2倍且准确率更高（61.1%）。项目提供免费Modal沙箱验证，任何提交需经3次独立复现确认。 🔗 阅读原文：https://github.com/Saivineeth147/lora-speedrun via AI HOT · https://aihot.virxact.com/it
 
-## [Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临"再分配"](https://aihot.virxact.com/items/cmrpwwjho06djbisr218fe8ro)
+## [Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析](https://aihot.virxact.com/items/cmrt6yjfo1407bitlsdp6qyn6)
 
-`Sat, 18 Jul 2026 04:47:25 GMT`
+`Mon, 20 Jul 2026 12:12:47 GMT`
 
-Index Ventures 联合创始人 Neil Rimer 表示，围绕 AI 积累的巨额财富将面临"某种形式的再分配"，无论是自愿还是强制。他呼吁科技领袖在推动自愿再分配中发挥主导作用。与此同时，美国慈善捐赠总额虽创新高，但捐赠人数持续下降，而加州正考虑对亿万富翁征收 5% 的一次性财富税。 🔗 阅读原文：https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out via AI HOT · https:/
+Hugging Face 披露其部分生产基础设施遭一个自主AI智能体系统入侵，攻击者通过恶意数据集利用数据处理管道中的代码执行漏洞，窃取了内部数据集和多项服务凭证。该公司部署LLM驱动的分析智能体，在数小时内完成了对17000多条攻击行为的取证分析，而此类工作通常需要数天。 🔗 阅读原文：https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back via AI
