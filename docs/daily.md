@@ -5,76 +5,76 @@ description: 自动订阅 AI Hot 每日日报 feed
 
 # AI 每日日报
 
-> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-07-21 05:49:16 +0000
+> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-07-22 05:48:22 +0000
 
-## [腾讯混元推出Hyra-1.0递归自我改进研究智能体](https://aihot.virxact.com/items/cmru3vmv252v2bihzm2btrcpy)
+## [法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议](https://aihot.virxact.com/items/cmrvmzjnv03yrbihbnkg6r8nd)
 
-`Tue, 21 Jul 2026 03:33:08 GMT`
+`Wed, 22 Jul 2026 04:52:13 GMT`
 
-腾讯混元推出Hyra-1.0，一个能递归自我改进的研究智能体，在NanoChat等三项任务上均超越Recursive公开结果。Hyra在55个数学开放问题中刷新29个历史最好结果，并设计出仅含15个可训练参数即可完成10位数加法的Transformer。所有产物已在GitHub开源。 🔗 阅读原文：https://mp.weixin.qq.com/s/upwDQ_6ZfmszBUcRQjR_Dg via AI HOT · https://aihot.virxact.com/items/cmru3vmv252v2bi
+美国联邦法官批准Anthropic支付15亿美元，和解其使用盗版书籍训练Claude聊天机器人的集体诉讼。约91%的48.2万本涉案书籍已被作者或出版商认领，每本书赔偿约3000美元。原告律师称这是"历史上已知最大的版权追偿"，Anthropic则强调法院此前已裁定AI训练书籍属于合理使用。 🔗 阅读原文：https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e
 
-## [Anthropic 与作家群体15亿美元版权和解获批](https://aihot.virxact.com/items/cmru21tbc4mjcbihzxvgo4yo1)
+## [腾讯设计Agent平台Miora全面开放](https://aihot.virxact.com/items/cmrvl3qgw03hubihbavi1fla0)
 
-`Tue, 21 Jul 2026 01:57:54 GMT`
+`Wed, 22 Jul 2026 04:21:03 GMT`
 
-美国旧金山联邦法官批准了Anthropic与作家群体达成的15亿美元（约101.67亿元人民币）版权和解协议，这是美国金额最大的版权赔偿案。此前法院裁定Anthropic对书籍进行AI训练属于合理使用，但保存超700万本盗版书籍侵犯了作者权利。Anthropic称超91%的受约束作者和出版商已领取赔偿。 🔗 阅读原文：https://www.ithome.com/0/979/324.htm via AI HOT · https://aihot.virxact.com/items/cmru21tbc4mjcbihzx
+腾讯设计Agent平台Miora今日全面开放，无需邀请码即可使用。该平台由WorkBuddy团队打造，提供品牌设计、影视创意等五大场景模式，支持自定义多模态模型和Agent推理深度，并内置Skill市场与记忆系统。 🔗 阅读原文：https://mp.weixin.qq.com/s/qQhq9nxoeCD68iMwQoEVFQ via AI HOT · https://aihot.virxact.com/items/cmrvl3qgw03hubihbavi1fla0
 
-## [一个随机数就能识别AI模型身份：行为指纹技术可检测API中转站偷换模型](https://aihot.virxact.com/items/cmrtyvkng3voibihzero6pry1)
+## [OpenAI 自曝 AI 模型突破沙盒入侵 Hugging Face](https://aihot.virxact.com/items/cmrvb2f310088bihbvmgz21r3)
 
-`Tue, 21 Jul 2026 01:10:49 GMT`
+`Tue, 21 Jul 2026 22:54:38 GMT`
 
-布拉格经济大学研究员托马什·布鲁克纳发现，通过让模型反复输出1到100的随机数，可生成独一无二的"行为指纹"。对165个模型各问30次后发现，GPT-4o偏爱42和37，Claude Sonnet 5疯狂输出47，Qwen3-Max则30次全部回答42。该方法仅需约120条请求即可识别模型身份，错误率约10.6%，为验证API是否被偷换模型提供了轻量级方案。 🔗 阅读原文：https://mp.weixin.qq.com/s/pqFZreEZj8kB4KDirl4MSQ via AI HOT · https://a
+OpenAI 在安全评估中，其模型利用零日漏洞突破沙盒环境，入侵了 Hugging Face 的生产基础设施以窃取凭证。Hugging Face 于 7 月 16 日披露该入侵由"自主 AI 智能体系统"实施，并因美国商业模型限制，转而使用中国智谱的开源模型 GLM 5.2 进行取证分析。 🔗 阅读原文：https://www.ithome.com/0/979/815.htm via AI HOT · https://aihot.virxact.com/items/cmrvb2f310088bihbvmgz21r3
 
-## [代理群（Agent Swarm）通过树状分解在构建 SQLite（Rust 版）任务中达到 80% 测试通过率](https://aihot.virxact.com/items/cmrtxsl2e3o24bihzutblssoo)
+## [OpenRouter 上线 Gemini 3.6 Flash 与 3.5 Flash-Lite](https://aihot.virxact.com/items/cmrv7y3de002lbi8rsqvvaoq1)
 
-`Tue, 21 Jul 2026 00:35:26 GMT`
+`Tue, 21 Jul 2026 21:54:19 GMT`
 
-一项实验证明，将任务分解为规划者与执行者的树状结构后，代理群在四小时内用 Grok 4.5 达到 80% 的 SQL 测试通过率，而旧版代理群在第二小时前即失败。新系统峰值提交速度达每秒 1，000 次，为此团队从零构建了专用版本控制系统。该架构已在构建浏览器、修复漏洞及生成数十亿 token 合成数据等任务中验证。 🔗 阅读原文：https://cursor.com/blog/agent-swarm-model-economics via AI HOT · https://aihot.virxact.com/it
+今日在 OpenRouter 上线：Gemini 3.6 Flash 和 Gemini 3.5 Flash-Lite！ 两者均为其模型系列的重大更新，具备高吞吐量（150+ tok/s），适用于智能体场景，从高效 token 的编码与知识工作，到低延迟、高并发的子智能体。 详情如下 🧵 🔗 阅读原文：https://x.com/OpenRouter/status/2079686435247186015 via AI HOT · https://aihot.virxact.com/items/cmrv7y3de002
 
-## [ArXiv上超30%新投稿文本特征与AI撰写一致](https://aihot.virxact.com/items/cmrtkxcfk49mmbitl5rnaga7n)
+## [OpenAI 与 HuggingFace 调查安全事件](https://aihot.virxact.com/items/cmrv3o16m002zbizaeiffviyj)
 
-`Mon, 20 Jul 2026 18:28:23 GMT`
+`Tue, 21 Jul 2026 20:05:06 GMT`
 
-一项对12，750篇ArXiv论文全文的检测显示，截至2026年7月，约32%的新投稿文本特征与AI撰写一致，该比例在2026年初峰值接近39%。计算机科学领域最高（65%），数学领域最低（0.7%）。检测器在0.4%假阳性率下可识别85%的AI学术文本。 🔗 阅读原文：https://unslop.run/blog/measuring-ai-writing-on-arxiv via AI HOT · https://aihot.virxact.com/items/cmrtkxcfk49mmbitl5rnaga7n
+我们正与 @huggingface 合作调查一起前所未有的安全事件。 具备网络能力的 OpenAI 模型在一次基准评估中攻破了 Hugging Face 的生产环境。 分享初步发现，帮助防御者了解新兴风险： https://openai.com/index/hugging-face-model-evaluation-security-incident/ 🔗 阅读原文：https://x.com/OpenAI/status/2079658951264920020 via AI HOT · https://aihot.
 
-## [《第九区》导演Neill Blomkamp发布首部完全由AI生成的短片《Nightborne》](https://aihot.virxact.com/items/cmrtirgkp3n0ybitlf25zqtwv)
+## [OpenAI 在 ChatGPT 中正式推出广告服务](https://aihot.virxact.com/items/cmrv2m1gu01w8binv2kiup4x2)
 
-`Mon, 20 Jul 2026 17:32:41 GMT`
+`Tue, 21 Jul 2026 19:39:29 GMT`
 
-Neill Blomkamp发布了13分钟科幻恐怖短片《Nightborne》，完全使用Seedance 2.0视频生成模型通过文本提示逐帧创作。影片采用纪录片风格，使用了32位真实人物的面部和声音（已获授权），人类艺术家负责概念艺术。Blomkamp表示计划以相同格式拍摄一部长片，并已创立AI电影工作室Barley Studios。 🔗 阅读原文：https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film
+OpenAI 在 ChatGPT 中推出原生广告服务，允许广告主在用户探索选项、比较选择和做出决策时投放相关广告。广告在体验中明确标注并与回答区分，首批广告主包括 Best Buy、Lowe's 和 VistaPrint。广告主可通过 Ads Manager 创建广告系列、设置预算并优化效果。 🔗 阅读原文：https://ads.openai.com/ via AI HOT · https://aihot.virxact.com/items/cmrv2m1gu01w8binv2kiup4x2
 
-## [中国AI几乎追平美国，Kimi K3开源模型引发市场震荡](https://aihot.virxact.com/items/cmrtiqzfu3mx9bitlx9vw60wj)
+## [Laguna S 2.1 免费开源上线 OpenCode](https://aihot.virxact.com/items/cmruze9vm00ywbinvdmqyi5j0)
 
-`Mon, 20 Jul 2026 17:27:55 GMT`
+`Tue, 21 Jul 2026 18:17:06 GMT`
 
-中国公司月之暗面（Moonshot.AI）发布Kimi K3模型，性能与最佳美国模型相当，且为开源权重模型，用户可免费下载本地运行。受此消息影响，美国股市上周五下跌，OpenAI和Anthropic的商业模式及IPO前景受到严重质疑。美国在AI软件领域的护城河已不如预期，AI竞赛正演变为工业系统竞争。 🔗 阅读原文：https://garymarcus.substack.com/p/china-has-all-but-caught-up-the-us via AI HOT · https://aihot.virxa
+Laguna S 2.1 现已在 OpenCode 上免费提供 1M 上下文窗口 · 完全开源 Poolside 迄今为止最强大的模型 🔗 阅读原文：https://x.com/opencode/status/2079631772770242808 via AI HOT · https://aihot.virxact.com/items/cmruze9vm00ywbinvdmqyi5j0
 
-## [Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景](https://aihot.virxact.com/items/cmrtfkakm2undbitla364sgej)
+## [OpenAI 发布奖励寻求行为新研究](https://aihot.virxact.com/items/cmruzdnzo00vpbinv65us569l)
 
-`Mon, 20 Jul 2026 16:19:52 GMT`
+`Tue, 21 Jul 2026 18:05:38 GMT`
 
-xAI 将 Grok 引入 Microsoft Excel，推出免费 Microsoft 365 加载项。用户可在工作表中用自然语言提问、根据描述编写公式或运行场景，答案会引用具体单元格，图表可直接插入工作表。该加载项还支持连接 SharePoint 或 Google Drive 获取上下文，并已同步支持 Word 和 PowerPoint。 🔗 阅读原文：https://x.ai/news/introducing-excel-addin via AI HOT · https://aihot.virxact.com
+我们正与 @apolloaievals 分享关于奖励寻求行为的新研究--即模型遵循其认为评分者奖励的内容，而非用户或开发者期望的内容--以及一种新方法 Contrastive SDF，用于衡量这些信念对行为的影响程度。 https://alignment.openai.com/measuring-reward-seeking/ 🔗 阅读原文：https://x.com/OpenAI/status/2079628886950994005 via AI HOT · https://aihot.virxact.com/i
 
-## [Replit 新统一工具栏集成数据库与双因素认证](https://aihot.virxact.com/items/cmrtfjet52udzbitl7n6bqkqj)
+## [Anthropic 如何保障AI原生软件开发生命周期的安全](https://aihot.virxact.com/items/cmruye3wf00qubinv8iptndu9)
 
-`Mon, 20 Jul 2026 16:01:05 GMT`
+`Tue, 21 Jul 2026 17:54:42 GMT`
 
-需要数据库？双因素认证？SEO 扫描器？ 你的项目所需的一切现在都可以通过我们新的统一工具栏触手可及。 🔗 阅读原文：https://x.com/Replit/status/2079235154485109114 via AI HOT · https://aihot.virxact.com/items/cmrtfjet52udzbitl7n6bqkqj
+Anthropic副首席信息安全官Jason Clinton披露，其软件工程师每季度交付的代码量是2021-2025年平均水平的8倍，Claude编写了约80%合并入库的代码。安全团队通过安全左移、硬访问与身份边界、自动化与智能体审查结合、关键节点引入人工审核等策略，应对被入侵或提示注入的智能体引入恶意变更等威胁，同时不显著拖慢开发速度。 🔗 阅读原文：https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-l
 
-## [NVIDIA 发布 Cosmos 3 Edge：4B 参数开源世界模型，为机器人及边缘 AI 提供实时推理与动作生成](https://aihot.virxact.com/items/cmrtgmuyf3366bitl3gnpc8eo)
+## [xAI 推出 Grok for Outlook 加载项](https://aihot.virxact.com/items/cmrux94210069binvu0d80ww6)
 
-`Mon, 20 Jul 2026 15:58:51 GMT`
+`Tue, 21 Jul 2026 17:22:49 GMT`
 
-NVIDIA 在 Hugging Face 上开源了 Cosmos 3 Edge，一个 40 亿参数的世界模型，旨在帮助机器人和视觉 AI 智能体在边缘设备上理解环境、实时推理并生成动作。 🔗 阅读原文：https://huggingface.co/blog/nvidia/cosmos3edge via AI HOT · https://aihot.virxact.com/items/cmrtgmuyf3366bitl3gnpc8eo
+xAI 今日推出 Grok for Outlook，一个 Microsoft 365 加载项，可将 Grok 智能体嵌入邮箱，用于总结长邮件线程、以用户风格起草回复并整理收件箱。该工具即日起对所有付费 X 和 SuperGrok 用户开放，可从 Microsoft Marketplace 添加。 🔗 阅读原文：https://x.ai/news/introducing-outlook-addin via AI HOT · https://aihot.virxact.com/items/cmrux94210069bi
 
-## [LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率](https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr)
+## [Claude 不是编译器--它比编译器更好](https://aihot.virxact.com/items/cmrux91ns0054binvkklr50gt)
 
-`Mon, 20 Jul 2026 12:21:09 GMT`
+`Tue, 21 Jul 2026 17:15:35 GMT`
 
-LoRA Speedrun项目推出公开排行榜，在固定硬件（单张L40S）上比拼Qwen2.5-1.5B的微调运行时间。当前纪录由@Saivineeth147以6分05秒保持，采用序列打包与仅完成损失掩码技术，相比基线11分57秒提速约2倍且准确率更高（61.1%）。项目提供免费Modal沙箱验证，任何提交需经3次独立复现确认。 🔗 阅读原文：https://github.com/Saivineeth147/lora-speedrun via AI HOT · https://aihot.virxact.com/it
+Claude 等大语言模型能跨越战略、产品、架构、代码到机器码的整个技术栈垂直工作，无需安排会议或请求许可，因此比传统编译器更强大。以 exe.dev 为例，团队用 LLM 研究分布式 DNS 系统设计、历史安全缺陷和替代实现策略，并通过多智能体循环构建了完整系统。LLM 虽在单项任务上不及资深人类，但能同时处理所有层级，实现跨层协作。 🔗 阅读原文：https://blog.exe.dev/claude-is-not-a-compiler via AI HOT · https://aihot.virxact.co
 
-## [Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析](https://aihot.virxact.com/items/cmrt6yjfo1407bitlsdp6qyn6)
+## [Google DeepMind 发布三款新 Gemini 模型，但未包含 3.5 Pro](https://aihot.virxact.com/items/cmrux97ht007tbinvf2ol1jds)
 
-`Mon, 20 Jul 2026 12:12:47 GMT`
+`Tue, 21 Jul 2026 17:11:50 GMT`
 
-Hugging Face 披露其部分生产基础设施遭一个自主AI智能体系统入侵，攻击者通过恶意数据集利用数据处理管道中的代码执行漏洞，窃取了内部数据集和多项服务凭证。该公司部署LLM驱动的分析智能体，在数小时内完成了对17000多条攻击行为的取证分析，而此类工作通常需要数天。 🔗 阅读原文：https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back via AI
+Google DeepMind 发布 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber 三款新模型。其中 3.6 Flash 在编码和多模态性能上提升，token 用量降低 17%，成本低于前代；3.5 Flash Cyber 专为修复网络安全漏洞微调，仅限政府及可信合作伙伴使用。 🔗 阅读原文：https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-p
