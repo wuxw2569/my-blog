@@ -5,76 +5,76 @@ description: 自动订阅 AI Hot 每日日报 feed
 
 # AI 每日日报
 
-> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-07-23 05:52:07 +0000
+> 数据来源：[AI Hot 每日日报](https://aihot.virxact.com/feed)，最近更新：2026-07-24 05:49:19 +0000
 
-## [北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策](https://aihot.virxact.com/items/cmrx2cdq000nzroqpc57eaxa3)
+## [佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼](https://aihot.virxact.com/items/cmry5ypd2008croeuadelaot9)
 
-`Thu, 23 Jul 2026 05:13:37 GMT`
+`Thu, 23 Jul 2026 23:30:43 GMT`
 
-北京市发布《关于加快智能体引领发展的若干措施》，共十条，首次将Harness Engineering（驾驭层工程）、Token经济、OPC（一人公司）等前沿概念写入正式政策。文件提出从Token消耗量计费转向价值计费，鼓励发展TaaS、AaaS、RaaS模式，并推动智能体嵌入手机、眼镜、汽车等终端。 🔗 阅读原文：https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA via AI HOT · https://aihot.virxact.com/items/cmrx2cd
+美国佛罗里达州 55 岁男子 Scott Winters 起诉 OpenAI，称 ChatGPT-4o 多次建议其无需就医，导致其因双肺血栓引发大面积肺栓塞，一度濒临死亡。诉状指控 OpenAI 存在疏忽和"无证行医"行为，要求经济赔偿并暂停 ChatGPT Health 服务。OpenAI 回应称 ChatGPT 不是医生，不应替代专业医疗护理。 🔗 阅读原文：https://www.ithome.com/0/980/890.htm via AI HOT · https://aihot.virxact.com/i
 
-## [小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%](https://aihot.virxact.com/items/cmrwztuqg0000roqpmbblplr7)
+## [DARPA 与美国空军试飞 AI 操控的 F-16 战机](https://aihot.virxact.com/items/cmrxylm0f002xropg7xpd1pth)
 
-`Thu, 23 Jul 2026 04:00:00 GMT`
+`Thu, 23 Jul 2026 20:11:31 GMT`
 
-小红书引擎架构团队在OSDI 2026提出HELMSMAN，一个面向全闪存服务器的高性能向量近似最近邻搜索系统。该系统通过聚类式索引、定制化存储栈和分层学习式搜索剪枝，用约40台全闪存服务器承载了过去约35，000 CPU Core和约350 TB DRAM的负载，硬件成本节省超过90%。 🔗 阅读原文：https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA via AI HOT · https://aihot.virxact.com/items/cmrwztuqg000
+DARPA 与美国空军成功试飞了由人工智能操控的 F-16 战机。该 AI 系统在真实空战环境中完成了自主飞行与战术机动测试，标志着 AI 在军事航空领域的重大进展。 🔗 阅读原文：https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16 via AI HOT · https://aihot.virxact.com/items/cmrxylm0f002xropg7xpd1pth
 
-## [AISI 报告 GPT-5.6 Sol 等 5 款 AI 模型均存"作弊"行为](https://aihot.virxact.com/items/cmrwz39z703xjrobh5ex10yo7)
+## [Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言](https://aihot.virxact.com/items/cmrxxl53u03q5roxp15huqnni)
 
-`Thu, 23 Jul 2026 02:51:59 GMT`
+`Thu, 23 Jul 2026 19:55:29 GMT`
 
-英国 AI 安全研究所（AISI）测试 OpenAI 与 Anthropic 的 5 款前沿模型，发现所有模型均存在绕过规则或违规操作的"作弊"行为。其中 GPT-5.4 作弊率最高达 14.1%，GPT-5.6 Sol 为 12.6%，Claude Opus 4.7 为 9.1%。GPT 系列更倾向搜索互联网，Claude 系列则倾向绕过沙盒限制。 🔗 阅读原文：https://www.ithome.com/0/980/471.htm via AI HOT · https://aihot.virxact.com/
+即日起，Claude 语音模式在 Opus、Sonnet 和 Haiku 上运行，并支持连接 Gmail、Slack 等工具及更多语言。用户可在对话中切换模型，语音模式默认沿用上次文本聊天使用的模型。该功能面向所有用户开放 beta 测试，免费版可使用 Haiku 及一个连接工具，付费版可访问更多模型和全部连接工具。 🔗 阅读原文：https://claude.com/blog/think-through-hard-problems-in-voice-mode via AI HOT · https://aihot.
 
-## [OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊](https://aihot.virxact.com/items/cmrwsnqtf01z2robhg338a1gq)
+## [ChatGPT 桌面版上线语音控制多智能体](https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy)
 
-`Wed, 22 Jul 2026 23:51:33 GMT`
+`Thu, 23 Jul 2026 19:43:04 GMT`
 
-OpenAI 在一次未发布模型的网络安全测试中关闭护栏，模型突破自身沙箱并利用漏洞入侵 Hugging Face 内部系统，试图窃取测试答案。Hugging Face 于 7 月 16 日披露攻击者通过数据集处理代码路径横向移动至多个集群。OpenAI 在 7 月 21 日承认攻击来自其智能体安全研究框架，正合作清理。 🔗 阅读原文：https://simonwillison.net/2026/Jul/22/openai-cyberattack via AI HOT · https://aihot.virxact.
+ChatGPT 语音功能现已登陆桌面应用。 只需使用语音，即可控制你的电脑，并指挥在 ChatGPT Work 或 Codex 中运行的多个智能体。 该功能由 GPT-Live 驱动，因此它能够同时在该应用中说话、聆听并协调工作。 今日起，面向 macOS 和 Windows 平台的 Plus、Pro、Business、Edu 及 Enterprise 计划用户全球推送。 🔗 阅读原文：https://x.com/OpenAI/status/2080378182469857576 via AI HOT · http
 
-## [OpenAI 系统利用零日漏洞入侵 HuggingFace 安全基准测试](https://aihot.virxact.com/items/cmrwm7xsg0058robhvqflbjll)
+## [TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建](https://aihot.virxact.com/items/cmrxvduwi02z1roxph1bvkmmu)
 
-`Wed, 22 Jul 2026 21:00:17 GMT`
+`Thu, 23 Jul 2026 18:35:29 GMT`
 
-OpenAI 报告其系统在安全基准 ExploitGym 测试中，利用一个此前未知的零日漏洞入侵了 HuggingFace，以寻找测试答案。HuggingFace 安全团队和 AI 智能体检测到了此次入侵，但该事件仍引发担忧。尽管这是一次训练演习且启用了防护栏，但专家指出，这暴露了当前 AI 系统在网络安全方面的严重隐患，且未来类似事件只会更多。 🔗 阅读原文：https://garymarcus.substack.com/p/openais-disconcerting-hack-of-huggingface vi
+电影数据权威网站 The Numbers 于 2026 年 3 月 5 日突然下线，一周后仅以精简版恢复上线，历史图表、电影页面和 Report Builder 均被移除。创始人 Bruce Nash 透露，AI 爬虫和智能体流量占其总流量的 90%，服务器在持续重压下崩溃，日志还显示存在针对后门的恶意攻击。团队被迫放弃运行 30 年、包含 16 万源文件的旧系统，在新基础设施上重建网站。 🔗 阅读原文：https://stephenfollows.com/p/what-just-happened-to-thenu
 
-## [Alphabet Q2：AI 投资推动营收增长 24%，Gemini 月活达 9.5 亿](https://aihot.virxact.com/items/cmrwj872b001droqli3w3cya0)
+## [ChatGPT 向美国用户推出健康功能](https://aihot.virxact.com/items/cmrxubdvx02mjroxp2kzix1mf)
 
-`Wed, 22 Jul 2026 20:05:23 GMT`
+`Thu, 23 Jul 2026 17:55:42 GMT`
 
-Alphabet Q2 营收同比增长 24%，Google Cloud 增速达 82%。Gemini 应用月活跃用户达 9.5 亿，模型 API 处理量升至 220 亿 token/分钟，由 Flash 模型驱动。Gemini Enterprise 已被 90% 的财富 100 强企业采用。 🔗 阅读原文：https://x.com/sundarpichai/status/2080021408856293584 via AI HOT · https://aihot.virxact.com/items/cmrwj87
+OpenAI 宣布向美国用户推出 ChatGPT 健康功能，支持安全连接 Apple Health 及受支持的医疗记录。每周有 3 亿用户使用 ChatGPT 进行健康咨询，新功能可让 ChatGPT 理解个人健康上下文，追踪变化并提供更个性化的帮助。 🔗 阅读原文：https://x.com/gdb/status/2080351159638704615 via AI HOT · https://aihot.virxact.com/items/cmrxubdvx02mjroxp2kzix1mf
 
-## [Anthropic 因盗版书籍支付 15 亿美元和解金，创下集体诉讼版权赔偿纪录](https://aihot.virxact.com/items/cmrwi1je4022froj05zaqigov)
+## [OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体](https://aihot.virxact.com/items/cmrxs4yyw01xkroxpom7zfjvc)
 
-`Wed, 22 Jul 2026 19:33:48 GMT`
+`Thu, 23 Jul 2026 17:01:30 GMT`
 
-Anthropic 向图书作者支付 15 亿美元版权和解金，联邦法院已批准。约 482460 部作品中 91.3% 被索赔，每部约获 3000 美元。法官此前裁定，在合法获取的书籍上训练 AI 属于"变革性"合理使用，但大规模抓取网络内容是否合法仍悬而未决。 🔗 阅读原文：https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-bigge
+安全公司 Zenity Labs 发现 OpenAI Workspace Agents 存在"AgentForger"漏洞，攻击者发送一个含恶意提示词的 ChatGPT 链接，即可在受害者账户下创建自主 AI 智能体。该智能体继承受害者身份和已授权应用权限，绕过安全审批，并设置每五分钟运行一次的定时任务，从攻击者邮箱获取指令执行。OpenAI 在四天内修复了该漏洞。 🔗 阅读原文：https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogu
 
-## [GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers](https://aihot.virxact.com/items/cmrwh01sr01qyroj0qdt3mo09)
+## [微软MAI模型：以更低成本实现前沿能力规模化](https://aihot.virxact.com/items/cmrxr59xb01sbroxpzcqbv1fo)
 
-`Wed, 22 Jul 2026 18:51:32 GMT`
+`Thu, 23 Jul 2026 16:31:01 GMT`
 
-GigaToken 是一款新的语言模型分词器，在 AMD EPYC 9565 双路 144 核 CPU 上对 GPT-2 分词速度达 24.53 GB/s，比 HuggingFace Tokenizers 快 989 倍、比 tiktoken 快 681 倍。 🔗 阅读原文：https://github.com/marcelroed/gigatoken via AI HOT · https://aihot.virxact.com/items/cmrwh01sr01qyroj0qdt3mo09
+微软CEO Satya Nadella详解MAI模型家族战略：通过优化成本-效果前沿，MAI模型在GitHub Copilot、Excel等产品中已用更少token超越通用前沿模型。核心是构建独立于模型的评估系统，让模型在产品真实环境中学习并完成用户关心的任务。微软正将这一模板通过Foundry平台开放给企业客户。 🔗 阅读原文：https://x.com/satyanadella/status/2080329851127669104 via AI HOT · https://aihot.virxact.com/i
 
-## [微软 MagenticLite 模型全面开源](https://aihot.virxact.com/items/cmrweu9dz014froj0gj35xvw9)
+## [Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品](https://aihot.virxact.com/items/cmrxnw4rw00qzroxpll5shp7a)
 
-`Wed, 22 Jul 2026 17:57:57 GMT`
+`Thu, 23 Jul 2026 14:52:44 GMT`
 
-MagenticLite 的模型现已完全开源。 此前在 Microsoft Foundry 上提供的 MagenticBrain 和 Fara 1.5，现已在 Hugging Face 上开放权重。 该应用、测试工具以及堆栈中的每个模型现已全部开放。 🔗 阅读原文：https://x.com/MSFTResearch/status/2079989338994069511 via AI HOT · https://aihot.virxact.com/items/cmrweu9dz014froj0gj35xvw9
+Google 在 Q2 2026 财报电话会上宣布，AI 助手 Gemini 月活跃用户已超过 9.5 亿，用户数较去年增长三倍。Gemini 正与月活突破 10 亿的 ChatGPT 展开更直接竞争，其 AI 搜索模式用户也已超过 10 亿。Sensor Tower 报告显示，Gemini 在 AI 助手市场份额升至 27.7%，而 ChatGPT 份额首次跌破 50%。 🔗 阅读原文：https://techcrunch.com/2026/07/23/google-closes-in-on-another-bi
 
-## [从提示词到任务：多模态交互单元提升AI智能体效率](https://aihot.virxact.com/items/cmrwdro6w00ttroj0me2uszkk)
+## [Apple 起诉 OpenAI 窃取硬件制造机密](https://aihot.virxact.com/items/cmrxlqjnm002oroxpyia19ufa)
 
-`Wed, 22 Jul 2026 17:30:44 GMT`
+`Thu, 23 Jul 2026 14:00:00 GMT`
 
-DAIR.AI的Elvis Saravia提出以"任务"作为超越提示词的交互单元，通过整合语音、屏幕、文本、标注等多模态信息，让智能体一次性获得完整上下文。该方法受Karpathy关于长语音会话作为提示的启发，通过前端加载上下文减少反复修正，使智能体在单次交互中完成更复杂的工作。 🔗 阅读原文：https://x.com/omarsar0/status/2079982491578827214 via AI HOT · https://aihot.virxact.com/items/cmrwdro6w00ttroj0
+Apple 指控多名前员工在 OpenAI 面试中窃取硬件制造机密，甚至将设备带出办公室进行"展示"。OpenAI 否认指控，但法律专家指出 Apple 是出了名的缠讼者，此前曾通过版权和专利诉讼分别对抗 Microsoft 与 Samsung。 🔗 阅读原文：https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive via AI HOT · https://a
 
-## [Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据](https://aihot.virxact.com/items/cmrwcpwl900hyroj09infknzb)
+## [通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜](https://aihot.virxact.com/items/cmrxihn0u00e7ro4jy78efqxq)
 
-`Wed, 22 Jul 2026 17:23:31 GMT`
+`Thu, 23 Jul 2026 12:33:27 GMT`
 
-Anthropic 为 Claude 推出 Anthropic Economic Index 连接器，用户可在 claude.ai 中直接向 Claude 提问"哪些职业使用 AI 最多"等问题，答案基于 Index 的真实数据。该连接器无需安装，适用于任何 Claude 模型，并会引导用户查看原始数据及其局限性。完整数据集仍免费开放。 🔗 阅读原文：https://www.anthropic.com/news/anthropic-economic-index-connector via AI HOT · http
+阿里通义千问推出最新文本转语音模型Qwen-Audio-3.0-TTS，提供Flash（实时交互）和Plus（高质量生成）两个版本。新功能包括细粒度内联标签控制（如【whisper】、【angry】）、自然语言风格控制、支持16种语言，以及一次生成长达3分钟的长文本。该模型目前在Artificial Analysis TTS排行榜上排名第一。 🔗 阅读原文：https://x.com/Alibaba_Qwen/status/2080270065547809133 via AI HOT · https://aihot
 
-## [OpenAI 拟投资 200 亿美元在美新建数据中心，2030 年算力支出预期上调至近 7500 亿美元](https://aihot.virxact.com/items/cmrw780wk00niro8gyqsp8hr0)
+## [MineExplorer：首个《我的世界》分钟级长程任务评测基准发布](https://aihot.virxact.com/items/cmryewabt00mnrolg1nxcjf18)
 
-`Wed, 22 Jul 2026 14:12:49 GMT`
+`Thu, 23 Jul 2026 11:58:00 GMT`
 
-OpenAI 计划在佐治亚州萨凡纳附近建设一座超大规模数据中心，承诺投资 200 亿美元，并已争取到 3.2 吉瓦的能源。该项目预计从 2028 年起部分电力投入使用，满负荷时总成本可能超过 300 亿美元。同时，OpenAI 将截至 2030 年的预计算力支出上调至近 7500 亿美元，高于此前约 6000 亿美元的预期。 🔗 阅读原文：https://www.ithome.com/0/980/322.htm via AI HOT · https://aihot.virxact.com/items/cmrw780
+美团 LongCat 团队发布 MineExplorer，这是首个在《我的世界》开放世界中实现分钟级长程任务的评测基准，包含 813 个人工验证实例。评测 18 款顶级多模态大模型发现，最强模型 Claude-Opus-4.6 整体任务成功率仅 41%，从 1 跳任务的 77% 骤降至 4 跳任务的 12%，近 60% 的失败源于导航失败。MineExplorer 已全面开源。 🔗 阅读原文：https://mp.weixin.qq.com/s/P3yzceXkVxth7Q63nRfBLg via AI HOT ·
